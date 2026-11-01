@@ -1,0 +1,63 @@
+{
+  "search": {
+    "maxPricePcm": 2000,
+    "minBeds": 2,
+    "maxBeds": 3,
+    "maxWalkMins": 10,
+    "searchRadiusMiles": 0.5,
+    "moveInEarliest": "2027-01-01",
+    "moveInLatest": "2027-01-31"
+  },
+  "schedule": {
+    "timezone": "Europe/London",
+    "firstHour": 8,
+    "lastHour": 19
+  },
+  "notifications": {
+    "ntfyTopic": "lloyd-meg-homes-8ded8520df",
+    "ntfyServer": "https://ntfy.sh",
+    "siteUrl": "https://lloydfarnham.github.io/house-finder/"
+  },
+  "commute": { "name": "Euston", "lat": 51.5282, "lon": -0.1337 },
+  "stations": [
+    { "name": "Bethnal Green", "area": "Bethnal Green", "tier": 1, "lines": ["Central"], "lat": 51.5270, "lon": -0.0549,
+      "zoopla": "bethnal-green", "onthemarket": "bethnal-green" },
+    { "name": "Mile End", "area": "Mile End", "tier": 1, "lines": ["Central", "District", "H&C"], "lat": 51.5251, "lon": -0.0332,
+      "zoopla": "mile-end", "onthemarket": "mile-end" },
+    { "name": "Stepney Green", "area": "Stepney Green", "tier": 1, "lines": ["District", "H&C"], "lat": 51.5220, "lon": -0.0465,
+      "zoopla": "stepney-green", "onthemarket": "stepney-green" },
+    { "name": "Bow Road", "area": "Bow", "tier": 1, "lines": ["District", "H&C"], "lat": 51.5269, "lon": -0.0247,
+      "zoopla": "bow-road", "onthemarket": "bow" },
+    { "name": "Bromley-by-Bow", "area": "Bow", "tier": 1, "lines": ["District", "H&C"], "lat": 51.5248, "lon": -0.0119,
+      "zoopla": "bromley-by-bow", "onthemarket": "bromley-by-bow" },
+    { "name": "Leyton", "area": "Leyton", "tier": 2, "lines": ["Central"], "lat": 51.5566, "lon": -0.0053,
+      "zoopla": "leyton", "onthemarket": "leyton" },
+    { "name": "Leytonstone", "area": "Leytonstone", "tier": 2, "lines": ["Central"], "lat": 51.5683, "lon": 0.0083,
+      "zoopla": "leytonstone", "onthemarket": "leytonstone" },
+    { "name": "Wanstead", "area": "Wanstead", "tier": 2, "lines": ["Central"], "lat": 51.5755, "lon": 0.0286,
+      "zoopla": "wanstead", "onthemarket": "wanstead" },
+    { "name": "Snaresbrook", "area": "Wanstead", "tier": 2, "lines": ["Central"], "lat": 51.5808, "lon": 0.0216,
+      "zoopla": "snaresbrook", "onthemarket": "snaresbrook" }
+  ],
+  "excludeNearStations": [
+    { "name": "Stratford", "lat": 51.5416, "lon": -0.0033 }
+  ],
+  "excludePostcodeDistricts": ["E15", "E20"],
+  "excludeAddressWords": ["stratford"],
+  "excludeKeywords": [
+    "house share", "houseshare", "flat share", "flatshare", "room to rent", "room in a",
+    "double room", "single room", "rooms available", "student", "retirement", "over 55", "over 60",
+    "short let", "holiday let", "let agreed", "under offer", "studio flat", "auction"
+  ],
+  "noLivingSpaceKeywords": [
+    "no living room", "no lounge", "no reception", "no communal", "without a living room",
+    "without living room", "living room has been converted", "living room used as a bedroom",
+    "lounge used as a bedroom", "no living area", "no shared living"
+  ],
+  "sources": {
+    "rightmove": true,
+    "zoopla": true,
+    "onthemarket": true,
+    "openrent": true
+  }
+}

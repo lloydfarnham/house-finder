@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>House Hunt</title>
+  <meta name="description" content="Lloyd & Meg's East London rental search">
+  <meta name="theme-color" content="#1f6f5c">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏡</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-inner">
+      <div class="brand">
+        <span class="logo" aria-hidden="true">🏡</span>
+        <div>
+          <h1>House Hunt</h1>
+          <p class="sub" id="criteria">East London · 2 bed · up to £2,000 pcm</p>
+        </div>
+      </div>
+      <div class="who" id="who" role="group" aria-label="Who's using this?">
+        <span class="who-label">I'm</span>
+        <button data-who="Lloyd">Lloyd</button>
+        <button data-who="Meg">Meg</button>
+      </div>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button role="tab" class="tab active" data-tab="properties" aria-selected="true">Properties <span class="count" id="count-properties">0</span></button>
+      <button role="tab" class="tab" data-tab="saved" aria-selected="false">Saved <span class="count" id="count-saved">0</span></button>
+    </nav>
+  </header>
+
+  <main>
+    <div id="banner" class="banner" hidden></div>
+
+    <section id="tab-properties" class="panel">
+      <div class="toolbar">
+        <div class="status-row">
+          <button id="refresh" class="btn primary"><span class="ico">↻</span> Refresh</button>
+          <div class="updated" id="updated">Loading…</div>
+        </div>
+        <div class="sources" id="sources"></div>
+        <div class="filters">
+          <label class="field">
+            <span>Area</span>
+            <select id="f-area">
+              <option value="all">All areas</option>
+              <option value="1">Bethnal Green, Mile End &amp; Bow</option>
+              <option value="2">Leyton, Leytonstone &amp; Wanstead</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Sort</span>
+            <select id="f-sort">
+              <option value="new">Newest first</option>
+              <option value="price">Cheapest first</option>
+              <option value="walk">Closest to tube</option>
+              <option value="cycle">Shortest cycle to Euston</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Max price</span>
+            <select id="f-price">
+              <option value="2000">£2,000</option>
+              <option value="1900">£1,900</option>
+              <option value="1800">£1,800</option>
+              <option value="1700">£1,700</option>
+              <option value="1600">£1,600</option>
+            </select>
+          </label>
+          <label class="check"><input type="checkbox" id="f-outdoor"> Garden / balcony</label>
+          <label class="check"><input type="checkbox" id="f-jan"> January dates only</label>
+          <label class="check"><input type="checkbox" id="f-hidden"> Show hidden</label>
+        </div>
+      </div>
+      <div id="grid" class="grid"></div>
+      <p class="empty" id="empty" hidden></p>
+      <p class="footnote" id="footnote"></p>
+    </section>
+
+    <section id="tab-saved" class="panel" hidden>
+      <div id="saved-list"></div>
+      <p class="empty" id="saved-empty" hidden>Nothing saved yet. Tap <strong>♡ Save</strong> on a property to add it here.</p>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
