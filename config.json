@@ -46,7 +46,7 @@
   "excludeAddressWords": ["stratford"],
   "excludeKeywords": [
     "house share", "houseshare", "flat share", "flatshare", "room to rent", "room in a",
-    "double room", "single room", "rooms available", "student", "retirement", "over 55", "over 60",
+    "double room", "single room", "rooms available", "student accommodation", "students only", "student let", "student house", "retirement home", "retirement property", "over 55", "over 60",
     "short let", "holiday let", "let agreed", "under offer", "studio flat", "auction"
   ],
   "noLivingSpaceKeywords": [
