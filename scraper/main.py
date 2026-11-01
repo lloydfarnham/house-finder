@@ -279,6 +279,8 @@ def main() -> int:
     for l in survivors:
         d = details.get(l["key"])
         fresh = d and (now - datetime.fromisoformat(d["_at"].replace("Z", "+00:00"))) < timedelta(days=4)
+        if l["source"] == "rightmove" and l.get("availableText"):
+            fresh = True  # search results already carry the availability date
         if not fresh and budget > 0 and l["source"] not in blocked:
             budget -= 1
             try:

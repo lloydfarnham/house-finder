@@ -127,6 +127,7 @@ def _normalise(p: dict, station: dict) -> dict:
         "firstVisible": p.get("firstVisibleDate"),
         "summary": (p.get("summary") or "")[:500],
         "availableText": p.get("letAvailableDate"),
+        "features": [str(x.get("description") if isinstance(x, dict) else x) for x in (p.get("keyFeatures") or [])][:15],
         "letAgreed": "let agreed" in status or "under offer" in status,
         "searchedStation": station["name"],
     }

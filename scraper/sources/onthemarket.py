@@ -4,7 +4,7 @@ from __future__ import annotations
 import re
 import urllib.parse as up
 
-from ..util import Fetcher, find_available_in_text, find_key, html_to_text, json_blobs, meta_content, price_to_pcm, to_int, walk_dicts
+from ..util import Fetcher, haversine_m, find_available_in_text, find_key, html_to_text, json_blobs, meta_content, price_to_pcm, to_int, walk_dicts
 
 BASE = "https://www.onthemarket.com"
 NAME = "onthemarket"
@@ -64,40 +64,73 @@ def _normalise(d: dict, station: dict) -> dict:
     }
 
 
+def _parse_page(page: str, station: dict) -> list[dict]:
+    out = {}
+    for blob in json_blobs(page):
+        for d in walk_dicts(blob):
+            if _is_listing(d):
+                n = _normalise(d, station)
+                feats = d.get("features")
+                if isinstance(feats, list):
+                    n["features"] = [str(x) for x in feats if isinstance(x, str)][:15]
+                out.setdefault(n["key"], n)
+    return list(out.values())
+
+
+def _right_place(items: list[dict], station: dict) -> bool:
+    """Reject a slug that resolved to the wrong town (e.g. Mile End, Colchester)."""
+    pts = [(float(i["lat"]), float(i["lon"])) for i in items if i.get("lat") and i.get("lon")]
+    if not pts:
+        return True
+    near = sum(1 for lat, lon in pts if haversine_m(lat, lon, station["lat"], station["lon"]) < 5000)
+    return near >= len(pts) / 2
+
+
 def search(cfg: dict, state: dict, f: Fetcher) -> list[dict]:
     s = cfg["search"]
     results: dict[str, dict] = {}
     ok, errors, done = 0, [], set()
+    good_slugs = state.setdefault("onthemarketSlugs", {})
     for station in cfg["stations"]:
-        slug = station.get("onthemarket")
-        if not slug or slug in done:
+        slugs = station.get("onthemarket")
+        if not slugs:
             continue
-        done.add(slug)
+        slugs = [slugs] if isinstance(slugs, str) else list(slugs)
+        if station["name"] in good_slugs:
+            slugs = [good_slugs[station["name"]]]
         params = {
             "max-price": s["maxPricePcm"], "min-bedrooms": s["minBeds"], "max-bedrooms": s["maxBeds"],
             "radius": s["searchRadiusMiles"], "let-agreed": "false", "shared": "false",
             "retirement": "false", "student": "false", "sort-field": "update_date",
         }
-        url = f"{BASE}/to-rent/property/{slug}/?{up.urlencode(params)}"
-        try:
-            r = f.get(url)
-        except Exception as e:
-            errors.append(f"{slug}: {e}")
-            print(f"  [onthemarket] {slug} failed: {e}")
-            if ok == 0 and len(errors) >= 2:
+        for slug in slugs:
+            if slug in done:
                 break
-            continue
-        f.dump(f"search_{slug}", r.text)
-        ok += 1
-        found = 0
-        for blob in json_blobs(r.text):
-            for d in walk_dicts(blob):
-                if _is_listing(d):
-                    n = _normalise(d, station)
-                    if n["key"] not in results:
-                        results[n["key"]] = n
-                        found += 1
-        print(f"  [onthemarket] {slug}: +{found} (total {len(results)})")
+            url = f"{BASE}/to-rent/property/{slug}/?{up.urlencode(params)}"
+            try:
+                r = f.get(url, retries=0 if len(slugs) > 1 else 2)
+            except Exception as e:
+                errors.append(f"{slug}: {e}")
+                print(f"  [onthemarket] {slug} failed: {e}")
+                continue
+            f.dump(f"search_{slug}", r.text)
+            items = _parse_page(r.text, station)
+            if not _right_place(items, station):
+                print(f"  [onthemarket] {slug}: wrong place, skipping")
+                continue
+            ok += 1
+            done.add(slug)
+            if len(slugs) > 1:
+                good_slugs[station["name"]] = slug
+            found = 0
+            for n in items:
+                if n["key"] not in results:
+                    results[n["key"]] = n
+                    found += 1
+            print(f"  [onthemarket] {slug}: +{found} (total {len(results)})")
+            break
+        if ok == 0 and len(errors) >= 3:
+            break
     if ok == 0:
         raise RuntimeError("; ".join(errors[:3]) or "no successful searches")
     return list(results.values())
