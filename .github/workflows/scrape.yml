@@ -69,5 +69,5 @@ jobs:
             git rm -rf --cached . >/dev/null
             rm -rf ./* .github 2>/dev/null || true
             cp -r /tmp/debug ./debug
-            git add debug && git commit -qm "debug dump" && git push -f origin debug-dump
+            git add -f debug && git commit -qm "debug dump" && git push -f origin debug-dump
           fi

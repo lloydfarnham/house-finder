@@ -31,7 +31,7 @@
     hidden: new Set(),
     who: ls.get("hh.who", null),
     tab: ls.get("hh.tab", "properties"),
-    filters: Object.assign({ area: "all", sort: "new", price: "2000", outdoor: false, jan: false, hidden: false }, ls.get("hh.filters", {})),
+    filters: Object.assign({ area: "all", sort: "new", price: "2000", outdoor: false, jan: false, early: false, hidden: false }, ls.get("hh.filters", {})),
     lastVisit: ls.get("hh.lastVisit", null),
     photoIdx: {},
   };
@@ -184,6 +184,7 @@
       if (l.price > Number(f.price)) return false;
       if (f.outdoor && !hasOutdoor(l)) return false;
       if (f.jan && (l.availability || {}).flag !== "ok") return false;
+      if (!f.early && (l.availability || {}).flag === "early") return false;
       return true;
     });
     const by = {
@@ -231,9 +232,10 @@
     $("#grid").innerHTML = list.map(propertyCard).join("");
     const empty = $("#empty");
     empty.hidden = list.length > 0;
-    if (!list.length) empty.textContent = d ? (d.listings.length ? "Nothing matches these filters." : "No matching properties right now — we'll ping you when one appears.") : "";
+    if (!list.length) empty.textContent = d ? (d.listings.length ? "Nothing matches these filters right now. January availability usually starts appearing from early December." : "No matching properties right now — we'll ping you when one appears.") : "";
     const hiddenCount = d ? d.listings.filter((l) => state.hidden.has(l.id)).length : 0;
-    $("#count-properties").textContent = d ? d.listings.length - hiddenCount : 0;
+    const earlyCount = d ? d.listings.filter((l) => (l.availability || {}).flag === "early" && !state.hidden.has(l.id)).length : 0;
+    $("#count-properties").textContent = d ? d.listings.length - hiddenCount - (state.filters.early ? 0 : earlyCount) : 0;
     if (d) {
       const c = d.criteria || {};
       $("#criteria").textContent = `${(c.areas || []).join(" · ")} · ${c.minBeds}+ bed · ≤ ${money(c.maxPricePcm)} pcm · ≤ ${c.maxWalkMins} min to tube`;
@@ -246,7 +248,8 @@
       const exTxt = Object.entries(ex).map(([k, v]) => `${v} ${k}`).join(", ");
       $("#footnote").innerHTML = `Walk times are estimates from the listing's map pin (~5 km/h, allowing for streets); cycle times assume ~18 km/h. ` +
         `Properties available after ${new Date(c.moveInLatest).toLocaleDateString("en-GB", { day: "numeric", month: "long" })} are left out.` +
-        (exTxt ? ` Filtered out this run: ${esc(exTxt)}.` : "") + (hiddenCount ? ` ${hiddenCount} hidden.` : "");
+        (exTxt ? ` Filtered out this run: ${esc(exTxt)}.` : "") + (hiddenCount ? ` ${hiddenCount} hidden.` : "") +
+        (earlyCount && !state.filters.early ? ` <strong>${earlyCount} more are available now or before mid-December</strong> (likely to be let before January) — tick “Include ones available before mid-Dec” to see them.` : "");
     }
   }
 

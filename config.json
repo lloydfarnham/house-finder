@@ -25,7 +25,7 @@
     { "name": "Mile End", "area": "Mile End", "tier": 1, "lines": ["Central", "District", "H&C"], "lat": 51.5251, "lon": -0.0332,
       "zoopla": "mile-end", "onthemarket": "mile-end" },
     { "name": "Stepney Green", "area": "Stepney Green", "tier": 1, "lines": ["District", "H&C"], "lat": 51.5220, "lon": -0.0465,
-      "zoopla": "stepney-green", "onthemarket": "stepney-green" },
+      "zoopla": "stepney-green", "onthemarket": "stepney" },
     { "name": "Bow Road", "area": "Bow", "tier": 1, "lines": ["District", "H&C"], "lat": 51.5269, "lon": -0.0247,
       "zoopla": "bow-road", "onthemarket": "bow" },
     { "name": "Bromley-by-Bow", "area": "Bow", "tier": 1, "lines": ["District", "H&C"], "lat": 51.5248, "lon": -0.0119,

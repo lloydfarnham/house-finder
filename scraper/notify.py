@@ -43,6 +43,10 @@ def send(cfg: dict, new_items: list, drops: list, *, first_run: bool, total: int
                         "message": "You'll get a ping here whenever something new turns up or a price drops.",
                         "click": site, "tags": ["house"]})
         return
+    # Don't ping about flats that will almost certainly be let before January
+    fits = lambda m: (m.get("availability") or {}).get("flag") in ("ok", "unknown")
+    new_items = [m for m in new_items if fits(m)]
+    drops = [(m, old) for m, old in drops if fits(m)]
     # tier 1 areas first
     new_items = sorted(new_items, key=lambda m: (m.get("tier", 3), m["price"]))
     for m in new_items[:MAX_INDIVIDUAL]:

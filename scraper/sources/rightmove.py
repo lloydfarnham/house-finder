@@ -16,7 +16,7 @@ def _resolve_station(f: Fetcher, station: dict, cache: dict) -> str | None:
         return station["rightmoveId"]
     if station["name"] in cache:
         return cache[station["name"]]
-    query = f"{station['name']} Station"
+    query = f"{station['name'].replace('-', ' ')} Station"
     ident = None
     try:
         r = f.get(f"https://los.rightmove.co.uk/typeahead?query={up.quote(query)}&limit=10&exclude=STREET", json_api=True)
