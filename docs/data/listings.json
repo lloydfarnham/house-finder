@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T21:32:46Z",
+ "generatedAt": "2026-11-01T21:50:04Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -23,12 +23,12 @@
   "Rightmove": {
    "ok": true,
    "found": 25,
-   "at": "2026-11-01T21:32:24Z"
+   "at": "2026-11-01T21:49:42Z"
   },
   "OnTheMarket": {
    "ok": true,
    "found": 153,
-   "at": "2026-11-01T21:32:46Z"
+   "at": "2026-11-01T21:50:04Z"
   }
  },
  "excluded": {
