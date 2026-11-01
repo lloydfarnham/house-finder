@@ -3,6 +3,6 @@
 // Until they're set, saved items are kept only in this browser.
 window.HOUSE_CONFIG = {
   supabaseUrl: "https://csowdvrzckhxkafpdroi.supabase.co",
-  supabaseKey: "",
+  supabaseKey: "sb_publishable_umtueZwmPU570Ar1GQO2rQ_OFzFhmww",
   repo: "lloydfarnham/house-finder",
 };

@@ -1,0 +1,16 @@
+name: Check shared storage
+on: workflow_dispatch
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read and write each table
+        env:
+          URL: https://csowdvrzckhxkafpdroi.supabase.co/rest/v1
+          KEY: sb_publishable_umtueZwmPU570Ar1GQO2rQ_OFzFhmww
+        run: |
+          for t in saved notes hidden; do
+            echo "GET $t: $(curl -s -o /tmp/o -w '%{http_code}' "$URL/$t?select=*&limit=1" -H "apikey: $KEY") $(head -c 200 /tmp/o)"
+          done
+          echo "POST hidden: $(curl -s -o /tmp/o -w '%{http_code}' -X POST "$URL/hidden" -H "apikey: $KEY" -H 'Content-Type: application/json' -d '{"id":"__check__","created_by":"check"}') $(head -c 200 /tmp/o)"
+          echo "DELETE hidden: $(curl -s -o /tmp/o -w '%{http_code}' -X DELETE "$URL/hidden?id=eq.__check__" -H "apikey: $KEY") $(head -c 200 /tmp/o)"
