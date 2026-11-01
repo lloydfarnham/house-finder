@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T21:27:55Z",
+ "generatedAt": "2026-11-01T21:30:44Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -23,30 +23,19 @@
   "Rightmove": {
    "ok": true,
    "found": 25,
-   "at": "2026-11-01T21:27:01Z"
-  },
-  "Zoopla": {
-   "ok": false,
-   "error": "Bethnal Green: HTTP 403 for https://www.zoopla.co.uk/to-rent/property/station/tube/bethnal-green/?beds_min=2&beds_max=3&price_frequency=per_month&price_max=2000&radius=0.5&results_sort=newest_listings",
-   "at": "2026-11-01T21:27:05Z",
-   "usingResultsFrom": null
+   "at": "2026-11-01T21:30:22Z"
   },
   "OnTheMarket": {
    "ok": true,
-   "found": 197,
-   "at": "2026-11-01T21:27:28Z"
-  },
-  "OpenRent": {
-   "ok": false,
-   "error": "Bethnal Green: HTTP 405 for https://www.openrent.co.uk/properties-to-rent/london?term=Bethnal+Green+Station%2C+London&area=0.8&prices_max=2000&bedrooms_min=2&bedrooms_max=3&isLive=true&acceptStudents=",
-   "at": "2026-11-01T21:27:55Z",
-   "usingResultsFrom": null
+   "found": 153,
+   "at": "2026-11-01T21:30:44Z"
   }
  },
  "excluded": {
-  "too far from tube": 102,
-  "price": 74,
-  "excluded area": 13,
+  "too far from tube": 66,
+  "price": 59,
+  "excluded area": 11,
+  "keyword": 9,
   "location": 2
  },
  "count": 24,
@@ -76,6 +65,18 @@
    "firstVisible": "2026-10-29T16:41:34Z",
    "summary": "Available immediately on a furnished basis is this first and second floor Victorian conversion flat within the Tomlin's Grove Conservation Area in Bow. The 71 sqm Grade II listed property, which retains many original features, briefly comprises a reception room, fitted kitchen/breakfast room...",
    "availableText": "2026-10-29T00:00:00Z",
+   "features": [
+    "Available immediately",
+    "Furnished",
+    "First and second floor",
+    "Grade II listed",
+    "Two double bedrooms",
+    "Kitchen/breakfast room",
+    "Tesco Express nearby",
+    "Bow Road and Bow Church stations walking distance",
+    "Close to local pubs and restaurants",
+    "Tower Hamlets Cemetery Park minutes away"
+   ],
    "station": {
     "name": "Bow Road",
     "lines": [
@@ -146,6 +147,11 @@
    "firstVisible": "2026-09-10T11:35:32Z",
    "summary": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3",
    "availableText": "2026-11-08T00:00:00Z",
+   "features": [
+    "Bromley By Bow Station",
+    "Fully Furnished",
+    "Available November"
+   ],
    "station": {
     "name": "Bromley-by-Bow",
     "lines": [
@@ -166,11 +172,6 @@
    },
    "tags": [
     "Furnished"
-   ],
-   "features": [
-    "Bromley By Bow Station",
-    "Fully Furnished",
-    "Available November"
    ],
    "furnished": "Furnished",
    "id": "rm:92981256",
@@ -221,6 +222,7 @@
    "firstVisible": "2026-10-21T15:20:54Z",
    "summary": "Spacious 2 bedroom second floor flat in Bow (E3) with 2 large double bedrooms, a separate living room. Excellent transport links to Canary Wharf, the City, and Stratford. Available immediately",
    "availableText": "2026-10-21T00:00:00Z",
+   "features": [],
    "station": {
     "name": "Bow Road",
     "lines": [
@@ -290,6 +292,14 @@
    "firstVisible": "2026-10-15T06:34:41Z",
    "summary": "LONG LET. Well presented first floor 2 double bedroom flat offering a contemporary décor, great ample reception room, 1bathroom and modern separate kitchen.",
    "availableText": null,
+   "features": [
+    "Great location",
+    "Next to Leyton tube station",
+    "Great local amenities",
+    "Ample reception room",
+    "Double bedrooms",
+    "Separate kitchen"
+   ],
    "station": {
     "name": "Leyton",
     "lines": [
@@ -357,6 +367,7 @@
    "firstVisible": "2026-10-07T15:32:07Z",
    "summary": "TWO BEDROOM FLAT IN A MODERN DEVELOPMENT AVAILABLE NOW ! Waltham Estates are delighted to advertise this excellent two bedroom apartment located in quiet area of Leyton. The flat comprises of a large open-plan kitchen, two spacious bedrooms and an excellent tiled bathroom. The apartment is lo...",
    "availableText": "2026-10-27T00:00:00Z",
+   "features": [],
    "station": {
     "name": "Leyton",
     "lines": [
@@ -422,6 +433,16 @@
    "firstVisible": "2026-10-15T11:34:20Z",
    "summary": "This spacious first-floor two bedroom, two bathroom apartment in the modern low-rise Plaza Heights development is in a super-convenient location. Overlooking a walkway on the perimeter of the Leyton Mills retail park it’s just a minute to Leyton tube station and a short walk to the Olympic Park.",
    "availableText": "2026-11-14T00:00:00Z",
+   "features": [
+    "Two Double Bedrooms",
+    "Open Planned Kitchen/Living Room",
+    "Wood Flooring",
+    "Balcony",
+    "Opposite Leyton Station",
+    "Two Bathrooms",
+    "Immaculately Presented",
+    "Available November"
+   ],
    "station": {
     "name": "Leyton",
     "lines": [
@@ -439,7 +460,9 @@
     "flag": "early",
     "text": "Available 14 Nov 2026"
    },
-   "tags": [],
+   "tags": [
+    "Balcony"
+   ],
    "id": "rm:94342545",
    "price": 2000,
    "links": [
@@ -484,6 +507,18 @@
    "firstVisible": "2016-08-24T14:13:14Z",
    "summary": "LARGE two double bedroom maisonette split across 2 levels. Located just a short walk to Leytonstone Station (Central Line) Offering, 2 double bedrooms, separate lounge, fitted kitchen & three piece bathroom. AVAILABLE 5TH OCTOBER 2026!",
    "availableText": "2026-10-05T00:00:00Z",
+   "features": [
+    "2 DOUBLE BEDROOMS",
+    "SEPARATE RECEPTION",
+    "FITTED KITCHEN WITH WHITE GOODS",
+    "THREE PIECE BATHROOM",
+    "OFF STREET PARKING",
+    "GAS CENTRAL HEATING",
+    "DOUBLE GLAZED WINDOWS",
+    "AVAILABLE 5TH OCTOBER 2026!!",
+    "WALKING DISTANCE TO LEYTONSTONE STATION",
+    "EPC RATING - D"
+   ],
    "station": {
     "name": "Leytonstone",
     "lines": [
@@ -557,6 +592,18 @@
    "firstVisible": "2018-10-04T16:37:35Z",
    "summary": "*LARGE 2 BEDROOM BUNGALOW WITH PRIVATE GARDEN* Walking distance to Leytonstone Station (Central Line) Walking distance to Leytonstone Station (Central Line) AVAILABLE 5TH OCTOBER 2026.",
    "availableText": "2026-10-05T00:00:00Z",
+   "features": [
+    "NEWLY REFURBISHED",
+    "PURPOSE BUILT 2 BEDROOM FLAT",
+    "2 DOUBLE BEDROOMS",
+    "LARGE OPEN PLAN KITCHEN / LOUNGE",
+    "FAMILY BATHROOM",
+    "PRIVATE GARDEN",
+    "WALKING DISTANCE TO LEYTONSTONE STATION",
+    "AVAILABLE 5TH OCTOBER 2026",
+    "GAS CENTRAL HEATING & DOUBLE GLAZED WINDOWS THROUGHOUT",
+    "EPC RATING D"
+   ],
    "station": {
     "name": "Leytonstone",
     "lines": [
@@ -577,18 +624,6 @@
    "tags": [
     "Garden",
     "Part furnished"
-   ],
-   "features": [
-    "Newly refurbished",
-    "Purpose built 2 bedroom bungalow",
-    "2 double bedrooms",
-    "Large open plan kitchen / lounge",
-    "Family bathroom",
-    "Private garden",
-    "Walking distance to leytonstone station",
-    "Available 25 th october 2026",
-    "Gas central heating & double glazed windows throughout",
-    "EPC RATING C"
    ],
    "furnished": "Part furnished",
    "id": "rm:76122626",
@@ -642,6 +677,14 @@
    "firstVisible": "2026-09-14T15:53:12Z",
    "summary": "A two bedroom first floor flat set within a converted house, ideally located on Grove Green Road in Leytonstone",
    "availableText": "2026-09-26T00:00:00Z",
+   "features": [
+    "One Double & One Box Room",
+    "CLOSE TO STATION",
+    "FIRST FLOOR",
+    "PRIVATE GARDEN",
+    "CALL HAART",
+    "AVAILABLE NOW"
+   ],
    "station": {
     "name": "Leytonstone",
     "lines": [
@@ -659,7 +702,9 @@
     "flag": "early",
     "text": "Available 26 Sep 2026"
    },
-   "tags": [],
+   "tags": [
+    "Garden"
+   ],
    "id": "rm:93123918",
    "price": 1800,
    "links": [
@@ -705,6 +750,16 @@
    "firstVisible": "2026-10-19T16:36:13Z",
    "summary": "ZERO DEPOSIT AVAILABLE. LONG LET. Arranged on the 3rd floor of a secure contemporary block, a well proportioned 2 bedroom flat offers open plan living space with smart fixtures and fittings.",
    "availableText": null,
+   "features": [
+    "2 bedroom flat",
+    "Set within a smart contemporary development",
+    "Open plan reception room with space to dine",
+    "2 well proportioned bedrooms, bathroom with white suite",
+    "Located in a desirable residential area",
+    "Close to many local amenities on Leytonstone High Road",
+    "Walking distance to Wanstead Flats",
+    "Excellent transport links"
+   ],
    "station": {
     "name": "Leytonstone",
     "lines": [
@@ -724,16 +779,6 @@
    },
    "tags": [
     "Separate lounge"
-   ],
-   "features": [
-    "2 bedroom flat",
-    "Set within a smart contemporary development",
-    "Open plan reception room with space to dine",
-    "2 well proportioned bedrooms, bathroom with white suite",
-    "Located in a desirable residential area",
-    "Close to many local amenities on Leytonstone High Road",
-    "Walking distance to Wanstead Flats",
-    "Excellent transport links"
    ],
    "id": "rm:94477815",
    "price": 1920,
@@ -784,6 +829,17 @@
    "firstVisible": "2026-10-26T15:24:06Z",
    "summary": "*** AVAILABLE NOW *** TWO DOUBLE BEDROOMS WITH BUILT IN WARDROBES ** DETACHED BUNGALOW ** OWN GARDEN ** DOUBLE GLAZED WINDOWS ** WALKING DISTANCE TO THE CENTRAL LINE ** GAS CENTRAL HEATING ** WALKING DISTANCE TO HIGH STREET AND SCHOOLS ***",
    "availableText": "2026-10-31T00:00:00Z",
+   "features": [
+    "TWO DOUBLE BEDROOMS",
+    "DETACHED BUNGALOW",
+    "OWN PRIVATE GARDEN",
+    "WALKING DISTANCE TO CENTRAL LINE",
+    "DOUBLE GLAZED WINDOWS",
+    "GAS CENTRAL HEATING",
+    "WALKING DISTANCE TO HIGH STREET",
+    "AVAILABLE NOW",
+    "CLOSE TO SCHOOLS"
+   ],
    "station": {
     "name": "Leytonstone",
     "lines": [
@@ -849,6 +905,7 @@
    "firstVisible": "2026-10-27T12:59:20Z",
    "summary": "Next Home Ltd are delighted to offer this two bedroom ground floor flat, located in this Victorian conversion. The property is positioned within close proximity of Leytonstone overground station. ",
    "availableText": "2026-10-27T00:00:00Z",
+   "features": [],
    "station": {
     "name": "Leytonstone",
     "lines": [
@@ -912,6 +969,17 @@
    "firstVisible": "2026-10-27T14:43:46Z",
    "summary": "Nestled within the sought-after Bushwood area, this spacious two-bedroom first-floor flat enjoys an enviable position, combining the peaceful feel of a residential setting with the excellent amenities and transport links of Leytonstone close at hand. Just a short walk away, Leytonstone High Road off",
    "availableText": "2026-10-27T00:00:00Z",
+   "features": [
+    "Spacious two-bedroom first-floor flat",
+    "Situated within a sought after residential turning",
+    "Bay fronted living/ dining area",
+    "Fitted kitchen incl. appliances",
+    "Shower room suite",
+    "Short stroll to High Road Leytonstone & main shopping area",
+    "Walking distance of Leytonstone Central Line tube station",
+    "Great access to the vast open fields of Wanstead Flats",
+    "Two good size bedrooms"
+   ],
    "station": {
     "name": "Leytonstone",
     "lines": [
@@ -975,6 +1043,14 @@
    "firstVisible": "2026-10-16T17:01:31Z",
    "summary": "Hamways are delighted to present this recently decorated two bedroom apartment within a Hamways managed development at the rear of the shops on High Street Wanstead.",
    "availableText": "2026-09-08T00:00:00Z",
+   "features": [
+    "Two Bedroom First Floor Apartment",
+    "Modern Open Plan Kitchen Lounge",
+    "Newly Decorated",
+    "Excellent Transport Links",
+    "High Street Location",
+    "Private Parking Bay Included"
+   ],
    "station": {
     "name": "Snaresbrook",
     "lines": [
@@ -1040,6 +1116,18 @@
    "firstVisible": "2026-10-15T14:40:22Z",
    "summary": "**AVAILABLE NOW * NEWLY DECORATED & CARPETED * NIGHTINGALE COURT * TOP FLOOR * UNFURNISHED * MODERN THROUGHOUT * KITCHEN WITH APPLIANCES * BALCONY OFF LIVING ROOM * 2 DOUBLE BEDROOMS * GCH * D/G * COMMUNAL GARDEN * PERMIT PARKING * 0.4 MILES TO SNARESBROOK STATION * 0.3 MILES TO WANSTEAD HIG...",
    "availableText": "2026-10-31T00:00:00Z",
+   "features": [
+    "UNFURNISHED",
+    "TOP FLOOR",
+    "0.3 MILES TO WANSTEAD HIGH ST",
+    "2 DOUBLE BEDROOMS",
+    "MODERN KITCHEN",
+    "GAS CENTRAL HEATING & DOUBLE GLAZED",
+    "PRIVATE BALCONY",
+    "SHARED GARDENS",
+    "CLOSE TO WANSTEAD & SNARESBROOK STATIONS",
+    "EPC - D, COUNCIL TAX - C"
+   ],
    "station": {
     "name": "Snaresbrook",
     "lines": [
@@ -1108,6 +1196,10 @@
    "firstVisible": "2026-10-16T20:07:00Z",
    "summary": "Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now. Conveniently situated on the vibrant High Street within walking distan... ** Property Reference: 3068763 **",
    "availableText": "2026-11-01T00:00:00Z",
+   "features": [
+    "No Agent Fees",
+    "Property Reference Number: 3068763"
+   ],
    "station": {
     "name": "Snaresbrook",
     "lines": [
@@ -1172,6 +1264,18 @@
    "firstVisible": "2026-10-05T15:47:46Z",
    "summary": "**AVAILABLE NOW * UNFURNISHED * NEWLY DECORATED THROUGHOUT * GROUND FLOOR * MODERN KITCHEN WITH APPLIANCES * OFF STREET PARKING, PLUS GARAGE * 1 DOUBLE BEDROOM, 1 SINGLE WITH FITTED WARDROBES * SPACIOS LIVING ROOM * D/G & ELECTRIC HEATERS * 0.3 MILES TO WANSTEAD HIGH ST & SNARESBROOK STA...",
    "availableText": "2026-11-07T00:00:00Z",
+   "features": [
+    "NEWLY DECORATED THROUGHOUT",
+    "MODERN KITCHEN WITH APPLIANCES",
+    "SPACIOUS LIVING ROOM",
+    "MODERN BATHROOM",
+    "DOUBLE BEDROOM",
+    "SMALL BEDROOM WITH FITTED WARDROBES",
+    "DOUBLE GLAZED",
+    "GARAGE",
+    "EASY ACCESS TO STATION",
+    "EASY ACCESS TO HIGH STREET"
+   ],
    "station": {
     "name": "Snaresbrook",
     "lines": [
@@ -1241,6 +1345,14 @@
    "firstVisible": "2026-10-15T12:09:56Z",
    "summary": "Petty Son & Prestwich are delighted to offer to rent this spacious and stylish two bedroom ground-floor apartment, set within the highly desirable and characterful Wanstead Hospital Development.",
    "availableText": "Now",
+   "features": [
+    "Two bedroom apartment",
+    "Ground floor",
+    "Modern kitchen and bathroom",
+    "Large lounge/diner",
+    "Allocated parking space",
+    "0.5 miles from Snaresbrook Underground Station"
+   ],
    "station": {
     "name": "Snaresbrook",
     "lines": [
@@ -1261,14 +1373,6 @@
    "tags": [
     "Separate lounge",
     "Unfurnished"
-   ],
-   "features": [
-    "Two bedroom apartment",
-    "Ground floor",
-    "Modern kitchen and bathroom",
-    "Large lounge/diner",
-    "Allocated parking space",
-    "0.5 miles from Snaresbrook Underground Station"
    ],
    "furnished": "Unfurnished",
    "id": "rm:94344960",
@@ -1325,6 +1429,18 @@
    "firstVisible": "2026-10-21T17:33:13Z",
    "summary": "Petty Son & Prestwich are delighted to offer this spacious two double bedroom ground floor apartment, ideally located within easy reach of the High Street's excellent selection of shops, bars, restaurants, and two Central Line stations.",
    "availableText": "2027-01-07T00:00:00Z",
+   "features": [
+    "Contemporary apartment",
+    "Ground floor",
+    "Two double bedrooms",
+    "Modern kitchen & bathroom",
+    "En-suite bathroom",
+    "Residents parking",
+    "Spacious reception",
+    "0.3 Miles from Wanstead High Street",
+    "0.7 Miles to Wanstead Central Line Station",
+    "The property is licensed for one household only. Suitable for a single person, a couple, or small family"
+   ],
    "station": {
     "name": "Snaresbrook",
     "lines": [
@@ -1345,18 +1461,6 @@
    "tags": [
     "Separate lounge",
     "Unfurnished"
-   ],
-   "features": [
-    "Contemporary apartment",
-    "Ground floor",
-    "Two double bedrooms",
-    "Modern kitchen & bathroom",
-    "En-suite bathroom",
-    "Residents parking",
-    "Spacious reception",
-    "0.3 Miles from Wanstead High Street",
-    "0.7 Miles to Wanstead Central Line Station",
-    "The property is licensed for one household only. Suitable for a single person, a couple, or small family"
    ],
    "furnished": "Unfurnished",
    "id": "rm:94577811",
@@ -1413,6 +1517,17 @@
    "firstVisible": "2026-10-24T16:02:36Z",
    "summary": "Spacious two bedroom second floor flat in secure Wanstead development with parking, modern kitchen, communal gardens, and excellent transport links near shops, bars and restaurants.",
    "availableText": "2026-12-18T00:00:00Z",
+   "features": [
+    "Two Bedroom Apartment",
+    "Secured Development",
+    "Located on Second Floor",
+    "Allocated Parking Space",
+    "Spacious Throughout",
+    "Communal Gardens",
+    "Close to Wanstead High Street",
+    "Many Amenities available including Shops, Bars and Restaurants",
+    "Both Wanstead & Snaresbrook Stations Close By"
+   ],
    "station": {
     "name": "Snaresbrook",
     "lines": [
@@ -1432,17 +1547,6 @@
    },
    "tags": [
     "Part furnished"
-   ],
-   "features": [
-    "Two Bedroom Apartment",
-    "Secured Development",
-    "Located on Second Floor",
-    "Allocated Parking Space",
-    "Spacious Throughout",
-    "Communal Gardens",
-    "Close to Wanstead High Street",
-    "Many Amenities available including Shops, Bars and Restaurants",
-    "Both Wanstead & Snaresbrook Stations Close By"
    ],
    "furnished": "Part furnished",
    "id": "rm:94698183",
@@ -1493,10 +1597,7 @@
    "availableText": null,
    "features": [
     "Two bedroom flat",
-    "School conversion",
-    "Lovely separate Kitchen",
-    "Modern decor and flooring",
-    "Next to Bow Rd Tube and DLR"
+    "School conversion"
    ],
    "furnished": "Furnished",
    "station": {
@@ -1563,8 +1664,7 @@
    "availableText": null,
    "features": [
     "2 Bedrooms",
-    "1 Bathrooms",
-    "Unfurnished"
+    "1 Bathrooms"
    ],
    "furnished": "Unfurnished",
    "station": {
@@ -1630,8 +1730,7 @@
    "availableText": null,
    "features": [
     "2 Bedrooms",
-    "1 Bathrooms",
-    "Unfurnished"
+    "1 Bathrooms"
    ],
    "furnished": "Unfurnished",
    "station": {
@@ -1697,13 +1796,7 @@
    "availableText": "30/10/26",
    "features": [
     "Well presented and spacious first floor two bedroom flat",
-    "Own front door",
-    "Spacious lounge",
-    "Fitted kitchen incl. oven & hob",
-    "Attractive tiled bathroom suite",
-    "Easy walking distances to shops & tube",
-    "Popular restaurants, bars and cafes nearby",
-    "Good access to the beautiful Hollow Ponds & Epping Forest"
+    "Own front door"
    ],
    "furnished": "Part furnished",
    "station": {

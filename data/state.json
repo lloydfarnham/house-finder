@@ -1,7 +1,7 @@
 {
  "lastResults": {
   "rightmove": {
-   "at": "2026-11-01T21:27:01Z",
+   "at": "2026-11-01T21:30:22Z",
    "items": [
     {
      "key": "rm:94910721",
@@ -31,6 +31,18 @@
      "firstVisible": "2026-10-29T16:41:34Z",
      "summary": "Available immediately on a furnished basis is this first and second floor Victorian conversion flat within the Tomlin's Grove Conservation Area in Bow. The 71 sqm Grade II listed property, which retains many original features, briefly comprises a reception room, fitted kitchen/breakfast room...",
      "availableText": "2026-10-29T00:00:00Z",
+     "features": [
+      "Available immediately",
+      "Furnished",
+      "First and second floor",
+      "Grade II listed",
+      "Two double bedrooms",
+      "Kitchen/breakfast room",
+      "Tesco Express nearby",
+      "Bow Road and Bow Church stations walking distance",
+      "Close to local pubs and restaurants",
+      "Tower Hamlets Cemetery Park minutes away"
+     ],
      "letAgreed": false,
      "searchedStation": "Mile End",
      "station": {
@@ -89,6 +101,11 @@
      "firstVisible": "2026-09-10T11:35:32Z",
      "summary": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3",
      "availableText": "2026-11-08T00:00:00Z",
+     "features": [
+      "Bromley By Bow Station",
+      "Fully Furnished",
+      "Available November"
+     ],
      "letAgreed": false,
      "searchedStation": "Bow Road",
      "station": {
@@ -141,6 +158,7 @@
      "firstVisible": "2026-10-21T15:20:54Z",
      "summary": "Spacious 2 bedroom second floor flat in Bow (E3) with 2 large double bedrooms, a separate living room. Excellent transport links to Canary Wharf, the City, and Stratford. Available immediately",
      "availableText": "2026-10-21T00:00:00Z",
+     "features": [],
      "letAgreed": false,
      "searchedStation": "Bow Road",
      "station": {
@@ -193,6 +211,13 @@
      "firstVisible": "2026-07-30T11:38:44Z",
      "summary": "Stylish, newly refurbished 2 bed property with modern kitchen, chic bathroom & contemporary design. Ideal for London living - schedule a viewing today!",
      "availableText": "2026-10-23T00:00:00Z",
+     "features": [
+      "Two Double Bedrooms",
+      "Modern Fully Fitted Kitchen",
+      "Double Glazing Throughout",
+      "Within Walking Distance to Leytonstone High Road Overground Station",
+      "Newly Refurbished"
+     ],
      "letAgreed": false,
      "searchedStation": "Leyton"
     },
@@ -229,6 +254,14 @@
      "firstVisible": "2026-10-15T06:34:41Z",
      "summary": "LONG LET. Well presented first floor 2 double bedroom flat offering a contemporary décor, great ample reception room, 1bathroom and modern separate kitchen.",
      "availableText": null,
+     "features": [
+      "Great location",
+      "Next to Leyton tube station",
+      "Great local amenities",
+      "Ample reception room",
+      "Double bedrooms",
+      "Separate kitchen"
+     ],
      "letAgreed": false,
      "searchedStation": "Leyton",
      "station": {
@@ -284,6 +317,7 @@
      "firstVisible": "2026-10-07T15:32:07Z",
      "summary": "TWO BEDROOM FLAT IN A MODERN DEVELOPMENT AVAILABLE NOW ! Waltham Estates are delighted to advertise this excellent two bedroom apartment located in quiet area of Leyton. The flat comprises of a large open-plan kitchen, two spacious bedrooms and an excellent tiled bathroom. The apartment is lo...",
      "availableText": "2026-10-27T00:00:00Z",
+     "features": [],
      "letAgreed": false,
      "searchedStation": "Leyton",
      "station": {
@@ -332,6 +366,14 @@
      "firstVisible": "2026-10-08T10:44:57Z",
      "summary": "Next Home Ltd are pleased to offer this two bedroom apartment located on High Road Leyton. ",
      "availableText": "2026-10-08T00:00:00Z",
+     "features": [
+      "Freshly refurbished first-floor flat with modern, neutral interiors",
+      "Double-glazed windows",
+      "Ready to move into",
+      "Wood-effect flooring to living/bedrooms; practical tile to kitchen zone",
+      "Close to central line train station",
+      "Situated near High street full of restaurants, cafes and shops"
+     ],
      "letAgreed": false,
      "searchedStation": "Leyton"
     },
@@ -367,6 +409,16 @@
      "firstVisible": "2026-10-15T11:34:20Z",
      "summary": "This spacious first-floor two bedroom, two bathroom apartment in the modern low-rise Plaza Heights development is in a super-convenient location. Overlooking a walkway on the perimeter of the Leyton Mills retail park it’s just a minute to Leyton tube station and a short walk to the Olympic Park.",
      "availableText": "2026-11-14T00:00:00Z",
+     "features": [
+      "Two Double Bedrooms",
+      "Open Planned Kitchen/Living Room",
+      "Wood Flooring",
+      "Balcony",
+      "Opposite Leyton Station",
+      "Two Bathrooms",
+      "Immaculately Presented",
+      "Available November"
+     ],
      "letAgreed": false,
      "searchedStation": "Leyton",
      "station": {
@@ -386,7 +438,9 @@
       "flag": "early",
       "text": "Available 14 Nov 2026"
      },
-     "tags": []
+     "tags": [
+      "Balcony"
+     ]
     },
     {
      "key": "rm:61477733",
@@ -417,6 +471,18 @@
      "firstVisible": "2016-08-24T14:13:14Z",
      "summary": "LARGE two double bedroom maisonette split across 2 levels. Located just a short walk to Leytonstone Station (Central Line) Offering, 2 double bedrooms, separate lounge, fitted kitchen & three piece bathroom. AVAILABLE 5TH OCTOBER 2026!",
      "availableText": "2026-10-05T00:00:00Z",
+     "features": [
+      "2 DOUBLE BEDROOMS",
+      "SEPARATE RECEPTION",
+      "FITTED KITCHEN WITH WHITE GOODS",
+      "THREE PIECE BATHROOM",
+      "OFF STREET PARKING",
+      "GAS CENTRAL HEATING",
+      "DOUBLE GLAZED WINDOWS",
+      "AVAILABLE 5TH OCTOBER 2026!!",
+      "WALKING DISTANCE TO LEYTONSTONE STATION",
+      "EPC RATING - D"
+     ],
      "letAgreed": false,
      "searchedStation": "Leytonstone",
      "station": {
@@ -470,6 +536,18 @@
      "firstVisible": "2018-10-04T16:37:35Z",
      "summary": "*LARGE 2 BEDROOM BUNGALOW WITH PRIVATE GARDEN* Walking distance to Leytonstone Station (Central Line) Walking distance to Leytonstone Station (Central Line) AVAILABLE 5TH OCTOBER 2026.",
      "availableText": "2026-10-05T00:00:00Z",
+     "features": [
+      "NEWLY REFURBISHED",
+      "PURPOSE BUILT 2 BEDROOM FLAT",
+      "2 DOUBLE BEDROOMS",
+      "LARGE OPEN PLAN KITCHEN / LOUNGE",
+      "FAMILY BATHROOM",
+      "PRIVATE GARDEN",
+      "WALKING DISTANCE TO LEYTONSTONE STATION",
+      "AVAILABLE 5TH OCTOBER 2026",
+      "GAS CENTRAL HEATING & DOUBLE GLAZED WINDOWS THROUGHOUT",
+      "EPC RATING D"
+     ],
      "letAgreed": false,
      "searchedStation": "Leytonstone",
      "station": {
@@ -524,6 +602,14 @@
      "firstVisible": "2026-09-14T15:53:12Z",
      "summary": "A two bedroom first floor flat set within a converted house, ideally located on Grove Green Road in Leytonstone",
      "availableText": "2026-09-26T00:00:00Z",
+     "features": [
+      "One Double & One Box Room",
+      "CLOSE TO STATION",
+      "FIRST FLOOR",
+      "PRIVATE GARDEN",
+      "CALL HAART",
+      "AVAILABLE NOW"
+     ],
      "letAgreed": false,
      "searchedStation": "Leytonstone",
      "station": {
@@ -543,7 +629,9 @@
       "flag": "early",
       "text": "Available 26 Sep 2026"
      },
-     "tags": []
+     "tags": [
+      "Garden"
+     ]
     },
     {
      "key": "rm:94168587",
@@ -574,6 +662,16 @@
      "firstVisible": "2026-10-10T17:45:08Z",
      "summary": "** £1750 PCM ALLEN DAVIES ** are pleased to offer FOR RENT this 2 BEDROOM FIRST FLOOR ABRAHAMS MAISONETTE, the property benefits from a LARGE RECPTION ROOM with 2 DOUBLE BEDROOMS and FAMILY BAHROOM. The property is located off FRANCIS ROAD, with it`s CAFES and RESTAURNATS. The property is close...",
      "availableText": "2026-10-12T00:00:00Z",
+     "features": [
+      "£1750 PCM",
+      "LARGE RECEPTION ROOM",
+      "2 DOUBLE BEDROOMS",
+      "UNFERNISHED",
+      "GREAT LOCATION",
+      "SCHOOLS NEARBY",
+      "GOOD CONDITION",
+      "AVAILABLE NOW"
+     ],
      "letAgreed": false,
      "searchedStation": "Leytonstone"
     },
@@ -607,6 +705,16 @@
      "firstVisible": "2026-10-19T16:36:13Z",
      "summary": "ZERO DEPOSIT AVAILABLE. LONG LET. Arranged on the 3rd floor of a secure contemporary block, a well proportioned 2 bedroom flat offers open plan living space with smart fixtures and fittings.",
      "availableText": null,
+     "features": [
+      "2 bedroom flat",
+      "Set within a smart contemporary development",
+      "Open plan reception room with space to dine",
+      "2 well proportioned bedrooms, bathroom with white suite",
+      "Located in a desirable residential area",
+      "Close to many local amenities on Leytonstone High Road",
+      "Walking distance to Wanstead Flats",
+      "Excellent transport links"
+     ],
      "letAgreed": false,
      "searchedStation": "Leytonstone",
      "station": {
@@ -626,7 +734,9 @@
       "flag": "unknown",
       "text": null
      },
-     "tags": []
+     "tags": [
+      "Separate lounge"
+     ]
     },
     {
      "key": "rm:94741641",
@@ -657,6 +767,17 @@
      "firstVisible": "2026-10-26T15:24:06Z",
      "summary": "*** AVAILABLE NOW *** TWO DOUBLE BEDROOMS WITH BUILT IN WARDROBES ** DETACHED BUNGALOW ** OWN GARDEN ** DOUBLE GLAZED WINDOWS ** WALKING DISTANCE TO THE CENTRAL LINE ** GAS CENTRAL HEATING ** WALKING DISTANCE TO HIGH STREET AND SCHOOLS ***",
      "availableText": "2026-10-31T00:00:00Z",
+     "features": [
+      "TWO DOUBLE BEDROOMS",
+      "DETACHED BUNGALOW",
+      "OWN PRIVATE GARDEN",
+      "WALKING DISTANCE TO CENTRAL LINE",
+      "DOUBLE GLAZED WINDOWS",
+      "GAS CENTRAL HEATING",
+      "WALKING DISTANCE TO HIGH STREET",
+      "AVAILABLE NOW",
+      "CLOSE TO SCHOOLS"
+     ],
      "letAgreed": false,
      "searchedStation": "Leytonstone",
      "station": {
@@ -710,6 +831,7 @@
      "firstVisible": "2026-10-27T12:59:20Z",
      "summary": "Next Home Ltd are delighted to offer this two bedroom ground floor flat, located in this Victorian conversion. The property is positioned within close proximity of Leytonstone overground station. ",
      "availableText": "2026-10-27T00:00:00Z",
+     "features": [],
      "letAgreed": false,
      "searchedStation": "Leytonstone",
      "station": {
@@ -761,6 +883,17 @@
      "firstVisible": "2026-10-27T14:43:46Z",
      "summary": "Nestled within the sought-after Bushwood area, this spacious two-bedroom first-floor flat enjoys an enviable position, combining the peaceful feel of a residential setting with the excellent amenities and transport links of Leytonstone close at hand. Just a short walk away, Leytonstone High Road off",
      "availableText": "2026-10-27T00:00:00Z",
+     "features": [
+      "Spacious two-bedroom first-floor flat",
+      "Situated within a sought after residential turning",
+      "Bay fronted living/ dining area",
+      "Fitted kitchen incl. appliances",
+      "Shower room suite",
+      "Short stroll to High Road Leytonstone & main shopping area",
+      "Walking distance of Leytonstone Central Line tube station",
+      "Great access to the vast open fields of Wanstead Flats",
+      "Two good size bedrooms"
+     ],
      "letAgreed": false,
      "searchedStation": "Leytonstone",
      "station": {
@@ -812,6 +945,7 @@
      "firstVisible": "2026-10-28T18:03:02Z",
      "summary": "Spacious Two-Bedroom Property | Leytonstone | Available Now Waltham Estates is pleased to present this spacious two-bedroom property, situated on the third floor and ideally located just a 10-minute walk from Leytonstone Overground Station, offering convenient transport links to Central London, ...",
      "availableText": "2026-10-28T00:00:00Z",
+     "features": [],
      "letAgreed": false,
      "searchedStation": "Leytonstone"
     },
@@ -847,6 +981,18 @@
      "firstVisible": "2026-10-29T10:43:56Z",
      "summary": "Located on arguably the most prestigious road in Leytonstone, this unfurnished two bedroom first floor period conversion flat will attract plenty of interest. Overlooking the Forest, this property also puts you within easy reach of the tube station.",
      "availableText": "2026-11-09T00:00:00Z",
+     "features": [
+      "Two Bedroom Period Conversion",
+      "First Floor",
+      "Two Double Size Bedrooms",
+      "Extra Room e.g. Home Office/Study",
+      "Spacious Living Room",
+      "Period Features",
+      "Gas Central Heating",
+      "Unfurnished",
+      "Overlooking the Forest",
+      "EPC Rating - D"
+     ],
      "letAgreed": false,
      "searchedStation": "Leytonstone"
     },
@@ -880,6 +1026,14 @@
      "firstVisible": "2026-10-16T17:01:31Z",
      "summary": "Hamways are delighted to present this recently decorated two bedroom apartment within a Hamways managed development at the rear of the shops on High Street Wanstead.",
      "availableText": "2026-09-08T00:00:00Z",
+     "features": [
+      "Two Bedroom First Floor Apartment",
+      "Modern Open Plan Kitchen Lounge",
+      "Newly Decorated",
+      "Excellent Transport Links",
+      "High Street Location",
+      "Private Parking Bay Included"
+     ],
      "letAgreed": false,
      "searchedStation": "Wanstead",
      "station": {
@@ -933,6 +1087,18 @@
      "firstVisible": "2026-10-15T14:40:22Z",
      "summary": "**AVAILABLE NOW * NEWLY DECORATED & CARPETED * NIGHTINGALE COURT * TOP FLOOR * UNFURNISHED * MODERN THROUGHOUT * KITCHEN WITH APPLIANCES * BALCONY OFF LIVING ROOM * 2 DOUBLE BEDROOMS * GCH * D/G * COMMUNAL GARDEN * PERMIT PARKING * 0.4 MILES TO SNARESBROOK STATION * 0.3 MILES TO WANSTEAD HIG...",
      "availableText": "2026-10-31T00:00:00Z",
+     "features": [
+      "UNFURNISHED",
+      "TOP FLOOR",
+      "0.3 MILES TO WANSTEAD HIGH ST",
+      "2 DOUBLE BEDROOMS",
+      "MODERN KITCHEN",
+      "GAS CENTRAL HEATING & DOUBLE GLAZED",
+      "PRIVATE BALCONY",
+      "SHARED GARDENS",
+      "CLOSE TO WANSTEAD & SNARESBROOK STATIONS",
+      "EPC - D, COUNCIL TAX - C"
+     ],
      "letAgreed": false,
      "searchedStation": "Wanstead",
      "station": {
@@ -989,6 +1155,10 @@
      "firstVisible": "2026-10-16T20:07:00Z",
      "summary": "Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now. Conveniently situated on the vibrant High Street within walking distan... ** Property Reference: 3068763 **",
      "availableText": "2026-11-01T00:00:00Z",
+     "features": [
+      "No Agent Fees",
+      "Property Reference Number: 3068763"
+     ],
      "letAgreed": false,
      "searchedStation": "Wanstead",
      "station": {
@@ -1041,6 +1211,18 @@
      "firstVisible": "2026-10-05T15:47:46Z",
      "summary": "**AVAILABLE NOW * UNFURNISHED * NEWLY DECORATED THROUGHOUT * GROUND FLOOR * MODERN KITCHEN WITH APPLIANCES * OFF STREET PARKING, PLUS GARAGE * 1 DOUBLE BEDROOM, 1 SINGLE WITH FITTED WARDROBES * SPACIOS LIVING ROOM * D/G & ELECTRIC HEATERS * 0.3 MILES TO WANSTEAD HIGH ST & SNARESBROOK STA...",
      "availableText": "2026-11-07T00:00:00Z",
+     "features": [
+      "NEWLY DECORATED THROUGHOUT",
+      "MODERN KITCHEN WITH APPLIANCES",
+      "SPACIOUS LIVING ROOM",
+      "MODERN BATHROOM",
+      "DOUBLE BEDROOM",
+      "SMALL BEDROOM WITH FITTED WARDROBES",
+      "DOUBLE GLAZED",
+      "GARAGE",
+      "EASY ACCESS TO STATION",
+      "EASY ACCESS TO HIGH STREET"
+     ],
      "letAgreed": false,
      "searchedStation": "Wanstead",
      "station": {
@@ -1098,6 +1280,14 @@
      "firstVisible": "2026-10-15T12:09:56Z",
      "summary": "Petty Son & Prestwich are delighted to offer to rent this spacious and stylish two bedroom ground-floor apartment, set within the highly desirable and characterful Wanstead Hospital Development.",
      "availableText": null,
+     "features": [
+      "Two bedroom apartment",
+      "Ground floor",
+      "Modern kitchen and bathroom",
+      "Large lounge/diner",
+      "Allocated parking space",
+      "0.5 miles from Snaresbrook Underground Station"
+     ],
      "letAgreed": false,
      "searchedStation": "Snaresbrook",
      "station": {
@@ -1153,6 +1343,18 @@
      "firstVisible": "2026-10-21T17:33:13Z",
      "summary": "Petty Son & Prestwich are delighted to offer this spacious two double bedroom ground floor apartment, ideally located within easy reach of the High Street's excellent selection of shops, bars, restaurants, and two Central Line stations.",
      "availableText": "2027-01-07T00:00:00Z",
+     "features": [
+      "Contemporary apartment",
+      "Ground floor",
+      "Two double bedrooms",
+      "Modern kitchen & bathroom",
+      "En-suite bathroom",
+      "Residents parking",
+      "Spacious reception",
+      "0.3 Miles from Wanstead High Street",
+      "0.7 Miles to Wanstead Central Line Station",
+      "The property is licensed for one household only. Suitable for a single person, a couple, or small family"
+     ],
      "letAgreed": false,
      "searchedStation": "Snaresbrook",
      "station": {
@@ -1208,6 +1410,17 @@
      "firstVisible": "2026-10-24T16:02:36Z",
      "summary": "Spacious two bedroom second floor flat in secure Wanstead development with parking, modern kitchen, communal gardens, and excellent transport links near shops, bars and restaurants.",
      "availableText": "2026-12-18T00:00:00Z",
+     "features": [
+      "Two Bedroom Apartment",
+      "Secured Development",
+      "Located on Second Floor",
+      "Allocated Parking Space",
+      "Spacious Throughout",
+      "Communal Gardens",
+      "Close to Wanstead High Street",
+      "Many Amenities available including Shops, Bars and Restaurants",
+      "Both Wanstead & Snaresbrook Stations Close By"
+     ],
      "letAgreed": false,
      "searchedStation": "Snaresbrook",
      "station": {
@@ -1232,7 +1445,7 @@
    ]
   },
   "onthemarket": {
-   "at": "2026-11-01T21:27:28Z",
+   "at": "2026-11-01T21:30:44Z",
    "items": [
     {
      "key": "otm:17128455",
@@ -1261,7 +1474,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bethnal Green"
+     "searchedStation": "Bethnal Green",
+     "features": [
+      "2 Double Bedroom Flat 2nd Floor Flat",
+      "Views over communal gardens"
+     ]
     },
     {
      "key": "otm:41795",
@@ -1313,7 +1530,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bethnal Green"
+     "searchedStation": "Bethnal Green",
+     "features": [
+      "624 sq ft floor area",
+      "Nearest station 0.3mi."
+     ]
     },
     {
      "key": "otm:5875705",
@@ -1342,7 +1563,13 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bethnal Green"
+     "searchedStation": "Bethnal Green",
+     "features": [
+      "Near Transport Links",
+      "Well-Presented",
+      "Two-Tiered Conversion",
+      "Walking Distance to Canary Wharf"
+     ]
     },
     {
      "key": "otm:4892",
@@ -1394,7 +1621,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bethnal Green"
+     "searchedStation": "Bethnal Green",
+     "features": [
+      "237 sq ft floor area",
+      "Nearest station 0.3mi."
+     ]
     },
     {
      "key": "otm:56867",
@@ -1446,7 +1677,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bethnal Green"
+     "searchedStation": "Bethnal Green",
+     "features": [
+      "15 Mins To Bromley By Bow Station",
+      "Excellent Location"
+     ]
     },
     {
      "key": "otm:45018",
@@ -1499,14 +1734,11 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Bethnal Green",
-     "description": " A fantastic two bed apartment set within a sought after period building next to Bow Road Station, E3. The property is extremely spacious and includes neutral decor, laminate flooring, high ceilings, large windows and a modern fully fitted separate kitchen. It also features two generous size bedrooms and a nice bathroom suite. The transport links are fantastic as there are several bus services including 24 hour routes into the City and West End and both Bow Church DLR and Mile End Tube are just a five minute walk away. There is also a good choice of local pubs, eateries and shopping facilities on your door. Amazing Value - Call now ",
      "features": [
       "Two bedroom flat",
-      "School conversion",
-      "Lovely separate Kitchen",
-      "Modern decor and flooring",
-      "Next to Bow Rd Tube and DLR"
+      "School conversion"
      ],
+     "description": " A fantastic two bed apartment set within a sought after period building next to Bow Road Station, E3. The property is extremely spacious and includes neutral decor, laminate flooring, high ceilings, large windows and a modern fully fitted separate kitchen. It also features two generous size bedrooms and a nice bathroom suite. The transport links are fantastic as there are several bus services including 24 hour routes into the City and West End and both Bow Church DLR and Mile End Tube are just a five minute walk away. There is also a good choice of local pubs, eateries and shopping facilities on your door. Amazing Value - Call now ",
      "furnished": "Furnished",
      "station": {
       "name": "Bow Road",
@@ -1580,7 +1812,12 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bethnal Green"
+     "searchedStation": "Bethnal Green",
+     "features": [
+      "First Floor Flat",
+      "Three piece bathroom",
+      "Study"
+     ]
     },
     {
      "key": "otm:36882",
@@ -1632,7 +1869,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bethnal Green"
+     "searchedStation": "Bethnal Green",
+     "features": [
+      "Council Tax - D",
+      "EPC - D"
+     ]
     },
     {
      "key": "otm:71036",
@@ -1658,224 +1899,68 @@
      "searchedStation": "Bethnal Green"
     },
     {
-     "key": "otm:20539267",
+     "key": "otm:18067665",
      "source": "onthemarket",
-     "sourceId": "20539267",
-     "url": "https://www.onthemarket.com/details/20539267/",
-     "title": "2 bedroom end of terrace house to rent",
-     "address": "Victoria Gardens, Colchester, Essex, CO4",
-     "pricePcm": 1250,
-     "priceText": "£1,250",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "End of terrace house",
-     "lat": 51.909315,
-     "lon": 0.916531,
-     "image": "https://media.onthemarket.com/properties/20539267/1651667362/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20539267/1651667362/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20539267/1651667362/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20539267/1651667362/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20539267/1651667362/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20539267/1651667362/image-4-480x320.jpg"
-     ],
-     "agent": "Fenn Wright - Colchester",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:4616",
-     "source": "onthemarket",
-     "sourceId": "4616",
-     "url": "https://www.onthemarket.com/agents/branch/fenn-wright-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:15869588",
-     "source": "onthemarket",
-     "sourceId": "15869588",
-     "url": "https://www.onthemarket.com/details/15869588/",
-     "title": "3 bedroom end of terrace house to rent",
-     "address": "East Hill, Colchester, Essex, CO1",
-     "pricePcm": 1350,
-     "priceText": "£1,350",
-     "beds": 3,
-     "baths": 2,
-     "propertyType": "End of terrace house",
-     "lat": 51.8893,
-     "lon": 0.907962,
-     "image": "https://media.onthemarket.com/properties/15869588/1651706632/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/15869588/1651706632/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/15869588/1651706632/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/15869588/1651706632/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/15869588/1651706632/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/15869588/1651706632/image-4-480x320.jpg"
-     ],
-     "agent": "Fenn Wright - Colchester",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20546775",
-     "source": "onthemarket",
-     "sourceId": "20546775",
-     "url": "https://www.onthemarket.com/details/20546775/",
-     "title": "3 bedroom property to rent",
-     "address": "Causton Road, Colchester, CO1 1RT",
-     "pricePcm": 1600,
-     "priceText": "£1,600",
-     "beds": 3,
-     "baths": 2,
-     "propertyType": "Property",
-     "lat": 51.89496,
-     "lon": 0.898785,
-     "image": "https://media.onthemarket.com/properties/20546775/1651912592/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20546775/1651912592/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20546775/1651912592/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20546775/1651912592/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20546775/1651912592/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20546775/1651912592/image-4-480x320.jpg"
-     ],
-     "agent": "Gallant Richardson - Colchester",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:42977",
-     "source": "onthemarket",
-     "sourceId": "42977",
-     "url": "https://www.onthemarket.com/agents/branch/gallant-richardson-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20463475",
-     "source": "onthemarket",
-     "sourceId": "20463475",
-     "url": "https://www.onthemarket.com/details/20463475/",
-     "title": "3 bedroom terraced house to rent",
-     "address": "Ipswich Road, Colchester, CO4",
-     "pricePcm": 1450,
-     "priceText": "£1,450",
-     "beds": 3,
-     "baths": 1,
-     "propertyType": "Terraced house",
-     "lat": 51.898699,
-     "lon": 0.921036,
-     "image": "https://media.onthemarket.com/properties/20463475/1649119884/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20463475/1649119884/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20463475/1649119884/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20463475/1649119884/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20463475/1649119884/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20463475/1649119884/image-4-480x320.jpg"
-     ],
-     "agent": "OpenRent - UK",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:72524",
-     "source": "onthemarket",
-     "sourceId": "72524",
-     "url": "https://www.onthemarket.com/agents/branch/openrent-uk/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20560277",
-     "source": "onthemarket",
-     "sourceId": "20560277",
-     "url": "https://www.onthemarket.com/details/20560277/",
+     "sourceId": "18067665",
+     "url": "https://www.onthemarket.com/details/18067665/",
      "title": "2 bedroom apartment to rent",
-     "address": "Weetmans Drive, Essex CO4",
-     "pricePcm": 1195,
-     "priceText": "£1,195",
+     "address": "Talwin Street, London",
+     "pricePcm": 1960,
+     "priceText": "£1,960",
      "beds": 2,
      "baths": 1,
      "propertyType": "Apartment",
-     "lat": 51.917614,
-     "lon": 0.908723,
-     "image": "https://media.onthemarket.com/properties/20560277/1653859538/image-0-480x320.jpg",
+     "lat": 51.525554802048,
+     "lon": -0.012187538674,
+     "image": "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
      "images": [
-      "https://media.onthemarket.com/properties/20560277/1653859538/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20560277/1653859538/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20560277/1653859538/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20560277/1653859405/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20560277/1653859538/image-4-480x320.jpg"
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-4-480x320.jpg"
      ],
-     "agent": "Home Sales & Lettings - Colchester",
-     "addedText": "Added > 14 days",
+     "agent": "Felicity J. Lord - Bow",
+     "addedText": "Reduced < 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Mile End"
+     "searchedStation": "Mile End",
+     "features": [
+      "Bromley By Bow Station",
+      "Fully Furnished",
+      "Available November",
+      "495 sq ft floor area"
+     ],
+     "description": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3   Welcome to this stylish and well-presented two-bedroom furnished apartment located on Talwin Street, E3. Perfectly positioned within easy reach of Bow, Mile End and Stratford, this property offers modern living in a vibrant East London neighbourhood.  Property Features:  Spacious open-plan living area with comfortable furnishings and large windows allowing plenty of natural light  Contemporary fitted kitchen with integrated appliances, ample storage and workspace  Two well-proportioned bedrooms, both fully furnished and neutrally decorated  Modern bathroom suite with bath and shower  Furnished throughout to a high standard  Double glazing and gas central heating  Secure entry system  Location:  Situated in a quiet residential street just off Devons Road, the flat benefits from excellent transport links — Devons Road DLR and Bow Road Underground stations are both within easy walking distance, providing quick access to Canary Wharf, The City, and Westfield Stratford. Local shops, cafes, and parks are close by, offering a great balance of convenience and community.",
+     "furnished": "Furnished",
+     "station": {
+      "name": "Bromley-by-Bow",
+      "lines": [
+       "District",
+       "H&C"
+      ],
+      "walkMins": 1,
+      "distanceM": 86
+     },
+     "area": "Bow",
+     "tier": 1,
+     "cycleMins": 35,
+     "availability": {
+      "kind": "unknown",
+      "date": null,
+      "flag": "unknown",
+      "text": null
+     },
+     "tags": [
+      "Furnished"
+     ]
     },
     {
-     "key": "otm:68410",
+     "key": "otm:2878",
      "source": "onthemarket",
-     "sourceId": "68410",
-     "url": "https://www.onthemarket.com/agents/branch/home-sales-and-lettings-colchester/",
+     "sourceId": "2878",
+     "url": "https://www.onthemarket.com/agents/branch/felicity-j-lord-bow/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -1889,976 +1974,6 @@
      "images": [],
      "agent": "",
      "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20564971",
-     "source": "onthemarket",
-     "sourceId": "20564971",
-     "url": "https://www.onthemarket.com/details/20564971/",
-     "title": "2 bedroom end of terrace house to rent",
-     "address": "Colchester CO3",
-     "pricePcm": 1400,
-     "priceText": "£1,400",
-     "beds": 2,
-     "baths": 2,
-     "propertyType": "End of terrace house",
-     "lat": 51.896165,
-     "lon": 0.891958,
-     "image": "https://media.onthemarket.com/properties/20564971/1652482186/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20564971/1652482186/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20564971/1652482186/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20564971/1652482186/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20564971/1652482186/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20564971/1652482186/image-4-480x320.jpg"
-     ],
-     "agent": "Keystones Property - Colchester",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:73096",
-     "source": "onthemarket",
-     "sourceId": "73096",
-     "url": "https://www.onthemarket.com/agents/branch/keystones-property-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20476816",
-     "source": "onthemarket",
-     "sourceId": "20476816",
-     "url": "https://www.onthemarket.com/details/20476816/",
-     "title": "3 bedroom semi-detached house to rent",
-     "address": "Hubert Road, Colchester CO3",
-     "pricePcm": 1700,
-     "priceText": "£1,700",
-     "beds": 3,
-     "baths": 1,
-     "propertyType": "Semi-detached house",
-     "lat": 51.893349,
-     "lon": 0.872792,
-     "image": "https://media.onthemarket.com/properties/20476816/1649719500/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20476816/1649719500/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20476816/1649719500/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20476816/1649719500/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20476816/1649719500/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20476816/1649719500/image-4-480x320.jpg"
-     ],
-     "agent": "Belvoir - Colchester",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:47099",
-     "source": "onthemarket",
-     "sourceId": "47099",
-     "url": "https://www.onthemarket.com/agents/branch/belvoir-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20577983",
-     "source": "onthemarket",
-     "sourceId": "20577983",
-     "url": "https://www.onthemarket.com/details/20577983/",
-     "title": "3 bedroom detached house to rent",
-     "address": "Leaf Living at Chesterwell, Mile End, Colchester, CO4",
-     "pricePcm": 1900,
-     "priceText": "£1,900",
-     "beds": 3,
-     "baths": 2,
-     "propertyType": "Detached house",
-     "lat": 51.921174,
-     "lon": 0.890454,
-     "image": "https://media.onthemarket.com/properties/20577983/1653007429/image-0-480x320.png",
-     "images": [
-      "https://media.onthemarket.com/properties/20577983/1653007429/image-0-480x320.png",
-      "https://media.onthemarket.com/properties/20577983/1653007429/image-1-480x320.png",
-      "https://media.onthemarket.com/properties/20577983/1653007429/image-2-480x320.png",
-      "https://media.onthemarket.com/properties/20577983/1653007429/image-3-480x320.png",
-      "https://media.onthemarket.com/properties/20577983/1653007429/image-4-480x320.png"
-     ],
-     "agent": "Leaf Living - Nationwide",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:70681",
-     "source": "onthemarket",
-     "sourceId": "70681",
-     "url": "https://www.onthemarket.com/new-homes/developers/development/nationwide-70681/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20577985",
-     "source": "onthemarket",
-     "sourceId": "20577985",
-     "url": "https://www.onthemarket.com/details/20577985/",
-     "title": "3 bedroom semi-detached house to rent",
-     "address": "Leaf Living at Chesterwell, Mile End, CO4",
-     "pricePcm": 1865,
-     "priceText": "£1,865",
-     "beds": 3,
-     "baths": 2,
-     "propertyType": "Semi-detached house",
-     "lat": 51.920511,
-     "lon": 0.888171,
-     "image": "https://media.onthemarket.com/properties/20577985/1653007441/image-0-480x320.png",
-     "images": [
-      "https://media.onthemarket.com/properties/20577985/1653007441/image-0-480x320.png",
-      "https://media.onthemarket.com/properties/20577985/1653007441/image-1-480x320.png",
-      "https://media.onthemarket.com/properties/20577985/1653007441/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20577985/1653007441/image-3-480x320.png",
-      "https://media.onthemarket.com/properties/20577985/1653007441/image-4-480x320.png"
-     ],
-     "agent": "Leaf Living - Nationwide",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20579408",
-     "source": "onthemarket",
-     "sourceId": "20579408",
-     "url": "https://www.onthemarket.com/details/20579408/",
-     "title": "2 bedroom end of terrace house to rent",
-     "address": "Turner Road, Colchester, Essex, CO4",
-     "pricePcm": 1250,
-     "priceText": "£1,250",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "End of terrace house",
-     "lat": 51.9065,
-     "lon": 0.901805,
-     "image": "https://media.onthemarket.com/properties/20579408/1653047755/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20579408/1653047755/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579408/1653047755/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579408/1653047755/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579408/1653047755/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579408/1653047755/image-4-480x320.jpg"
-     ],
-     "agent": "Fenn Wright - Colchester",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20579673",
-     "source": "onthemarket",
-     "sourceId": "20579673",
-     "url": "https://www.onthemarket.com/details/20579673/",
-     "title": "3 bedroom semi-detached house to rent",
-     "address": "Ipswich Road, Colchester, Essex, CO4",
-     "pricePcm": 1900,
-     "priceText": "£1,900",
-     "beds": 3,
-     "baths": 2,
-     "propertyType": "Semi-detached house",
-     "lat": 51.902845,
-     "lon": 0.92414,
-     "image": "https://media.onthemarket.com/properties/20579673/1653065720/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20579673/1653065720/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579673/1653065720/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579673/1653065720/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579673/1653065720/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579673/1653065720/image-4-480x320.jpg"
-     ],
-     "agent": "Kings Property - Braintree",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:41901",
-     "source": "onthemarket",
-     "sourceId": "41901",
-     "url": "https://www.onthemarket.com/agents/branch/kings-property-braintree/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20579916",
-     "source": "onthemarket",
-     "sourceId": "20579916",
-     "url": "https://www.onthemarket.com/details/20579916/",
-     "title": "3 bedroom semi-detached house to rent",
-     "address": "Petronius Way, Colchester CO4",
-     "pricePcm": 1600,
-     "priceText": "£1,600",
-     "beds": 3,
-     "baths": 2,
-     "propertyType": "Semi-detached house",
-     "lat": 51.918189,
-     "lon": 0.9184775,
-     "image": "https://media.onthemarket.com/properties/20579916/1653083466/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20579916/1653083466/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579916/1653083466/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579916/1653083466/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579916/1653083466/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20579916/1653083466/image-4-480x320.jpg"
-     ],
-     "agent": "Durden & Hunt - Colchester",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:70998",
-     "source": "onthemarket",
-     "sourceId": "70998",
-     "url": "https://www.onthemarket.com/agents/branch/durden-and-hunt-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20583471",
-     "source": "onthemarket",
-     "sourceId": "20583471",
-     "url": "https://www.onthemarket.com/details/20583471/",
-     "title": "2 bedroom end of terrace house to rent",
-     "address": "Fairfax Mews, Colchester, CO2",
-     "pricePcm": 1350,
-     "priceText": "£1,350",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "End of terrace house",
-     "lat": 51.884261,
-     "lon": 0.904476,
-     "image": "https://media.onthemarket.com/properties/20583471/1655346380/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20583471/1655346380/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20583471/1655346380/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20583471/1653146439/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20583471/1653146439/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20583471/1653146439/image-4-480x320.jpg"
-     ],
-     "agent": "OpenRent - UK",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20584248",
-     "source": "onthemarket",
-     "sourceId": "20584248",
-     "url": "https://www.onthemarket.com/details/20584248/",
-     "title": "2 bedroom flat to rent",
-     "address": "Priory Court, Crouch Street, Colchester, CO3 3HH",
-     "pricePcm": 1300,
-     "priceText": "£1,300",
-     "beds": 2,
-     "baths": 2,
-     "propertyType": "Flat",
-     "lat": 51.887377,
-     "lon": 0.89225,
-     "image": "https://media.onthemarket.com/properties/20584248/1653168747/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20584248/1653168747/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20584248/1653168747/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20584248/1653168747/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20584248/1653168747/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20584248/1653168747/image-4-480x320.jpg"
-     ],
-     "agent": "Gallant Richardson - Colchester",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:16286127",
-     "source": "onthemarket",
-     "sourceId": "16286127",
-     "url": "https://www.onthemarket.com/details/16286127/",
-     "title": "2 bedroom apartment to rent",
-     "address": "St. Botolphs Street, Colchester, Essex, CO2",
-     "pricePcm": 1000,
-     "priceText": "£1,000",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.887218,
-     "lon": 0.90346,
-     "image": "https://media.onthemarket.com/properties/16286127/1653283288/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/16286127/1653283288/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/16286127/1653283288/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/16286127/1653283288/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/16286127/1653283288/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/16286127/1653283288/image-4-480x320.jpg"
-     ],
-     "agent": "Palmer & Partners - Colchester",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:36778",
-     "source": "onthemarket",
-     "sourceId": "36778",
-     "url": "https://www.onthemarket.com/agents/branch/palmer-and-partners-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:18710678",
-     "source": "onthemarket",
-     "sourceId": "18710678",
-     "url": "https://www.onthemarket.com/details/18710678/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Sheepen Place, Colchester",
-     "pricePcm": 1275,
-     "priceText": "£1,275",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.8939514,
-     "lon": 0.8922049,
-     "image": "https://media.onthemarket.com/properties/18710678/1655984365/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/18710678/1655984365/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/18710678/1655390360/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/18710678/1655638706/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/18710678/1655845335/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/18710678/1655984365/image-4-480x320.jpg"
-     ],
-     "agent": "haart Estate Agents - Colchester",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:5326",
-     "source": "onthemarket",
-     "sourceId": "5326",
-     "url": "https://www.onthemarket.com/agents/branch/haart-estate-agents-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:19682480",
-     "source": "onthemarket",
-     "sourceId": "19682480",
-     "url": "https://www.onthemarket.com/details/19682480/",
-     "title": "3 bedroom house to rent",
-     "address": "Riddles Drive, Colchester, CO4",
-     "pricePcm": 1600,
-     "priceText": "£1,600",
-     "beds": 3,
-     "baths": 1,
-     "propertyType": "House",
-     "lat": 51.902827,
-     "lon": 0.902581,
-     "image": "https://media.onthemarket.com/properties/19682480/1653777605/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/19682480/1653777605/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/19682480/1653777605/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/19682480/1653777605/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/19682480/1653777605/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/19682480/1653777605/image-4-480x320.jpg"
-     ],
-     "agent": "Leaders - Colchester",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:66287",
-     "source": "onthemarket",
-     "sourceId": "66287",
-     "url": "https://www.onthemarket.com/agents/branch/leaders-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:5797126",
-     "source": "onthemarket",
-     "sourceId": "5797126",
-     "url": "https://www.onthemarket.com/details/5797126/",
-     "title": "2 bedroom terraced house to rent",
-     "address": "Albert Street, Colchester CO1",
-     "pricePcm": 995,
-     "priceText": "£995",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Terraced house",
-     "lat": 51.895817,
-     "lon": 0.896848,
-     "image": "https://media.onthemarket.com/properties/5797126/1653894572/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/5797126/1653894572/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/5797126/1653894572/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/5797126/1653894572/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/5797126/1653894572/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/5797126/1653894572/image-4-480x320.jpg"
-     ],
-     "agent": "Boydens - Colchester",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:26632",
-     "source": "onthemarket",
-     "sourceId": "26632",
-     "url": "https://www.onthemarket.com/agents/branch/boydens-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20612774",
-     "source": "onthemarket",
-     "sourceId": "20612774",
-     "url": "https://www.onthemarket.com/details/20612774/",
-     "title": "3 bedroom house to rent",
-     "address": "Constantine Road, COLCHESTER",
-     "pricePcm": 1500,
-     "priceText": "£1,500",
-     "beds": 3,
-     "baths": 1,
-     "propertyType": "House",
-     "lat": 51.88096,
-     "lon": 0.886606,
-     "image": "https://media.onthemarket.com/properties/20612774/1654610402/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20612774/1654610402/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20612774/1654610402/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20612774/1654610402/epc-graph-0-480x320.gif"
-     ],
-     "agent": "William H Brown - Colchester Culver Street West",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:74213",
-     "source": "onthemarket",
-     "sourceId": "74213",
-     "url": "https://www.onthemarket.com/agents/branch/william-h-brown-colchester-culver-street-west/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20612795",
-     "source": "onthemarket",
-     "sourceId": "20612795",
-     "url": "https://www.onthemarket.com/details/20612795/",
-     "title": "2 bedroom semi-detached house to rent",
-     "address": "Leaf Living at Chesterwell, Mile End, CO4",
-     "pricePcm": 1650,
-     "priceText": "£1,650",
-     "beds": 2,
-     "baths": 2,
-     "propertyType": "Semi-detached house",
-     "lat": 51.920511,
-     "lon": 0.888171,
-     "image": "https://media.onthemarket.com/properties/20612795/1654065170/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20612795/1654065170/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20612795/1654065170/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20612795/1654065170/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20612795/1654065170/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20612795/1654065170/image-4-480x320.jpg"
-     ],
-     "agent": "Leaf Living - Nationwide",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:19389518",
-     "source": "onthemarket",
-     "sourceId": "19389518",
-     "url": "https://www.onthemarket.com/details/19389518/",
-     "title": "2 bedroom detached house to rent",
-     "address": "Albert Street, Colchester, Essex, CO1",
-     "pricePcm": 1300,
-     "priceText": "£1,300",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Detached house",
-     "lat": 51.895458,
-     "lon": 0.896621,
-     "image": "https://media.onthemarket.com/properties/19389518/1654661390/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/19389518/1654661390/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/19389518/1654661390/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/19389518/1654661390/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/19389518/1654661390/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/19389518/1654661390/image-4-480x320.jpg"
-     ],
-     "agent": "Palmer & Partners - Colchester",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:10723475",
-     "source": "onthemarket",
-     "sourceId": "10723475",
-     "url": "https://www.onthemarket.com/details/10723475/",
-     "title": "3 bedroom end of terrace house to rent",
-     "address": "Wickham Road, Colchester, Essex, CO3",
-     "pricePcm": 1500,
-     "priceText": "£1,500",
-     "beds": 3,
-     "baths": 1,
-     "propertyType": "End of terrace house",
-     "lat": 51.883362,
-     "lon": 0.889409,
-     "image": "https://media.onthemarket.com/properties/10723475/1654666810/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/10723475/1654666810/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/10723475/1654666810/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/10723475/1654666810/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/10723475/1654666810/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/10723475/1654666810/image-4-480x320.jpg"
-     ],
-     "agent": "Palmer & Partners - Colchester",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20649623",
-     "source": "onthemarket",
-     "sourceId": "20649623",
-     "url": "https://www.onthemarket.com/details/20649623/",
-     "title": "2 bedroom flat to rent",
-     "address": "Weetmans Drive, Colchester, CO4",
-     "pricePcm": 1195,
-     "priceText": "£1,195",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.917733,
-     "lon": 0.908936,
-     "image": "https://media.onthemarket.com/properties/20649623/1655376131/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20649623/1655376131/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20649623/1655376131/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20649623/1655376131/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20649623/1655376131/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20649623/1655376131/image-4-480x320.jpg"
-     ],
-     "agent": "OpenRent - UK",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20653389",
-     "source": "onthemarket",
-     "sourceId": "20653389",
-     "url": "https://www.onthemarket.com/details/20653389/",
-     "title": "2 bedroom terraced house to rent",
-     "address": "River Bank Walk, Colchester CO1",
-     "pricePcm": 1250,
-     "priceText": "£1,250",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Terraced house",
-     "lat": 51.8955558345722,
-     "lon": 0.911209977694018,
-     "image": "https://media.onthemarket.com/properties/20653389/1655437400/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20653389/1655437400/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20653389/1655437400/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20653389/1655437400/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20653389/1655437400/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20653389/1655437400/image-4-480x320.jpg"
-     ],
-     "agent": "Boydens - Colchester",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20653783",
-     "source": "onthemarket",
-     "sourceId": "20653783",
-     "url": "https://www.onthemarket.com/details/20653783/",
-     "title": "3 bedroom end of terrace house to rent",
-     "address": "Dickenson Road, Colchester, CO4 5BL",
-     "pricePcm": 1500,
-     "priceText": "£1,500",
-     "beds": 3,
-     "baths": 2,
-     "propertyType": "End of terrace house",
-     "lat": 51.9085,
-     "lon": 0.894662,
-     "image": "https://media.onthemarket.com/properties/20653783/1655443271/image-0-480x320.png",
-     "images": [
-      "https://media.onthemarket.com/properties/20653783/1655443271/image-0-480x320.png",
-      "https://media.onthemarket.com/properties/20653783/1655443271/image-1-480x320.png",
-      "https://media.onthemarket.com/properties/20653783/1655443271/image-2-480x320.png",
-      "https://media.onthemarket.com/properties/20653783/1655443271/image-3-480x320.png",
-      "https://media.onthemarket.com/properties/20653783/1655443271/image-4-480x320.png"
-     ],
-     "agent": "Michaels Property Consultants - Colchester",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:46075",
-     "source": "onthemarket",
-     "sourceId": "46075",
-     "url": "https://www.onthemarket.com/agents/branch/michaels-property-consultants-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:1251934",
-     "source": "onthemarket",
-     "sourceId": "1251934",
-     "url": "https://www.onthemarket.com/details/1251934/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Victoria Chase, Colchester",
-     "pricePcm": 1150,
-     "priceText": "£1,150",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.894689556812,
-     "lon": 0.89425295247503,
-     "image": "https://media.onthemarket.com/properties/1251934/1654662539/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/1251934/1654662539/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/1251934/1654662539/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/1251934/1654662539/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/1251934/1654662539/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/1251934/1654662539/image-4-480x320.jpg"
-     ],
-     "agent": "haart Estate Agents - Colchester",
-     "addedText": "Reduced < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:20660135",
-     "source": "onthemarket",
-     "sourceId": "20660135",
-     "url": "https://www.onthemarket.com/details/20660135/",
-     "title": "2 bedroom property to rent",
-     "address": "Attwood Close, COLCHESTER, CO4",
-     "pricePcm": 1300,
-     "priceText": "£1,300",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Property",
-     "lat": 51.916599,
-     "lon": 0.918752,
-     "image": "https://media.onthemarket.com/properties/20660135/1655678989/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20660135/1655678989/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20660135/1655678989/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20660135/1655678989/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20660135/1655678989/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20660135/1655678989/image-4-480x320.jpg"
-     ],
-     "agent": "Connells - Colchester",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:73581",
-     "source": "onthemarket",
-     "sourceId": "73581",
-     "url": "https://www.onthemarket.com/agents/branch/connells-colchester/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:19640101",
-     "source": "onthemarket",
-     "sourceId": "19640101",
-     "url": "https://www.onthemarket.com/details/19640101/",
-     "title": "2 bedroom flat to rent",
-     "address": "Claremont Heights, Colchester, CO1",
-     "pricePcm": 1050,
-     "priceText": "£1,050",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.899728,
-     "lon": 0.894763,
-     "image": "https://media.onthemarket.com/properties/19640101/1655693043/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/19640101/1655693043/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/19640101/1655693043/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/19640101/1655693043/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/19640101/1655693043/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/19640101/1655693043/image-4-480x320.jpg"
-     ],
-     "agent": "Leaders - Colchester",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:2177991",
-     "source": "onthemarket",
-     "sourceId": "2177991",
-     "url": "https://www.onthemarket.com/details/2177991/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Clarendon Way, Colchester",
-     "pricePcm": 1250,
-     "priceText": "£1,250",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.898312495043,
-     "lon": 0.89837531601,
-     "image": "https://media.onthemarket.com/properties/2177991/1655851319/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/2177991/1655851319/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/2177991/1655851319/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/2177991/1655851319/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/2177991/1655851319/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/2177991/1655851319/image-4-480x320.jpg"
-     ],
-     "agent": "haart Estate Agents - Colchester",
-     "addedText": "Added yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -2891,93 +2006,17 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Stepney Green"
+     "searchedStation": "Stepney Green",
+     "features": [
+      "Split-level Apartment",
+      "Two bedroom"
+     ]
     },
     {
      "key": "otm:70139",
      "source": "onthemarket",
      "sourceId": "70139",
      "url": "https://www.onthemarket.com/agents/branch/ea2-wapping/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Stepney Green"
-    },
-    {
-     "key": "otm:18067665",
-     "source": "onthemarket",
-     "sourceId": "18067665",
-     "url": "https://www.onthemarket.com/details/18067665/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Talwin Street, London",
-     "pricePcm": 1960,
-     "priceText": "£1,960",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.525554802048,
-     "lon": -0.012187538674,
-     "image": "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-4-480x320.jpg"
-     ],
-     "agent": "Felicity J. Lord - Bow",
-     "addedText": "Reduced < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Stepney Green",
-     "description": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3   Welcome to this stylish and well-presented two-bedroom furnished apartment located on Talwin Street, E3. Perfectly positioned within easy reach of Bow, Mile End and Stratford, this property offers modern living in a vibrant East London neighbourhood.  Property Features:  Spacious open-plan living area with comfortable furnishings and large windows allowing plenty of natural light  Contemporary fitted kitchen with integrated appliances, ample storage and workspace  Two well-proportioned bedrooms, both fully furnished and neutrally decorated  Modern bathroom suite with bath and shower  Furnished throughout to a high standard  Double glazing and gas central heating  Secure entry system  Location:  Situated in a quiet residential street just off Devons Road, the flat benefits from excellent transport links — Devons Road DLR and Bow Road Underground stations are both within easy walking distance, providing quick access to Canary Wharf, The City, and Westfield Stratford. Local shops, cafes, and parks are close by, offering a great balance of convenience and community.",
-     "features": [
-      "Bromley By Bow Station",
-      "Fully Furnished",
-      "Available November"
-     ],
-     "furnished": "Furnished",
-     "station": {
-      "name": "Bromley-by-Bow",
-      "lines": [
-       "District",
-       "H&C"
-      ],
-      "walkMins": 1,
-      "distanceM": 86
-     },
-     "area": "Bow",
-     "tier": 1,
-     "cycleMins": 35,
-     "availability": {
-      "kind": "unknown",
-      "date": null,
-      "flag": "unknown",
-      "text": null
-     },
-     "tags": [
-      "Furnished"
-     ]
-    },
-    {
-     "key": "otm:2878",
-     "source": "onthemarket",
-     "sourceId": "2878",
-     "url": "https://www.onthemarket.com/agents/branch/felicity-j-lord-bow/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -3023,7 +2062,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "Fridge Freezer",
+      "Gas Central Heating"
+     ]
     },
     {
      "key": "otm:54464",
@@ -3075,7 +2118,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "355 sq ft floor area",
+      "Nearest station 0.4mi."
+     ]
     },
     {
      "key": "otm:59329",
@@ -3127,7 +2174,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "Nearest station 0.1mi.",
+      "Furnished"
+     ]
     },
     {
      "key": "otm:48599",
@@ -3179,7 +2230,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "2 Double Bedrooms",
+      "1 Bathroom"
+     ]
     },
     {
      "key": "otm:45387",
@@ -3231,7 +2286,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "Two Generously Sized Bedrooms",
+      "Spacious living room"
+     ]
     },
     {
      "key": "otm:45058",
@@ -3283,7 +2342,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "645 sq ft floor area",
+      "Nearest station 0.2mi."
+     ]
     },
     {
      "key": "otm:49265",
@@ -3335,7 +2398,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "Great location zone 2",
+      "Close to canning town jubilee station"
+     ]
     },
     {
      "key": "otm:48942",
@@ -3387,7 +2454,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "Two bedroom townhouse",
+      "Private gated development"
+     ]
     },
     {
      "key": "otm:45103",
@@ -3439,7 +2510,12 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "Nearest station 0.4mi.",
+      "Unfurnished",
+      "Nearest school 0.1mi."
+     ]
     },
     {
      "key": "otm:73402",
@@ -3491,7 +2567,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bow Road"
+     "searchedStation": "Bow Road",
+     "features": [
+      "2 double bedrooms",
+      "2 bathrooms"
+     ]
     },
     {
      "key": "otm:47551",
@@ -3543,7 +2623,13 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bromley-by-Bow"
+     "searchedStation": "Bromley-by-Bow",
+     "features": [
+      "Two Double Bedrooms",
+      "Newly refurbished",
+      "Suitable for a small family or two sharers",
+      "Available now"
+     ]
     },
     {
      "key": "otm:5415",
@@ -3595,7 +2681,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bromley-by-Bow"
+     "searchedStation": "Bromley-by-Bow",
+     "features": [
+      "Three bedrooms",
+      "Large reception"
+     ]
     },
     {
      "key": "otm:44167",
@@ -3647,7 +2737,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Bromley-by-Bow"
+     "searchedStation": "Bromley-by-Bow",
+     "features": [
+      "Large Open Plan Living Room / Kitchen",
+      "All Appliances Included"
+     ]
     },
     {
      "key": "otm:40844",
@@ -3700,12 +2794,35 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Leyton",
-     "description": "Property Reference: 3068763.  Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now.  Conveniently situated on the vibrant High Street within walking distance  of Wanstead/Snaresbrook  Central Line Stations and surrounded by an excellent selection of shops, restaurants and bars, parks and open spaces.   The flat benefits from  two large double bedrooms, spacious lounge, separate modern kitchen with appliances, bathroom with bath and shower.  Further benefits  include entry phone system, double glazing, GCH.  Ideally suited to a professional couple.  Council Tax Band B EPC Rating C Resident Parking Permit available from Redbridge Council   Summary & Exclusions:  - Rent Amount: £1,795.00 per month (£414.23 per week) - Deposit / Bond: £1,795.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 November 2026 - Maximum number of tenants is 2 - No Students - No Pets, sorry - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: C     If calling, please quote reference: 3068763      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
      "features": [
       "No Agent Fees",
       "Property Reference Number: 3068763"
      ],
+     "description": "Property Reference: 3068763.  Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now.  Conveniently situated on the vibrant High Street within walking distance  of Wanstead/Snaresbrook  Central Line Stations and surrounded by an excellent selection of shops, restaurants and bars, parks and open spaces.   The flat benefits from  two large double bedrooms, spacious lounge, separate modern kitchen with appliances, bathroom with bath and shower.  Further benefits  include entry phone system, double glazing, GCH.  Ideally suited to a professional couple.  Council Tax Band B EPC Rating C Resident Parking Permit available from Redbridge Council   Summary & Exclusions:  - Rent Amount: £1,795.00 per month (£414.23 per week) - Deposit / Bond: £1,795.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 November 2026 - Maximum number of tenants is 2 - No Students - No Pets, sorry - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: C     If calling, please quote reference: 3068763      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
      "furnished": "Unfurnished"
+    },
+    {
+     "key": "otm:72524",
+     "source": "onthemarket",
+     "sourceId": "72524",
+     "url": "https://www.onthemarket.com/agents/branch/openrent-uk/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Leyton"
     },
     {
      "key": "otm:20612961",
@@ -3734,7 +2851,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Renovated Throughout",
+      "Quiet Residential Area"
+     ]
     },
     {
      "key": "otm:67331",
@@ -3786,7 +2907,13 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Two Double Bedrooms",
+      "Great Location for Transport",
+      "Allocated Parking",
+      "Unfurnished"
+     ]
     },
     {
      "key": "otm:5430",
@@ -3839,11 +2966,11 @@
      "availableText": "now",
      "letAgreed": false,
      "searchedStation": "Leyton",
-     "description": "Property Reference: 877683.  We are proud to offer this delightful 3 bedroom, 1 bathroom flat in a great location.  Available to move in from 23 October 2026. Property is offered unfurnished.  Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!    Summary   Rent £2,000.00 per month (£461.54 per week) Deposit / Bond is £2,000.00  Maximum number of tenants is 5   Summary & Exclusions:  - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,000.00 - 3 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 November 2026 - Maximum number of tenants is 5 - No Students - No Pets, sorry - Smokers considered - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: B     If calling, please quote reference: 877683      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
      "features": [
       "No Agent Fees",
       "Property Reference Number: 877683"
      ],
+     "description": "Property Reference: 877683.  We are proud to offer this delightful 3 bedroom, 1 bathroom flat in a great location.  Available to move in from 23 October 2026. Property is offered unfurnished.  Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!    Summary   Rent £2,000.00 per month (£461.54 per week) Deposit / Bond is £2,000.00  Maximum number of tenants is 5   Summary & Exclusions:  - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,000.00 - 3 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 November 2026 - Maximum number of tenants is 5 - No Students - No Pets, sorry - Smokers considered - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: B     If calling, please quote reference: 877683      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
      "furnished": "Unfurnished"
     },
     {
@@ -3873,7 +3000,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Available to Let",
+      "Two Bedroom"
+     ]
     },
     {
      "key": "otm:45300",
@@ -3926,12 +3057,11 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Leyton",
-     "description": "*2-Bedroom Flat to Rent – Langthorne Road, E11 4HL* A delightful two-bedroom flat available to rent in a great location on Langthorne Road, E11 4HL. *Property Features:* - 2 bedrooms - Kitchen-diner - Large bathroom - Just a 5-minute walk to Leyton Station - Close to local shops and everyday amenities *Rent:* £2,000 PCM *Deposit:* £2,000 Ideal for those looking for a comfortable home in a convenient, well-connected location. Contact us today to arrange a viewing.",
      "features": [
       "2 Bedrooms",
-      "1 Bathrooms",
-      "Unfurnished"
+      "1 Bathrooms"
      ],
+     "description": "*2-Bedroom Flat to Rent – Langthorne Road, E11 4HL* A delightful two-bedroom flat available to rent in a great location on Langthorne Road, E11 4HL. *Property Features:* - 2 bedrooms - Kitchen-diner - Large bathroom - Just a 5-minute walk to Leyton Station - Close to local shops and everyday amenities *Rent:* £2,000 PCM *Deposit:* £2,000 Ideal for those looking for a comfortable home in a convenient, well-connected location. Contact us today to arrange a viewing.",
      "furnished": "Unfurnished",
      "station": {
       "name": "Leyton",
@@ -4005,12 +3135,11 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Leyton",
-     "description": "*2-Bedroom Flat to Rent – Langthorne Road, E11 4HL* A delightful two-bedroom flat available to rent in a great location, just a 5-minute walk from Leyton Station and local shops. *Property Features:* - 2 bedrooms - Kitchen-diner - Large bathroom - 5-minute walk to Leyton Station - Close to local shops and amenities - Council tax included in the rent (up to £200) *Rent:* £2,000 PCM *Deposit:* £2,000 Contact us today to arrange a viewing!",
      "features": [
       "2 Bedrooms",
-      "1 Bathrooms",
-      "Unfurnished"
+      "1 Bathrooms"
      ],
+     "description": "*2-Bedroom Flat to Rent – Langthorne Road, E11 4HL* A delightful two-bedroom flat available to rent in a great location, just a 5-minute walk from Leyton Station and local shops. *Property Features:* - 2 bedrooms - Kitchen-diner - Large bathroom - 5-minute walk to Leyton Station - Close to local shops and amenities - Council tax included in the rent (up to £200) *Rent:* £2,000 PCM *Deposit:* £2,000 Contact us today to arrange a viewing!",
      "furnished": "Unfurnished",
      "station": {
       "name": "Leyton",
@@ -4060,7 +3189,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
     },
     {
      "key": "otm:20489949",
@@ -4089,7 +3222,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
     },
     {
      "key": "otm:20309634",
@@ -4118,7 +3255,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "First floor modern garden apartment",
+      "One super sized double and on single"
+     ]
     },
     {
      "key": "otm:45635",
@@ -4171,6 +3312,11 @@
      "availableText": "NOW",
      "letAgreed": false,
      "searchedStation": "Leyton",
+     "features": [
+      "Nearest station 0.2mi.",
+      "Part furnished",
+      "Nearest school 0.2mi."
+     ],
      "description": " AVAILABLE NOW  TWO DOUBLE BEDROOMS WITH BUILT IN WARDROBES  DETACHED BUNGALOW  OWN GARDEN  DOUBLE GLAZED WINDOWS  WALKING DISTANCE TO THE CENTRAL LINE  GAS CENTRAL HEATING  WALKING DISTANCE TO HIGH STREET AND SCHOOLS  Council Tax Band:  Holding Deposit: £0.00  Two Double Bedrooms  Detached Bungalow  Own Private Garden  Walking Distance To Central Line  Double Glazed Windows  Gas Central Heating  Walking Distance To High Street  Available Now  Close To Schools ",
      "furnished": "Part furnished",
      "station": {
@@ -4244,7 +3390,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
     },
     {
      "key": "otm:20614430",
@@ -4273,7 +3423,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Two Bedrooms",
+      "First Floor"
+     ]
     },
     {
      "key": "otm:75846",
@@ -4325,7 +3479,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "White goods included",
+      "Unfurnished"
+     ]
     },
     {
      "key": "otm:60232",
@@ -4377,7 +3535,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Two Bedroom Apartment",
+      "Walthamstow Central"
+     ]
     },
     {
      "key": "otm:20516444",
@@ -4406,7 +3568,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Shops and amenities nearby",
+      "Un-Furnished"
+     ]
     },
     {
      "key": "otm:39212",
@@ -4457,7 +3623,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Nearest station 0.2mi.",
+      "Furnished"
+     ]
     },
     {
      "key": "otm:76135",
@@ -4509,7 +3679,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Two bedroom house",
+      "Open plan lounge kitchen"
+     ]
     },
     {
      "key": "otm:49515",
@@ -4561,7 +3735,12 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Two Bedroom Period Conversion",
+      "First Floor",
+      "Study"
+     ]
     },
     {
      "key": "otm:45009",
@@ -4613,7 +3792,12 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Nearest station 0.5mi.",
+      "Unfurnished",
+      "Nearest school 0.1mi."
+     ]
     },
     {
      "key": "otm:73381",
@@ -4665,7 +3849,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "No Agent Fees",
+      "Property Reference Number: 3091356"
+     ]
     },
     {
      "key": "otm:20650172",
@@ -4694,7 +3882,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "1 ST floor",
+      "2 Bed Flat"
+     ]
     },
     {
      "key": "otm:46456",
@@ -4746,7 +3938,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Well-presented two bedroom ground floor flat",
+      "Spacious living / dining area"
+     ]
     },
     {
      "key": "otm:46913",
@@ -4798,7 +3994,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
     },
     {
      "key": "otm:20361766",
@@ -4827,7 +4027,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "Flat",
+      "2 Beds"
+     ]
     },
     {
      "key": "otm:20665659",
@@ -4856,7 +4060,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leyton"
+     "searchedStation": "Leyton",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
     },
     {
      "key": "otm:20568520",
@@ -4885,7 +4093,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone"
+     "searchedStation": "Leytonstone",
+     "features": [
+      "Two Bedroom Apartment",
+      "Recently Decorted"
+     ]
     },
     {
      "key": "otm:49514",
@@ -4937,7 +4149,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone"
+     "searchedStation": "Leytonstone",
+     "features": [
+      "No Agent Fees",
+      "Property Reference Number: 3076512"
+     ]
     },
     {
      "key": "otm:20576369",
@@ -4966,7 +4182,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone"
+     "searchedStation": "Leytonstone",
+     "features": [
+      "No Agent Fees",
+      "Property Reference Number: 1225102"
+     ]
     },
     {
      "key": "otm:19504816",
@@ -4995,7 +4215,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone"
+     "searchedStation": "Leytonstone",
+     "features": [
+      "Ground Floor Apartment",
+      "Private Rear Garden"
+     ]
     },
     {
      "key": "otm:20582324",
@@ -5025,17 +4249,11 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Leytonstone",
-     "description": "LONG LET. Arranged on the 3rd floor of a secure contemporary block, a well proportioned 2 bedroom flat offers open plan living space with smart fixtures and fittings.\r This fantastic property is located in great residential area with access to many local amenities on Leytonstone High Road and it is within walking distance to Wanstead Flats.\r Please use the reference CHPK3690657 when contacting Foxtons.",
      "features": [
       "2 bedroom flat",
-      "Set within a smart contemporary development",
-      "Open plan reception room with space to dine",
-      "2 well proportioned bedrooms, bathroom with white suite",
-      "Located in a desirable residential area",
-      "Close to many local amenities on Leytonstone High Road",
-      "Walking distance to Wanstead Flats",
-      "Excellent transport links"
+      "Set within a smart contemporary development"
      ],
+     "description": "LONG LET. Arranged on the 3rd floor of a secure contemporary block, a well proportioned 2 bedroom flat offers open plan living space with smart fixtures and fittings.\r This fantastic property is located in great residential area with access to many local amenities on Leytonstone High Road and it is within walking distance to Wanstead Flats.\r Please use the reference CHPK3690657 when contacting Foxtons.",
      "station": {
       "name": "Leytonstone",
       "lines": [
@@ -5053,9 +4271,7 @@
       "flag": "unknown",
       "text": null
      },
-     "tags": [
-      "Separate lounge"
-     ]
+     "tags": []
     },
     {
      "key": "otm:62274",
@@ -5107,7 +4323,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone"
+     "searchedStation": "Leytonstone",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
     },
     {
      "key": "otm:20415069",
@@ -5136,7 +4356,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone"
+     "searchedStation": "Leytonstone",
+     "features": [
+      "Two Generous Double Bedrooms",
+      "Kitchen with Sitting Area"
+     ]
     },
     {
      "key": "otm:20599427",
@@ -5165,7 +4389,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone"
+     "searchedStation": "Leytonstone",
+     "features": [
+      " A superb 2 bedroom apartment",
+      "Set on the first floor of a secure gated block"
+     ]
     },
     {
      "key": "otm:20599823",
@@ -5195,19 +4423,11 @@
      "availableText": "7th January 2027",
      "letAgreed": false,
      "searchedStation": "Leytonstone",
-     "description": "Petty Son & Prestwich are delighted to offer this spacious two double bedroom ground floor apartment, ideally located within easy reach of the High Street's excellent selection of shops, bars, restaurants, and two Central Line stations.  Recently fully redecorated throughout, the property has also benefited from a newly fitted bathroom, an upgraded modern kitchen with granite worktops, and new blinds, creating a fresh and contemporary living space.  The apartment features a generous reception room, a principal bedroom with an en-suite shower room, a second double bedroom, and a stylish family bathroom. Additional benefits include double glazing throughout and residents' parking.  Perfectly positioned for commuters, the apartment is just a 7-minute walk (0.3 miles) from Snaresbrook Central Line Station, providing convenient access into Central London.  Available 7th January 2027 (Potentially earlier)  Unfurnished  Council Tax Band: D  EPC Rating: C70  1 Week Holding Deposit: £450  5 Week Total Deposit: £2250  The property is licensed for one household only. Suitable for a single person, a couple, or small family  ",
      "features": [
       "Contemporary apartment",
-      "Ground floor",
-      "Two double bedrooms",
-      "Modern kitchen & bathroom",
-      "En-suite bathroom",
-      "Residents parking",
-      "Spacious reception",
-      "0.3 Miles from Wanstead High Street",
-      "0.7 Miles to Wanstead Central Line Station",
-      "The property is licensed for one household only. Suitable for a single person, a couple, or small family"
+      "Ground floor"
      ],
+     "description": "Petty Son & Prestwich are delighted to offer this spacious two double bedroom ground floor apartment, ideally located within easy reach of the High Street's excellent selection of shops, bars, restaurants, and two Central Line stations.  Recently fully redecorated throughout, the property has also benefited from a newly fitted bathroom, an upgraded modern kitchen with granite worktops, and new blinds, creating a fresh and contemporary living space.  The apartment features a generous reception room, a principal bedroom with an en-suite shower room, a second double bedroom, and a stylish family bathroom. Additional benefits include double glazing throughout and residents' parking.  Perfectly positioned for commuters, the apartment is just a 7-minute walk (0.3 miles) from Snaresbrook Central Line Station, providing convenient access into Central London.  Available 7th January 2027 (Potentially earlier)  Unfurnished  Council Tax Band: D  EPC Rating: C70  1 Week Holding Deposit: £450  5 Week Total Deposit: £2250  The property is licensed for one household only. Suitable for a single person, a couple, or small family  ",
      "furnished": "Unfurnished",
      "station": {
       "name": "Snaresbrook",
@@ -5281,7 +4501,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone"
+     "searchedStation": "Leytonstone",
+     "features": [
+      "548 sq ft floor area",
+      "Nearest station 0.2mi."
+     ]
     },
     {
      "key": "otm:47758",
@@ -5333,7 +4557,13 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone"
+     "searchedStation": "Leytonstone",
+     "features": [
+      "Study",
+      "Nearest station 0.4mi.",
+      "Furnished",
+      "Nearest school 0.1mi."
+     ]
     },
     {
      "key": "otm:20592815",
@@ -5362,7 +4592,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
     },
     {
      "key": "otm:20307566",
@@ -5391,7 +4625,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Flat",
+      "Children Welcome"
+     ]
     },
     {
      "key": "otm:46786",
@@ -5443,7 +4681,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "678 sq ft floor area",
+      "Nearest station 0.9mi."
+     ]
     },
     {
      "key": "otm:57980",
@@ -5495,7 +4737,12 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Rental development",
+      "571 sq ft floor area",
+      "Nearest station 0.1mi."
+     ]
     },
     {
      "key": "otm:71231",
@@ -5547,7 +4794,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Two Bedroom Flat",
+      "Recently Renovated"
+     ]
     },
     {
      "key": "otm:20605840",
@@ -5576,7 +4827,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
     },
     {
      "key": "otm:20639889",
@@ -5605,7 +4860,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
     },
     {
      "key": "otm:20641240",
@@ -5632,7 +4891,12 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "2 Bedroom Flat",
+      "Separate Living Room",
+      "Study"
+     ]
     },
     {
      "key": "otm:45110",
@@ -5684,7 +4948,15 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Underground parking",
+      "Open-plan living room with floor-to-ceiling windows",
+      "Spacious bedrooms with built-in storage",
+      "Modern bathrooms",
+      "Rental development",
+      "Built for Rental Living"
+     ]
     },
     {
      "key": "otm:70800",
@@ -5735,7 +5007,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Nearest station 0.1mi.",
+      "Available as furnished or unfurnished"
+     ]
     },
     {
      "key": "otm:58298",
@@ -5786,7 +5062,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "No Agent Fees",
+      "Property Reference Number: 3092723"
+     ]
     },
     {
      "key": "otm:20654082",
@@ -5815,7 +5095,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "624 sq ft floor area",
+      "Nearest station 0.3mi."
+     ]
     },
     {
      "key": "otm:45389",
@@ -5867,7 +5151,13 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "689 sq ft floor area",
+      "Nearest station 0.1mi.",
+      "Unfurnished",
+      "Nearest school 0.3mi."
+     ]
     },
     {
      "key": "otm:4964",
@@ -5919,7 +5209,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Nearest station 0.3mi.",
+      "Unfurnished"
+     ]
     },
     {
      "key": "otm:59328",
@@ -5971,7 +5265,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "First Floor Home",
+      "EPC Rating D"
+     ]
     },
     {
      "key": "otm:20660011",
@@ -6000,7 +5298,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "505 sq ft floor area",
+      "Nearest station 0.2mi."
+     ]
     },
     {
      "key": "otm:20418513",
@@ -6029,7 +5331,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Gas central heating",
+      "Double glazing"
+     ]
     },
     {
      "key": "otm:44601",
@@ -6081,7 +5387,12 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Modern Two Bedroom Apartment",
+      "Spacious Open Plan Lounge",
+      "Online viewing"
+     ]
     },
     {
      "key": "otm:20664573",
@@ -6110,7 +5421,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Prime IG5 Location",
+      "Large Private Rear Garden"
+     ]
     },
     {
      "key": "otm:20666245",
@@ -6139,7 +5454,15 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Underground parking",
+      "Open-plan living room with floor-to-ceiling windows",
+      "Spacious bedrooms with built-in storage",
+      "Modern bathrooms",
+      "Rental development",
+      "Built for Rental Living"
+     ]
     },
     {
      "key": "otm:20405110",
@@ -6168,7 +5491,13 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wanstead"
+     "searchedStation": "Wanstead",
+     "features": [
+      "Two Bedroom Flat",
+      "Refurbished",
+      "Open Pan kitchen/diner",
+      "Great Location"
+     ]
     },
     {
      "key": "otm:50690",
@@ -6220,7 +5549,13 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Snaresbrook"
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "Available October",
+      "Two Double Bedrooms",
+      "Recently Refurbished",
+      "Amazing Location"
+     ]
     },
     {
      "key": "otm:20322455",
@@ -6249,7 +5584,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Snaresbrook"
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "No Agent Fees",
+      "Property Reference Number: 3031012"
+     ]
     },
     {
      "key": "otm:12719929",
@@ -6279,19 +5618,11 @@
      "availableText": "now",
      "letAgreed": false,
      "searchedStation": "Snaresbrook",
-     "description": "*LARGE 2 BEDROOM BUNGALOW WITH PRIVATE GARDEN* Real Move Estates are pleased to offer you this wonderful newly refurbished purpose built 2 bedroom purpose built bungalow, AVAILABLE 5TH OCTOBER 2026 in Leytonstone E11, walking distance to Leytonstone Station (Central Line) AVAILABLE 28TH JANUARY 2026!  The property boasts 2 double bedrooms, large open plan reception & kitchen with white goods, family bathroom, private garden, gas central heating & double glazed windows. The property comes partly furnished and is AVAILABLE 5TH OCTOBER 2026. Close to all local amenities, schools and transport links. Viewings are highly recommended.  To arrange a viewing please call Real Move Estates.   what3words ///    coast.dots.turned    Notice  All photographs are provided for guidance only.  Redress scheme provided by: The Property Ombudsman (D10209) Client Money Protection provided by: CMP (CMP007010)",
      "features": [
       "Newly refurbished",
-      "Purpose built 2 bedroom bungalow",
-      "2 double bedrooms",
-      "Large open plan kitchen / lounge",
-      "Family bathroom",
-      "Private garden",
-      "Walking distance to leytonstone station",
-      "Available 25 th october 2026",
-      "Gas central heating & double glazed windows throughout",
-      "EPC RATING C"
+      "Purpose built 2 bedroom bungalow"
      ],
+     "description": "*LARGE 2 BEDROOM BUNGALOW WITH PRIVATE GARDEN* Real Move Estates are pleased to offer you this wonderful newly refurbished purpose built 2 bedroom purpose built bungalow, AVAILABLE 5TH OCTOBER 2026 in Leytonstone E11, walking distance to Leytonstone Station (Central Line) AVAILABLE 28TH JANUARY 2026!  The property boasts 2 double bedrooms, large open plan reception & kitchen with white goods, family bathroom, private garden, gas central heating & double glazed windows. The property comes partly furnished and is AVAILABLE 5TH OCTOBER 2026. Close to all local amenities, schools and transport links. Viewings are highly recommended.  To arrange a viewing please call Real Move Estates.   what3words ///    coast.dots.turned    Notice  All photographs are provided for guidance only.  Redress scheme provided by: The Property Ombudsman (D10209) Client Money Protection provided by: CMP (CMP007010)",
      "furnished": "Part furnished",
      "station": {
       "name": "Leytonstone",
@@ -6366,17 +5697,11 @@
      "availableText": "30/10/26",
      "letAgreed": false,
      "searchedStation": "Snaresbrook",
-     "description": "  This delightful two-bedroom first-floor flat, featuring its own private entrance, is nestled in a highly sought-after residential turning in Upper Leytonstone.       Just a short stroll away, you'll find Leytonstone Central Line tube station, providing swift connections to the heart of London in under 20 minutes – ideal for commuters and city explorers alike. The location is also superbly connected by local bus routes and nearby road links, including easy access to the A12 and M11.       For everyday conveniences and leisure, the popular Leytonstone High Road is within walking distance. Here, you can enjoy an eclectic mix of popular restaurants, cosy cafes, trendy bars, and the convenience of a M&S Foodhall, Tesco superstore and Aldi. Additionally, the area boasts a friendly community atmosphere and is known for its green spaces, including the stunning Hollow Ponds.       Comprising:  Entrance via own front door, carpeted staircase to first floor landing, spacious bay fronted living/dining area with feature cast iron fireplace, fitted kitchen including appliances, two good size bedrooms and an attractive tiled bathroom suite.      (Photos taken before current tenancy)       In Addition:        Close to local amenities & shopping     Transport links into Westfield Stratford City, The Queen Elizabeth Olympic Park & East Village     Road links incl. A12, A406 & M11     Available 30/10/26     Deposit: £2,250     Council Tax Band: C      Viewing by appointment via Theydons      Disclaimer: (All measurements are approximate sizes and are given as a guide only as obstacles may have prevented accuracy)     All photographs are reproduced for general information and it cannot be inferred that any items shown are included.     \"These particulars have been prepared by Theydons upon the instruction of the owner(s) and they shall not constitute an offer or the basis of any contract. Our inspection of the property was purely to prepare these particulars and no form of survey, structural or otherwise was carried out. Services, fittings and equipment referred to within the particulars have not been tested (unless otherwise stated) and no warranties can be given. ",
      "features": [
       "Well presented and spacious first floor two bedroom flat",
-      "Own front door",
-      "Spacious lounge",
-      "Fitted kitchen incl. oven & hob",
-      "Attractive tiled bathroom suite",
-      "Easy walking distances to shops & tube",
-      "Popular restaurants, bars and cafes nearby",
-      "Good access to the beautiful Hollow Ponds & Epping Forest"
+      "Own front door"
      ],
+     "description": "  This delightful two-bedroom first-floor flat, featuring its own private entrance, is nestled in a highly sought-after residential turning in Upper Leytonstone.       Just a short stroll away, you'll find Leytonstone Central Line tube station, providing swift connections to the heart of London in under 20 minutes – ideal for commuters and city explorers alike. The location is also superbly connected by local bus routes and nearby road links, including easy access to the A12 and M11.       For everyday conveniences and leisure, the popular Leytonstone High Road is within walking distance. Here, you can enjoy an eclectic mix of popular restaurants, cosy cafes, trendy bars, and the convenience of a M&S Foodhall, Tesco superstore and Aldi. Additionally, the area boasts a friendly community atmosphere and is known for its green spaces, including the stunning Hollow Ponds.       Comprising:  Entrance via own front door, carpeted staircase to first floor landing, spacious bay fronted living/dining area with feature cast iron fireplace, fitted kitchen including appliances, two good size bedrooms and an attractive tiled bathroom suite.      (Photos taken before current tenancy)       In Addition:        Close to local amenities & shopping     Transport links into Westfield Stratford City, The Queen Elizabeth Olympic Park & East Village     Road links incl. A12, A406 & M11     Available 30/10/26     Deposit: £2,250     Council Tax Band: C      Viewing by appointment via Theydons      Disclaimer: (All measurements are approximate sizes and are given as a guide only as obstacles may have prevented accuracy)     All photographs are reproduced for general information and it cannot be inferred that any items shown are included.     \"These particulars have been prepared by Theydons upon the instruction of the owner(s) and they shall not constitute an offer or the basis of any contract. Our inspection of the property was purely to prepare these particulars and no form of survey, structural or otherwise was carried out. Services, fittings and equipment referred to within the particulars have not been tested (unless otherwise stated) and no warranties can be given. ",
      "furnished": "Part furnished",
      "station": {
       "name": "Leytonstone",
@@ -6426,7 +5751,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Snaresbrook"
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "First floor flat",
+      "Two double bedroom"
+     ]
     },
     {
      "key": "otm:20558283",
@@ -6456,15 +5785,11 @@
      "availableText": "Now",
      "letAgreed": false,
      "searchedStation": "Snaresbrook",
-     "description": "Petty Son & Prestwich are delighted to offer to rent this spacious and stylish two bedroom ground-floor apartment, set within the highly desirable and characterful Wanstead Hospital Development.  Ideally positioned just 0.5 miles from both Snaresbrook Station and Wanstead High Street, the property combines contemporary interiors with the charm and convenience of this sought-after East London location.  Wanstead is renowned for its village-like atmosphere, offering an appealing mix of independent shops, cafés, bars and restaurants. Excellent transport connections are available via the Central Line at Wanstead, Snaresbrook and South Woodford, alongside numerous bus routes and convenient access to the M11, M25 and North Circular Road.  Upon entering, a spacious hallway sets the tone for the apartment's clean, contemporary aesthetic. Crisp white walls and dark wood flooring create a smart, cohesive finish, with the flooring continuing seamlessly into the principal living space and kitchen.  The generous lounge and dining area is a particular highlight, featuring an attractive bay window that allows natural light to fill the room. An elegant archway leads through to the kitchen, creating a natural transition between the two spaces while maintaining a sense of openness. The kitchen is fitted with high-gloss white cabinetry, complemented by a black worktop for a striking, modern finish.  The property further benefits from two well-proportioned bedrooms, each featuring an attractive dual-window design, alongside a newly renovated, fully tiled bathroom. The bathroom is finished with a shower over the bath and a recessed feature mirror with integrated spotlights, adding a contemporary touch. There is also the advantage of having an allocated parking space.  Combining generous proportions, modern finishes and an enviable Wanstead location, this appealing apartment offers an excellent opportunity to enjoy stylish living with an array of local amenities and transport links close at hand.  Available Now  Unfurnished  1 Week Holding Deposit: £438.46  5 week Total Deposit: £2192.30  EPC Rating: D65  Council Tax Band: C   Reception Room  - 14'3\" x 12'2\" -    Kitchen  - 8'8\" x 7'8\" -    Bedroom  - 12'3\" x 9'4\" -    Bedroom  - 8'11\" x 6'5\" -   ",
      "features": [
       "Two bedroom apartment",
-      "Ground floor",
-      "Modern kitchen and bathroom",
-      "Large lounge/diner",
-      "Allocated parking space",
-      "0.5 miles from Snaresbrook Underground Station"
+      "Ground floor"
      ],
+     "description": "Petty Son & Prestwich are delighted to offer to rent this spacious and stylish two bedroom ground-floor apartment, set within the highly desirable and characterful Wanstead Hospital Development.  Ideally positioned just 0.5 miles from both Snaresbrook Station and Wanstead High Street, the property combines contemporary interiors with the charm and convenience of this sought-after East London location.  Wanstead is renowned for its village-like atmosphere, offering an appealing mix of independent shops, cafés, bars and restaurants. Excellent transport connections are available via the Central Line at Wanstead, Snaresbrook and South Woodford, alongside numerous bus routes and convenient access to the M11, M25 and North Circular Road.  Upon entering, a spacious hallway sets the tone for the apartment's clean, contemporary aesthetic. Crisp white walls and dark wood flooring create a smart, cohesive finish, with the flooring continuing seamlessly into the principal living space and kitchen.  The generous lounge and dining area is a particular highlight, featuring an attractive bay window that allows natural light to fill the room. An elegant archway leads through to the kitchen, creating a natural transition between the two spaces while maintaining a sense of openness. The kitchen is fitted with high-gloss white cabinetry, complemented by a black worktop for a striking, modern finish.  The property further benefits from two well-proportioned bedrooms, each featuring an attractive dual-window design, alongside a newly renovated, fully tiled bathroom. The bathroom is finished with a shower over the bath and a recessed feature mirror with integrated spotlights, adding a contemporary touch. There is also the advantage of having an allocated parking space.  Combining generous proportions, modern finishes and an enviable Wanstead location, this appealing apartment offers an excellent opportunity to enjoy stylish living with an array of local amenities and transport links close at hand.  Available Now  Unfurnished  1 Week Holding Deposit: £438.46  5 week Total Deposit: £2192.30  EPC Rating: D65  Council Tax Band: C   Reception Room  - 14'3\" x 12'2\" -    Kitchen  - 8'8\" x 7'8\" -    Bedroom  - 12'3\" x 9'4\" -    Bedroom  - 8'11\" x 6'5\" -   ",
      "furnished": "Unfurnished",
      "station": {
       "name": "Snaresbrook",
@@ -6515,7 +5840,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Snaresbrook"
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "2 Double Bedrooms",
+      "Balcony"
+     ]
     },
     {
      "key": "otm:20604944",
@@ -6540,7 +5869,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Snaresbrook"
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "1,808 sq ft floor area",
+      "Nearest station 0.6mi."
+     ]
     },
     {
      "key": "otm:57255",
@@ -6592,7 +5925,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Snaresbrook"
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "Available Now",
+      "Split level Two bedroom flat"
+     ]
     },
     {
      "key": "otm:49585",
@@ -6645,18 +5982,11 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Snaresbrook",
-     "description": "Introducing this exceptional two bedroom apartment, perfectly positioned on the second floor of a highly sought-after, secured development in the heart of Wanstead. This elegant flat is thoughtfully designed to offer a sense of space and light throughout, with generous proportions that set it apart from others in the area. Upon entry, you are welcomed by a spacious hallway that leads to the bright and inviting living area, ideal for both relaxing evenings and entertaining guests. The modern kitchen is well-appointed, featuring quality appliances and ample storage, ensuring a seamless cooking and dining experience. Both bedrooms are generously sized, providing comfortable retreats with room for additional furnishings or a dedicated workspace if desired. The contemporary bathroom is stylishly finished, offering a tranquil space to unwind. Residents benefit from an allocated parking space within the secured development, adding convenience and peace of mind. The property is situated just moments from Wanstead High Street, where a vibrant selection of shops, bars and restaurants await, catering to every lifestyle need. Excellent transport links are close by, with both Wanstead and Snaresbrook stations within easy reach, providing swift connections to the City and beyond. The development also features well-maintained communal gardens (perfect for enjoying the outdoors in a peaceful setting), enhancing the overall sense of community and well-being. This impressive apartment represents an outstanding opportunity for those seeking stylish, spacious living in a prime East London location, with all amenities and transport options on the doorstep. Early viewing is strongly recommended to appreciate the quality and convenience this property has to offer. EPC Rating: C",
      "features": [
       "Two Bedroom Apartment",
-      "Secured Development",
-      "Located on Second Floor",
-      "Allocated Parking Space",
-      "Spacious Throughout",
-      "Communal Gardens",
-      "Close to Wanstead High Street",
-      "Many Amenities available including Shops, Bars and Restaurants",
-      "Both Wanstead & Snaresbrook Stations Close By"
+      "Secured Development"
      ],
+     "description": "Introducing this exceptional two bedroom apartment, perfectly positioned on the second floor of a highly sought-after, secured development in the heart of Wanstead. This elegant flat is thoughtfully designed to offer a sense of space and light throughout, with generous proportions that set it apart from others in the area. Upon entry, you are welcomed by a spacious hallway that leads to the bright and inviting living area, ideal for both relaxing evenings and entertaining guests. The modern kitchen is well-appointed, featuring quality appliances and ample storage, ensuring a seamless cooking and dining experience. Both bedrooms are generously sized, providing comfortable retreats with room for additional furnishings or a dedicated workspace if desired. The contemporary bathroom is stylishly finished, offering a tranquil space to unwind. Residents benefit from an allocated parking space within the secured development, adding convenience and peace of mind. The property is situated just moments from Wanstead High Street, where a vibrant selection of shops, bars and restaurants await, catering to every lifestyle need. Excellent transport links are close by, with both Wanstead and Snaresbrook stations within easy reach, providing swift connections to the City and beyond. The development also features well-maintained communal gardens (perfect for enjoying the outdoors in a peaceful setting), enhancing the overall sense of community and well-being. This impressive apartment represents an outstanding opportunity for those seeking stylish, spacious living in a prime East London location, with all amenities and transport options on the doorstep. Early viewing is strongly recommended to appreciate the quality and convenience this property has to offer. EPC Rating: C",
      "furnished": "Part furnished",
      "station": {
       "name": "Snaresbrook",
@@ -6729,7 +6059,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Snaresbrook"
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "Two double bedrooms",
+      "Ground Floor"
+     ]
     },
     {
      "key": "otm:858",
@@ -6781,7 +6115,11 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Snaresbrook"
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "Available from mid November",
+      "Two bedroom Second Floor Apartment"
+     ]
     },
     {
      "key": "otm:20630292",
@@ -6810,7 +6148,12 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Snaresbrook"
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "Three-bedroom first-floor apartment",
+      "Approximately 650 sq ft / 60 sq m",
+      "Study"
+     ]
     },
     {
      "key": "otm:60763",
@@ -7116,7 +6459,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:92981256": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7126,7 +6469,7 @@
      1960
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94570191": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7136,7 +6479,7 @@
      1825
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94330617": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7146,7 +6489,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94039602": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7156,7 +6499,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94342545": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7166,7 +6509,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:61477733": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7176,7 +6519,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:76122626": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7186,7 +6529,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:93123918": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7196,7 +6539,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94477815": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7206,7 +6549,7 @@
      1920
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94741641": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7216,7 +6559,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94779093": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7226,7 +6569,7 @@
      1850
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94789998": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7236,7 +6579,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94412499": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7246,7 +6589,7 @@
      1775
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94202934": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7256,7 +6599,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94418868": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7266,7 +6609,7 @@
      1795
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:93937143": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7276,7 +6619,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94344960": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7286,7 +6629,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94577811": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7296,7 +6639,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "rm:94698183": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7306,7 +6649,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "otm:20642121": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7316,7 +6659,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "otm:20621841": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7326,7 +6669,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "otm:20621890": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7336,7 +6679,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   },
   "otm:20406859": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7346,8 +6689,11 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-01T21:27:55Z"
+   "lastSeen": "2026-11-01T21:30:44Z"
   }
  },
- "lastRun": "2026-11-01T21:27:55Z"
+ "lastRun": "2026-11-01T21:30:44Z",
+ "onthemarketSlugs": {
+  "Mile End": "mile-end-london"
+ }
 }
