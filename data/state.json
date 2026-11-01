@@ -1,7 +1,7 @@
 {
  "lastResults": {
   "rightmove": {
-   "at": "2026-11-01T21:17:17Z",
+   "at": "2026-11-01T21:27:01Z",
    "items": [
     {
      "key": "rm:94910721",
@@ -1232,7 +1232,7 @@
    ]
   },
   "onthemarket": {
-   "at": "2026-11-01T21:17:42Z",
+   "at": "2026-11-01T21:27:28Z",
    "items": [
     {
      "key": "otm:17128455",
@@ -2865,6 +2865,138 @@
      "searchedStation": "Mile End"
     },
     {
+     "key": "otm:20586667",
+     "source": "onthemarket",
+     "sourceId": "20586667",
+     "url": "https://www.onthemarket.com/details/20586667/",
+     "title": "2 bedroom flat to rent",
+     "address": "Lockwood Square, London SE16",
+     "pricePcm": 2000,
+     "priceText": "£2,000",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.496534,
+     "lon": -0.06054,
+     "image": "https://media.onthemarket.com/properties/20586667/1653303390/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20586667/1653303390/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20586667/1653303390/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20586667/1653303390/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20586667/1653303390/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20586667/1653303390/image-4-480x320.jpg"
+     ],
+     "agent": "ea2 - Wapping",
+     "addedText": "Added < 14 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Stepney Green"
+    },
+    {
+     "key": "otm:70139",
+     "source": "onthemarket",
+     "sourceId": "70139",
+     "url": "https://www.onthemarket.com/agents/branch/ea2-wapping/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Stepney Green"
+    },
+    {
+     "key": "otm:18067665",
+     "source": "onthemarket",
+     "sourceId": "18067665",
+     "url": "https://www.onthemarket.com/details/18067665/",
+     "title": "2 bedroom apartment to rent",
+     "address": "Talwin Street, London",
+     "pricePcm": 1960,
+     "priceText": "£1,960",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Apartment",
+     "lat": 51.525554802048,
+     "lon": -0.012187538674,
+     "image": "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/18067665/1643210731/image-4-480x320.jpg"
+     ],
+     "agent": "Felicity J. Lord - Bow",
+     "addedText": "Reduced < 14 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Stepney Green",
+     "description": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3   Welcome to this stylish and well-presented two-bedroom furnished apartment located on Talwin Street, E3. Perfectly positioned within easy reach of Bow, Mile End and Stratford, this property offers modern living in a vibrant East London neighbourhood.  Property Features:  Spacious open-plan living area with comfortable furnishings and large windows allowing plenty of natural light  Contemporary fitted kitchen with integrated appliances, ample storage and workspace  Two well-proportioned bedrooms, both fully furnished and neutrally decorated  Modern bathroom suite with bath and shower  Furnished throughout to a high standard  Double glazing and gas central heating  Secure entry system  Location:  Situated in a quiet residential street just off Devons Road, the flat benefits from excellent transport links — Devons Road DLR and Bow Road Underground stations are both within easy walking distance, providing quick access to Canary Wharf, The City, and Westfield Stratford. Local shops, cafes, and parks are close by, offering a great balance of convenience and community.",
+     "features": [
+      "Bromley By Bow Station",
+      "Fully Furnished",
+      "Available November"
+     ],
+     "furnished": "Furnished",
+     "station": {
+      "name": "Bromley-by-Bow",
+      "lines": [
+       "District",
+       "H&C"
+      ],
+      "walkMins": 1,
+      "distanceM": 86
+     },
+     "area": "Bow",
+     "tier": 1,
+     "cycleMins": 35,
+     "availability": {
+      "kind": "unknown",
+      "date": null,
+      "flag": "unknown",
+      "text": null
+     },
+     "tags": [
+      "Furnished"
+     ]
+    },
+    {
+     "key": "otm:2878",
+     "source": "onthemarket",
+     "sourceId": "2878",
+     "url": "https://www.onthemarket.com/agents/branch/felicity-j-lord-bow/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Stepney Green"
+    },
+    {
      "key": "otm:20037921",
      "source": "onthemarket",
      "sourceId": "20037921",
@@ -3366,86 +3498,6 @@
      "source": "onthemarket",
      "sourceId": "47551",
      "url": "https://www.onthemarket.com/agents/branch/abby-homes-canary-wharf/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Bow Road"
-    },
-    {
-     "key": "otm:18067665",
-     "source": "onthemarket",
-     "sourceId": "18067665",
-     "url": "https://www.onthemarket.com/details/18067665/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Talwin Street, London",
-     "pricePcm": 1960,
-     "priceText": "£1,960",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.525554802048,
-     "lon": -0.012187538674,
-     "image": "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-4-480x320.jpg"
-     ],
-     "agent": "Felicity J. Lord - Bow",
-     "addedText": "Reduced < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Bow Road",
-     "description": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3   Welcome to this stylish and well-presented two-bedroom furnished apartment located on Talwin Street, E3. Perfectly positioned within easy reach of Bow, Mile End and Stratford, this property offers modern living in a vibrant East London neighbourhood.  Property Features:  Spacious open-plan living area with comfortable furnishings and large windows allowing plenty of natural light  Contemporary fitted kitchen with integrated appliances, ample storage and workspace  Two well-proportioned bedrooms, both fully furnished and neutrally decorated  Modern bathroom suite with bath and shower  Furnished throughout to a high standard  Double glazing and gas central heating  Secure entry system  Location:  Situated in a quiet residential street just off Devons Road, the flat benefits from excellent transport links — Devons Road DLR and Bow Road Underground stations are both within easy walking distance, providing quick access to Canary Wharf, The City, and Westfield Stratford. Local shops, cafes, and parks are close by, offering a great balance of convenience and community.",
-     "features": [
-      "Bromley By Bow Station",
-      "Fully Furnished",
-      "Available November"
-     ],
-     "furnished": "Furnished",
-     "station": {
-      "name": "Bromley-by-Bow",
-      "lines": [
-       "District",
-       "H&C"
-      ],
-      "walkMins": 1,
-      "distanceM": 86
-     },
-     "area": "Bow",
-     "tier": 1,
-     "cycleMins": 35,
-     "availability": {
-      "kind": "unknown",
-      "date": null,
-      "flag": "unknown",
-      "text": null
-     },
-     "tags": [
-      "Furnished"
-     ]
-    },
-    {
-     "key": "otm:2878",
-     "source": "onthemarket",
-     "sourceId": "2878",
-     "url": "https://www.onthemarket.com/agents/branch/felicity-j-lord-bow/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -6794,7 +6846,8 @@
   "Leyton": "STATION^5537",
   "Leytonstone": "STATION^5543",
   "Wanstead": "STATION^9596",
-  "Snaresbrook": "STATION^8345"
+  "Snaresbrook": "STATION^8345",
+  "Bromley-by-Bow": "STATION^1445"
  },
  "details": {
   "rm:94910721": {
@@ -7063,7 +7116,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:92981256": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7073,7 +7126,7 @@
      1960
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94570191": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7083,7 +7136,7 @@
      1825
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94330617": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7093,7 +7146,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94039602": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7103,7 +7156,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94342545": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7113,7 +7166,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:61477733": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7123,7 +7176,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:76122626": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7133,7 +7186,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:93123918": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7143,7 +7196,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94477815": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7153,7 +7206,7 @@
      1920
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94741641": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7163,7 +7216,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94779093": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7173,7 +7226,7 @@
      1850
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94789998": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7183,7 +7236,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94412499": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7193,7 +7246,7 @@
      1775
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94202934": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7203,7 +7256,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94418868": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7213,7 +7266,7 @@
      1795
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:93937143": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7223,7 +7276,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94344960": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7233,7 +7286,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94577811": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7243,7 +7296,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "rm:94698183": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7253,7 +7306,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "otm:20642121": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7263,7 +7316,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "otm:20621841": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7273,7 +7326,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "otm:20621890": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7283,7 +7336,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   },
   "otm:20406859": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -7293,8 +7346,8 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-01T21:19:13Z"
+   "lastSeen": "2026-11-01T21:27:55Z"
   }
  },
- "lastRun": "2026-11-01T21:19:13Z"
+ "lastRun": "2026-11-01T21:27:55Z"
 }

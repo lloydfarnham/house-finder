@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T21:19:13Z",
+ "generatedAt": "2026-11-01T21:27:55Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -23,29 +23,29 @@
   "Rightmove": {
    "ok": true,
    "found": 25,
-   "at": "2026-11-01T21:17:17Z"
+   "at": "2026-11-01T21:27:01Z"
   },
   "Zoopla": {
    "ok": false,
    "error": "Bethnal Green: HTTP 403 for https://www.zoopla.co.uk/to-rent/property/station/tube/bethnal-green/?beds_min=2&beds_max=3&price_frequency=per_month&price_max=2000&radius=0.5&results_sort=newest_listings",
-   "at": "2026-11-01T21:17:19Z",
+   "at": "2026-11-01T21:27:05Z",
    "usingResultsFrom": null
   },
   "OnTheMarket": {
    "ok": true,
-   "found": 195,
-   "at": "2026-11-01T21:17:42Z"
+   "found": 197,
+   "at": "2026-11-01T21:27:28Z"
   },
   "OpenRent": {
    "ok": false,
    "error": "Bethnal Green: HTTP 405 for https://www.openrent.co.uk/properties-to-rent/london?term=Bethnal+Green+Station%2C+London&area=0.8&prices_max=2000&bedrooms_min=2&bedrooms_max=3&isLive=true&acceptStudents=",
-   "at": "2026-11-01T21:18:07Z",
+   "at": "2026-11-01T21:27:55Z",
    "usingResultsFrom": null
   }
  },
  "excluded": {
-  "too far from tube": 101,
-  "price": 73,
+  "too far from tube": 102,
+  "price": 74,
   "excluded area": 13,
   "location": 2
  },
