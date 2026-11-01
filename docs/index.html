@@ -19,7 +19,7 @@
         <span class="logo" aria-hidden="true">🏡</span>
         <div>
           <h1>House Hunt</h1>
-          <p class="sub" id="criteria">East London · 2 bed · up to £2,000 pcm</p>
+          <p class="sub" id="criteria">East &amp; North London · 2 bed · up to £2,000 pcm</p>
         </div>
       </div>
       <div class="who" id="who" role="group" aria-label="Who's using this?">
@@ -49,14 +49,14 @@
             <span>Area</span>
             <select id="f-area">
               <option value="all">All areas</option>
-              <option value="1">Bethnal Green, Mile End &amp; Bow</option>
-              <option value="2">Leyton, Leytonstone &amp; Wanstead</option>
+              <option value="pref">Preferred (Bethnal Green, Mile End, Bow)</option>
             </select>
           </label>
           <label class="field">
             <span>Sort</span>
             <select id="f-sort">
               <option value="new">Newest first</option>
+              <option value="pref">Preferred areas first</option>
               <option value="price">Cheapest first</option>
               <option value="walk">Closest to tube</option>
               <option value="cycle">Shortest cycle to Euston</option>
@@ -72,6 +72,17 @@
               <option value="1600">£1,600</option>
             </select>
           </label>
+          <label class="field">
+            <span>Cycle to Euston</span>
+            <select id="f-cycle">
+              <option value="99">Any (≤ 45 min)</option>
+              <option value="40">≤ 40 min</option>
+              <option value="35">≤ 35 min</option>
+              <option value="30">≤ 30 min</option>
+              <option value="25">≤ 25 min</option>
+            </select>
+          </label>
+          <label class="check"><input type="checkbox" id="f-tube"> Tube stations only</label>
           <label class="check"><input type="checkbox" id="f-outdoor"> Garden / balcony</label>
           <label class="check"><input type="checkbox" id="f-jan"> Confirmed January dates only</label>
           <label class="check" title="Flats available now or before mid-December are usually let long before January"><input type="checkbox" id="f-early"> Include ones available before mid-Dec</label>

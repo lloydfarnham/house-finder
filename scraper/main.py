@@ -113,7 +113,10 @@ def prefilter(l: dict, cfg: dict) -> str | None:
         if ex and ex[1] < d:
             return "excluded area"
         if walk_minutes(d) > s["maxWalkMins"]:
-            return "too far from tube"
+            return "too far from a station"
+        c = cfg["commute"]
+        if s.get("maxCycleMins") and cycle_minutes(haversine_m(lat, lon, c["lat"], c["lon"])) > s["maxCycleMins"]:
+            return "too far to cycle"
     return None
 
 
@@ -123,12 +126,17 @@ def enrich(l: dict, cfg: dict) -> None:
         lat, lon = float(l["lat"]), float(l["lon"])
         st, d = nearest(cfg["stations"], lat, lon)
         c = cfg["commute"]
-        l["station"] = {"name": st["name"], "lines": st["lines"], "walkMins": walk_minutes(d), "distanceM": round(d)}
+        l["station"] = {"name": st["name"], "lines": st["lines"], "mode": st.get("mode", "tube"),
+                        "walkMins": walk_minutes(d), "distanceM": round(d)}
+        tubes = [x for x in cfg["stations"] if x.get("mode", "tube") == "tube"]
+        if tubes:
+            ts, td = nearest(tubes, lat, lon)
+            l["tube"] = {"name": ts["name"], "lines": ts["lines"], "walkMins": walk_minutes(td)}
         l["area"], l["tier"] = st["area"], st["tier"]
         l["cycleMins"] = cycle_minutes(haversine_m(lat, lon, c["lat"], c["lon"]))
     else:
         st = next(x for x in cfg["stations"] if x["name"] == l["searchedStation"])
-        l["station"] = {"name": st["name"], "lines": st["lines"], "walkMins": None, "distanceM": None}
+        l["station"] = {"name": st["name"], "lines": st["lines"], "mode": st.get("mode", "tube"), "walkMins": None, "distanceM": None}
         l["area"], l["tier"] = st["area"], st["tier"]
         l["cycleMins"] = None
     # availability
@@ -351,6 +359,7 @@ def main() -> int:
         "criteria": {
             **cfg["search"],
             "areas": sorted({st["area"] for st in cfg["stations"]}, key=lambda a: [st["area"] for st in cfg["stations"]].index(a)),
+            "preferredAreas": sorted({st["area"] for st in cfg["stations"] if st.get("tier") == 1}),
             "commute": cfg["commute"]["name"],
         },
         "sources": {SOURCE_LABEL[k]: v for k, v in source_status.items()},

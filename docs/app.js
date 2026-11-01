@@ -31,7 +31,7 @@
     hidden: new Set(),
     who: ls.get("hh.who", null),
     tab: ls.get("hh.tab", "properties"),
-    filters: Object.assign({ area: "all", sort: "new", price: "2000", outdoor: false, jan: false, early: false, hidden: false }, ls.get("hh.filters", {})),
+    filters: Object.assign({ area: "all", sort: "new", price: "2000", cycle: "99", tube: false, outdoor: false, jan: false, early: false, hidden: false }, ls.get("hh.filters", {})),
     lastVisit: ls.get("hh.lastVisit", null),
     photoIdx: {},
   };
@@ -151,7 +151,11 @@
   function factsHtml(l) {
     const st = l.station || {};
     const lines = (st.lines || []).join(", ");
-    const walk = st.walkMins ? `<strong>${st.walkMins} min walk</strong> to ${esc(st.name)} <span class="meta">(${esc(lines)})</span>` : `Near ${esc(st.name || l.area)} <span class="meta">(exact location hidden)</span>`;
+    let walk = st.walkMins ? `<strong>${st.walkMins} min walk</strong> to ${esc(st.name)} <span class="meta">(${esc(lines)})</span>` : `Near ${esc(st.name || l.area)} <span class="meta">(exact location hidden)</span>`;
+    const tube = l.tube;
+    if (st.mode === "overground" && tube && tube.walkMins != null) {
+      walk += `<br><span class="meta">Nearest tube: ${esc(tube.name)}, ${tube.walkMins} min walk (${esc((tube.lines || []).join(", "))})</span>`;
+    }
     const rooms = [l.beds != null ? `${l.beds} bed` : null, l.baths ? `${l.baths} bath` : null, l.sizeSqft ? `${l.sizeSqft} sq ft` : null].filter(Boolean).join(" · ");
     return `
       <div class="facts">
@@ -180,7 +184,10 @@
     const f = state.filters;
     let list = state.data.listings.filter((l) => {
       if (!f.hidden && state.hidden.has(l.id)) return false;
-      if (f.area !== "all" && String(l.tier) !== f.area) return false;
+      if (f.area === "pref" && l.tier !== 1) return false;
+      if (f.area.startsWith("a:") && l.area !== f.area.slice(2)) return false;
+      if (l.cycleMins != null && l.cycleMins > Number(f.cycle)) return false;
+      if (f.tube && !(l.tube && l.tube.walkMins != null && l.tube.walkMins <= ((state.data.criteria || {}).maxWalkMins || 10))) return false;
       if (l.price > Number(f.price)) return false;
       if (f.outdoor && !hasOutdoor(l)) return false;
       if (f.jan && (l.availability || {}).flag !== "ok") return false;
@@ -189,6 +196,7 @@
     });
     const by = {
       new: (a, b) => b.firstSeen.localeCompare(a.firstSeen),
+      pref: (a, b) => (a.tier || 2) - (b.tier || 2) || b.firstSeen.localeCompare(a.firstSeen),
       price: (a, b) => a.price - b.price,
       walk: (a, b) => ((a.station || {}).walkMins ?? 99) - ((b.station || {}).walkMins ?? 99),
       cycle: (a, b) => (a.cycleMins ?? 999) - (b.cycleMins ?? 999),
@@ -238,7 +246,8 @@
     $("#count-properties").textContent = d ? d.listings.length - hiddenCount - (state.filters.early ? 0 : earlyCount) : 0;
     if (d) {
       const c = d.criteria || {};
-      $("#criteria").textContent = `${(c.areas || []).join(" · ")} · ${c.minBeds}+ bed · ≤ ${money(c.maxPricePcm)} pcm · ≤ ${c.maxWalkMins} min to tube`;
+      $("#criteria").textContent = `East & North London · ${c.minBeds}+ bed · ≤ ${money(c.maxPricePcm)} pcm · ≤ ${c.maxWalkMins} min walk to a station` + (c.maxCycleMins ? ` · ≤ ${c.maxCycleMins} min cycle to Euston` : "");
+      fillAreas(d);
       $("#updated").innerHTML = `Last searched <strong>${ago(d.generatedAt)}</strong> · checks hourly 8am–7pm` +
         (CFG.repo ? ` · <a href="https://github.com/${esc(CFG.repo)}/actions/workflows/scrape.yml" target="_blank" rel="noopener">run a search now</a>` : "");
       $("#sources").innerHTML = Object.entries(d.sources || {}).map(([name, s]) =>
@@ -251,6 +260,20 @@
         (exTxt ? ` Filtered out this run: ${esc(exTxt)}.` : "") + (hiddenCount ? ` ${hiddenCount} hidden.` : "") +
         (earlyCount && !state.filters.early ? ` <strong>${earlyCount} more are available now or before mid-December</strong> (likely to be let before January) — tick “Include ones available before mid-Dec” to see them.` : "");
     }
+  }
+
+  function fillAreas(d) {
+    const sel = $("#f-area");
+    const counts = {};
+    d.listings.forEach((l) => { if (l.area) counts[l.area] = (counts[l.area] || 0) + 1; });
+    const want = Object.keys(counts).sort();
+    const have = $$("option", sel).filter((o) => o.value.startsWith("a:")).map((o) => o.value.slice(2));
+    if (want.join("|") === have.join("|")) return;
+    $$("option", sel).filter((o) => o.value.startsWith("a:")).forEach((o) => o.remove());
+    want.forEach((a) => sel.add(new Option(`${a} (${counts[a]})`, "a:" + a)));
+    const cur = state.filters.area;
+    sel.value = [...sel.options].some((o) => o.value === cur) ? cur : "all";
+    if (sel.value !== cur) { state.filters.area = "all"; ls.set("hh.filters", state.filters); }
   }
 
   // ------------------------------------------------------------------ saved tab
@@ -337,7 +360,7 @@
   // ------------------------------------------------------------------ actions
 
   function snapshot(l) {
-    const keep = ["id", "title", "address", "price", "beds", "baths", "image", "images", "links", "station", "cycleMins", "availability", "tags", "area", "tier", "agent", "deposit", "sizeSqft", "propertyType"];
+    const keep = ["id", "title", "address", "price", "beds", "baths", "image", "images", "links", "station", "tube", "cycleMins", "availability", "tags", "area", "tier", "agent", "deposit", "sizeSqft", "propertyType"];
     return Object.fromEntries(keep.filter((k) => l[k] !== undefined).map((k) => [k, k === "images" ? (l.images || []).slice(0, 8) : l[k]]));
   }
 

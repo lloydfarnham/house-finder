@@ -7,11 +7,12 @@ listings and sends a push notification for new properties and price drops. The w
 
 **Criteria** (edit `config.json`)
 - To rent, 2–3 bedrooms, up to £2,000 pcm
-- No more than a 10 minute walk to: Bethnal Green, Mile End, Stepney Green, Bow Road, Bromley-by-Bow
-  (main areas), or Leyton, Leytonstone, Wanstead, Snaresbrook (second choice). Nothing nearer Stratford.
-- Leaves out house shares, student/retirement lets, let-agreed listings and listings with no living room
+- Anywhere in East & North London no more than a 10 minute walk from one of ~46 stations (tube plus Overground-only
+  stations in Hackney), and no more than ~45 min cycle to Euston. Bethnal Green, Mile End, Stepney Green and Bow are marked as **preferred**.
+- Nothing nearer Stratford than to any listed station
+- Leaves out house shares, student-only/retirement lets, let-agreed listings and listings with no living room
 - Leaves out anything whose stated availability date is after 31 January 2027
-- Shows the cycle time to Euston, plus garden/balcony tags
+- Shows the cycle time to Euston, nearest tube, and garden/balcony tags
 
 ## Notifications
 Install the **ntfy** app (iOS/Android) → **+** → subscribe to the topic `lloyd-meg-homes-8ded8520df`.
