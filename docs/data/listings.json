@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T21:30:44Z",
+ "generatedAt": "2026-11-01T21:32:46Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -23,23 +23,88 @@
   "Rightmove": {
    "ok": true,
    "found": 25,
-   "at": "2026-11-01T21:30:22Z"
+   "at": "2026-11-01T21:32:24Z"
   },
   "OnTheMarket": {
    "ok": true,
    "found": 153,
-   "at": "2026-11-01T21:30:44Z"
+   "at": "2026-11-01T21:32:46Z"
   }
  },
  "excluded": {
-  "too far from tube": 66,
+  "too far from tube": 73,
   "price": 59,
-  "excluded area": 11,
-  "keyword": 9,
-  "location": 2
+  "excluded area": 13
  },
- "count": 24,
+ "count": 25,
  "listings": [
+  {
+   "source": "onthemarket",
+   "url": "https://www.onthemarket.com/details/20574783/",
+   "title": "3 bedroom flat to rent",
+   "address": "Grove Green Road, London, E11",
+   "priceText": "£2,000",
+   "beds": 3,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.558623,
+   "lon": -0.004483,
+   "image": "https://media.onthemarket.com/properties/20574783/1652745595/image-0-480x320.jpg",
+   "images": [
+    "https://media.onthemarket.com/properties/20574783/1652745595/image-0-480x320.jpg",
+    "https://media.onthemarket.com/properties/20574783/1652745595/image-1-480x320.jpg",
+    "https://media.onthemarket.com/properties/20574783/1652745595/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/20574783/1652745595/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/20574783/1652745595/image-4-480x320.jpg"
+   ],
+   "agent": "OpenRent - UK",
+   "addedText": "Reduced < 14 days",
+   "summary": "",
+   "availableText": "now",
+   "features": [
+    "No Agent Fees",
+    "Property Reference Number: 877683"
+   ],
+   "furnished": "Unfurnished",
+   "station": {
+    "name": "Leyton",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 4,
+    "distanceM": 232
+   },
+   "area": "Leyton",
+   "tier": 2,
+   "cycleMins": 40,
+   "availability": {
+    "kind": "now",
+    "date": null,
+    "flag": "early",
+    "text": "Available now"
+   },
+   "tags": [
+    "Garden",
+    "Unfurnished"
+   ],
+   "id": "otm:20574783",
+   "price": 2000,
+   "links": [
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20574783/"
+    }
+   ],
+   "description": "Property Reference: 877683.  We are proud to offer this delightful 3 bedroom, 1 bathroom flat in a great location.  Available to move in from 23 October 2026. Property is offered unfurnished.  Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!    Summary   Rent £2,000.00 per month (£461.54 per week) Deposit / Bond is £2,000.00  Maximum number of tenants is 5   Summary & Exclusions:  - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,000.00 - 3 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 November 2026 - Maximum number of tenants is 5 - No Students - No Pets, sorry - Smokers considered - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: B     If calling, please quote reference: 877683      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administ",
+   "firstSeen": "2026-11-01T21:32:46Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:32:46Z",
+     2000
+    ]
+   ]
+  },
   {
    "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/94910721",
@@ -1068,7 +1133,11 @@
     "flag": "early",
     "text": "Available 8 Sep 2026"
    },
-   "tags": [],
+   "tags": [
+    "Garden",
+    "Unfurnished"
+   ],
+   "furnished": "Unfurnished",
    "id": "rm:94412499",
    "price": 1775,
    "links": [
@@ -1076,9 +1145,14 @@
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/94412499"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20514619/"
     }
    ],
-   "description": "",
+   "description": "Property Reference: 3068763.  Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now.  Conveniently situated on the vibrant High Street within walking distance  of Wanstead/Snaresbrook  Central Line Stations and surrounded by an excellent selection of shops, restaurants and bars, parks and open spaces.   The flat benefits from  two large double bedrooms, spacious lounge, separate modern kitchen with appliances, bathroom with bath and shower.  Further benefits  include entry phone system, double glazing, GCH.  Ideally suited to a professional couple.  Council Tax Band B EPC Rating C Resident Parking Permit available from Redbridge Council   Summary & Exclusions:  - Rent Amount: £1,795.00 per month (£414.23 per week) - Deposit / Bond: £1,795.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 November 2026 - Maximum number of tenants is 2 - No Students - No Pets, sorry - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: C     If calling, please quote reference: 3068763      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any furthe",
    "firstSeen": "2026-11-01T21:19:13Z",
    "priceHistory": [
     [

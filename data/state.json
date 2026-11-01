@@ -1,7 +1,7 @@
 {
  "lastResults": {
   "rightmove": {
-   "at": "2026-11-01T21:30:22Z",
+   "at": "2026-11-01T21:32:24Z",
    "items": [
     {
      "key": "rm:94910721",
@@ -1445,7 +1445,7 @@
    ]
   },
   "onthemarket": {
-   "at": "2026-11-01T21:30:44Z",
+   "at": "2026-11-01T21:32:46Z",
    "items": [
     {
      "key": "otm:17128455",
@@ -2799,7 +2799,28 @@
       "Property Reference Number: 3068763"
      ],
      "description": "Property Reference: 3068763.  Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now.  Conveniently situated on the vibrant High Street within walking distance  of Wanstead/Snaresbrook  Central Line Stations and surrounded by an excellent selection of shops, restaurants and bars, parks and open spaces.   The flat benefits from  two large double bedrooms, spacious lounge, separate modern kitchen with appliances, bathroom with bath and shower.  Further benefits  include entry phone system, double glazing, GCH.  Ideally suited to a professional couple.  Council Tax Band B EPC Rating C Resident Parking Permit available from Redbridge Council   Summary & Exclusions:  - Rent Amount: £1,795.00 per month (£414.23 per week) - Deposit / Bond: £1,795.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 November 2026 - Maximum number of tenants is 2 - No Students - No Pets, sorry - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: C     If calling, please quote reference: 3068763      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
-     "furnished": "Unfurnished"
+     "furnished": "Unfurnished",
+     "station": {
+      "name": "Snaresbrook",
+      "lines": [
+       "Central"
+      ],
+      "walkMins": 4,
+      "distanceM": 231
+     },
+     "area": "Wanstead",
+     "tier": 2,
+     "cycleMins": 51,
+     "availability": {
+      "kind": "unknown",
+      "date": null,
+      "flag": "unknown",
+      "text": null
+     },
+     "tags": [
+      "Garden",
+      "Unfurnished"
+     ]
     },
     {
      "key": "otm:72524",
@@ -2971,7 +2992,28 @@
       "Property Reference Number: 877683"
      ],
      "description": "Property Reference: 877683.  We are proud to offer this delightful 3 bedroom, 1 bathroom flat in a great location.  Available to move in from 23 October 2026. Property is offered unfurnished.  Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!    Summary   Rent £2,000.00 per month (£461.54 per week) Deposit / Bond is £2,000.00  Maximum number of tenants is 5   Summary & Exclusions:  - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,000.00 - 3 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 November 2026 - Maximum number of tenants is 5 - No Students - No Pets, sorry - Smokers considered - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: B     If calling, please quote reference: 877683      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
-     "furnished": "Unfurnished"
+     "furnished": "Unfurnished",
+     "station": {
+      "name": "Leyton",
+      "lines": [
+       "Central"
+      ],
+      "walkMins": 4,
+      "distanceM": 232
+     },
+     "area": "Leyton",
+     "tier": 2,
+     "cycleMins": 40,
+     "availability": {
+      "kind": "now",
+      "date": null,
+      "flag": "early",
+      "text": "Available now"
+     },
+     "tags": [
+      "Garden",
+      "Unfurnished"
+     ]
     },
     {
      "key": "otm:20620948",
@@ -6448,7 +6490,9 @@
   "otm:20642121": "otm:20642121",
   "otm:20621841": "otm:20621841",
   "otm:20621890": "otm:20621890",
-  "otm:20406859": "otm:20406859"
+  "otm:20406859": "otm:20406859",
+  "otm:20514619": "rm:94412499",
+  "otm:20574783": "otm:20574783"
  },
  "groups": {
   "rm:94910721": {
@@ -6459,7 +6503,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:92981256": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6469,7 +6513,7 @@
      1960
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94570191": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6479,7 +6523,7 @@
      1825
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94330617": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6489,7 +6533,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94039602": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6499,7 +6543,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94342545": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6509,7 +6553,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:61477733": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6519,7 +6563,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:76122626": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6529,7 +6573,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:93123918": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6539,7 +6583,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94477815": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6549,7 +6593,7 @@
      1920
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94741641": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6559,7 +6603,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94779093": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6569,7 +6613,7 @@
      1850
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94789998": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6579,7 +6623,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94412499": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6589,7 +6633,7 @@
      1775
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94202934": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6599,7 +6643,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94418868": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6609,7 +6653,7 @@
      1795
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:93937143": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6619,7 +6663,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94344960": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6629,7 +6673,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94577811": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6639,7 +6683,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "rm:94698183": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6649,7 +6693,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "otm:20642121": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6659,7 +6703,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "otm:20621841": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6669,7 +6713,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "otm:20621890": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6679,7 +6723,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
   },
   "otm:20406859": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -6689,10 +6733,20 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-01T21:30:44Z"
+   "lastSeen": "2026-11-01T21:32:46Z"
+  },
+  "otm:20574783": {
+   "firstSeen": "2026-11-01T21:32:46Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:32:46Z",
+     2000
+    ]
+   ],
+   "lastSeen": "2026-11-01T21:32:46Z"
   }
  },
- "lastRun": "2026-11-01T21:30:44Z",
+ "lastRun": "2026-11-01T21:32:46Z",
  "onthemarketSlugs": {
   "Mile End": "mile-end-london"
  }
