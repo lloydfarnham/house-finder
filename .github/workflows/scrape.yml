@@ -15,6 +15,10 @@ on:
         description: "Send push notifications"
         type: boolean
         default: true
+      test_notification:
+        description: "Also send a test push notification"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -43,6 +47,7 @@ jobs:
           DEBUG: ${{ inputs.debug && '1' || '0' }}
           NO_NOTIFY: ${{ (github.event_name == 'workflow_dispatch' && !inputs.notify) && '1' || '0' }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TEST_NOTIFY: ${{ inputs.test_notification && '1' || '0' }}
         run: python -m scraper.main
 
       - name: Save results

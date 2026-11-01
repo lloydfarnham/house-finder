@@ -369,6 +369,8 @@ def main() -> int:
     print("Sources:", json.dumps(source_status))
 
     try:
+        if os.environ.get("TEST_NOTIFY") == "1":
+            notify.test(cfg, len(merged))
         notify.send(cfg, new_items, drops, first_run=first_run, total=len(merged))
     except Exception as e:
         print("Notification failed:", e)

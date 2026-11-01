@@ -71,3 +71,9 @@ def send(cfg: dict, new_items: list, drops: list, *, first_run: bool, total: int
             "click": m["links"][0]["url"],
             "tags": ["chart_with_downwards_trend"],
         })
+
+
+def test(cfg: dict, total: int) -> None:
+    _post(cfg, {"title": "House Hunt notifications are working 🏡",
+                "message": f"{total} properties currently match. You'll be pinged for new ones and price drops (8am-7pm).",
+                "click": cfg["notifications"].get("siteUrl"), "tags": ["house", "white_check_mark"]})
