@@ -8,7 +8,7 @@ listings and sends a push notification for new properties and price drops. The w
 **Criteria** (edit `config.json`)
 - To rent, 2–3 bedrooms, up to £2,000 pcm
 - Anywhere in East & North London no more than a 10 minute walk from one of ~46 stations (tube plus Overground-only
-  stations in Hackney), and no more than ~45 min cycle to Euston. Bethnal Green, Mile End, Stepney Green and Bow are marked as **preferred**.
+  stations in Hackney), and no more than ~60 min cycle to Euston. Bethnal Green, Mile End, Stepney Green and Bow are marked as **preferred**.
 - Nothing nearer Stratford than to any listed station
 - Leaves out house shares, student-only/retirement lets, let-agreed listings and listings with no living room
 - Leaves out anything whose stated availability date is after 31 January 2027

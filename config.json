@@ -4,7 +4,7 @@
     "minBeds": 2,
     "maxBeds": 3,
     "maxWalkMins": 10,
-    "maxCycleMins": 45,
+    "maxCycleMins": 60,
     "searchRadiusMiles": 0.5,
     "moveInEarliest": "2027-01-01",
     "moveInLatest": "2027-01-31"
