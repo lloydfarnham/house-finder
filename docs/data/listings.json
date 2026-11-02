@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-01T22:28:38Z",
+ "generatedAt": "2026-11-02T09:43:26Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
   "maxBeds": 3,
   "maxWalkMins": 10,
-  "maxCycleMins": 45,
+  "maxCycleMins": 60,
   "searchRadiusMiles": 0.5,
   "moveInEarliest": "2027-01-01",
   "moveInLatest": "2027-01-31",
@@ -58,24 +58,23 @@
   "Rightmove": {
    "ok": true,
    "found": 89,
-   "at": "2026-11-01T22:25:20Z"
+   "at": "2026-11-02T09:41:49Z"
   },
   "OnTheMarket": {
    "ok": true,
-   "found": 326,
-   "at": "2026-11-01T22:27:04Z"
+   "found": 324,
+   "at": "2026-11-02T09:43:26Z"
   }
  },
  "excluded": {
   "too far from a station": 147,
   "keyword": 3,
-  "too far to cycle": 13,
-  "price": 124,
+  "price": 123,
   "excluded area": 13,
   "available after January": 1,
   "location": 4
  },
- "count": 84,
+ "count": 92,
  "listings": [
   {
    "source": "rightmove",
@@ -869,7 +868,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bdb866e96/94973046/bdb866e9685cff4c3bc7b77357b38d8d_max_476x317.png"
    ],
    "agent": "Mays Management",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 31/10/2026",
    "firstVisible": "2026-10-31T11:51:16Z",
    "summary": "We are pleased to present this well-presented two-bedroom flat, situated on the second floor of a period property along the popular Green Lanes in Harringay, N8. Offering approximately 516.67 sq. ft. of accommodation, this property provides a practical and comfortable living space, ideal for prof...",
    "availableText": "2026-11-01T00:00:00Z",
@@ -4565,81 +4564,6 @@
   },
   {
    "source": "onthemarket",
-   "url": "https://www.onthemarket.com/details/15017764/",
-   "title": "2 bedroom apartment to rent",
-   "address": "Brooksbank Street, London,  E9",
-   "priceText": "£2,000",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Apartment",
-   "lat": 51.5445519,
-   "lon": -0.046878,
-   "image": "https://media.onthemarket.com/properties/15017764/1637565442/image-0-480x320.png",
-   "images": [
-    "https://media.onthemarket.com/properties/15017764/1637565442/image-0-480x320.png",
-    "https://media.onthemarket.com/properties/15017764/1637565442/image-1-480x320.png",
-    "https://media.onthemarket.com/properties/15017764/1637565442/image-2-480x320.jpg",
-    "https://media.onthemarket.com/properties/15017764/1637565442/image-3-480x320.jpg",
-    "https://media.onthemarket.com/properties/15017764/1637565442/image-4-480x320.jpg"
-   ],
-   "agent": "Victor Michael - Stratford",
-   "addedText": "Added > 14 days",
-   "summary": "",
-   "availableText": null,
-   "features": [
-    "First Floor Flat",
-    "Three piece bathroom",
-    "Study"
-   ],
-   "furnished": "Unfurnished",
-   "station": {
-    "name": "Homerton",
-    "lines": [
-     "Overground"
-    ],
-    "mode": "overground",
-    "walkMins": 7,
-    "distanceM": 412
-   },
-   "tube": {
-    "name": "Bethnal Green",
-    "lines": [
-     "Central"
-    ],
-    "walkMins": 33
-   },
-   "area": "Homerton",
-   "tier": 2,
-   "cycleMins": 26,
-   "availability": {
-    "kind": "unknown",
-    "date": null,
-    "flag": "unknown",
-    "text": null
-   },
-   "tags": [
-    "Unfurnished"
-   ],
-   "id": "otm:15017764",
-   "price": 2000,
-   "links": [
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/15017764/"
-    }
-   ],
-   "description": " Explore the beauty of London living with this stunning two-bedroom apartment situated on Brooksbank Street, in the heart of the vibrant city.   As you enter, you'll be greeted by a spacious reception area bathed in natural light, perfect for relaxing after a long day. The neutral decor creates an inviting atmosphere, allowing you to personalize the space as per your preference. A bright and fully fitted kitchen awaits the passionate home chef, equipped with modern appliances and ample storage for all your culinary needs.  The apartment features two bedrooms, offering ample space for a growing family, flatmates, or those in need of a home office. The master bedroom invites you to unwind with its cozy ambiance, while the second bedroom provides versatility, whether for guests or a peaceful sanctuary.  The three-piece bathroom showcases elegance with its contemporary fixtures, offering a luxurious experience when preparing for your day or winding down at night. With gas central heating and double-glazed windows, you can rest easy knowing that you will be comfortable all year round, while also benefiting from reduced energy costs.  Located just 0.3 miles from Homerton Station, commuting to work or exploring the city becomes a breeze. You'll also find yourself near a wide array of local amenities, including shops, supermarkets, trendy cafes, and international restaurants. For nature enthusiasts, beautiful parks are within walking distance, providing a perfect escape from the hust",
-   "firstSeen": "2026-11-01T22:28:38Z",
-   "priceHistory": [
-    [
-     "2026-11-01T22:28:38Z",
-     2000
-    ]
-   ]
-  },
-  {
-   "source": "onthemarket",
    "url": "https://www.onthemarket.com/details/20575470/",
    "title": "2 bedroom flat to rent",
    "address": "Newington Green Road, London, N1",
@@ -6257,6 +6181,98 @@
   },
   {
    "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/61477733",
+   "title": "2 bedroom maisonette",
+   "address": "Wallwood Road, Leytonstone, Waltham Forest",
+   "priceText": "£1,800 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Maisonette",
+   "lat": 51.571282,
+   "lon": 0.008798,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba3e39592/61477733/ba3e39592fcf69e86427fb85185b7969_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba3e39592/61477733/ba3e39592fcf69e86427fb85185b7969_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e171df04/61477733/6e171df0408fd67571e0c4cad8ebd6ae_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c0c22c5b/61477733/3c0c22c5b3b6da91b3a706667805ce63_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1c622a37/61477733/a1c622a37d203204d84aee2dd5ddf229_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/001f6db95/61477733/001f6db952d11260d73151d8a1a7b8a0_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06692062b/61477733/06692062b66192871c826322ead56c9d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/45d161ce6/61477733/45d161ce6bba47ef4289287ac3ff7b13_max_476x317.jpeg"
+   ],
+   "agent": "Real Move Estates",
+   "addedText": "Added on 19/09/2026",
+   "firstVisible": "2016-08-24T14:13:14Z",
+   "summary": "LARGE two double bedroom maisonette split across 2 levels. Located just a short walk to Leytonstone Station (Central Line) Offering, 2 double bedrooms, separate lounge, fitted kitchen & three piece bathroom. AVAILABLE 5TH OCTOBER 2026!",
+   "availableText": "2026-10-05T00:00:00Z",
+   "features": [
+    "2 DOUBLE BEDROOMS",
+    "SEPARATE RECEPTION",
+    "FITTED KITCHEN WITH WHITE GOODS",
+    "THREE PIECE BATHROOM",
+    "OFF STREET PARKING",
+    "GAS CENTRAL HEATING",
+    "DOUBLE GLAZED WINDOWS",
+    "AVAILABLE 5TH OCTOBER 2026!!",
+    "WALKING DISTANCE TO LEYTONSTONE STATION",
+    "EPC RATING - D"
+   ],
+   "station": {
+    "name": "Leytonstone",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 5,
+    "distanceM": 333
+   },
+   "tube": {
+    "name": "Leytonstone",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 5
+   },
+   "area": "Leytonstone",
+   "tier": 2,
+   "cycleMins": 46,
+   "availability": {
+    "kind": "date",
+    "date": "2026-10-05",
+    "flag": "early",
+    "text": "Available 5 Oct 2026"
+   },
+   "tags": [
+    "Garden",
+    "Part furnished",
+    "Separate lounge"
+   ],
+   "furnished": "Part furnished",
+   "id": "rm:61477733",
+   "price": 1800,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/61477733"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20628366/"
+    }
+   ],
+   "description": " AVAILABLE NOW  TWO DOUBLE BEDROOMS WITH BUILT IN WARDROBES  DETACHED BUNGALOW  OWN GARDEN  DOUBLE GLAZED WINDOWS  WALKING DISTANCE TO THE CENTRAL LINE  GAS CENTRAL HEATING  WALKING DISTANCE TO HIGH STREET AND SCHOOLS  Council Tax Band:  Holding Deposit: £0.00  Two Double Bedrooms  Detached Bungalow  Own Private Garden  Walking Distance To Central Line  Double Glazed Windows  Gas Central Heating  Walking Distance To High Street  Available Now  Close To Schools ",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1800
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/76122626",
    "title": "2 bedroom detached bungalow",
    "address": "Wallwood Road, Leytonstone, E11",
@@ -6335,10 +6351,10 @@
     {
      "source": "onthemarket",
      "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20628366/"
+     "url": "https://www.onthemarket.com/details/12719929/"
     }
    ],
-   "description": " AVAILABLE NOW  TWO DOUBLE BEDROOMS WITH BUILT IN WARDROBES  DETACHED BUNGALOW  OWN GARDEN  DOUBLE GLAZED WINDOWS  WALKING DISTANCE TO THE CENTRAL LINE  GAS CENTRAL HEATING  WALKING DISTANCE TO HIGH STREET AND SCHOOLS  Council Tax Band:  Holding Deposit: £0.00  Two Double Bedrooms  Detached Bungalow  Own Private Garden  Walking Distance To Central Line  Double Glazed Windows  Gas Central Heating  Walking Distance To High Street  Available Now  Close To Schools ",
+   "description": "*LARGE 2 BEDROOM BUNGALOW WITH PRIVATE GARDEN* Real Move Estates are pleased to offer you this wonderful newly refurbished purpose built 2 bedroom purpose built bungalow, AVAILABLE 5TH OCTOBER 2026 in Leytonstone E11, walking distance to Leytonstone Station (Central Line) AVAILABLE 28TH JANUARY 2026!  The property boasts 2 double bedrooms, large open plan reception & kitchen with white goods, family bathroom, private garden, gas central heating & double glazed windows. The property comes partly furnished and is AVAILABLE 5TH OCTOBER 2026. Close to all local amenities, schools and transport links. Viewings are highly recommended.  To arrange a viewing please call Real Move Estates.   what3words ///    coast.dots.turned    Notice  All photographs are provided for guidance only.  Redress scheme provided by: The Property Ombudsman (D10209) Client Money Protection provided by: CMP (CMP007010)",
    "firstSeen": "2026-11-01T21:19:13Z",
    "priceHistory": [
     [
@@ -6580,10 +6596,8 @@
     "text": "Available 31 Oct 2026"
    },
    "tags": [
-    "Garden",
-    "Part furnished"
+    "Garden"
    ],
-   "furnished": "Part furnished",
    "id": "rm:94741641",
    "price": 1800,
    "links": [
@@ -6591,14 +6605,9 @@
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/94741641"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/12719929/"
     }
    ],
-   "description": "*LARGE 2 BEDROOM BUNGALOW WITH PRIVATE GARDEN* Real Move Estates are pleased to offer you this wonderful newly refurbished purpose built 2 bedroom purpose built bungalow, AVAILABLE 5TH OCTOBER 2026 in Leytonstone E11, walking distance to Leytonstone Station (Central Line) AVAILABLE 28TH JANUARY 2026!  The property boasts 2 double bedrooms, large open plan reception & kitchen with white goods, family bathroom, private garden, gas central heating & double glazed windows. The property comes partly furnished and is AVAILABLE 5TH OCTOBER 2026. Close to all local amenities, schools and transport links. Viewings are highly recommended.  To arrange a viewing please call Real Move Estates.   what3words ///    coast.dots.turned    Notice  All photographs are provided for guidance only.  Redress scheme provided by: The Property Ombudsman (D10209) Client Money Protection provided by: CMP (CMP007010)",
+   "description": "",
    "firstSeen": "2026-11-01T21:19:13Z",
    "priceHistory": [
     [
@@ -6676,6 +6685,709 @@
     [
      "2026-11-01T21:19:13Z",
      1850
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94789998",
+   "title": "2 bedroom flat",
+   "address": "Barclay Road, Bushwood Area, E11",
+   "priceText": "£1,800 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.566952,
+   "lon": 0.012735,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6833e064/94789998/c6833e06456d723828536a44fc3dd0ba_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6833e064/94789998/c6833e06456d723828536a44fc3dd0ba_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f8d1d92e/94789998/0f8d1d92e86eb5a20ebd9584b4caaa16_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0be0428f5/94789998/0be0428f53bfb0fdcbc1d27f02127f3d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e1ea57f4/94789998/3e1ea57f48770c3cb2bdb19cef700aef_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/596badb46/94789998/596badb46f31434741fe6b68ccea5c41_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/900950880/94789998/900950880432ac05fa6f082a48418f1f_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e468ae963/94789998/e468ae963c9840f3f1d0a5302f39e0d3_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed7273a55/94789998/ed7273a55afaca195556cc794c06c6f4_max_476x317.jpeg"
+   ],
+   "agent": "Theydons",
+   "addedText": "Added on 27/10/2026",
+   "firstVisible": "2026-10-27T14:43:46Z",
+   "summary": "Nestled within the sought-after Bushwood area, this spacious two-bedroom first-floor flat enjoys an enviable position, combining the peaceful feel of a residential setting with the excellent amenities and transport links of Leytonstone close at hand. Just a short walk away, Leytonstone High Road off",
+   "availableText": "2026-10-27T00:00:00Z",
+   "features": [
+    "Spacious two-bedroom first-floor flat",
+    "Situated within a sought after residential turning",
+    "Bay fronted living/ dining area",
+    "Fitted kitchen incl. appliances",
+    "Shower room suite",
+    "Short stroll to High Road Leytonstone & main shopping area",
+    "Walking distance of Leytonstone Central Line tube station",
+    "Great access to the vast open fields of Wanstead Flats",
+    "Two good size bedrooms"
+   ],
+   "station": {
+    "name": "Leytonstone",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 6,
+    "distanceM": 341
+   },
+   "tube": {
+    "name": "Leytonstone",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 6
+   },
+   "area": "Leytonstone",
+   "tier": 2,
+   "cycleMins": 46,
+   "availability": {
+    "kind": "date",
+    "date": "2026-10-27",
+    "flag": "early",
+    "text": "Available 27 Oct 2026"
+   },
+   "tags": [],
+   "id": "rm:94789998",
+   "price": 1800,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94789998"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1800
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94412499",
+   "title": "2 bedroom flat",
+   "address": "High Street (PP521), Wanstead, E11",
+   "priceText": "£1,775 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.57965,
+   "lon": 0.024315,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a42052c33/94412499/a42052c33dd5217061d88ca318e00b3d_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a42052c33/94412499/a42052c33dd5217061d88ca318e00b3d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2875f5f65/94412499/2875f5f65ff0fce8b03f3b3a968969d1_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/513fc5f41/94412499/513fc5f416a43329d0df846340f4e8d0_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ea26272c/94412499/3ea26272c2dc32a5c6e039f4384129b1_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f844cc822/94412499/f844cc8227822df368e56a5e84435f73_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/563b5edce/94412499/563b5edceebab545a22ab550cc38e583_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c4994d551/94412499/c4994d551ab3ce5d73996ea6d0187b44_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1430d7ec3/94412499/1430d7ec39d6a1818dd8572cd6bf0eaf_max_476x317.jpeg"
+   ],
+   "agent": "Hamways",
+   "addedText": "Reduced on 02/10/2026",
+   "firstVisible": "2026-10-16T17:01:31Z",
+   "summary": "Hamways are delighted to present this recently decorated two bedroom apartment within a Hamways managed development at the rear of the shops on High Street Wanstead.",
+   "availableText": "2026-09-08T00:00:00Z",
+   "features": [
+    "Two Bedroom First Floor Apartment",
+    "Modern Open Plan Kitchen Lounge",
+    "Newly Decorated",
+    "Excellent Transport Links",
+    "High Street Location",
+    "Private Parking Bay Included"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 4,
+    "distanceM": 227
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 4
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 51,
+   "availability": {
+    "kind": "date",
+    "date": "2026-09-08",
+    "flag": "early",
+    "text": "Available 8 Sep 2026"
+   },
+   "tags": [
+    "Garden",
+    "Unfurnished"
+   ],
+   "furnished": "Unfurnished",
+   "id": "rm:94412499",
+   "price": 1775,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94412499"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20514619/"
+    }
+   ],
+   "description": "Property Reference: 3068763.  Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now.  Conveniently situated on the vibrant High Street within walking distance  of Wanstead/Snaresbrook  Central Line Stations and surrounded by an excellent selection of shops, restaurants and bars, parks and open spaces.   The flat benefits from  two large double bedrooms, spacious lounge, separate modern kitchen with appliances, bathroom with bath and shower.  Further benefits  include entry phone system, double glazing, GCH.  Ideally suited to a professional couple.  Council Tax Band B EPC Rating C Resident Parking Permit available from Redbridge Council   Summary & Exclusions:  - Rent Amount: £1,795.00 per month (£414.23 per week) - Deposit / Bond: £1,795.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 01 November 2026 - Maximum number of tenants is 2 - No Students - No Pets, sorry - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: C     If calling, please quote reference: 3068763      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any furthe",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1775
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94202934",
+   "title": "2 bedroom flat",
+   "address": "Nightingale Lane, Wanstead",
+   "priceText": "£1,800 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.58132,
+   "lon": 0.02912,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6e3dd2f2/94202934/c6e3dd2f24fa85dc5cc7c64085b3ba9d_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6e3dd2f2/94202934/c6e3dd2f24fa85dc5cc7c64085b3ba9d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eeeaa3c1a/94202934/eeeaa3c1ad70bca69767cef03c9f44b0_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8dd75cac7/94202934/8dd75cac71d09015b1e2001e7c01eb33_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78642438d/94202934/78642438d3f4a913ee4cf4a619aeacc7_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea892fbbe/94202934/ea892fbbe1357d51fdc4150b76f87c3c_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a58bbaf3f/94202934/a58bbaf3f6301adace2475ae9a950695_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7cb70ce3/94202934/a7cb70ce3025644f6b3399d098d4ff4f_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e4abdb93f/94202934/e4abdb93f00061102e55d65279ba185c_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a630619d7/94202934/a630619d74f46772eab50977d57296ea_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb88024f0/94202934/fb88024f0463ed1041df1e1d11d6f4e4_max_476x317.jpeg"
+   ],
+   "agent": "Martin & Co",
+   "addedText": "Added on 15/10/2026",
+   "firstVisible": "2026-10-15T14:40:22Z",
+   "summary": "**AVAILABLE NOW * NEWLY DECORATED & CARPETED * NIGHTINGALE COURT * TOP FLOOR * UNFURNISHED * MODERN THROUGHOUT * KITCHEN WITH APPLIANCES * BALCONY OFF LIVING ROOM * 2 DOUBLE BEDROOMS * GCH * D/G * COMMUNAL GARDEN * PERMIT PARKING * 0.4 MILES TO SNARESBROOK STATION * 0.3 MILES TO WANSTEAD HIG...",
+   "availableText": "2026-10-31T00:00:00Z",
+   "features": [
+    "UNFURNISHED",
+    "TOP FLOOR",
+    "0.3 MILES TO WANSTEAD HIGH ST",
+    "2 DOUBLE BEDROOMS",
+    "MODERN KITCHEN",
+    "GAS CENTRAL HEATING & DOUBLE GLAZED",
+    "PRIVATE BALCONY",
+    "SHARED GARDENS",
+    "CLOSE TO WANSTEAD & SNARESBROOK STATIONS",
+    "EPC - D, COUNCIL TAX - C"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 8,
+    "distanceM": 523
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 8
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 53,
+   "availability": {
+    "kind": "date",
+    "date": "2026-10-31",
+    "flag": "early",
+    "text": "Available 31 Oct 2026"
+   },
+   "tags": [
+    "Balcony",
+    "Garden",
+    "Unfurnished"
+   ],
+   "id": "rm:94202934",
+   "price": 1800,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94202934"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1800
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94418868",
+   "title": "2 bedroom flat",
+   "address": "High Street Wanstead, London, E11",
+   "priceText": "£1,795 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.579845,
+   "lon": 0.024105,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76c99ce71/94418868/76c99ce716ced851ccf3bd8575b93796_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76c99ce71/94418868/76c99ce716ced851ccf3bd8575b93796_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/278e9c1cc/94418868/278e9c1cceb44a2abe7dd45b2454ec55_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9580808/94418868/db95808085b04515c1b1f13725e9d2d6_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/68a04dbf5/94418868/68a04dbf546de3a68a5c22ebf409d3e8_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b660de4ca/94418868/b660de4ca8ffc53ee5d2d889bb081350_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/19d9c9cff/94418868/19d9c9cff9b1e784529ad5aa96c6b75d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ecd18dfae/94418868/ecd18dfae4139e8f819945a4b99818da_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7ea5e1f5/94418868/f7ea5e1f5b987ac8fa8a079ef8106304_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8de484d4/94418868/f8de484d484be59c45f8543835550014_max_476x317.jpeg"
+   ],
+   "agent": "OpenRent",
+   "addedText": "Reduced on 23/10/2026",
+   "firstVisible": "2026-10-16T20:07:00Z",
+   "summary": "Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now. Conveniently situated on the vibrant High Street within walking distan... ** Property Reference: 3068763 **",
+   "availableText": "2026-11-01T00:00:00Z",
+   "features": [
+    "No Agent Fees",
+    "Property Reference Number: 3068763"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 3,
+    "distanceM": 203
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 3
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 51,
+   "availability": {
+    "kind": "date",
+    "date": "2026-11-01",
+    "flag": "early",
+    "text": "Available 1 Nov 2026"
+   },
+   "tags": [],
+   "id": "rm:94418868",
+   "price": 1795,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94418868"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1795
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/93937143",
+   "title": "2 bedroom flat",
+   "address": "Dudley Court, New Wanstead, Wanstead",
+   "priceText": "£1,750 pcm",
+   "beds": 2,
+   "baths": 0,
+   "propertyType": "Flat",
+   "lat": 51.578181,
+   "lon": 0.021453,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e12e55e06/93937143/e12e55e063e07f9e43611727aa8adc2b_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e12e55e06/93937143/e12e55e063e07f9e43611727aa8adc2b_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38c719cd2/93937143/38c719cd2da4ce62457a9d8f07a1eb65_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f2921ddd/93937143/5f2921ddd4f2a63ec87bc2e4d7e5eb08_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1459691cc/93937143/1459691cc4af6bee8240c7c0a383181b_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0bc2d3ca/93937143/c0bc2d3ca0a3dd5887fb73582d489f5e_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7850fe4f2/93937143/7850fe4f29c43bf9c621e103f547a5c3_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47c1ca97a/93937143/47c1ca97ac0fdddbeaf6de86c82ea3ea_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d167267b0/93937143/d167267b09eea268bffc1022dc21c7e0_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/16fdd7221/93937143/16fdd7221d52f9ee8a5e5a6f6e120a93_max_476x317.jpeg"
+   ],
+   "agent": "Martin & Co",
+   "addedText": "Reduced on 30/10/2026",
+   "firstVisible": "2026-10-05T15:47:46Z",
+   "summary": "**AVAILABLE NOW * UNFURNISHED * NEWLY DECORATED THROUGHOUT * GROUND FLOOR * MODERN KITCHEN WITH APPLIANCES * OFF STREET PARKING, PLUS GARAGE * 1 DOUBLE BEDROOM, 1 SINGLE WITH FITTED WARDROBES * SPACIOS LIVING ROOM * D/G & ELECTRIC HEATERS * 0.3 MILES TO WANSTEAD HIGH ST & SNARESBROOK STA...",
+   "availableText": "2026-11-07T00:00:00Z",
+   "features": [
+    "NEWLY DECORATED THROUGHOUT",
+    "MODERN KITCHEN WITH APPLIANCES",
+    "SPACIOUS LIVING ROOM",
+    "MODERN BATHROOM",
+    "DOUBLE BEDROOM",
+    "SMALL BEDROOM WITH FITTED WARDROBES",
+    "DOUBLE GLAZED",
+    "GARAGE",
+    "EASY ACCESS TO STATION",
+    "EASY ACCESS TO HIGH STREET"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 5,
+    "distanceM": 291
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 5
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 50,
+   "availability": {
+    "kind": "date",
+    "date": "2026-11-07",
+    "flag": "early",
+    "text": "Available 7 Nov 2026"
+   },
+   "tags": [
+    "Unfurnished"
+   ],
+   "id": "rm:93937143",
+   "price": 1750,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/93937143"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1750
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94344960",
+   "title": "2 bedroom flat",
+   "address": "Victory Road, Wanstead",
+   "priceText": "£1,900 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.58439,
+   "lon": 0.02796,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63254e217/94344960/63254e217ce6f3921c6b28ca51e589fa_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63254e217/94344960/63254e217ce6f3921c6b28ca51e589fa_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01679bb69/94344960/01679bb69c03343d5c07d3983892db79_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/713a5b1a6/94344960/713a5b1a69ffe7ce058a7d707621c5eb_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d1076840/94344960/8d1076840fe942af8e4a3b447892c73b_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf6b6821d/94344960/bf6b6821dbf32aa6dd70df991c6030de_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9363b97d1/94344960/9363b97d10d1b151bed2b56bd511cc60_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ccde8108c/94344960/ccde8108c808158d9b2dad50cabc7fe5_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e26782022/94344960/e2678202271cbe497ea50e0f67453991_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81849b2be/94344960/81849b2be959b467840315dbcd8f12c9_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d220131d6/94344960/d220131d6efb1f1bbab9607d32d8d823_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5099ad407/94344960/5099ad407276f84023fa6e7a5d6e047d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/055c0cb8d/94344960/055c0cb8dd753fc388f44bcb618d17fd_max_476x317.jpeg"
+   ],
+   "agent": "Petty Son & Prestwich Ltd",
+   "addedText": "Added on 15/10/2026",
+   "firstVisible": "2026-10-15T12:09:56Z",
+   "summary": "Petty Son & Prestwich are delighted to offer to rent this spacious and stylish two bedroom ground-floor apartment, set within the highly desirable and characterful Wanstead Hospital Development.",
+   "availableText": "Now",
+   "features": [
+    "Two bedroom apartment",
+    "Ground floor",
+    "Modern kitchen and bathroom",
+    "Large lounge/diner",
+    "Allocated parking space",
+    "0.5 miles from Snaresbrook Underground Station"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 10,
+    "distanceM": 594
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 10
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 53,
+   "availability": {
+    "kind": "now",
+    "date": null,
+    "flag": "early",
+    "text": "Available now"
+   },
+   "tags": [
+    "Separate lounge",
+    "Unfurnished"
+   ],
+   "furnished": "Unfurnished",
+   "id": "rm:94344960",
+   "price": 1900,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94344960"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20558283/"
+    }
+   ],
+   "description": "Petty Son & Prestwich are delighted to offer to rent this spacious and stylish two bedroom ground-floor apartment, set within the highly desirable and characterful Wanstead Hospital Development.  Ideally positioned just 0.5 miles from both Snaresbrook Station and Wanstead High Street, the property combines contemporary interiors with the charm and convenience of this sought-after East London location.  Wanstead is renowned for its village-like atmosphere, offering an appealing mix of independent shops, cafés, bars and restaurants. Excellent transport connections are available via the Central Line at Wanstead, Snaresbrook and South Woodford, alongside numerous bus routes and convenient access to the M11, M25 and North Circular Road.  Upon entering, a spacious hallway sets the tone for the apartment's clean, contemporary aesthetic. Crisp white walls and dark wood flooring create a smart, cohesive finish, with the flooring continuing seamlessly into the principal living space and kitchen.  The generous lounge and dining area is a particular highlight, featuring an attractive bay window that allows natural light to fill the room. An elegant archway leads through to the kitchen, creating a natural transition between the two spaces while maintaining a sense of openness. The kitchen is fitted with high-gloss white cabinetry, complemented by a black worktop for a striking, modern finish.  The property further benefits from two well-proportioned bedrooms, each featuring an attractive ",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1900
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94577811",
+   "title": "2 bedroom flat",
+   "address": "Shelley Court, Wanstead",
+   "priceText": "£1,950 pcm",
+   "beds": 2,
+   "baths": 2,
+   "propertyType": "Flat",
+   "lat": 51.583198,
+   "lon": 0.025097,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8bd3b628e/94577811/8bd3b628e70f0504afac22b07d815728_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8bd3b628e/94577811/8bd3b628e70f0504afac22b07d815728_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/039c24c6d/94577811/039c24c6dacc402e41fc5f7e6692da2a_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef5deaf49/94577811/ef5deaf49550aa76373c41427da51753_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4507c8c50/94577811/4507c8c5033be15fe3bca3cbbc27fca8_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a85339f8e/94577811/a85339f8e9babae87bb88325101dbc09_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d52a59c5d/94577811/d52a59c5d6ffed0798baff9ecad0c5d9_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4de0f4d5c/94577811/4de0f4d5ccfedee533528aaedec22d57_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d2eaa63c/94577811/4d2eaa63c1dba309167762ecf9915fbe_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2845cfe0b/94577811/2845cfe0b20cfce31a02aae57e284f83_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/983033af8/94577811/983033af8356db57b274ba727e5553ad_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ce0ee6435/94577811/ce0ee6435d682fb318ff99fcaa544595_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f6b71f3/94577811/77f6b71f38d0d1ce21188dc95a9b3c3c_max_476x317.jpeg"
+   ],
+   "agent": "Petty Son & Prestwich Ltd",
+   "addedText": "Added on 21/10/2026",
+   "firstVisible": "2026-10-21T17:33:13Z",
+   "summary": "Petty Son & Prestwich are delighted to offer this spacious two double bedroom ground floor apartment, ideally located within easy reach of the High Street's excellent selection of shops, bars, restaurants, and two Central Line stations.",
+   "availableText": "2027-01-07T00:00:00Z",
+   "features": [
+    "Contemporary apartment",
+    "Ground floor",
+    "Two double bedrooms",
+    "Modern kitchen & bathroom",
+    "En-suite bathroom",
+    "Residents parking",
+    "Spacious reception",
+    "0.3 Miles from Wanstead High Street",
+    "0.7 Miles to Wanstead Central Line Station",
+    "The property is licensed for one household only. Suitable for a single person, a couple, or small family"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 6,
+    "distanceM": 360
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 6
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 52,
+   "availability": {
+    "kind": "date",
+    "date": "2027-01-07",
+    "flag": "ok",
+    "text": "Available 7 Jan 2027"
+   },
+   "tags": [
+    "Separate lounge",
+    "Unfurnished"
+   ],
+   "furnished": "Unfurnished",
+   "id": "rm:94577811",
+   "price": 1950,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94577811"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20599823/"
+    }
+   ],
+   "description": "Petty Son & Prestwich are delighted to offer this spacious two double bedroom ground floor apartment, ideally located within easy reach of the High Street's excellent selection of shops, bars, restaurants, and two Central Line stations.  Recently fully redecorated throughout, the property has also benefited from a newly fitted bathroom, an upgraded modern kitchen with granite worktops, and new blinds, creating a fresh and contemporary living space.  The apartment features a generous reception room, a principal bedroom with an en-suite shower room, a second double bedroom, and a stylish family bathroom. Additional benefits include double glazing throughout and residents' parking.  Perfectly positioned for commuters, the apartment is just a 7-minute walk (0.3 miles) from Snaresbrook Central Line Station, providing convenient access into Central London.  Available 7th January 2027 (Potentially earlier)  Unfurnished  Council Tax Band: D  EPC Rating: C70  1 Week Holding Deposit: £450  5 Week Total Deposit: £2250  The property is licensed for one household only. Suitable for a single person, a couple, or small family  ",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1950
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94698183",
+   "title": "2 bedroom flat",
+   "address": "Victory Road, London, E11",
+   "priceText": "£1,900 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.584437,
+   "lon": 0.028088,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07a038f19/94698183/07a038f195be9f3d0ba8188cf2d29ec2_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07a038f19/94698183/07a038f195be9f3d0ba8188cf2d29ec2_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a807eeb56/94698183/a807eeb56a8d92cb64fe3353c53f7eaa_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/188474a42/94698183/188474a4294a5d25c53caa4a874dc968_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/585329589/94698183/5853295897bfaf9bcc47581949785982_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cffdb2c8b/94698183/cffdb2c8b3ff9a55d46ebc7847f992b8_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76cd45064/94698183/76cd45064983a6cbf3cf6394e73cdb9b_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/843d1b3d0/94698183/843d1b3d08a5154ac515717bce81fc40_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ff07d7fb/94698183/0ff07d7fbcdf9aa7f0e5b511c03654e0_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de4a8051b/94698183/de4a8051be9d080027ae098976920bc1_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/479d65194/94698183/479d65194695c9712d3b2fbeb5f80610_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a607ecbef/94698183/a607ecbef4c1d11eea2f92a84badfa15_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48bc2e53f/94698183/48bc2e53f167229c5854d5a8f3f9a59f_max_476x317.jpeg"
+   ],
+   "agent": "Knight Bishop",
+   "addedText": "Added on 24/10/2026",
+   "firstVisible": "2026-10-24T16:02:36Z",
+   "summary": "Spacious two bedroom second floor flat in secure Wanstead development with parking, modern kitchen, communal gardens, and excellent transport links near shops, bars and restaurants.",
+   "availableText": "2026-12-18T00:00:00Z",
+   "features": [
+    "Two Bedroom Apartment",
+    "Secured Development",
+    "Located on Second Floor",
+    "Allocated Parking Space",
+    "Spacious Throughout",
+    "Communal Gardens",
+    "Close to Wanstead High Street",
+    "Many Amenities available including Shops, Bars and Restaurants",
+    "Both Wanstead & Snaresbrook Stations Close By"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 10,
+    "distanceM": 604
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 10
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 53,
+   "availability": {
+    "kind": "date",
+    "date": "2026-12-18",
+    "flag": "ok",
+    "text": "Available 18 Dec 2026"
+   },
+   "tags": [
+    "Part furnished"
+   ],
+   "furnished": "Part furnished",
+   "id": "rm:94698183",
+   "price": 1900,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94698183"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20621695/"
+    }
+   ],
+   "description": "Introducing this exceptional two bedroom apartment, perfectly positioned on the second floor of a highly sought-after, secured development in the heart of Wanstead. This elegant flat is thoughtfully designed to offer a sense of space and light throughout, with generous proportions that set it apart from others in the area. Upon entry, you are welcomed by a spacious hallway that leads to the bright and inviting living area, ideal for both relaxing evenings and entertaining guests. The modern kitchen is well-appointed, featuring quality appliances and ample storage, ensuring a seamless cooking and dining experience. Both bedrooms are generously sized, providing comfortable retreats with room for additional furnishings or a dedicated workspace if desired. The contemporary bathroom is stylishly finished, offering a tranquil space to unwind. Residents benefit from an allocated parking space within the secured development, adding convenience and peace of mind. The property is situated just moments from Wanstead High Street, where a vibrant selection of shops, bars and restaurants await, catering to every lifestyle need. Excellent transport links are close by, with both Wanstead and Snaresbrook stations within easy reach, providing swift connections to the City and beyond. The development also features well-maintained communal gardens (perfect for enjoying the outdoors in a peaceful setting), enhancing the overall sense of community and well-being. This impressive apartment represen",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1900
     ]
    ]
   },
