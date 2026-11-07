@@ -1,7 +1,7 @@
 {
  "lastResults": {
   "rightmove": {
-   "at": "2026-11-06T15:02:20Z",
+   "at": "2026-11-07T14:00:35Z",
    "items": [
     {
      "key": "rm:93001146",
@@ -35,7 +35,7 @@
      "addedText": "Reduced on 03/11/2026",
      "firstVisible": "2026-09-10T16:14:17Z",
      "summary": "This is a two bedroom, Raised Ground Floor apartment in Bow, London in a white stucco-fronted period property and it is fully furnished for you to drop your bags and move in. It is ideally suited... ** Property Reference: 3031529 **",
-     "availableText": "2026-11-05T00:00:00Z",
+     "availableText": "2026-11-07T00:00:00Z",
      "features": [
       "No Agent Fees",
       "Property Reference Number: 3031529"
@@ -65,80 +65,9 @@
      "cycleMins": 32,
      "availability": {
       "kind": "date",
-      "date": "2026-11-05",
+      "date": "2026-11-07",
       "flag": "early",
-      "text": "Available 5 Nov 2026"
-     },
-     "tags": [
-      "Furnished"
-     ]
-    },
-    {
-     "key": "rm:92981256",
-     "source": "rightmove",
-     "sourceId": "92981256",
-     "url": "https://www.rightmove.co.uk/properties/92981256",
-     "title": "2 bedroom apartment",
-     "address": "Talwin Street, London",
-     "pricePcm": 1900,
-     "priceText": "£1,900 pcm",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.525555,
-     "lon": -0.012188,
-     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c42c19fc/92981256/5c42c19fcd2c46645fabaf1fb851dd03_max_476x317.jpeg",
-     "images": [
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c42c19fc/92981256/5c42c19fcd2c46645fabaf1fb851dd03_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a713c5c2a/92981256/a713c5c2a4870df77561aa6f7c015c99_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/532af9bce/92981256/532af9bcee530bb435f0e9ea5c72b900_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9be14e113/92981256/9be14e113c6f46e36b15e5b5ff5eb0e9_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63b8d4950/92981256/63b8d495023868708558855bacc4d922_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/31d3ca80e/92981256/31d3ca80ebaf5711d4597f133cb3fbaa_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1755102f/92981256/e1755102f341c78a91a628a464e35724_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08a796074/92981256/08a796074769e3dc451d2478eb2dbbb6_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44a06f02d/92981256/44a06f02d62c16aa029273bbf72dbd64_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ae18e3b1/92981256/0ae18e3b11811ac6e9e5977708f3be19_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56600fa4c/92981256/56600fa4c3b3e686e8618702373e4651_max_476x317.jpeg"
-     ],
-     "agent": "Felicity J Lord",
-     "addedText": "Reduced on 03/11/2026",
-     "firstVisible": "2026-09-10T11:35:32Z",
-     "summary": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3",
-     "availableText": "2026-11-08T00:00:00Z",
-     "features": [
-      "Bromley By Bow Station",
-      "Fully Furnished",
-      "Available November"
-     ],
-     "letAgreed": false,
-     "searchedStation": "Bow Road",
-     "station": {
-      "name": "Bromley-by-Bow",
-      "lines": [
-       "District",
-       "H&C"
-      ],
-      "mode": "tube",
-      "walkMins": 1,
-      "distanceM": 86
-     },
-     "tube": {
-      "name": "Bromley-by-Bow",
-      "lines": [
-       "District",
-       "H&C"
-      ],
-      "walkMins": 1
-     },
-     "area": "Bow",
-     "tier": 1,
-     "cycleMins": 35,
-     "availability": {
-      "kind": "date",
-      "date": "2026-11-08",
-      "flag": "early",
-      "text": "Available 8 Nov 2026"
+      "text": "Available 7 Nov 2026"
      },
      "tags": [
       "Furnished"
@@ -170,7 +99,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/43e7679dc/117670214/43e7679dc1206598bc34476e2c66d4a7_max_476x317.jpeg"
      ],
      "agent": "Felicity J Lord",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "firstVisible": "2021-12-16T10:30:54Z",
      "summary": "A spacious two bedroom two bathroom furnished church conversion with parking. With an open plan lounge/kitchen with integrated appliances, two good sized bedrooms, the main with ensuite shower room and a second bathroom. Ideal for two friends to share",
      "availableText": "2026-11-30T00:00:00Z",
@@ -242,7 +171,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7988c31d/95206206/d7988c31d483e6fb0c025c366c1011d8_max_476x317.jpeg"
      ],
      "agent": "Ambassador Property Services",
-     "addedText": "Added today",
+     "addedText": "Added yesterday",
      "firstVisible": "2026-11-06T14:40:06Z",
      "summary": "Ambassador are delighted to present this spacious and well-presented two-bedroom, two-bathroom apartment in the popular area of Bow.",
      "availableText": "2026-11-06T00:00:00Z",
@@ -322,6 +251,42 @@
      "tags": [
       "Furnished"
      ]
+    },
+    {
+     "key": "rm:95216406",
+     "source": "rightmove",
+     "sourceId": "95216406",
+     "url": "https://www.rightmove.co.uk/properties/95216406",
+     "title": "2 bedroom flat",
+     "address": "Bowmans Mews, London, N7",
+     "pricePcm": 1990,
+     "priceText": "£1,990 pcm",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.558228,
+     "lon": -0.119506,
+     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2893443a/95216406/e2893443a167418edc001ce4553c7f59_max_476x317.jpeg",
+     "images": [
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2893443a/95216406/e2893443a167418edc001ce4553c7f59_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/721ed5425/95216406/721ed54253a55a6eedb3db453a82f71b_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a76ee97ef/95216406/a76ee97ef718396b6a9c2aac1bedecd1_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff1ee8d47/95216406/ff1ee8d475171af25269a970390b7be3_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b99f1cc21/95216406/b99f1cc216635402453ec90c12522c74_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8df0f7ba/95216406/c8df0f7ba405018a6aacd6bacaf1cb3a_max_476x317.jpeg"
+     ],
+     "agent": "OpenRent",
+     "addedText": "Added on 29/10/2026",
+     "firstVisible": "2026-11-06T16:15:30Z",
+     "summary": "We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location. Available to move in from 21 September 2026. Property is offered furnished. Viewing highly recommended. Cont... ** Property Reference: 2907047 **",
+     "availableText": "2026-09-21T00:00:00Z",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire",
+      "Property Reference Number: 2907047"
+     ],
+     "letAgreed": false,
+     "searchedStation": "Holloway Road"
     },
     {
      "key": "rm:94527381",
@@ -1555,148 +1520,6 @@
      ]
     },
     {
-     "key": "rm:93691494",
-     "source": "rightmove",
-     "sourceId": "93691494",
-     "url": "https://www.rightmove.co.uk/properties/93691494",
-     "title": "2 bedroom flat",
-     "address": "Bream Close, London, N17",
-     "pricePcm": 1850,
-     "priceText": "£1,850 pcm",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.585968,
-     "lon": -0.055679,
-     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/124687c27/93691494/124687c27d5df3f8d313792b1e704798_max_476x317.jpeg",
-     "images": [
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/124687c27/93691494/124687c27d5df3f8d313792b1e704798_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26a86d41f/93691494/26a86d41f45a326d7f36a7a96cfdfbb5_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1511f073/93691494/c1511f07325f61b9ae6e341b7a814ea6_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3dd8e0c07/93691494/3dd8e0c07c678e5c637e3ad4ff9e93d5_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd32e109a/93691494/cd32e109ae85c07afdfb3b78ee80d568_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/148aeb2ae/93691494/148aeb2ae76bb8674a7aa28590fdf3d9_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60ee2ff49/93691494/60ee2ff49fac7c3aa44e18383bc71f9c_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fac703f72/93691494/fac703f7263bda34fd06824bfc9cece5_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/903a1c644/93691494/903a1c64484b406d380d4f0ba4997ae6_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89f89fe69/93691494/89f89fe69eb63ed8b116f99473ef6474_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a9a506f3/93691494/3a9a506f37fad944b2990fa56a5a3517_max_476x317.jpeg"
-     ],
-     "agent": "OpenRent",
-     "addedText": "Reduced on 24/10/2026",
-     "firstVisible": "2026-09-29T11:27:20Z",
-     "summary": "We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location a few minutes walk to Tottenham Hale Station and right next to Walthamstow wetlands. Available to move in from... ** Property Reference: 3055033 **",
-     "availableText": "2026-10-24T00:00:00Z",
-     "features": [
-      "No Agent Fees",
-      "Students Can Enquire",
-      "Property Reference Number: 3055033"
-     ],
-     "letAgreed": false,
-     "searchedStation": "Tottenham Hale",
-     "station": {
-      "name": "Tottenham Hale",
-      "lines": [
-       "Victoria"
-      ],
-      "mode": "tube",
-      "walkMins": 6,
-      "distanceM": 357
-     },
-     "tube": {
-      "name": "Tottenham Hale",
-      "lines": [
-       "Victoria"
-      ],
-      "walkMins": 6
-     },
-     "area": "Tottenham Hale",
-     "tier": 2,
-     "cycleMins": 35,
-     "availability": {
-      "kind": "date",
-      "date": "2026-10-24",
-      "flag": "early",
-      "text": "Available 24 Oct 2026"
-     },
-     "tags": []
-    },
-    {
-     "key": "rm:94553520",
-     "source": "rightmove",
-     "sourceId": "94553520",
-     "url": "https://www.rightmove.co.uk/properties/94553520",
-     "title": "2 bedroom flat",
-     "address": "Bream Close, Tottenham Hale",
-     "pricePcm": 1700,
-     "priceText": "£1,700 pcm",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.58491,
-     "lon": -0.05589,
-     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b09695cb/94553520/8b09695cb6cb0198e78ca6d9a219d391_max_476x317.jpeg",
-     "images": [
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b09695cb/94553520/8b09695cb6cb0198e78ca6d9a219d391_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a00544bc8/94553520/a00544bc87644acbb80f97f05e91d304_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6da9b7c86/94553520/6da9b7c8687fc1c09a32a369a24ecbad_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57d0ea5bb/94553520/57d0ea5bb108ac43524a34891e788057_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2d8745f5/94553520/f2d8745f5ea36aa39cf4174e8742eb95_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d91a879c/94553520/4d91a879c5308c8244bb5e9e3ba9b88c_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb865d170/94553520/fb865d170f43030a9a67c48bf8241f3d_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca83082a8/94553520/ca83082a8d2fc49871df99c88feda540_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7b58e3c7/94553520/b7b58e3c7c5a2de42543e40cb7e79f7e_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d03eeeca6/94553520/d03eeeca61cf0a8efdffe200475ed2c1_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/541823221/94553520/541823221f9d33474992644589834614_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46398da8f/94553520/46398da8fe03ea12f8511f2111cf72ef_max_476x317.jpeg"
-     ],
-     "agent": "Alex Crown Lettings & Estate Agents",
-     "addedText": "Reduced on 03/11/2026",
-     "firstVisible": "2026-10-21T11:29:05Z",
-     "summary": "Alex Crown are delighted to present this charming two bedroom flat with a small lounge, situated within a desirable riverside development in the heart of Tottenham Hale, N17.",
-     "availableText": "2026-12-21T00:00:00Z",
-     "features": [
-      "Located on the second floor - (NO LIFT)",
-      "Two spacious bedrooms with a small lounge area",
-      "Situated within a desirable riverside development",
-      "Beautiful views overlooking the river",
-      "Fully fitted kitchen with integrated appliances",
-      "Stylish fully tiled bathroom",
-      "Bright and well-proportioned living space throughout",
-      "Set within a quiet and well-maintained residential block",
-      "Moments from Tottenham Hale Station (Victoria Line & National Rail)",
-      "Excellent transport links providing easy access across London"
-     ],
-     "letAgreed": false,
-     "searchedStation": "Tottenham Hale",
-     "station": {
-      "name": "Tottenham Hale",
-      "lines": [
-       "Victoria"
-      ],
-      "mode": "tube",
-      "walkMins": 7,
-      "distanceM": 439
-     },
-     "tube": {
-      "name": "Tottenham Hale",
-      "lines": [
-       "Victoria"
-      ],
-      "walkMins": 7
-     },
-     "area": "Tottenham Hale",
-     "tier": 2,
-     "cycleMins": 35,
-     "availability": {
-      "kind": "date",
-      "date": "2026-12-21",
-      "flag": "ok",
-      "text": "Available 21 Dec 2026"
-     },
-     "tags": []
-    },
-    {
      "key": "rm:93533256",
      "source": "rightmove",
      "sourceId": "93533256",
@@ -1893,8 +1716,8 @@
      "url": "https://www.rightmove.co.uk/properties/95077773",
      "title": "2 bedroom flat",
      "address": "Lloyd Road, London, E17",
-     "pricePcm": 2000,
-     "priceText": "£2,000 pcm",
+     "pricePcm": 1900,
+     "priceText": "£1,900 pcm",
      "beds": 2,
      "baths": 1,
      "propertyType": "Flat",
@@ -1916,7 +1739,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aab611f74/95077773/aab611f7482a7d18ed3b0ebed66c45b8_max_476x317.jpeg"
      ],
      "agent": "Portico",
-     "addedText": "Added on 03/11/2026",
+     "addedText": "Reduced yesterday",
      "firstVisible": "2026-11-03T17:22:35Z",
      "summary": "A well-proportioned two-bedroom Ex Warner in Walthamstow, offering a separate reception room, kitchen, bathroom and access to a shared garden. Available unfurnished, the property provides a blank canvas for tenants to make their own, with local shops, transport links and green spaces within easy ...",
      "availableText": "2026-11-10T00:00:00Z",
@@ -1961,68 +1784,6 @@
       "Unfurnished",
       "Separate lounge"
      ]
-    },
-    {
-     "key": "rm:95134665",
-     "source": "rightmove",
-     "sourceId": "95134665",
-     "url": "https://www.rightmove.co.uk/properties/95134665",
-     "title": "2 bedroom apartment",
-     "address": "Forest Road, London, E17",
-     "pricePcm": 2000,
-     "priceText": "£2,000 pcm",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.587855,
-     "lon": -0.035393,
-     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0a977d770/95134665/0a977d770c390c18087b81e321fe3102_max_476x317.jpeg",
-     "images": [
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0a977d770/95134665/0a977d770c390c18087b81e321fe3102_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b391840c/95134665/9b391840c9c1d905d7bfe14e81f5005c_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/222a92514/95134665/222a92514afc8c2b5b5adf99c6c2c7df_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c33cb0a47/95134665/c33cb0a4736bec519bbd9646891481d0_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f90af845/95134665/1f90af845e4361bab1a4f2ff8566dac1_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1ebf09d2/95134665/e1ebf09d2d1b3781f60e9273c348ed36_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec6b5c790/95134665/ec6b5c79034b8c69122a0e913d63950f_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62291fd59/95134665/62291fd59aa993f47da6c2f10a55c763_max_476x317.jpeg"
-     ],
-     "agent": "Claremont Estates",
-     "addedText": "Added yesterday",
-     "firstVisible": "2026-11-05T06:59:46Z",
-     "summary": "Newly Refurbished Two Bedroom Flat to Rent – Forest Road, E17 A beautifully presented and newly refurbished two-bedroom flat situated on the sought-after Forest Road in Walthamstow, offering bright and spacious accommodation finished to a high standard throughout. The ...",
-     "availableText": "2027-06-17T00:00:00Z",
-     "features": [],
-     "letAgreed": false,
-     "searchedStation": "Blackhorse Road",
-     "station": {
-      "name": "Blackhorse Road",
-      "lines": [
-       "Victoria",
-       "Overground"
-      ],
-      "mode": "tube",
-      "walkMins": 7,
-      "distanceM": 454
-     },
-     "tube": {
-      "name": "Blackhorse Road",
-      "lines": [
-       "Victoria",
-       "Overground"
-      ],
-      "walkMins": 7
-     },
-     "area": "Walthamstow",
-     "tier": 2,
-     "cycleMins": 40,
-     "availability": {
-      "kind": "date",
-      "date": "2027-06-17",
-      "flag": "late",
-      "text": "Available 17 Jun 2027"
-     },
-     "tags": []
     },
     {
      "key": "rm:94382199",
@@ -2731,26 +2492,26 @@
      "propertyType": "Flat",
      "lat": 51.587135,
      "lon": -0.010925,
-     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aef22bcaf/95131494/aef22bcaf4f3077847f8bcf97dac5f06_max_476x317.jpeg",
+     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1446306d4/95131494/1446306d497fb198e1502ebcb8ade3b2_max_476x317.jpeg",
      "images": [
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1446306d4/95131494/1446306d497fb198e1502ebcb8ade3b2_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd567564f/95131494/fd567564f51377c21c2d45624aa7fd4a_max_476x317.jpeg",
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aef22bcaf/95131494/aef22bcaf4f3077847f8bcf97dac5f06_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e1341190/95131494/7e13411906591a8b3584c26d2d837708_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8ed23fcd6/95131494/8ed23fcd687ad813697380c0e6841d29_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6310e5c49/95131494/6310e5c4902ba8dd3714312ec8602ea2_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb681ea59/95131494/fb681ea5994c1c84be2cb477beadfffe_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/537a4f170/95131494/537a4f170054c1626c1092eb00f7f8d2_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9334b8a80/95131494/9334b8a80cc1f0d97b66ef7c0849c7d1_max_476x317.jpeg",
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5de9dd7c7/95131494/5de9dd7c704a6e4a95eada18cc263ecf_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8034c1348/95131494/8034c1348d9dde01f4cca66c37c61554_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b6e724c9a/95131494/b6e724c9a353f2e1e3914e245e3164c0_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0bd7d1473/95131494/0bd7d1473f76d14fb735acf34f01e8db_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/335178fb1/95131494/335178fb1ce7379410ff126e99cf5c55_max_476x317.jpeg"
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f63152e03/95131494/f63152e0303d2ed2fb6e13dea0c78360_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1d177c85/95131494/f1d177c858e0cfadd611e93b1c77afb6_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de542e6fb/95131494/de542e6fbbf4fbadfc47ba4b496be891_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29c71554e/95131494/29c71554e5ab985aeeddb951dd23b034_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/85e508fec/95131494/85e508fec224dcce3b6a76a06163e417_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2673b4308/95131494/2673b430849c93a2c6845b8ff60914de_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/939c35bf1/95131494/939c35bf193071cab1a789e2c5443b53_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8be52a619/95131494/8be52a61935c1c65ec2519f80f37c63c_max_476x317.jpeg"
      ],
      "agent": "OpenRent",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "firstVisible": "2026-11-04T23:08:57Z",
-     "summary": "Newly renovated and painted, fully furnished, spacious, quiet, and clean 1st floor flat, with all separated rooms through a spacious hall. Offering: - A large living room open plan with brand ne... ** Property Reference: 2870866 **",
-     "availableText": "2026-11-07T00:00:00Z",
+     "summary": "Newly renovated and fully furnished, this bright first-floor flat offers a spacious living area, one double bedroom and one single bedroom in a convenient Walthamstow location. The flat features:... ** Property Reference: 2870866 **",
+     "availableText": "2026-11-09T00:00:00Z",
      "features": [
       "No Agent Fees",
       "Students Can Enquire",
@@ -3090,12 +2851,12 @@
      "propertyType": "Flat",
      "lat": 51.564824,
      "lon": 0.003421,
-     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
+     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
      "images": [
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7bee7fa1/93123918/b7bee7fa13e86316e246c23c1f199171_max_476x317.jpeg",
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29729e2df/93123918/29729e2dfe8a91a63e1f060dce5c73f2_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e1172072/93123918/5e11720725d318b638de46031b6c2639_max_476x317.jpeg",
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76ba6110c/93123918/76ba6110c749ebd302a5dcdd39c78566_max_476x317.jpeg",
@@ -3453,53 +3214,6 @@
      "searchedStation": "Leytonstone"
     },
     {
-     "key": "rm:94884858",
-     "source": "rightmove",
-     "sourceId": "94884858",
-     "url": "https://www.rightmove.co.uk/properties/94884858",
-     "title": "2 bedroom flat",
-     "address": "Bushwood, Leytonstone, London, E11 3BN",
-     "pricePcm": 2000,
-     "priceText": "£2,000 pcm",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.567352,
-     "lon": 0.018701,
-     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b56f3918/94884858/5b56f3918150ff5913bc2f17db8f5945_max_476x317.jpeg",
-     "images": [
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b56f3918/94884858/5b56f3918150ff5913bc2f17db8f5945_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3a691091/94884858/c3a691091d9adf5ac3630236ad44f3d9_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01d31f184/94884858/01d31f18476663a8c2e62dea782d72f5_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc156a6e3/94884858/cc156a6e355589b0572799cc5e4b10cd_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f97779d0b/94884858/f97779d0b6c333263ccb859cc7967bfc_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b91c03340/94884858/b91c03340dd1a7f27d07146fa8eefa23_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/337f80da2/94884858/337f80da2c0ecae5c9f118c79fd63f80_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32bd62469/94884858/32bd6246974e51fbc8d378f5d6aecea0_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d4cfb5d1/94884858/8d4cfb5d12fdf130df82315a5ee11d18_max_476x317.jpeg",
-      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b137b1cd/94884858/5b137b1cdb80e837d6543c8a8c353136_max_476x317.jpeg"
-     ],
-     "agent": "Trading Places",
-     "addedText": "Added on 29/10/2026",
-     "firstVisible": "2026-10-29T10:43:56Z",
-     "summary": "Located on arguably the most prestigious road in Leytonstone, this unfurnished two bedroom first floor period conversion flat will attract plenty of interest. Overlooking the Forest, this property also puts you within easy reach of the tube station.",
-     "availableText": "2026-11-09T00:00:00Z",
-     "features": [
-      "Two Bedroom Period Conversion",
-      "First Floor",
-      "Two Double Size Bedrooms",
-      "Extra Room e.g. Home Office/Study",
-      "Spacious Living Room",
-      "Period Features",
-      "Gas Central Heating",
-      "Unfurnished",
-      "Overlooking the Forest",
-      "EPC Rating - D"
-     ],
-     "letAgreed": false,
-     "searchedStation": "Leytonstone"
-    },
-    {
      "key": "rm:95109141",
      "source": "rightmove",
      "sourceId": "95109141",
@@ -3668,7 +3382,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0dd0ac5d9/95146950/0dd0ac5d9fc86f75eae92a6ec2f52285_max_476x317.jpeg"
      ],
      "agent": "Strettons",
-     "addedText": "Added yesterday",
+     "addedText": "Added on 05/11/2026",
      "firstVisible": "2026-11-05T11:32:58Z",
      "summary": "Nestled on Claude Road in the vibrant area of Leyton, London E10, this charming flat offers a delightful living experience. The property features two well-proportioned bedrooms, comprising one spacious double bedroom that provides ample comfort and privacy, alongside a cosy single bedroom, perfec...",
      "availableText": "2026-11-16T00:00:00Z",
@@ -3746,7 +3460,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/97b811d84/94703400/97b811d84ef58e04763e3bc2c0f831a3_max_476x317.jpeg"
      ],
      "agent": "Hemmingfords",
-     "addedText": "Reduced yesterday",
+     "addedText": "Reduced on 05/11/2026",
      "firstVisible": "2026-10-24T23:06:23Z",
      "summary": "Set on the first floor of a striking period home, this newly refurbished two-bedroom apartment conversion has a lengthy list of highlights, including the additional study, immaculate decor, gorgeous features and ample storage. As for the location, it’s situated moments away from the bril...",
      "availableText": "2026-12-01T00:00:00Z",
@@ -3786,6 +3500,43 @@
       "text": "Available 1 Dec 2026"
      },
      "tags": []
+    },
+    {
+     "key": "rm:95229885",
+     "source": "rightmove",
+     "sourceId": "95229885",
+     "url": "https://www.rightmove.co.uk/properties/95229885",
+     "title": "2 bedroom flat",
+     "address": "Grove Green Road, London, E11",
+     "pricePcm": 1850,
+     "priceText": "£1,850 pcm",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.5632,
+     "lon": 0.002828,
+     "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa7b3c6e8/95229885/aa7b3c6e8f9b856b9cb3e820441ae3b7_max_476x317.jpeg",
+     "images": [
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa7b3c6e8/95229885/aa7b3c6e8f9b856b9cb3e820441ae3b7_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91f63ade8/95229885/91f63ade86e13c58479b289ae32611ad_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3d49015a/95229885/d3d49015a2dd75455b0b5f9cb1e6d974_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/22511ab3f/95229885/22511ab3fc9342d5c4185fc33d5e4b44_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5cbb7c9cb/95229885/5cbb7c9cb53a1dfb491b59e773ec99ab_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32a689515/95229885/32a689515196ae2247b3a86944fba4c3_max_476x317.jpeg",
+      "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32a689515/95229885/32a689515196ae2247b3a86944fba4c3_max_476x317.jpeg"
+     ],
+     "agent": "OpenRent",
+     "addedText": "Added yesterday",
+     "firstVisible": "2026-11-06T22:08:20Z",
+     "summary": "Newly refurbished 2 bedroom 1st floor flat in close proximity to Leytonstone and Leyton station on Central Line. The property offers 2 double rooms, gas central heated throughout, fitted kitchen a... ** Property Reference: 3094383 **",
+     "availableText": "2026-12-06T00:00:00Z",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire",
+      "Property Reference Number: 3094383"
+     ],
+     "letAgreed": false,
+     "searchedStation": "Leytonstone"
     },
     {
      "key": "rm:94412499",
@@ -4035,7 +3786,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cfa52bc97/95143722/cfa52bc97adc53174bd9582461340a4b_max_476x317.jpeg"
      ],
      "agent": "Lloyds Estate Agents",
-     "addedText": "Added yesterday",
+     "addedText": "Added on 05/11/2026",
      "firstVisible": "2026-11-05T10:52:57Z",
      "summary": "Discover this beautifully maintained three-bedroom apartment, offering private parking, balcony, and beautiful communal gardens all just a short stroll from Wanstead High Street.",
      "availableText": "2026-12-01T00:00:00Z",
@@ -4048,7 +3799,8 @@
       "Storage Shed- Perfect for Cyclists!",
       "Minutes to Snaresbrook & Wanstead Central Line Tube Stations",
       "Gently Stroll into Wanstead's Ever Popular High Street",
-      "Only Suitable for 2 Professional Sharers, Couple or Small Family (Selective License Conditions)"
+      "Only Suitable for 2 Professional Sharers, Couple or Small Family (Selective License Conditions)",
+      "View Today!"
      ],
      "letAgreed": false,
      "searchedStation": "Wanstead",
@@ -4107,7 +3859,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8de484d4/94418868/f8de484d484be59c45f8543835550014_max_476x317.jpeg"
      ],
      "agent": "OpenRent",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "firstVisible": "2026-10-16T20:07:00Z",
      "summary": "Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now. Conveniently situated on the vibrant High Street within walking distan... ** Property Reference: 3068763 **",
      "availableText": "2026-11-06T00:00:00Z",
@@ -4317,7 +4069,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6176bae92/92444153/6176bae92d2511f39f46dbfc9e785611_max_476x317.jpg"
      ],
      "agent": "Dennis and Hayes",
-     "addedText": "Added today",
+     "addedText": "Added yesterday",
      "firstVisible": "2020-05-19T15:41:33Z",
      "summary": "A very well presented Ground floor 2 bedroom apartment in this popular development located within a few minutes walk of the shopping and transport amenities of Camden Town and within easy walking distance of the new exciting area of Coal Drops Yard and Central St Martins campus",
      "availableText": "2025-12-16T00:00:00Z",
@@ -4520,7 +4272,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5a0bd01a/95155350/f5a0bd01a5a19771561776f896db722b_max_476x317.jpeg"
      ],
      "agent": "Portico",
-     "addedText": "Added yesterday",
+     "addedText": "Added on 05/11/2026",
      "firstVisible": "2026-11-05T13:42:06Z",
      "summary": "Portico is delighted to offer this two-bedroom split-level apartment on Balls Pond Road, Islington, N1. This naturally bright apartment is spread across the first and second floors and features a spacious reception room, a modern fitted separate kitchen, a generously-sized double bedro...",
      "availableText": "2026-12-05T00:00:00Z",
@@ -4593,7 +4345,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89f56d7f4/93579795/89f56d7f4e82e501c0c0499196cefe2a_max_476x317.jpeg"
      ],
      "agent": "Portico",
-     "addedText": "Reduced yesterday",
+     "addedText": "Reduced on 05/11/2026",
      "firstVisible": "2026-09-25T14:11:38Z",
      "summary": "A beautifully presented two bedroom apartment located in Highbury. The property boasts two well proportioned bedrooms with ample storage, a large living room and separate kitchen. Both bedrooms benefit from large windows which allow natural light to flood in and built in stora...",
      "availableText": "2025-10-03T00:00:00Z",
@@ -4723,7 +4475,7 @@
       "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e933c4529/95204523/e933c4529a054bd606f71f2650044988_max_476x317.jpeg"
      ],
      "agent": "Carr & Jones",
-     "addedText": "Added today",
+     "addedText": "Added yesterday",
      "firstVisible": "2026-11-06T14:18:42Z",
      "summary": "STYLISH & SPACIOUS TWO DOUBLE BEDROOM APARTMENT | THIRD FLOOR WITH LIFT | EXCELLENT TRANSPORT LINKS",
      "availableText": "2026-11-23T00:00:00Z",
@@ -5826,7 +5578,7 @@
    ]
   },
   "onthemarket": {
-   "at": "2026-11-06T15:03:54Z",
+   "at": "2026-11-07T14:02:09Z",
    "items": [
     {
      "key": "otm:17128455",
@@ -5978,63 +5730,6 @@
       "Separate lounge",
       "Furnished"
      ]
-    },
-    {
-     "key": "otm:20354699",
-     "source": "onthemarket",
-     "sourceId": "20354699",
-     "url": "https://www.onthemarket.com/details/20354699/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Anglia House,  Limehouse, E14",
-     "pricePcm": 2000,
-     "priceText": "£2,000",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.5138333,
-     "lon": -0.0361916,
-     "image": "https://media.onthemarket.com/properties/20354699/1651514762/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20354699/1651514762/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20354699/1651514762/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20354699/1651514762/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20354699/1651514762/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20354699/1651514762/image-4-480x320.jpg"
-     ],
-     "agent": "Lloyds Estate Agents - Bethnal Green",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Bethnal Green",
-     "features": [
-      "Spectacular Views of The City Skyline",
-      "Two Large Double Bedrooms",
-      "Study"
-     ]
-    },
-    {
-     "key": "otm:43751",
-     "source": "onthemarket",
-     "sourceId": "43751",
-     "url": "https://www.onthemarket.com/agents/branch/lloyds-estate-agents-bethnal-green/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Bethnal Green"
     },
     {
      "key": "otm:5875705",
@@ -6426,7 +6121,7 @@
       "https://media.onthemarket.com/properties/20697917/1656819080/image-4-480x320.jpg"
      ],
      "agent": "Portico - Highbury",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -6807,7 +6502,7 @@
       "https://media.onthemarket.com/properties/19649878/1656820400/image-4-480x320.jpg"
      ],
      "agent": "Portico - Stratford",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -6839,73 +6534,6 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Mile End"
-    },
-    {
-     "key": "otm:18067665",
-     "source": "onthemarket",
-     "sourceId": "18067665",
-     "url": "https://www.onthemarket.com/details/18067665/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Talwin Street, London",
-     "pricePcm": 1900,
-     "priceText": "£1,900",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.525554802048,
-     "lon": -0.012187538674,
-     "image": "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/18067665/1643210731/image-4-480x320.jpg"
-     ],
-     "agent": "Felicity J. Lord - Bow",
-     "addedText": "Reduced < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Mile End",
-     "features": [
-      "Bromley By Bow Station",
-      "Fully Furnished",
-      "Available November",
-      "495 sq ft floor area"
-     ],
-     "description": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3   Welcome to this stylish and well-presented two-bedroom furnished apartment located on Talwin Street, E3. Perfectly positioned within easy reach of Bow, Mile End and Stratford, this property offers modern living in a vibrant East London neighbourhood.  Property Features:  Spacious open-plan living area with comfortable furnishings and large windows allowing plenty of natural light  Contemporary fitted kitchen with integrated appliances, ample storage and workspace  Two well-proportioned bedrooms, both fully furnished and neutrally decorated  Modern bathroom suite with bath and shower  Furnished throughout to a high standard  Double glazing and gas central heating  Secure entry system  Location:  Situated in a quiet residential street just off Devons Road, the flat benefits from excellent transport links — Devons Road DLR and Bow Road Underground stations are both within easy walking distance, providing quick access to Canary Wharf, The City, and Westfield Stratford. Local shops, cafes, and parks are close by, offering a great balance of convenience and community.",
-     "furnished": "Furnished",
-     "station": {
-      "name": "Bromley-by-Bow",
-      "lines": [
-       "District",
-       "H&C"
-      ],
-      "mode": "tube",
-      "walkMins": 1,
-      "distanceM": 86
-     },
-     "tube": {
-      "name": "Bromley-by-Bow",
-      "lines": [
-       "District",
-       "H&C"
-      ],
-      "walkMins": 1
-     },
-     "area": "Bow",
-     "tier": 1,
-     "cycleMins": 35,
-     "availability": {
-      "kind": "unknown",
-      "date": null,
-      "flag": "unknown",
-      "text": null
-     },
-     "tags": [
-      "Furnished"
-     ]
     },
     {
      "key": "otm:8807905",
@@ -7154,7 +6782,7 @@
       "https://media.onthemarket.com/properties/20622295/1654394215/image-4-480x320.jpg"
      ],
      "agent": "David Daniels - Stratford",
-     "addedText": "Added < 14 days",
+     "addedText": "Added > 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -7370,13 +6998,13 @@
      "propertyType": "Flat",
      "lat": 51.551311,
      "lon": -0.03433,
-     "image": "https://media.onthemarket.com/properties/20576114/1652895507/image-0-480x320.jpg",
+     "image": "https://media.onthemarket.com/properties/20576114/1657147904/image-0-480x320.jpg",
      "images": [
-      "https://media.onthemarket.com/properties/20576114/1652895507/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20576114/1652895507/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20576114/1652895507/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20576114/1652895507/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20576114/1652895507/image-4-480x320.jpg"
+      "https://media.onthemarket.com/properties/20576114/1657147904/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20576114/1657147904/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20576114/1657147904/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20576114/1657147904/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20576114/1657147904/image-4-480x320.jpg"
      ],
      "agent": "OpenRent - UK",
      "addedText": "Added < 7 days",
@@ -7580,7 +7208,7 @@
       "https://media.onthemarket.com/properties/20701955/1656888597/image-4-480x320.jpg"
      ],
      "agent": "OpenRent - UK",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -8276,7 +7904,7 @@
       "https://media.onthemarket.com/properties/20578542/1653016725/image-4-480x320.jpg"
      ],
      "agent": "Acorn - Peckham Rye",
-     "addedText": "Reduced < 7 days",
+     "addedText": "Reduced < 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -8514,62 +8142,6 @@
      "searchedStation": "Whitechapel"
     },
     {
-     "key": "otm:7154719",
-     "source": "onthemarket",
-     "sourceId": "7154719",
-     "url": "https://www.onthemarket.com/details/7154719/",
-     "title": "2 bedroom flat to rent",
-     "address": "Myers Lane, London , SE14",
-     "pricePcm": 1800,
-     "priceText": "£1,800",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.483653,
-     "lon": -0.047396,
-     "image": "https://media.onthemarket.com/properties/7154719/1656337279/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/7154719/1656337279/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/7154719/1656337279/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/7154719/1656337279/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/7154719/1656337279/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/7154719/1656337279/image-4-480x320.jpg"
-     ],
-     "agent": "Reside - London",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Whitechapel",
-     "features": [
-      "Shops and amenities nearby",
-      "Fitted Kitchen"
-     ]
-    },
-    {
-     "key": "otm:50919",
-     "source": "onthemarket",
-     "sourceId": "50919",
-     "url": "https://www.onthemarket.com/agents/branch/reside-london/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Whitechapel"
-    },
-    {
      "key": "otm:20372601",
      "source": "onthemarket",
      "sourceId": "20372601",
@@ -8627,7 +8199,7 @@
       "https://media.onthemarket.com/properties/17797466/1648574645/image-4-480x320.jpg"
      ],
      "agent": "B&C Properties - Kidbrooke",
-     "addedText": "Reduced yesterday",
+     "addedText": "Reduced < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -8642,6 +8214,95 @@
      "source": "onthemarket",
      "sourceId": "70197",
      "url": "https://www.onthemarket.com/agents/branch/b-and-c-properties-kidbrooke/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Whitechapel"
+    },
+    {
+     "key": "otm:20708111",
+     "source": "onthemarket",
+     "sourceId": "20708111",
+     "url": "https://www.onthemarket.com/details/20708111/",
+     "title": "2 bedroom flat to rent",
+     "address": "Bushwood Drive, London SE1",
+     "pricePcm": 2000,
+     "priceText": "£2,000",
+     "beds": 2,
+     "baths": 2,
+     "propertyType": "Flat",
+     "lat": 51.489963,
+     "lon": -0.072649,
+     "image": "https://media.onthemarket.com/properties/20708111/1657058141/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20708111/1657058141/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708111/1657058141/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708111/1657058141/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708111/1657058141/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708111/1657058141/image-4-480x320.jpg"
+     ],
+     "agent": "Marsh & Parsons - London Bridge",
+     "addedText": "Added yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Whitechapel",
+     "features": [
+      "Two Double Bedroom",
+      "Two Bathroom"
+     ]
+    },
+    {
+     "key": "otm:7154719",
+     "source": "onthemarket",
+     "sourceId": "7154719",
+     "url": "https://www.onthemarket.com/details/7154719/",
+     "title": "2 bedroom flat to rent",
+     "address": "Myers Lane, London , SE14",
+     "pricePcm": 1700,
+     "priceText": "£1,700",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.483653,
+     "lon": -0.047396,
+     "image": "https://media.onthemarket.com/properties/7154719/1656337279/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/7154719/1656337279/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/7154719/1656337279/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/7154719/1656337279/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/7154719/1656337279/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/7154719/1656337279/image-4-480x320.jpg"
+     ],
+     "agent": "Reside - London",
+     "addedText": "Reduced yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Whitechapel",
+     "features": [
+      "Shops and amenities nearby",
+      "Fitted Kitchen"
+     ]
+    },
+    {
+     "key": "otm:50919",
+     "source": "onthemarket",
+     "sourceId": "50919",
+     "url": "https://www.onthemarket.com/agents/branch/reside-london/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -8769,7 +8430,7 @@
       "https://media.onthemarket.com/properties/20414985/1647170118/image-4-480x320.jpg"
      ],
      "agent": "Portico - Highbury",
-     "addedText": "Reduced yesterday",
+     "addedText": "Reduced < 7 days",
      "summary": "",
      "availableText": "now",
      "letAgreed": false,
@@ -8896,297 +8557,6 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Angel"
-    },
-    {
-     "key": "otm:20604848",
-     "source": "onthemarket",
-     "sourceId": "20604848",
-     "url": "https://www.onthemarket.com/details/20604848/",
-     "title": "2 bedroom flat to rent",
-     "address": "Waterflow Road, London",
-     "pricePcm": 2000,
-     "priceText": "£2,000",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.5684768,
-     "lon": -0.1380151,
-     "image": "https://media.onthemarket.com/properties/20604848/1653797078/epc-0-480x320.png",
-     "images": [
-      "https://media.onthemarket.com/properties/20604848/1653797078/epc-0-480x320.png"
-     ],
-     "agent": "Upper Class Estates - Stoke Newington",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": "now",
-     "letAgreed": false,
-     "searchedStation": "Highbury & Islington",
-     "features": [
-      "Garden",
-      "Fridge Freezer"
-     ],
-     "description": " Upper Class Estates is pleased to present this newly refurbished two-bedroom ground-floor flat with a rear garden, conveniently situated in Archway.  The property offers freshly decorated interiors, wood flooring and a modern fitted kitchen with grey cabinetry, wood-effect worktops and patterned splashbacks. The bathroom features a bath with an overhead shower and glass screen, complemented by contemporary tiling. The rear garden provides welcome outdoor space for relaxing or enjoying a morning coffee.  The surrounding area offers restaurants, cafés and local shops along Junction Road and Holloway Road, with dining options including St John’s Tavern. Archway Market in Navigator Square offers fresh produce, street food and independent stalls.  Waterlow Park and Whittington Park provide green spaces to explore, while Highgate Village and Hampstead Heath offer further opportunities for days out. Archway Leisure Centre adds convenient access to swimming and gym facilities.  Transport connections include Archway Underground station on the Northern line and Upper Holloway station on the London Overground’s Suffragette line, alongside local bus services.   Contact Upper Class Estates to arrange a viewing.  ",
-     "furnished": "Furnished",
-     "station": {
-      "name": "Archway",
-      "lines": [
-       "Northern"
-      ],
-      "mode": "tube",
-      "walkMins": 6,
-      "distanceM": 400
-     },
-     "tube": {
-      "name": "Archway",
-      "lines": [
-       "Northern"
-      ],
-      "walkMins": 6
-     },
-     "area": "Archway",
-     "tier": 2,
-     "cycleMins": 19,
-     "availability": {
-      "kind": "now",
-      "date": null,
-      "flag": "early",
-      "text": "Available now"
-     },
-     "tags": [
-      "Garden",
-      "Furnished"
-     ]
-    },
-    {
-     "key": "otm:54888",
-     "source": "onthemarket",
-     "sourceId": "54888",
-     "url": "https://www.onthemarket.com/agents/branch/upper-class-estates-stoke-newington/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highbury & Islington"
-    },
-    {
-     "key": "otm:20621877",
-     "source": "onthemarket",
-     "sourceId": "20621877",
-     "url": "https://www.onthemarket.com/details/20621877/",
-     "title": "2 bedroom flat to rent",
-     "address": "Stroud Green / Finsbury Park, London, N4",
-     "pricePcm": 1900,
-     "priceText": "£1,900",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.574914,
-     "lon": -0.112991,
-     "image": "https://media.onthemarket.com/properties/20621877/1654377940/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20621877/1654377940/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20621877/1654377940/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20621877/1654377940/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20621877/1654377940/image-3-480x320.jpg"
-     ],
-     "agent": "OpenRent - UK",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highbury & Islington",
-     "features": [
-      "No Agent Fees",
-      "Students Can Enquire"
-     ]
-    },
-    {
-     "key": "otm:20476213",
-     "source": "onthemarket",
-     "sourceId": "20476213",
-     "url": "https://www.onthemarket.com/details/20476213/",
-     "title": "2 bedroom flat to rent",
-     "address": "Gibson Gardens",
-     "pricePcm": 1900,
-     "priceText": "£1,900",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.5637045,
-     "lon": -0.0718616,
-     "image": "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20476213/1656997772/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20476213/1656997772/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20476213/1656997772/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20476213/1656997772/image-4-480x320.jpg"
-     ],
-     "agent": "Select.London - Manor Park",
-     "addedText": "Added yesterday",
-     "summary": "",
-     "availableText": "now",
-     "letAgreed": false,
-     "searchedStation": "Highbury & Islington",
-     "features": [
-      "452 sq ft floor area",
-      "Nearest station 0.1mi."
-     ],
-     "description": "This two-bedroom flat is located at Gibson Gardens, London N16, third floor within a period brick-built residential development. The property provides one reception room, two bedrooms, one bathroom and a separate fitted kitchen. It is offered unfurnished and has gas central heating throughout, with radiators positioned in the principal rooms. The accommodation is arranged to provide separate living, sleeping, kitchen and bathroom areas.  The reception room is a separate room with wooden-effect flooring, a front-facing multi-pane window and fitted shelving set into a recess. The window provides natural light and has curtains installed. The room has space for seating and other standard living-room furniture, with power points positioned around the walls. The flooring continues towards the entrance area, while the neutral wall finish provides a plain base for occupiers’ own furnishings.  The property has two bedrooms. The first bedroom is carpeted and includes a multi-pane window overlooking the surrounding residential buildings. It has a radiator beneath the window, ceiling lighting and sufficient floor area for bedroom furniture. The second bedroom is also carpeted and has a similar multi-pane window, radiator heating and ceiling lighting. Both rooms have neutral painted walls and are presented without freestanding furniture. The windows are fitted with curtains, and the rooms receive daylight from their external elevations.  The kitchen is arranged in a galley-style layout, with fitted base and wall units on opposing sides. It includes dark work surfaces, a stainless-steel sink and drainer, a gas hob with an oven below, a stainless-steel extractor hood, a fridge freezer and a washing machine. White tiled splashbacks are fitted along the working areas, and there are electrical sockets above the worktops. A window at the rear of the kitchen provides daylight and views towards neighbouring buildings. The kitchen has a dark floor covering and space for food preparation and storage.  The bathroom is fitted with a white wash basin set within a vanity unit, a close-coupled toilet and a separate glazed shower enclosure. The walls are part tiled in dark tones, with a decorative mosaic strip inside the shower area. A large wall-mounted mirror, recessed ceiling spotlights, storage baskets and a heated towel rail are also present. The bathroom is accessed from the internal accommodation and has a tiled floor.  The building fronts onto a cobbled residential street with paved pedestrian paths and mature trees nearby. On-road parking is available on the surrounding street. The address is in London N16, and the property is positioned within an established urban residential area. Nearby places, transport facilities, schools, shops and other local amenities have not been specified in the supplied property information.",
-     "furnished": "Unfurnished",
-     "station": {
-      "name": "Stoke Newington",
-      "lines": [
-       "Overground"
-      ],
-      "mode": "overground",
-      "walkMins": 3,
-      "distanceM": 181
-     },
-     "tube": {
-      "name": "Manor House",
-      "lines": [
-       "Piccadilly"
-      ],
-      "walkMins": 30
-     },
-     "area": "Stoke Newington",
-     "tier": 2,
-     "cycleMins": 24,
-     "availability": {
-      "kind": "now",
-      "date": null,
-      "flag": "early",
-      "text": "Available now"
-     },
-     "tags": [
-      "Separate lounge",
-      "Unfurnished"
-     ]
-    },
-    {
-     "key": "otm:46048",
-     "source": "onthemarket",
-     "sourceId": "46048",
-     "url": "https://www.onthemarket.com/agents/branch/select-dot-london-manor-park/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highbury & Islington"
-    },
-    {
-     "key": "otm:20656239",
-     "source": "onthemarket",
-     "sourceId": "20656239",
-     "url": "https://www.onthemarket.com/details/20656239/",
-     "title": "2 bedroom flat to rent",
-     "address": "Ferme Park Road, Hornsey, London",
-     "pricePcm": 1950,
-     "priceText": "£1,950",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.578441,
-     "lon": -0.115673,
-     "image": "https://media.onthemarket.com/properties/20656239/1655613309/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20656239/1655613309/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20656239/1655613309/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20656239/1655613309/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20656239/1655613309/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20656239/1655613309/image-4-480x320.jpg"
-     ],
-     "agent": "Teepee Property Management - Turnpike Lane",
-     "addedText": "Reduced today",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highbury & Islington",
-     "features": [
-      "Available!",
-      "Crounch End"
-     ]
-    },
-    {
-     "key": "otm:46727",
-     "source": "onthemarket",
-     "sourceId": "46727",
-     "url": "https://www.onthemarket.com/agents/branch/teepee-property-management-turnpike-lane/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highbury & Islington"
-    },
-    {
-     "key": "otm:20635853",
-     "source": "onthemarket",
-     "sourceId": "20635853",
-     "url": "https://www.onthemarket.com/details/20635853/",
-     "title": "2 bedroom flat to rent",
-     "address": "Ferme Park Road, London",
-     "pricePcm": 1950,
-     "priceText": "£1,950",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.578197,
-     "lon": -0.115548,
-     "image": "https://media.onthemarket.com/properties/20635853/1654893874/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20635853/1654893874/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20635853/1654893874/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20635853/1654893874/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20635853/1654893874/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20635853/1654893874/image-4-480x320.jpg"
-     ],
-     "agent": "Teepee Property Management - Turnpike Lane",
-     "addedText": "Reduced today",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highbury & Islington",
-     "features": [
-      "Basement Flat",
-      "Private Garden"
-     ]
     },
     {
      "key": "otm:17740470",
@@ -9417,6 +8787,39 @@
      "searchedStation": "Highbury & Islington"
     },
     {
+     "key": "otm:20354141",
+     "source": "onthemarket",
+     "sourceId": "20354141",
+     "url": "https://www.onthemarket.com/details/20354141/",
+     "title": "2 bedroom flat to rent",
+     "address": "Bowmans Mews, London, N7",
+     "pricePcm": 1990,
+     "priceText": "£1,990",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.55823,
+     "lon": -0.11948,
+     "image": "https://media.onthemarket.com/properties/20354141/1644931964/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20354141/1644931964/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20354141/1644931964/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20354141/1644931964/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20354141/1644931964/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20354141/1644931964/image-4-480x320.jpg"
+     ],
+     "agent": "OpenRent - UK",
+     "addedText": "Added < 14 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Highbury & Islington",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
+    },
+    {
      "key": "otm:20680683",
      "source": "onthemarket",
      "sourceId": "20680683",
@@ -9551,7 +8954,7 @@
       "https://media.onthemarket.com/properties/10789688/1656976965/image-4-480x320.jpg"
      ],
      "agent": "Robert Lehrer Properties - Highgate",
-     "addedText": "Added today",
+     "addedText": "Added yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -9583,6 +8986,39 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Highbury & Islington"
+    },
+    {
+     "key": "otm:20709158",
+     "source": "onthemarket",
+     "sourceId": "20709158",
+     "url": "https://www.onthemarket.com/details/20709158/",
+     "title": "2 bedroom flat to rent",
+     "address": "Hornsey Road, Holloway",
+     "pricePcm": 2000,
+     "priceText": "£2,000",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.565619,
+     "lon": -0.120431,
+     "image": "https://media.onthemarket.com/properties/20709158/1657068563/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20709158/1657068563/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709158/1657068563/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709158/1657068563/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709158/1657068563/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709158/1657068563/image-4-480x320.jpg"
+     ],
+     "agent": "Alex Crown Lettings And Estate Agents - Archway",
+     "addedText": "Added yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Highbury & Islington",
+     "features": [
+      "Two double bedroom ground floor flat",
+      "Private patio area"
+     ]
     },
     {
      "key": "otm:20590586",
@@ -9639,6 +9075,210 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Holloway Road"
+    },
+    {
+     "key": "otm:20604848",
+     "source": "onthemarket",
+     "sourceId": "20604848",
+     "url": "https://www.onthemarket.com/details/20604848/",
+     "title": "2 bedroom flat to rent",
+     "address": "Waterflow Road, London",
+     "pricePcm": 2000,
+     "priceText": "£2,000",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.5684768,
+     "lon": -0.1380151,
+     "image": "https://media.onthemarket.com/properties/20604848/1653797078/epc-0-480x320.png",
+     "images": [
+      "https://media.onthemarket.com/properties/20604848/1653797078/epc-0-480x320.png"
+     ],
+     "agent": "Upper Class Estates - Stoke Newington",
+     "addedText": "Added > 14 days",
+     "summary": "",
+     "availableText": "now",
+     "letAgreed": false,
+     "searchedStation": "Holloway Road",
+     "features": [
+      "Garden",
+      "Fridge Freezer"
+     ],
+     "description": " Upper Class Estates is pleased to present this newly refurbished two-bedroom ground-floor flat with a rear garden, conveniently situated in Archway.  The property offers freshly decorated interiors, wood flooring and a modern fitted kitchen with grey cabinetry, wood-effect worktops and patterned splashbacks. The bathroom features a bath with an overhead shower and glass screen, complemented by contemporary tiling. The rear garden provides welcome outdoor space for relaxing or enjoying a morning coffee.  The surrounding area offers restaurants, cafés and local shops along Junction Road and Holloway Road, with dining options including St John’s Tavern. Archway Market in Navigator Square offers fresh produce, street food and independent stalls.  Waterlow Park and Whittington Park provide green spaces to explore, while Highgate Village and Hampstead Heath offer further opportunities for days out. Archway Leisure Centre adds convenient access to swimming and gym facilities.  Transport connections include Archway Underground station on the Northern line and Upper Holloway station on the London Overground’s Suffragette line, alongside local bus services.   Contact Upper Class Estates to arrange a viewing.  ",
+     "furnished": "Furnished",
+     "station": {
+      "name": "Archway",
+      "lines": [
+       "Northern"
+      ],
+      "mode": "tube",
+      "walkMins": 6,
+      "distanceM": 400
+     },
+     "tube": {
+      "name": "Archway",
+      "lines": [
+       "Northern"
+      ],
+      "walkMins": 6
+     },
+     "area": "Archway",
+     "tier": 2,
+     "cycleMins": 19,
+     "availability": {
+      "kind": "now",
+      "date": null,
+      "flag": "early",
+      "text": "Available now"
+     },
+     "tags": [
+      "Garden",
+      "Furnished"
+     ]
+    },
+    {
+     "key": "otm:54888",
+     "source": "onthemarket",
+     "sourceId": "54888",
+     "url": "https://www.onthemarket.com/agents/branch/upper-class-estates-stoke-newington/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Holloway Road"
+    },
+    {
+     "key": "otm:20621877",
+     "source": "onthemarket",
+     "sourceId": "20621877",
+     "url": "https://www.onthemarket.com/details/20621877/",
+     "title": "2 bedroom flat to rent",
+     "address": "Stroud Green / Finsbury Park, London, N4",
+     "pricePcm": 1900,
+     "priceText": "£1,900",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.574914,
+     "lon": -0.112991,
+     "image": "https://media.onthemarket.com/properties/20621877/1654377940/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20621877/1654377940/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20621877/1654377940/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20621877/1654377940/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20621877/1654377940/image-3-480x320.jpg"
+     ],
+     "agent": "OpenRent - UK",
+     "addedText": "Added > 14 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Holloway Road",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
+    },
+    {
+     "key": "otm:20656239",
+     "source": "onthemarket",
+     "sourceId": "20656239",
+     "url": "https://www.onthemarket.com/details/20656239/",
+     "title": "2 bedroom flat to rent",
+     "address": "Ferme Park Road, Hornsey, London",
+     "pricePcm": 1950,
+     "priceText": "£1,950",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.578441,
+     "lon": -0.115673,
+     "image": "https://media.onthemarket.com/properties/20656239/1655613309/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20656239/1655613309/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20656239/1655613309/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20656239/1655613309/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20656239/1655613309/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20656239/1655613309/image-4-480x320.jpg"
+     ],
+     "agent": "Teepee Property Management - Turnpike Lane",
+     "addedText": "Reduced yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Holloway Road",
+     "features": [
+      "Available!",
+      "Crounch End"
+     ]
+    },
+    {
+     "key": "otm:46727",
+     "source": "onthemarket",
+     "sourceId": "46727",
+     "url": "https://www.onthemarket.com/agents/branch/teepee-property-management-turnpike-lane/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Holloway Road"
+    },
+    {
+     "key": "otm:20635853",
+     "source": "onthemarket",
+     "sourceId": "20635853",
+     "url": "https://www.onthemarket.com/details/20635853/",
+     "title": "2 bedroom flat to rent",
+     "address": "Ferme Park Road, London",
+     "pricePcm": 1950,
+     "priceText": "£1,950",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.578197,
+     "lon": -0.115548,
+     "image": "https://media.onthemarket.com/properties/20635853/1654893874/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20635853/1654893874/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20635853/1654893874/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20635853/1654893874/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20635853/1654893874/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20635853/1654893874/image-4-480x320.jpg"
+     ],
+     "agent": "Teepee Property Management - Turnpike Lane",
+     "addedText": "Reduced yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Holloway Road",
+     "features": [
+      "Basement Flat",
+      "Private Garden"
+     ]
     },
     {
      "key": "otm:17235316",
@@ -10025,7 +9665,7 @@
       "https://media.onthemarket.com/properties/7370098/1652057236/image-4-480x320.jpg"
      ],
      "agent": "Nicholas James Estate Agents - Southgate",
-     "addedText": "Reduced > 14 days",
+     "addedText": "Added > 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -10113,7 +9753,7 @@
       "https://media.onthemarket.com/properties/20664394/1655840135/image-4-480x320.png"
      ],
      "agent": "Mays Management - Stamford Hill",
-     "addedText": "Added < 7 days",
+     "addedText": "Added < 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -10295,6 +9935,68 @@
      ]
     },
     {
+     "key": "otm:20709810",
+     "source": "onthemarket",
+     "sourceId": "20709810",
+     "url": "https://www.onthemarket.com/details/20709810/",
+     "title": "2 bedroom flat to rent",
+     "address": "Waldeck Road, London, N15",
+     "pricePcm": 2000,
+     "priceText": "£2,000",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.588576,
+     "lon": -0.098119,
+     "image": "https://media.onthemarket.com/properties/20709810/1657080442/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20709810/1657080442/image-0-480x320.jpg"
+     ],
+     "agent": "OpenRent - UK",
+     "addedText": "Added yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Finsbury Park",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ],
+     "description": "Property Reference: 3101421.  New build   Summary & Exclusions:  - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,000.00 - 2 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 14 November 2026 - Maximum number of tenants is 3 - Students welcome to enquire - Pets considered / by arrangement - Smokers considered - Family Friendly -  Bills Included  - No Parking Available - No Garden Access - EPC Rating: B     If calling, please quote reference: 3101421      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
+     "furnished": "Furnished",
+     "station": {
+      "name": "Turnpike Lane",
+      "lines": [
+       "Piccadilly"
+      ],
+      "mode": "tube",
+      "walkMins": 6,
+      "distanceM": 382
+     },
+     "tube": {
+      "name": "Turnpike Lane",
+      "lines": [
+       "Piccadilly"
+      ],
+      "walkMins": 6
+     },
+     "area": "Turnpike Lane",
+     "tier": 2,
+     "cycleMins": 30,
+     "availability": {
+      "kind": "unknown",
+      "date": null,
+      "flag": "unknown",
+      "text": null
+     },
+     "tags": [
+      "Garden",
+      "Bills incl.",
+      "Pets OK",
+      "Furnished"
+     ]
+    },
+    {
      "key": "otm:19406663",
      "source": "onthemarket",
      "sourceId": "19406663",
@@ -10328,132 +10030,74 @@
      ]
     },
     {
-     "key": "otm:20241232",
+     "key": "otm:20476213",
      "source": "onthemarket",
-     "sourceId": "20241232",
-     "url": "https://www.onthemarket.com/details/20241232/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Palmerston Crescent, Palmers Green, N13",
-     "pricePcm": 1898,
-     "priceText": "£1,898",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.6148089,
-     "lon": -0.1110037,
-     "image": "https://media.onthemarket.com/properties/20241232/1650845812/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20241232/1650845812/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20241232/1650845812/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20241232/1650845812/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20241232/1650845812/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20241232/1650845812/image-4-480x320.jpg"
-     ],
-     "agent": "Robert Lehrer Properties - Highgate",
-     "addedText": "Reduced < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Wood Green",
-     "features": [
-      "Nearest station 0.3mi.",
-      "Nearest school 0.2mi."
-     ]
-    },
-    {
-     "key": "otm:17852397",
-     "source": "onthemarket",
-     "sourceId": "17852397",
-     "url": "https://www.onthemarket.com/details/17852397/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Colney Hatch Lane, London, N10",
-     "pricePcm": 1800,
-     "priceText": "£1,800",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.595842,
-     "lon": -0.14526,
-     "image": "https://media.onthemarket.com/properties/17852397/1656297863/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/17852397/1656297863/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/17852397/1656297863/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/17852397/1656297863/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/17852397/1656297863/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/17852397/1656297863/image-4-480x320.jpg"
-     ],
-     "agent": "Tatlers - Muswell Hill",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Wood Green",
-     "features": [
-      "Purpose Built",
-      "Ground Floor"
-     ]
-    },
-    {
-     "key": "otm:46205",
-     "source": "onthemarket",
-     "sourceId": "46205",
-     "url": "https://www.onthemarket.com/agents/branch/tatlers-muswell-hill/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Wood Green"
-    },
-    {
-     "key": "otm:20077726",
-     "source": "onthemarket",
-     "sourceId": "20077726",
-     "url": "https://www.onthemarket.com/details/20077726/",
+     "sourceId": "20476213",
+     "url": "https://www.onthemarket.com/details/20476213/",
      "title": "2 bedroom flat to rent",
-     "address": "Empire House, N18, Edmonton, London, N18",
-     "pricePcm": 1825,
-     "priceText": "£1,825",
+     "address": "Gibson Gardens",
+     "pricePcm": 1900,
+     "priceText": "£1,900",
      "beds": 2,
      "baths": 1,
      "propertyType": "Flat",
-     "lat": 51.608967,
-     "lon": -0.085136,
-     "image": "https://media.onthemarket.com/properties/20077726/1634868370/image-0-480x320.jpg",
+     "lat": 51.5637045,
+     "lon": -0.0718616,
+     "image": "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
      "images": [
-      "https://media.onthemarket.com/properties/20077726/1634868370/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20077726/1634868370/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20077726/1634868370/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20077726/1634868370/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20077726/1634868370/image-4-480x320.jpg"
+      "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20476213/1656997772/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20476213/1656997772/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20476213/1656997772/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20476213/1656997772/image-4-480x320.jpg"
      ],
-     "agent": "Foxtons - Wood Green",
-     "addedText": "Reduced < 14 days",
+     "agent": "Select.London - Manor Park",
+     "addedText": "Added < 7 days",
      "summary": "",
-     "availableText": null,
+     "availableText": "now",
      "letAgreed": false,
-     "searchedStation": "Wood Green",
+     "searchedStation": "Manor House",
      "features": [
-      "Lovely 2 bed ground floor flat",
-      "Generous size living space"
+      "452 sq ft floor area",
+      "Nearest station 0.1mi."
+     ],
+     "description": "This two-bedroom flat is located at Gibson Gardens, London N16, third floor within a period brick-built residential development. The property provides one reception room, two bedrooms, one bathroom and a separate fitted kitchen. It is offered unfurnished and has gas central heating throughout, with radiators positioned in the principal rooms. The accommodation is arranged to provide separate living, sleeping, kitchen and bathroom areas.  The reception room is a separate room with wooden-effect flooring, a front-facing multi-pane window and fitted shelving set into a recess. The window provides natural light and has curtains installed. The room has space for seating and other standard living-room furniture, with power points positioned around the walls. The flooring continues towards the entrance area, while the neutral wall finish provides a plain base for occupiers’ own furnishings.  The property has two bedrooms. The first bedroom is carpeted and includes a multi-pane window overlooking the surrounding residential buildings. It has a radiator beneath the window, ceiling lighting and sufficient floor area for bedroom furniture. The second bedroom is also carpeted and has a similar multi-pane window, radiator heating and ceiling lighting. Both rooms have neutral painted walls and are presented without freestanding furniture. The windows are fitted with curtains, and the rooms receive daylight from their external elevations.  The kitchen is arranged in a galley-style layout, with fitted base and wall units on opposing sides. It includes dark work surfaces, a stainless-steel sink and drainer, a gas hob with an oven below, a stainless-steel extractor hood, a fridge freezer and a washing machine. White tiled splashbacks are fitted along the working areas, and there are electrical sockets above the worktops. A window at the rear of the kitchen provides daylight and views towards neighbouring buildings. The kitchen has a dark floor covering and space for food preparation and storage.  The bathroom is fitted with a white wash basin set within a vanity unit, a close-coupled toilet and a separate glazed shower enclosure. The walls are part tiled in dark tones, with a decorative mosaic strip inside the shower area. A large wall-mounted mirror, recessed ceiling spotlights, storage baskets and a heated towel rail are also present. The bathroom is accessed from the internal accommodation and has a tiled floor.  The building fronts onto a cobbled residential street with paved pedestrian paths and mature trees nearby. On-road parking is available on the surrounding street. The address is in London N16, and the property is positioned within an established urban residential area. Nearby places, transport facilities, schools, shops and other local amenities have not been specified in the supplied property information.",
+     "furnished": "Unfurnished",
+     "station": {
+      "name": "Stoke Newington",
+      "lines": [
+       "Overground"
+      ],
+      "mode": "overground",
+      "walkMins": 3,
+      "distanceM": 181
+     },
+     "tube": {
+      "name": "Manor House",
+      "lines": [
+       "Piccadilly"
+      ],
+      "walkMins": 30
+     },
+     "area": "Stoke Newington",
+     "tier": 2,
+     "cycleMins": 24,
+     "availability": {
+      "kind": "now",
+      "date": null,
+      "flag": "early",
+      "text": "Available now"
+     },
+     "tags": [
+      "Separate lounge",
+      "Unfurnished"
      ]
     },
     {
-     "key": "otm:62282",
+     "key": "otm:46048",
      "source": "onthemarket",
-     "sourceId": "62282",
-     "url": "https://www.onthemarket.com/agents/branch/foxtons-wood-green/",
+     "sourceId": "46048",
+     "url": "https://www.onthemarket.com/agents/branch/select-dot-london-manor-park/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -10470,63 +10114,7 @@
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Wood Green"
-    },
-    {
-     "key": "otm:6175397",
-     "source": "onthemarket",
-     "sourceId": "6175397",
-     "url": "https://www.onthemarket.com/details/6175397/",
-     "title": "2 bedroom flat to rent",
-     "address": "FINSBURY ROAD, WOOD GREEN, N22",
-     "pricePcm": 1850,
-     "priceText": "£1,850",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.6035211242196,
-     "lon": -0.115938111875219,
-     "image": "https://media.onthemarket.com/properties/6175397/1655630638/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/6175397/1655630638/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/6175397/1655630638/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/6175397/1655630638/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/6175397/1655630638/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/6175397/1655630638/image-4-480x320.jpg"
-     ],
-     "agent": "Bennett & Hall - Finchley",
-     "addedText": "Reduced < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Wood Green",
-     "features": [
-      "796 sq ft floor area",
-      "Nearest station 0.3mi."
-     ]
-    },
-    {
-     "key": "otm:46834",
-     "source": "onthemarket",
-     "sourceId": "46834",
-     "url": "https://www.onthemarket.com/agents/branch/bennett-and-hall-finchley/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Wood Green"
+     "searchedStation": "Manor House"
     },
     {
      "key": "otm:20549240",
@@ -11340,7 +10928,7 @@
       "https://media.onthemarket.com/properties/20695434/1656776262/image-4-480x320.jpg"
      ],
      "agent": "Foxtons - Wood Green",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -11349,6 +10937,29 @@
       "A bright and modern two bedroom flat",
       "Arranged over the first floor of a brand new apartment block"
      ]
+    },
+    {
+     "key": "otm:62282",
+     "source": "onthemarket",
+     "sourceId": "62282",
+     "url": "https://www.onthemarket.com/agents/branch/foxtons-wood-green/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wood Green"
     },
     {
      "key": "otm:20697430",
@@ -11370,7 +10981,7 @@
       "https://media.onthemarket.com/properties/20697430/1656813447/epc-0-480x320.png"
      ],
      "agent": "Sunshine Estates - London",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -11403,7 +11014,7 @@
       "https://media.onthemarket.com/properties/20700447/1656852550/image-4-480x320.jpg"
      ],
      "agent": "Traynor & Company - Crouch End",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -11460,7 +11071,7 @@
       "https://media.onthemarket.com/properties/20412158/1647111555/image-4-480x320.jpg"
      ],
      "agent": "Martyn Gerrard - Crouch End",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -11475,6 +11086,209 @@
      "source": "onthemarket",
      "sourceId": "70870",
      "url": "https://www.onthemarket.com/agents/branch/martyn-gerrard-crouch-end/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wood Green"
+    },
+    {
+     "key": "otm:20354985",
+     "source": "onthemarket",
+     "sourceId": "20354985",
+     "url": "https://www.onthemarket.com/details/20354985/",
+     "title": "2 bedroom flat to rent",
+     "address": "Northumberland Park, Tottenham, London, N17",
+     "pricePcm": 1700,
+     "priceText": "£1,700",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.6063957,
+     "lon": -0.067163,
+     "image": "https://media.onthemarket.com/properties/20354985/1657048960/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20354985/1657048960/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20354985/1657048960/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20354985/1657048960/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20354985/1657048960/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20354985/1657048960/image-4-480x320.jpg"
+     ],
+     "agent": "Knights Residential - Tottenham",
+     "addedText": "Reduced yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wood Green",
+     "features": [
+      "Two bedroom flat",
+      "Newly refurbished"
+     ]
+    },
+    {
+     "key": "otm:46762",
+     "source": "onthemarket",
+     "sourceId": "46762",
+     "url": "https://www.onthemarket.com/agents/branch/knights-residential-tottenham/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wood Green"
+    },
+    {
+     "key": "otm:20709306",
+     "source": "onthemarket",
+     "sourceId": "20709306",
+     "url": "https://www.onthemarket.com/details/20709306/",
+     "title": "2 bedroom apartment to rent",
+     "address": "Greenwood Gardens, London, N13",
+     "pricePcm": 1700,
+     "priceText": "£1,700",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Apartment",
+     "lat": 51.624885,
+     "lon": -0.099805,
+     "image": "https://media.onthemarket.com/properties/20709306/1657070559/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20709306/1657070559/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709306/1657070559/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709306/1657070559/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709306/1657070559/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709306/1657070559/image-4-480x320.jpg"
+     ],
+     "agent": "Element Properties & Co - Wood Green",
+     "addedText": "Added yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wood Green",
+     "features": [
+      "Virtual tour",
+      "Two bedrooms"
+     ]
+    },
+    {
+     "key": "otm:20712309",
+     "source": "onthemarket",
+     "sourceId": "20712309",
+     "url": "https://www.onthemarket.com/details/20712309/",
+     "title": "2 bedroom flat to rent",
+     "address": "Brownlow Road, Bounds Green",
+     "pricePcm": 1895,
+     "priceText": "£1,895",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.611189,
+     "lon": -0.122479,
+     "image": "https://media.onthemarket.com/properties/20712309/1657206014/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20712309/1657206014/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20712309/1657206014/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20712309/1657206014/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20712309/1657206014/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20712309/1657206014/image-4-480x320.jpg"
+     ],
+     "agent": "Peter Michael Estates & Lettings - Palmers Green",
+     "addedText": "Added today",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wood Green",
+     "features": [
+      "Flat - Part Furnished",
+      "2 Beds   1 Reception"
+     ]
+    },
+    {
+     "key": "otm:46799",
+     "source": "onthemarket",
+     "sourceId": "46799",
+     "url": "https://www.onthemarket.com/agents/branch/peter-michael-estates-and-lettings-palmers-green/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wood Green"
+    },
+    {
+     "key": "otm:20298439",
+     "source": "onthemarket",
+     "sourceId": "20298439",
+     "url": "https://www.onthemarket.com/details/20298439/",
+     "title": "2 bedroom flat to rent",
+     "address": "Pilgrims Close, Palmers Green , London . N13",
+     "pricePcm": 1650,
+     "priceText": "£1,650",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.618271,
+     "lon": -0.111218,
+     "image": "https://media.onthemarket.com/properties/20298439/1642915781/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20298439/1642915781/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20298439/1642915781/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20298439/1642915781/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20298439/1642915781/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20298439/1642915781/image-4-480x320.jpg"
+     ],
+     "agent": "Bennett Walden - Palmers Green",
+     "addedText": "Added > 14 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wood Green",
+     "features": [
+      "2 nd floor flat",
+      "2 bedrooms",
+      "Spacious garage",
+      "Fitted kitchen"
+     ]
+    },
+    {
+     "key": "otm:47387",
+     "source": "onthemarket",
+     "sourceId": "47387",
+     "url": "https://www.onthemarket.com/agents/branch/bennett-walden-palmers-green/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -11856,29 +11670,6 @@
      ]
     },
     {
-     "key": "otm:46762",
-     "source": "onthemarket",
-     "sourceId": "46762",
-     "url": "https://www.onthemarket.com/agents/branch/knights-residential-tottenham/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Tottenham Hale"
-    },
-    {
      "key": "otm:20501275",
      "source": "onthemarket",
      "sourceId": "20501275",
@@ -12046,7 +11837,7 @@
       "https://media.onthemarket.com/properties/20620948/1654339494/image-4-480x320.jpg"
      ],
      "agent": "Completion Sales & Lettings - Walthamstow",
-     "addedText": "Added < 14 days",
+     "addedText": "Added > 14 days",
      "summary": "",
      "availableText": "now",
      "letAgreed": false,
@@ -12087,70 +11878,6 @@
      "tags": [
       "Separate lounge",
       "Part furnished"
-     ]
-    },
-    {
-     "key": "otm:20427390",
-     "source": "onthemarket",
-     "sourceId": "20427390",
-     "url": "https://www.onthemarket.com/details/20427390/",
-     "title": "2 bedroom flat to rent",
-     "address": "Bream Close, London, N17",
-     "pricePcm": 1850,
-     "priceText": "£1,850",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.586106,
-     "lon": -0.056086,
-     "image": "https://media.onthemarket.com/properties/20427390/1648231614/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20427390/1648231614/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20427390/1648231614/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20427390/1647771219/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20427390/1647771219/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20427390/1647771219/image-4-480x320.jpg"
-     ],
-     "agent": "OpenRent - UK",
-     "addedText": "Reduced < 14 days",
-     "summary": "",
-     "availableText": "now",
-     "letAgreed": false,
-     "searchedStation": "Tottenham Hale",
-     "features": [
-      "No Agent Fees",
-      "Students Can Enquire"
-     ],
-     "description": "Property Reference: 3055033.  We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location a few minutes walk to Tottenham Hale Station and right next to Walthamstow wetlands.  Available to move in from 1st October 2026, this property benefits from residents parking with permit cost included in rent. Property is offered unfurnished and neutrally decorated with a new boiler in 2026. Kitchen appliances including fridge/freezer, oven, washing machine and dishwasher included.   Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!    Summary   Rent £1,975 per month  Deposit / Bond is £1,975   Summary & Exclusions:  - Rent Amount: £1,850.00 per month (£426.92 per week) - Deposit / Bond: £1,850.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 06 November 2026 - Maximum number of tenants is 3 - Students welcome to enquire - No Pets, sorry - No Smokers - Family Friendly - Bills not included - Property has parking - No Garden Access - EPC Rating: C     If calling, please quote reference: 3055033      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
-     "furnished": "Unfurnished",
-     "station": {
-      "name": "Tottenham Hale",
-      "lines": [
-       "Victoria"
-      ],
-      "mode": "tube",
-      "walkMins": 5,
-      "distanceM": 327
-     },
-     "tube": {
-      "name": "Tottenham Hale",
-      "lines": [
-       "Victoria"
-      ],
-      "walkMins": 5
-     },
-     "area": "Tottenham Hale",
-     "tier": 2,
-     "cycleMins": 35,
-     "availability": {
-      "kind": "now",
-      "date": null,
-      "flag": "early",
-      "text": "Available now"
-     },
-     "tags": [
-      "Garden",
-      "Unfurnished"
      ]
     },
     {
@@ -12471,69 +12198,6 @@
      "searchedStation": "Tottenham Hale"
     },
     {
-     "key": "otm:9510968",
-     "source": "onthemarket",
-     "sourceId": "9510968",
-     "url": "https://www.onthemarket.com/details/9510968/",
-     "title": "2 bedroom flat to rent",
-     "address": "Bream Close, Tottenham Hale",
-     "pricePcm": 1700,
-     "priceText": "£1,700",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.584968,
-     "lon": -0.05573,
-     "image": "https://media.onthemarket.com/properties/9510968/1653560968/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/9510968/1653560968/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/9510968/1653560968/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/9510968/1653560968/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/9510968/1655693664/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/9510968/1653560968/image-4-480x320.jpg"
-     ],
-     "agent": "Alex Crown Lettings And Estate Agents - Archway",
-     "addedText": "Reduced < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Tottenham Hale",
-     "features": [
-      "Located on the second floor - (NO LIFT)",
-      "Two spacious bedrooms with a small lounge area"
-     ],
-     "description": "Alex Crown are delighted to present this charming two bedroom flat with a small lounge, situated within a desirable riverside development in the heart of Tottenham Hale, N17.  This attractive property benefits from beautiful views of the river and offers bright, well-proportioned living accommodation throughout. It features two spacious bedrooms, a comfortable lounge area, a fully fitted kitchen with integrated appliances, and a stylish tiled bathroom.  Ideally located within a quiet residential block, the flat is just moments away from Tottenham Hale Station (Victoria Line and National Rail) providing excellent transport connections across London. Residents will also enjoy easy access to a great selection of local shops, cafés, and restaurants, making this an excellent choice for professionals or small families seeking convenient and peaceful living in one of Tottenham Hale's most sought-after areas. ",
-     "furnished": "Furnished",
-     "station": {
-      "name": "Tottenham Hale",
-      "lines": [
-       "Victoria"
-      ],
-      "mode": "tube",
-      "walkMins": 7,
-      "distanceM": 440
-     },
-     "tube": {
-      "name": "Tottenham Hale",
-      "lines": [
-       "Victoria"
-      ],
-      "walkMins": 7
-     },
-     "area": "Tottenham Hale",
-     "tier": 2,
-     "cycleMins": 35,
-     "availability": {
-      "kind": "unknown",
-      "date": null,
-      "flag": "unknown",
-      "text": null
-     },
-     "tags": [
-      "Furnished"
-     ]
-    },
-    {
      "key": "otm:20683912",
      "source": "onthemarket",
      "sourceId": "20683912",
@@ -12597,73 +12261,6 @@
      "tags": [
       "Garden",
       "Unfurnished"
-     ]
-    },
-    {
-     "key": "otm:20684298",
-     "source": "onthemarket",
-     "sourceId": "20684298",
-     "url": "https://www.onthemarket.com/details/20684298/",
-     "title": "2 bedroom flat to rent",
-     "address": "Lloyd Road, London, E17",
-     "pricePcm": 2000,
-     "priceText": "£2,000",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.585099,
-     "lon": -0.039952,
-     "image": "https://media.onthemarket.com/properties/20684298/1656401406/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20684298/1656401406/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20684298/1656401406/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20684298/1656401406/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20684298/1656401406/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20684298/1656401406/image-4-480x320.jpg"
-     ],
-     "agent": "Portico - Walthamstow",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Tottenham Hale",
-     "features": [
-      "Two bedroom Ex warner flat",
-      "Blackhorse Village area"
-     ],
-     "description": "Situated in the popular area of Walthamstow, this two-bedroom Ex Warner offers practical living space and access to a shared garden, making it an appealing option for those seeking a home in a well-connected East London neighbourhood.  The property comprises two bedrooms, a separate reception room providing space to relax or entertain, a dedicated kitchen and a bathroom. Residents also benefit from access to a shared garden, offering valuable outdoor space to enjoy during the warmer months.  The property is offered unfurnished, giving tenants the flexibility to furnish and personalise the space to suit their own style and requirements. Please note that a fridge and washing machine will not be provided.  Walthamstow offers a wide range of local amenities, including supermarkets, independent shops, cafés and restaurants. The area is also known for its popular high street and market, providing a variety of shopping and food options.  Transport links across the area provide convenient connections into Central London and beyond, with London Overground services, the Victoria Line from Walthamstow Central and local bus routes available within the wider neighbourhood.  For those who enjoy the outdoors, Walthamstow benefits from a selection of green spaces, including Lloyd Park, Walthamstow Marshes and Walthamstow Wetlands, offering opportunities for walking, cycling and enjoying nature.  Combining two bedrooms, a separate reception room and access to a shared garden, this unfurnished property offers a practical home with access to the amenities and transport connections of Walthamstow. Early viewing is recommended, Availability Negotiable.   A licence restricts number of tenants to a maximum of 2 unrelated persons or a family EPC Rating: XX. Council Tax Band: XX.  Rent excludes utilities, the tenancy deposit and any other permitted payments.  Monthly rent is £2,000 PCM Deposit payable is £2,307.69 based on the advertised rent A Holding Deposit of £461.53, based on the advertised rent, is required to reserve this property.   Broadband type availability & speed: /    Mobile coverage checker:  Parking permit availability from local authority:  Please contact us for further information or visit our website",
-     "furnished": "Furnished",
-     "station": {
-      "name": "Blackhorse Road",
-      "lines": [
-       "Victoria",
-       "Overground"
-      ],
-      "mode": "tube",
-      "walkMins": 3,
-      "distanceM": 215
-     },
-     "tube": {
-      "name": "Blackhorse Road",
-      "lines": [
-       "Victoria",
-       "Overground"
-      ],
-      "walkMins": 3
-     },
-     "area": "Walthamstow",
-     "tier": 2,
-     "cycleMins": 38,
-     "availability": {
-      "kind": "unknown",
-      "date": null,
-      "flag": "unknown",
-      "text": null
-     },
-     "tags": [
-      "Garden",
-      "Separate lounge",
-      "Furnished"
      ]
     },
     {
@@ -12834,7 +12431,7 @@
       "https://media.onthemarket.com/properties/20398401/1646632360/image-4-480x320.jpg"
      ],
      "agent": "High Class Property Management - London",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -12866,6 +12463,73 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Tottenham Hale"
+    },
+    {
+     "key": "otm:20684298",
+     "source": "onthemarket",
+     "sourceId": "20684298",
+     "url": "https://www.onthemarket.com/details/20684298/",
+     "title": "2 bedroom flat to rent",
+     "address": "Lloyd Road, London, E17",
+     "pricePcm": 1900,
+     "priceText": "£1,900",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.585099,
+     "lon": -0.039952,
+     "image": "https://media.onthemarket.com/properties/20684298/1656401406/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20684298/1656401406/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20684298/1656401406/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20684298/1656401406/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20684298/1656401406/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20684298/1656401406/image-4-480x320.jpg"
+     ],
+     "agent": "Portico - Walthamstow",
+     "addedText": "Reduced yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Tottenham Hale",
+     "features": [
+      "Two bedroom Ex warner flat",
+      "Blackhorse Village area"
+     ],
+     "description": "Situated in the popular area of Walthamstow, this two-bedroom Ex Warner offers practical living space and access to a shared garden, making it an appealing option for those seeking a home in a well-connected East London neighbourhood.  The property comprises two bedrooms, a separate reception room providing space to relax or entertain, a dedicated kitchen and a bathroom. Residents also benefit from access to a shared garden, offering valuable outdoor space to enjoy during the warmer months.  The property is offered unfurnished, giving tenants the flexibility to furnish and personalise the space to suit their own style and requirements. Please note that a fridge and washing machine will not be provided.  Walthamstow offers a wide range of local amenities, including supermarkets, independent shops, cafés and restaurants. The area is also known for its popular high street and market, providing a variety of shopping and food options.  Transport links across the area provide convenient connections into Central London and beyond, with London Overground services, the Victoria Line from Walthamstow Central and local bus routes available within the wider neighbourhood.  For those who enjoy the outdoors, Walthamstow benefits from a selection of green spaces, including Lloyd Park, Walthamstow Marshes and Walthamstow Wetlands, offering opportunities for walking, cycling and enjoying nature.  Combining two bedrooms, a separate reception room and access to a shared garden, this unfurnished property offers a practical home with access to the amenities and transport connections of Walthamstow. Early viewing is recommended, Availability Negotiable.   A licence restricts number of tenants to a maximum of 2 unrelated persons or a family EPC Rating: XX. Council Tax Band: XX.  Rent excludes utilities, the tenancy deposit and any other permitted payments.  Monthly rent is £2,000 PCM Deposit payable is £2,307.69 based on the advertised rent A Holding Deposit of £461.53, based on the advertised rent, is required to reserve this property.   Broadband type availability & speed: /    Mobile coverage checker:  Parking permit availability from local authority:  Please contact us for further information or visit our website",
+     "furnished": "Furnished",
+     "station": {
+      "name": "Blackhorse Road",
+      "lines": [
+       "Victoria",
+       "Overground"
+      ],
+      "mode": "tube",
+      "walkMins": 3,
+      "distanceM": 215
+     },
+     "tube": {
+      "name": "Blackhorse Road",
+      "lines": [
+       "Victoria",
+       "Overground"
+      ],
+      "walkMins": 3
+     },
+     "area": "Walthamstow",
+     "tier": 2,
+     "cycleMins": 38,
+     "availability": {
+      "kind": "unknown",
+      "date": null,
+      "flag": "unknown",
+      "text": null
+     },
+     "tags": [
+      "Garden",
+      "Separate lounge",
+      "Furnished"
+     ]
     },
     {
      "key": "otm:15910748",
@@ -13597,16 +13261,16 @@
      "propertyType": "Flat",
      "lat": 51.587786,
      "lon": -0.010872,
-     "image": "https://media.onthemarket.com/properties/20694166/1656817725/image-0-480x320.jpg",
+     "image": "https://media.onthemarket.com/properties/20694166/1657079257/image-0-480x320.jpg",
      "images": [
-      "https://media.onthemarket.com/properties/20694166/1656817725/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20694166/1656726472/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20694166/1656726472/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20694166/1656726472/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20694166/1656726472/image-4-480x320.jpg"
+      "https://media.onthemarket.com/properties/20694166/1657079257/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20694166/1657079257/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20694166/1657079257/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20694166/1657059176/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20694166/1657059176/image-4-480x320.jpg"
      ],
      "agent": "OpenRent - UK",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -13615,62 +13279,6 @@
       "No Agent Fees",
       "Students Can Enquire"
      ]
-    },
-    {
-     "key": "otm:20163672",
-     "source": "onthemarket",
-     "sourceId": "20163672",
-     "url": "https://www.onthemarket.com/details/20163672/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Chingford Road, London, E17",
-     "pricePcm": 1700,
-     "priceText": "£1,700",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.591348,
-     "lon": -0.01755,
-     "image": "https://media.onthemarket.com/properties/20163672/1656755922/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20163672/1656755922/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20163672/1656755922/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20163672/1656755922/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20163672/1656755922/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20163672/1656755922/image-4-480x320.jpg"
-     ],
-     "agent": "Claremont Estates - Aldgate",
-     "addedText": "Added yesterday",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Walthamstow Central",
-     "features": [
-      "430 sq ft floor area",
-      "Nearest station 0.6mi."
-     ]
-    },
-    {
-     "key": "otm:45422",
-     "source": "onthemarket",
-     "sourceId": "45422",
-     "url": "https://www.onthemarket.com/agents/branch/claremont-estates-aldgate/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Walthamstow Central"
     },
     {
      "key": "otm:20696078",
@@ -13695,7 +13303,7 @@
       "https://media.onthemarket.com/properties/20696078/1656785935/image-4-480x320.png"
      ],
      "agent": "Bairstow Eves - South Woodford",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -13752,7 +13360,7 @@
       "https://media.onthemarket.com/properties/19617085/1656793507/image-4-480x320.jpg"
      ],
      "agent": "Spencer Munson Property Services - South Woodford",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -13808,7 +13416,7 @@
       "https://media.onthemarket.com/properties/20696374/1656797827/image-4-480x320.jpg"
      ],
      "agent": "Strettons Residential Agency - London",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": "Now",
      "letAgreed": false,
@@ -13895,7 +13503,7 @@
       "https://media.onthemarket.com/properties/20210087/1656815569/image-4-480x320.jpg"
      ],
      "agent": "iHomes - Ilford",
-     "addedText": "Reduced yesterday",
+     "addedText": "Reduced < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -13951,7 +13559,7 @@
       "https://media.onthemarket.com/properties/20697581/1656816235/image-4-480x320.jpg"
      ],
      "agent": "Sincere Lettings - London",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": "now",
      "letAgreed": false,
@@ -14038,7 +13646,7 @@
       "https://media.onthemarket.com/properties/20698587/1656830241/image-4-480x320.jpg"
      ],
      "agent": "Sincere Lettings - London",
-     "addedText": "Added yesterday",
+     "addedText": "Added < 7 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -14071,7 +13679,7 @@
       "https://media.onthemarket.com/properties/14402726/1647708126/image-4-480x320.jpg"
      ],
      "agent": "Churchill Estates - Walthamstow",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -14127,7 +13735,7 @@
       "https://media.onthemarket.com/properties/20514619/1652559977/image-4-480x320.jpg"
      ],
      "agent": "OpenRent - UK",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "summary": "",
      "availableText": "now",
      "letAgreed": false,
@@ -14191,7 +13799,7 @@
       "https://media.onthemarket.com/properties/20612961/1654067904/image-4-480x320.jpg"
      ],
      "agent": "Your Move - Walthamstow",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -14247,7 +13855,7 @@
       "https://media.onthemarket.com/properties/20578017/1653007807/image-4-480x320.jpg"
      ],
      "agent": "Birchills - Leytonstone",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -14301,7 +13909,7 @@
       "https://media.onthemarket.com/properties/20641240/1655100928/image-2-480x320.jpg"
      ],
      "agent": "Birchills - Leytonstone",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -14331,7 +13939,7 @@
       "https://media.onthemarket.com/properties/20706131/1657033600/image-0-480x320.jpg"
      ],
      "agent": "Lifestyle Property Agents - Ilford",
-     "addedText": "Added today",
+     "addedText": "Added yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -14339,6 +13947,72 @@
      "features": [
       "Newly Decorated",
       "2 Bedroom Apartment"
+     ]
+    },
+    {
+     "key": "otm:20708515",
+     "source": "onthemarket",
+     "sourceId": "20708515",
+     "url": "https://www.onthemarket.com/details/20708515/",
+     "title": "2 bedroom flat to rent",
+     "address": "Grove Green Road, London, E11",
+     "pricePcm": 1850,
+     "priceText": "£1,850",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.562681,
+     "lon": 0.002201,
+     "image": "https://media.onthemarket.com/properties/20708515/1657062359/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20708515/1657062359/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708515/1657062359/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708515/1657062359/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708515/1657062359/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708515/1657062359/image-4-480x320.jpg"
+     ],
+     "agent": "OpenRent - UK",
+     "addedText": "Added yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Walthamstow Central",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
+     ]
+    },
+    {
+     "key": "otm:20520410",
+     "source": "onthemarket",
+     "sourceId": "20520410",
+     "url": "https://www.onthemarket.com/details/20520410/",
+     "title": "2 bedroom flat to rent",
+     "address": "Blenhiem Road, London, E15",
+     "pricePcm": 1900,
+     "priceText": "£1,900",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.552846,
+     "lon": 0.009905,
+     "image": "https://media.onthemarket.com/properties/20520410/1652061749/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20520410/1652061749/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20520410/1652061749/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20520410/1652061749/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20520410/1652061749/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20520410/1652061749/image-4-480x320.jpg"
+     ],
+     "agent": "OpenRent - UK",
+     "addedText": "Added < 7 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Leyton",
+     "features": [
+      "No Agent Fees",
+      "Students Can Enquire"
      ]
     },
     {
@@ -14398,6 +14072,92 @@
      "searchedStation": "Leyton"
     },
     {
+     "key": "otm:20621890",
+     "source": "onthemarket",
+     "sourceId": "20621890",
+     "url": "https://www.onthemarket.com/details/20621890/",
+     "title": "2 bedroom flat to rent",
+     "address": "Langthorne Rd, London, E11",
+     "pricePcm": 2000,
+     "priceText": "£2,000",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.556107,
+     "lon": 0.000672,
+     "image": "https://media.onthemarket.com/properties/20621890/1654362613/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20621890/1654362613/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20621890/1654362613/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20621890/1654362613/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20621890/1654362613/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20621890/1654362613/image-4-480x320.jpg"
+     ],
+     "agent": "Havenway Lettings - Chiswick",
+     "addedText": "Added > 14 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Leytonstone",
+     "features": [
+      "2 Bedrooms",
+      "1 Bathrooms"
+     ],
+     "description": "*2-Bedroom Flat to Rent – Langthorne Road, E11 4HL* A delightful two-bedroom flat available to rent in a great location, just a 5-minute walk from Leyton Station and local shops. *Property Features:* - 2 bedrooms - Kitchen-diner - Large bathroom - 5-minute walk to Leyton Station - Close to local shops and amenities - Council tax included in the rent (up to £200) *Rent:* £2,000 PCM *Deposit:* £2,000 Contact us today to arrange a viewing!",
+     "furnished": "Unfurnished",
+     "station": {
+      "name": "Leyton",
+      "lines": [
+       "Central"
+      ],
+      "mode": "tube",
+      "walkMins": 7,
+      "distanceM": 416
+     },
+     "tube": {
+      "name": "Leyton",
+      "lines": [
+       "Central"
+      ],
+      "walkMins": 7
+     },
+     "area": "Leyton",
+     "tier": 2,
+     "cycleMins": 41,
+     "availability": {
+      "kind": "unknown",
+      "date": null,
+      "flag": "unknown",
+      "text": null
+     },
+     "tags": [
+      "Unfurnished"
+     ]
+    },
+    {
+     "key": "otm:72313",
+     "source": "onthemarket",
+     "sourceId": "72313",
+     "url": "https://www.onthemarket.com/agents/branch/havenway-lettings-chiswick/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Leytonstone"
+    },
+    {
      "key": "otm:20622174",
      "source": "onthemarket",
      "sourceId": "20622174",
@@ -14420,7 +14180,7 @@
       "https://media.onthemarket.com/properties/20622174/1654377984/image-4-480x320.jpg"
      ],
      "agent": "OpenRent - UK",
-     "addedText": "Added < 14 days",
+     "addedText": "Added > 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -14453,7 +14213,7 @@
       "https://media.onthemarket.com/properties/20489949/1650121793/image-4-480x320.jpg"
      ],
      "agent": "OpenRent - UK",
-     "addedText": "Reduced < 14 days",
+     "addedText": "Reduced > 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -14644,63 +14404,6 @@
      "source": "onthemarket",
      "sourceId": "76135",
      "url": "https://www.onthemarket.com/agents/branch/metric-homes-east-ham/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Leytonstone"
-    },
-    {
-     "key": "otm:11441545",
-     "source": "onthemarket",
-     "sourceId": "11441545",
-     "url": "https://www.onthemarket.com/details/11441545/",
-     "title": "2 bedroom flat to rent",
-     "address": "Bushwood, Leytonstone, London, E11 3BN",
-     "pricePcm": 2000,
-     "priceText": "£2,000",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.56735213189838,
-     "lon": 0.018700937434372733,
-     "image": "https://media.onthemarket.com/properties/11441545/1655212797/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/11441545/1655212797/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/11441545/1655212797/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/11441545/1655212797/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/11441545/1655212797/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/11441545/1655212797/image-4-480x320.jpg"
-     ],
-     "agent": "Trading Places - Leytonstone",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Leytonstone",
-     "features": [
-      "Two Bedroom Period Conversion",
-      "First Floor",
-      "Study"
-     ]
-    },
-    {
-     "key": "otm:45009",
-     "source": "onthemarket",
-     "sourceId": "45009",
-     "url": "https://www.onthemarket.com/agents/branch/trading-places-leytonstone/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -15106,37 +14809,27 @@
      ]
     },
     {
-     "key": "otm:20520410",
+     "key": "otm:45009",
      "source": "onthemarket",
-     "sourceId": "20520410",
-     "url": "https://www.onthemarket.com/details/20520410/",
-     "title": "2 bedroom flat to rent",
-     "address": "Blenhiem Road, London, E15",
-     "pricePcm": 1900,
-     "priceText": "£1,900",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.552846,
-     "lon": 0.009905,
-     "image": "https://media.onthemarket.com/properties/20520410/1652061749/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20520410/1652061749/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20520410/1652061749/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20520410/1652061749/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20520410/1652061749/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20520410/1652061749/image-4-480x320.jpg"
-     ],
-     "agent": "OpenRent - UK",
-     "addedText": "Added < 7 days",
+     "sourceId": "45009",
+     "url": "https://www.onthemarket.com/agents/branch/trading-places-leytonstone/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
-     "searchedStation": "Leytonstone",
-     "features": [
-      "No Agent Fees",
-      "Students Can Enquire"
-     ]
+     "searchedStation": "Leytonstone"
     },
     {
      "key": "otm:20453694",
@@ -15193,129 +14886,6 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Leytonstone"
-    },
-    {
-     "key": "otm:16892816",
-     "source": "onthemarket",
-     "sourceId": "16892816",
-     "url": "https://www.onthemarket.com/details/16892816/",
-     "title": "2 bedroom flat to rent",
-     "address": "Ilford Hill, Ilford, London, IG1",
-     "pricePcm": 1900,
-     "priceText": "£1,900",
-     "beds": 2,
-     "baths": 2,
-     "propertyType": "Flat",
-     "lat": 51.55834,
-     "lon": 0.068532,
-     "image": "https://media.onthemarket.com/properties/16892816/1653275688/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/16892816/1653275688/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/16892816/1655660302/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/16892816/1653093954/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/16892816/1657040915/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/16892816/1656309147/image-4-480x320.jpg"
-     ],
-     "agent": "Paramount - West Hampstead",
-     "addedText": "Reduced < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Wanstead",
-     "features": [
-      "Newly redecorated",
-      "New carpets",
-      "Study"
-     ]
-    },
-    {
-     "key": "otm:22297",
-     "source": "onthemarket",
-     "sourceId": "22297",
-     "url": "https://www.onthemarket.com/agents/branch/paramount-west-hampstead/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Wanstead"
-    },
-    {
-     "key": "otm:20604944",
-     "source": "onthemarket",
-     "sourceId": "20604944",
-     "url": "https://www.onthemarket.com/details/20604944/",
-     "title": "2 bedroom maisonette to rent",
-     "address": "Stanley Road, E18",
-     "pricePcm": 1875,
-     "priceText": "£1,875",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Maisonette",
-     "lat": 51.5970978,
-     "lon": 0.0166535,
-     "image": "https://media.onthemarket.com/properties/20604944/1656833599/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20604944/1656833599/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20604944/1656833599/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20604944/1656833599/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20604944/1656833599/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20604944/1656833599/image-4-480x320.jpg"
-     ],
-     "agent": "iHomes - Ilford",
-     "addedText": "Reduced < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Wanstead",
-     "features": [
-      "613 sq ft floor area",
-      "Nearest station 0.6mi."
-     ]
-    },
-    {
-     "key": "otm:18128324",
-     "source": "onthemarket",
-     "sourceId": "18128324",
-     "url": "https://www.onthemarket.com/details/18128324/",
-     "title": "3 bedroom flat to rent",
-     "address": "Valentines Road, Ilford IG1",
-     "pricePcm": 2000,
-     "priceText": "£2,000",
-     "beds": 3,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.565745,
-     "lon": 0.07119,
-     "image": "https://media.onthemarket.com/properties/18128324/1656325956/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/18128324/1656325956/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/18128324/1656325956/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/18128324/1656325956/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/18128324/1656325956/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/18128324/1656325956/image-4-480x320.jpg"
-     ],
-     "agent": "Maxwells Estates - Islington",
-     "addedText": "Added < 7 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Wanstead",
-     "features": [
-      "Un-Furnished",
-      "Fitted Kitchen"
-     ]
     },
     {
      "key": "otm:12845631",
@@ -15465,43 +15035,43 @@
      ]
     },
     {
-     "key": "otm:20692931",
+     "key": "otm:20706379",
      "source": "onthemarket",
-     "sourceId": "20692931",
-     "url": "https://www.onthemarket.com/details/20692931/",
-     "title": "2 bedroom flat to rent",
-     "address": "Navestock Crescent, Woodford Green IG8",
-     "pricePcm": 1750,
-     "priceText": "£1,750",
-     "beds": 2,
+     "sourceId": "20706379",
+     "url": "https://www.onthemarket.com/details/20706379/",
+     "title": "3 bedroom flat to rent",
+     "address": "Woodford Avenue, Ilford IG2",
+     "pricePcm": 1995,
+     "priceText": "£1,995",
+     "beds": 3,
      "baths": 1,
      "propertyType": "Flat",
-     "lat": 51.600572,
-     "lon": 0.039461,
-     "image": "https://media.onthemarket.com/properties/20692931/1656637900/image-0-480x320.png",
+     "lat": 51.577298,
+     "lon": 0.065235,
+     "image": "https://media.onthemarket.com/properties/20706379/1657036453/image-0-480x320.jpg",
      "images": [
-      "https://media.onthemarket.com/properties/20692931/1656637900/image-0-480x320.png",
-      "https://media.onthemarket.com/properties/20692931/1656637900/image-1-480x320.png",
-      "https://media.onthemarket.com/properties/20692931/1656637900/image-2-480x320.png",
-      "https://media.onthemarket.com/properties/20692931/1656637900/image-3-480x320.png",
-      "https://media.onthemarket.com/properties/20692931/1656637900/image-4-480x320.png"
+      "https://media.onthemarket.com/properties/20706379/1657036453/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20706379/1657036453/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20706379/1657036453/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20706379/1657036453/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20706379/1657036453/image-4-480x320.jpg"
      ],
-     "agent": "Josh Properties - Ilford",
-     "addedText": "Added < 7 days",
+     "agent": "Property Hunters - Ilford",
+     "addedText": "Added yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Wanstead",
      "features": [
-      "Nearest station 0.5mi.",
-      "Part furnished"
+      "495 sq ft floor area",
+      "Nearest station 0.1mi."
      ]
     },
     {
-     "key": "otm:41694",
+     "key": "otm:40339",
      "source": "onthemarket",
-     "sourceId": "41694",
-     "url": "https://www.onthemarket.com/agents/branch/josh-properties-ilford/",
+     "sourceId": "40339",
+     "url": "https://www.onthemarket.com/agents/branch/property-hunters-ilford/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -15521,10 +15091,10 @@
      "searchedStation": "Wanstead"
     },
     {
-     "key": "otm:20698886",
+     "key": "otm:20706869",
      "source": "onthemarket",
-     "sourceId": "20698886",
-     "url": "https://www.onthemarket.com/details/20698886/",
+     "sourceId": "20706869",
+     "url": "https://www.onthemarket.com/details/20706869/",
      "title": "2 bedroom flat to rent",
      "address": "1501, Pioneer Point North Tower 3 IG1",
      "pricePcm": 2000,
@@ -15534,13 +15104,13 @@
      "propertyType": "Flat",
      "lat": 51.557403,
      "lon": 0.070508,
-     "image": "https://media.onthemarket.com/properties/20698886/1656832820/image-0-480x320.jpg",
+     "image": "https://media.onthemarket.com/properties/20706869/1657043962/image-0-480x320.jpg",
      "images": [
-      "https://media.onthemarket.com/properties/20698886/1656832820/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20698886/1656832820/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20698886/1656832820/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20698886/1656832820/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20698886/1656832820/image-4-480x320.jpg"
+      "https://media.onthemarket.com/properties/20706869/1657043962/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20706869/1657043962/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20706869/1657043962/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20706869/1657043962/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20706869/1657043962/image-4-480x320.jpg"
      ],
      "agent": "Right Now Residential - London Bridge",
      "addedText": "Added yesterday",
@@ -15581,43 +15151,280 @@
      "searchedStation": "Wanstead"
     },
     {
-     "key": "otm:20706379",
+     "key": "otm:20707149",
      "source": "onthemarket",
-     "sourceId": "20706379",
-     "url": "https://www.onthemarket.com/details/20706379/",
-     "title": "3 bedroom flat to rent",
-     "address": "Woodford Avenue, Ilford IG2",
-     "pricePcm": 1995,
-     "priceText": "£1,995",
-     "beds": 3,
+     "sourceId": "20707149",
+     "url": "https://www.onthemarket.com/details/20707149/",
+     "title": "2 bedroom flat to rent",
+     "address": "Thorold Road, Ilford IG1",
+     "pricePcm": 1400,
+     "priceText": "£1,400",
+     "beds": 2,
      "baths": 1,
      "propertyType": "Flat",
-     "lat": 51.577298,
-     "lon": 0.065235,
-     "image": "https://media.onthemarket.com/properties/20706379/1657036453/image-0-480x320.jpg",
+     "lat": 51.563755,
+     "lon": 0.079988,
+     "image": "https://media.onthemarket.com/properties/20707149/1657047103/image-0-480x320.jpeg",
      "images": [
-      "https://media.onthemarket.com/properties/20706379/1657036453/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20706379/1657036453/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20706379/1657036453/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20706379/1657036453/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20706379/1657036453/image-4-480x320.jpg"
+      "https://media.onthemarket.com/properties/20707149/1657047103/image-0-480x320.jpeg",
+      "https://media.onthemarket.com/properties/20707149/1657047103/image-1-480x320.jpeg",
+      "https://media.onthemarket.com/properties/20707149/1657047103/image-2-480x320.jpeg",
+      "https://media.onthemarket.com/properties/20707149/1657047103/image-3-480x320.jpeg",
+      "https://media.onthemarket.com/properties/20707149/1657047103/image-4-480x320.jpeg"
      ],
-     "agent": "Property Hunters - Ilford",
+     "agent": "Ocean Residential - Westcliff on Sea",
+     "addedText": "Added yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wanstead",
+     "features": [
+      "Nearest station 0.6mi.",
+      "Unfurnished"
+     ]
+    },
+    {
+     "key": "otm:47196",
+     "source": "onthemarket",
+     "sourceId": "47196",
+     "url": "https://www.onthemarket.com/agents/branch/ocean-residential-westcliff-on-sea/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wanstead"
+    },
+    {
+     "key": "otm:20708590",
+     "source": "onthemarket",
+     "sourceId": "20708590",
+     "url": "https://www.onthemarket.com/details/20708590/",
+     "title": "2 bedroom apartment to rent",
+     "address": "Primrose Road, South Woodford, E18",
+     "pricePcm": 1595,
+     "priceText": "£1,595",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Apartment",
+     "lat": 51.595108,
+     "lon": 0.028809,
+     "image": "https://media.onthemarket.com/properties/20708590/1657062865/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20708590/1657062865/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708590/1657062865/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708590/1657062865/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708590/1657062865/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20708590/1657062865/image-4-480x320.jpg"
+     ],
+     "agent": "Spencer Munson Property Services - South Woodford",
+     "addedText": "Added yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wanstead",
+     "features": [
+      "Two Bedroom Apartment",
+      "Top Floor"
+     ]
+    },
+    {
+     "key": "otm:20709835",
+     "source": "onthemarket",
+     "sourceId": "20709835",
+     "url": "https://www.onthemarket.com/details/20709835/",
+     "title": "2 bedroom flat to rent",
+     "address": "Clarence Avenue, Ilford, IG2",
+     "pricePcm": 1950,
+     "priceText": "£1,950",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.57632,
+     "lon": 0.064585,
+     "image": "https://media.onthemarket.com/properties/20709835/1657080520/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20709835/1657080520/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709835/1657080520/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709835/1657080520/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709835/1657080520/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20709835/1657080520/image-4-480x320.jpg"
+     ],
+     "agent": "OpenRent - UK",
+     "addedText": "Added yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wanstead",
+     "features": [
+      "No Agent Fees",
+      "Property Reference Number: 3101644"
+     ]
+    },
+    {
+     "key": "otm:20636297",
+     "source": "onthemarket",
+     "sourceId": "20636297",
+     "url": "https://www.onthemarket.com/details/20636297/",
+     "title": "2 bedroom penthouse to rent",
+     "address": "Bramley Crescent, Ilford",
+     "pricePcm": 1850,
+     "priceText": "£1,850",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Penthouse",
+     "lat": 51.574989,
+     "lon": 0.067345,
+     "image": "https://media.onthemarket.com/properties/20636297/1654902004/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20636297/1654902004/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20636297/1654902004/image-1-480x320.png",
+      "https://media.onthemarket.com/properties/20636297/1654902004/image-2-480x320.png",
+      "https://media.onthemarket.com/properties/20636297/1654902004/image-3-480x320.png",
+      "https://media.onthemarket.com/properties/20636297/1654902004/image-4-480x320.png"
+     ],
+     "agent": "Lint Group -  Stratford",
+     "addedText": "Reduced today",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wanstead",
+     "features": [
+      "Rental development",
+      "571 sq ft floor area",
+      "Nearest station 0.1mi."
+     ]
+    },
+    {
+     "key": "otm:71231",
+     "source": "onthemarket",
+     "sourceId": "71231",
+     "url": "https://www.onthemarket.com/agents/branch/lint-group-stratford/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wanstead"
+    },
+    {
+     "key": "otm:20712397",
+     "source": "onthemarket",
+     "sourceId": "20712397",
+     "url": "https://www.onthemarket.com/details/20712397/",
+     "title": "2 bedroom flat to rent",
+     "address": "Navestock Crescent, Woodford Green IG8",
+     "pricePcm": 2000,
+     "priceText": "£2,000",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.600572,
+     "lon": 0.039461,
+     "image": "https://media.onthemarket.com/properties/20712397/1657208156/image-0-480x320.png",
+     "images": [
+      "https://media.onthemarket.com/properties/20712397/1657208156/image-0-480x320.png",
+      "https://media.onthemarket.com/properties/20712397/1657208156/image-1-480x320.png",
+      "https://media.onthemarket.com/properties/20712397/1657208156/image-2-480x320.png",
+      "https://media.onthemarket.com/properties/20712397/1657208156/image-3-480x320.png",
+      "https://media.onthemarket.com/properties/20712397/1657208156/image-4-480x320.png"
+     ],
+     "agent": "Josh Properties - Ilford",
      "addedText": "Added today",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Wanstead",
      "features": [
-      "495 sq ft floor area",
-      "Nearest station 0.1mi."
+      "699 sq ft floor area",
+      "Nearest station 0.5mi."
      ]
     },
     {
-     "key": "otm:40339",
+     "key": "otm:41694",
      "source": "onthemarket",
-     "sourceId": "40339",
-     "url": "https://www.onthemarket.com/agents/branch/property-hunters-ilford/",
+     "sourceId": "41694",
+     "url": "https://www.onthemarket.com/agents/branch/josh-properties-ilford/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wanstead"
+    },
+    {
+     "key": "otm:20637360",
+     "source": "onthemarket",
+     "sourceId": "20637360",
+     "url": "https://www.onthemarket.com/details/20637360/",
+     "title": "2 bedroom flat to rent",
+     "address": "Gower Road, London, E7 9NG",
+     "pricePcm": 1750,
+     "priceText": "£1,750",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Flat",
+     "lat": 51.543752,
+     "lon": 0.024591,
+     "image": "https://media.onthemarket.com/properties/20637360/1654919427/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20637360/1654919427/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20637360/1654919427/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20637360/1654919427/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20637360/1654919427/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20637360/1654990822/epc-graph-0-480x320.jpg"
+     ],
+     "agent": "Stonebridge London - Manor Park",
+     "addedText": "Added < 14 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Wanstead",
+     "features": [
+      "Two Bedroom Flat",
+      "Recently Renovated",
+      "Off Upton Lane",
+      "Close to Local Amenities"
+     ]
+    },
+    {
+     "key": "otm:45635",
+     "source": "onthemarket",
+     "sourceId": "45635",
+     "url": "https://www.onthemarket.com/agents/branch/stonebridge-london-manor-park/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -16013,7 +15820,7 @@
       "https://media.onthemarket.com/properties/17738148/1656820275/image-4-480x320.png"
      ],
      "agent": "Spencer Munson Property Services - South Woodford",
-     "addedText": "Reduced < 14 days",
+     "addedText": "Reduced > 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -16135,7 +15942,7 @@
       "https://media.onthemarket.com/properties/20664018/1656301257/image-4-480x320.jpg"
      ],
      "agent": "Ellis & Co - Bethnal Green",
-     "addedText": "Added < 7 days",
+     "addedText": "Added < 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -16191,7 +15998,7 @@
       "https://media.onthemarket.com/properties/7479194/1655833250/image-4-480x320.jpg"
      ],
      "agent": "Inner City Estates - Bow",
-     "addedText": "Added < 7 days",
+     "addedText": "Added < 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -16200,6 +16007,39 @@
       "Modern Two Bedroom Apartment",
       "Spacious Open Plan Lounge",
       "Online viewing"
+     ]
+    },
+    {
+     "key": "otm:20604944",
+     "source": "onthemarket",
+     "sourceId": "20604944",
+     "url": "https://www.onthemarket.com/details/20604944/",
+     "title": "2 bedroom maisonette to rent",
+     "address": "Stanley Road, E18",
+     "pricePcm": 1875,
+     "priceText": "£1,875",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Maisonette",
+     "lat": 51.5970978,
+     "lon": 0.0166535,
+     "image": "https://media.onthemarket.com/properties/20604944/1656833599/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20604944/1656833599/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20604944/1656833599/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20604944/1656833599/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20604944/1656833599/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20604944/1656833599/image-4-480x320.jpg"
+     ],
+     "agent": "iHomes - Ilford",
+     "addedText": "Reduced < 7 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Snaresbrook",
+     "features": [
+      "613 sq ft floor area",
+      "Nearest station 0.6mi."
      ]
     },
     {
@@ -16435,64 +16275,6 @@
      ]
     },
     {
-     "key": "otm:20596864",
-     "source": "onthemarket",
-     "sourceId": "20596864",
-     "url": "https://www.onthemarket.com/details/20596864/",
-     "title": "2 bedroom flat to rent",
-     "address": "Church Walk, London, NW2",
-     "pricePcm": 1975,
-     "priceText": "£1,975",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.560988,
-     "lon": -0.19802,
-     "image": "https://media.onthemarket.com/properties/20596864/1653578843/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20596864/1653578843/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20596864/1653578843/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20596864/1653578843/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20596864/1653578843/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20596864/1653578843/image-4-480x320.jpg"
-     ],
-     "agent": "Chancellors - Hampstead Lettings",
-     "addedText": "Reduced < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Chalk Farm",
-     "features": [
-      "Ground Floor",
-      "Two Double Bedroom Flat",
-      "Open Plan Kitchen and Living Room",
-      "Bathroom"
-     ]
-    },
-    {
-     "key": "otm:43181",
-     "source": "onthemarket",
-     "sourceId": "43181",
-     "url": "https://www.onthemarket.com/agents/branch/chancellors-hampstead-lettings/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Chalk Farm"
-    },
-    {
      "key": "otm:19821049",
      "source": "onthemarket",
      "sourceId": "19821049",
@@ -16603,178 +16385,6 @@
      "availableText": null,
      "letAgreed": false,
      "searchedStation": "Chalk Farm"
-    },
-    {
-     "key": "otm:20582645",
-     "source": "onthemarket",
-     "sourceId": "20582645",
-     "url": "https://www.onthemarket.com/details/20582645/",
-     "title": "2 bedroom flat to rent",
-     "address": "High Street London N8",
-     "pricePcm": 2000,
-     "priceText": "£2,000",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.588244,
-     "lon": -0.115398,
-     "image": "https://media.onthemarket.com/properties/20582645/1653134970/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20582645/1653134970/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20582645/1653134970/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20582645/1653134970/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20582645/1653134970/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20582645/1653134970/image-4-480x320.jpg"
-     ],
-     "agent": "Hamptons - Crouch End",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highgate",
-     "features": [
-      "2 Bedroom apartment",
-      "Open Plan Kitchen / Living",
-      "3 Piece bathroom",
-      "Wooden Flooring & Double Glazing"
-     ]
-    },
-    {
-     "key": "otm:73887",
-     "source": "onthemarket",
-     "sourceId": "73887",
-     "url": "https://www.onthemarket.com/agents/branch/hamptons-crouch-end/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highgate"
-    },
-    {
-     "key": "otm:20588611",
-     "source": "onthemarket",
-     "sourceId": "20588611",
-     "url": "https://www.onthemarket.com/details/20588611/",
-     "title": "2 bedroom apartment to rent",
-     "address": "Vanderville Gardens, London N2",
-     "pricePcm": 1750,
-     "priceText": "£1,750",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Apartment",
-     "lat": 51.596939,
-     "lon": -0.174718,
-     "image": "https://media.onthemarket.com/properties/20588611/1653328443/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/20588611/1653328443/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/20588611/1653328443/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/20588611/1653328443/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/20588611/1653328443/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/20588611/1653328443/image-4-480x320.jpg"
-     ],
-     "agent": "Adam Hayes Estate Agents - East Finchley",
-     "addedText": "Added > 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highgate",
-     "features": [
-      "Two Double Bedroom Flat",
-      "Purpose Built Block"
-     ]
-    },
-    {
-     "key": "otm:44413",
-     "source": "onthemarket",
-     "sourceId": "44413",
-     "url": "https://www.onthemarket.com/agents/branch/adam-hayes-estate-agents-east-finchley/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highgate"
-    },
-    {
-     "key": "otm:19513201",
-     "source": "onthemarket",
-     "sourceId": "19513201",
-     "url": "https://www.onthemarket.com/details/19513201/",
-     "title": "2 bedroom flat to rent",
-     "address": "Brook Road, Crouch End, London, N8",
-     "pricePcm": 2000,
-     "priceText": "£2,000",
-     "beds": 2,
-     "baths": 1,
-     "propertyType": "Flat",
-     "lat": 51.589355,
-     "lon": -0.121848,
-     "image": "https://media.onthemarket.com/properties/19513201/1654353259/image-0-480x320.jpg",
-     "images": [
-      "https://media.onthemarket.com/properties/19513201/1654353259/image-0-480x320.jpg",
-      "https://media.onthemarket.com/properties/19513201/1654353259/image-1-480x320.jpg",
-      "https://media.onthemarket.com/properties/19513201/1654353259/image-2-480x320.jpg",
-      "https://media.onthemarket.com/properties/19513201/1654353259/image-3-480x320.jpg",
-      "https://media.onthemarket.com/properties/19513201/1654353259/image-4-480x320.jpg"
-     ],
-     "agent": "Kinleigh Folkard & Hayward - Crouch End Lettings",
-     "addedText": "Added < 14 days",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highgate",
-     "features": [
-      "Two double bedrooms",
-      "Large Reception Room",
-      "Top Floor",
-      "Contemporary Kitchen"
-     ]
-    },
-    {
-     "key": "otm:4587",
-     "source": "onthemarket",
-     "sourceId": "4587",
-     "url": "https://www.onthemarket.com/agents/branch/kinleigh-folkard-and-hayward-crouch-end-lettings/",
-     "title": "",
-     "address": "",
-     "pricePcm": null,
-     "priceText": "",
-     "beds": null,
-     "baths": null,
-     "propertyType": "",
-     "lat": null,
-     "lon": null,
-     "image": null,
-     "images": [],
-     "agent": "",
-     "addedText": "",
-     "summary": "",
-     "availableText": null,
-     "letAgreed": false,
-     "searchedStation": "Highgate"
     },
     {
      "key": "otm:19963519",
@@ -16985,6 +16595,62 @@
      "searchedStation": "Highgate"
     },
     {
+     "key": "otm:17852397",
+     "source": "onthemarket",
+     "sourceId": "17852397",
+     "url": "https://www.onthemarket.com/details/17852397/",
+     "title": "2 bedroom apartment to rent",
+     "address": "Colney Hatch Lane, London, N10",
+     "pricePcm": 1800,
+     "priceText": "£1,800",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Apartment",
+     "lat": 51.595842,
+     "lon": -0.14526,
+     "image": "https://media.onthemarket.com/properties/17852397/1656297863/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/17852397/1656297863/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/17852397/1656297863/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/17852397/1656297863/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/17852397/1656297863/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/17852397/1656297863/image-4-480x320.jpg"
+     ],
+     "agent": "Tatlers - Muswell Hill",
+     "addedText": "Added < 14 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Highgate",
+     "features": [
+      "Purpose Built",
+      "Ground Floor"
+     ]
+    },
+    {
+     "key": "otm:46205",
+     "source": "onthemarket",
+     "sourceId": "46205",
+     "url": "https://www.onthemarket.com/agents/branch/tatlers-muswell-hill/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Highgate"
+    },
+    {
      "key": "otm:20381752",
      "source": "onthemarket",
      "sourceId": "20381752",
@@ -17096,7 +16762,7 @@
       "https://media.onthemarket.com/properties/20460172/1649013637/image-4-480x320.jpg"
      ],
      "agent": "Chancellors - Finchley Lettings",
-     "addedText": "Reduced today",
+     "addedText": "Reduced yesterday",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -17113,6 +16779,62 @@
      "source": "onthemarket",
      "sourceId": "43178",
      "url": "https://www.onthemarket.com/agents/branch/chancellors-finchley-lettings/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Highgate"
+    },
+    {
+     "key": "otm:20707240",
+     "source": "onthemarket",
+     "sourceId": "20707240",
+     "url": "https://www.onthemarket.com/details/20707240/",
+     "title": "2 bedroom flat to rent",
+     "address": "Vanderville Gardens, London, N2",
+     "pricePcm": 1650,
+     "priceText": "£1,650",
+     "beds": 2,
+     "baths": 2,
+     "propertyType": "Flat",
+     "lat": 51.5969267,
+     "lon": -0.1746949,
+     "image": "https://media.onthemarket.com/properties/20707240/1657049883/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20707240/1657049883/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20707240/1657049883/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20707240/1657049883/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20707240/1657049883/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20707240/1657049883/image-4-480x320.jpg"
+     ],
+     "agent": "Squires Estates - Finchley",
+     "addedText": "Added yesterday",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Highgate",
+     "features": [
+      "Two bedrooms",
+      "Large Reception"
+     ]
+    },
+    {
+     "key": "otm:45792",
+     "source": "onthemarket",
+     "sourceId": "45792",
+     "url": "https://www.onthemarket.com/agents/branch/squires-estates-finchley/",
      "title": "",
      "address": "",
      "pricePcm": null,
@@ -17163,6 +16885,62 @@
       "Two Double Bedrooms",
       "Separate Kitchen"
      ]
+    },
+    {
+     "key": "otm:20636237",
+     "source": "onthemarket",
+     "sourceId": "20636237",
+     "url": "https://www.onthemarket.com/details/20636237/",
+     "title": "2 bedroom apartment to rent",
+     "address": "Risborough Court, Muswell Hill, London, N10",
+     "pricePcm": 1800,
+     "priceText": "£1,800",
+     "beds": 2,
+     "baths": 1,
+     "propertyType": "Apartment",
+     "lat": 51.589838,
+     "lon": -0.139394,
+     "image": "https://media.onthemarket.com/properties/20636237/1654900450/image-0-480x320.jpg",
+     "images": [
+      "https://media.onthemarket.com/properties/20636237/1654900450/image-0-480x320.jpg",
+      "https://media.onthemarket.com/properties/20636237/1654900450/image-1-480x320.jpg",
+      "https://media.onthemarket.com/properties/20636237/1654900450/image-2-480x320.jpg",
+      "https://media.onthemarket.com/properties/20636237/1654900450/image-3-480x320.jpg",
+      "https://media.onthemarket.com/properties/20636237/1654902005/image-4-480x320.jpg"
+     ],
+     "agent": "Martyn Gerrard - Muswell Hill",
+     "addedText": "Added < 14 days",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Highgate",
+     "features": [
+      "2 Bedrooms",
+      "1 Reception"
+     ]
+    },
+    {
+     "key": "otm:70864",
+     "source": "onthemarket",
+     "sourceId": "70864",
+     "url": "https://www.onthemarket.com/agents/branch/martyn-gerrard-muswell-hill/",
+     "title": "",
+     "address": "",
+     "pricePcm": null,
+     "priceText": "",
+     "beds": null,
+     "baths": null,
+     "propertyType": "",
+     "lat": null,
+     "lon": null,
+     "image": null,
+     "images": [],
+     "agent": "",
+     "addedText": "",
+     "summary": "",
+     "availableText": null,
+     "letAgreed": false,
+     "searchedStation": "Highgate"
     },
     {
      "key": "otm:20495611",
@@ -17333,7 +17111,7 @@
       "https://media.onthemarket.com/properties/20665659/1655884212/image-4-480x320.jpg"
      ],
      "agent": "OpenRent - UK",
-     "addedText": "Added < 7 days",
+     "addedText": "Added < 14 days",
      "summary": "",
      "availableText": null,
      "letAgreed": false,
@@ -17731,7 +17509,7 @@
     "Unfurnished"
    ],
    "furnished": "Unfurnished",
-   "_at": "2026-11-01T21:18:58Z"
+   "_at": "2026-11-07T14:02:18Z"
   },
   "otm:20628366": {
    "availableText": "NOW",
@@ -18379,13 +18157,13 @@
     "Property Reference Number: 3096154"
    ],
    "furnished": "Unfurnished",
-   "_at": "2026-11-02T17:06:05Z"
+   "_at": "2026-11-07T14:02:11Z"
   },
   "otm:20394849": {
    "availableText": "now",
    "description": "*VIDEO AVAILABLE ON REQUEST*  Hammonds are delighted to present this charming 2/3 bed property on High Road Leyton. Featuring 2 spacious double bedrooms, fitted kitchen and modern bathroom this property is not to be missed by those living and working in East London  ",
    "furnished": "Unfurnished",
-   "_at": "2026-11-02T17:06:07Z"
+   "_at": "2026-11-07T14:02:13Z"
   },
   "otm:20394794": {
    "availableText": "now",
@@ -18398,7 +18176,7 @@
     "Separate Kitchen"
    ],
    "furnished": "Unfurnished",
-   "_at": "2026-11-02T17:06:09Z"
+   "_at": "2026-11-07T14:02:15Z"
   },
   "otm:20565120": {
    "description": "Welcome to this charming flat located on Morley Road in the vibrant area of Leyton, London, E10. This spacious property boasts three well-proportioned bedrooms, making it an ideal choice for families. The flat features a comfortable reception room, perfect for relaxation or entertaining guests.  The property includes a three-piece bathroom, ensuring convenience for all residents. One of the highlights of this flat is the lovely garden, providing a delightful outdoor space to enjoy fresh air and sunshine.   Situated in a good location, this flat benefits from excellent transport links, making commuting to central London and beyond a breeze. The area is well-served by local amenities, ensuring that all your daily needs are within easy reach.  The flat will soon be enhanced with new carpets and fresh paint in the bedrooms, adding a touch of modernity and comfort to your living environment. This unfurnished property offers you the opportunity to personalise the space to your taste and style. ___________________________________________________________________________________  Tenancies Signed on or after 1st June 2019 Holding deposit - 1 week's rent Security deposit - 5 week's rent (rent of £50,000 or over per annum - 6 week's rent) Unpaid rent - 3% above Bank of England base rate from Rent Due Date after 14 days in arrears. Lost keys - Cost of replacement key or other security device/lock replacement/locksmith. £15/hour (inc. VAT) for extra costs incurred in time taken to replace keys. Variation of contract - £50 (inc. VAT) per variation Change of sharer - £50 (inc. VAT) per replacement tenant Early termination - Landlord's costs in re-letting the property as well as rent due until start date of replacement tenancy. Costs to be no more than the maximum amount of rent outstanding on the tenancy.  RICS Client Money Protection Scheme R006768 The Property Ombudsman redress scheme R719  ",
@@ -18702,6 +18480,17 @@
    ],
    "furnished": "Furnished",
    "_at": "2026-11-06T15:03:57Z"
+  },
+  "otm:20709810": {
+   "description": "Property Reference: 3101421.  New build   Summary & Exclusions:  - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,000.00 - 2 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 14 November 2026 - Maximum number of tenants is 3 - Students welcome to enquire - Pets considered / by arrangement - Smokers considered - Family Friendly -  Bills Included  - No Parking Available - No Garden Access - EPC Rating: B     If calling, please quote reference: 3101421      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
+   "features": [
+    "No Agent Fees",
+    "Students Can Enquire",
+    "Bills Included",
+    "Property Reference Number: 3101421"
+   ],
+   "furnished": "Furnished",
+   "_at": "2026-11-07T14:02:10Z"
   }
  },
  "aliases": {
@@ -18834,7 +18623,7 @@
   "otm:20394849": "rm:94301451",
   "otm:20394794": "rm:93473631",
   "otm:20565120": "rm:94378821",
-  "otm:20673622": "otm:20673622",
+  "otm:20673622": "rm:95077773",
   "rm:93001146": "rm:93001146",
   "otm:20283077": "rm:93001146",
   "rm:94768026": "rm:94768026",
@@ -18877,7 +18666,8 @@
   "rm:117670214": "rm:117670214",
   "otm:438654": "rm:117670214",
   "rm:94703400": "rm:94703400",
-  "rm:95204523": "rm:95204523"
+  "rm:95204523": "rm:95204523",
+  "otm:20709810": "otm:20709810"
  },
  "groups": {
   "rm:94910721": {
@@ -18911,7 +18701,8 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-06T15:05:10Z",
+   "goneAt": "2026-11-07T14:02:18Z"
   },
   "rm:94570191": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -18932,7 +18723,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94039602": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -18946,7 +18737,7 @@
      1700
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94342545": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -18967,7 +18758,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:76122626": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -18977,7 +18768,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:93123918": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -18987,7 +18778,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94477815": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -18997,7 +18788,7 @@
      1920
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94741641": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -19007,7 +18798,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94779093": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -19017,7 +18808,7 @@
      1850
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94789998": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -19042,7 +18833,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94202934": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -19056,7 +18847,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94418868": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -19070,7 +18861,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:93937143": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -19080,7 +18871,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94344960": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -19090,7 +18881,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94577811": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -19144,8 +18935,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-04T15:29:00Z",
-   "goneAt": "2026-11-05T15:31:55Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20406859": {
    "firstSeen": "2026-11-01T21:19:13Z",
@@ -19177,7 +18967,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94527381": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19191,7 +18981,7 @@
      1733
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94199334": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19223,7 +19013,7 @@
      1700
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94234971": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19233,7 +19023,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94532403": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19243,7 +19033,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94281927": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19253,7 +19043,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:91988634": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19274,7 +19064,7 @@
      1850
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:93199398": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19295,7 +19085,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:93659007": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19316,7 +19106,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94852998": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19326,7 +19116,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94723773": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19347,7 +19137,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94843593": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19357,7 +19147,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94572270": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19371,7 +19161,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94553520": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19385,7 +19175,8 @@
      1700
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-06T15:05:10Z",
+   "goneAt": "2026-11-07T14:02:18Z"
   },
   "rm:93691494": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19395,7 +19186,8 @@
      1850
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-06T15:05:10Z",
+   "goneAt": "2026-11-07T14:02:18Z"
   },
   "rm:94693800": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19405,7 +19197,7 @@
      1700
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94781541": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19419,7 +19211,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:92691021": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19429,7 +19221,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:93251115": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19450,7 +19242,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:93889788": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19475,7 +19267,7 @@
      1895
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94552221": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19485,7 +19277,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94588494": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19495,7 +19287,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94044006": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19520,7 +19312,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94828404": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19530,7 +19322,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94865643": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19544,7 +19336,7 @@
      1895
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94168587": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19554,7 +19346,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:93743025": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19564,7 +19356,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94732923": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19574,7 +19366,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94335951": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19599,7 +19391,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94717050": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19609,7 +19401,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94301451": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19623,7 +19415,7 @@
      1650
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:93473631": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19637,7 +19429,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94378821": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19666,7 +19458,7 @@
      1650
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94441785": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19676,7 +19468,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94574733": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19690,7 +19482,7 @@
      1550
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:89647287": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19711,7 +19503,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94900158": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19721,7 +19513,7 @@
      1650
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94912419": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19731,7 +19523,7 @@
      1850
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:17128455": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19741,7 +19533,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:17128456": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19751,7 +19543,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20365794": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19772,7 +19564,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20575470": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19782,7 +19574,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:11800837": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19792,7 +19584,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20476213": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19806,7 +19598,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20604848": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19816,7 +19608,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:17235316": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19826,7 +19618,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20388894": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19836,7 +19628,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20388898": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19846,7 +19638,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20290981": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19878,7 +19670,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20651743": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19888,7 +19680,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20653955": {
    "firstSeen": "2026-11-01T22:28:38Z",
@@ -19920,7 +19712,7 @@
      1750
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95003775": {
    "firstSeen": "2026-11-02T17:06:10Z",
@@ -19930,7 +19722,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:83913164": {
    "firstSeen": "2026-11-02T17:06:10Z",
@@ -19951,7 +19743,8 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-06T15:05:10Z",
+   "goneAt": "2026-11-07T14:02:18Z"
   },
   "rm:93001146": {
    "firstSeen": "2026-11-03T15:09:06Z",
@@ -19961,7 +19754,7 @@
      1999
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94768026": {
    "firstSeen": "2026-11-03T15:09:06Z",
@@ -19971,7 +19764,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94093836": {
    "firstSeen": "2026-11-03T15:09:06Z",
@@ -19981,7 +19774,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95031357": {
    "firstSeen": "2026-11-03T15:09:06Z",
@@ -19991,7 +19784,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95063490": {
    "firstSeen": "2026-11-03T15:09:06Z",
@@ -20001,7 +19794,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20570026": {
    "firstSeen": "2026-11-03T15:09:06Z",
@@ -20011,7 +19804,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20677130": {
    "firstSeen": "2026-11-03T15:09:06Z",
@@ -20021,7 +19814,7 @@
      1950
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95077773": {
    "firstSeen": "2026-11-04T15:29:00Z",
@@ -20029,9 +19822,13 @@
     [
      "2026-11-04T15:29:00Z",
      2000
+    ],
+    [
+     "2026-11-07T14:02:18Z",
+     1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95108289": {
    "firstSeen": "2026-11-04T15:29:00Z",
@@ -20056,7 +19853,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95111187": {
    "firstSeen": "2026-11-04T15:29:00Z",
@@ -20066,7 +19863,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94608318": {
    "firstSeen": "2026-11-04T15:29:00Z",
@@ -20076,7 +19873,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95099469": {
    "firstSeen": "2026-11-04T15:29:00Z",
@@ -20108,7 +19905,7 @@
      1900
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:20683912": {
    "firstSeen": "2026-11-04T15:29:00Z",
@@ -20118,7 +19915,7 @@
      1800
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:13924531": {
    "firstSeen": "2026-11-04T15:29:00Z",
@@ -20139,7 +19936,7 @@
      1700
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95143722": {
    "firstSeen": "2026-11-05T15:31:55Z",
@@ -20149,7 +19946,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95155350": {
    "firstSeen": "2026-11-05T15:31:55Z",
@@ -20159,7 +19956,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:93579795": {
    "firstSeen": "2026-11-05T15:31:55Z",
@@ -20169,7 +19966,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95123286": {
    "firstSeen": "2026-11-05T15:31:55Z",
@@ -20179,7 +19976,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "otm:19674570": {
    "firstSeen": "2026-11-05T15:31:55Z",
@@ -20200,7 +19997,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:94703400": {
    "firstSeen": "2026-11-06T15:05:10Z",
@@ -20210,7 +20007,7 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
   },
   "rm:95204523": {
    "firstSeen": "2026-11-06T15:05:10Z",
@@ -20220,10 +20017,20 @@
      2000
     ]
    ],
-   "lastSeen": "2026-11-06T15:05:10Z"
+   "lastSeen": "2026-11-07T14:02:18Z"
+  },
+  "otm:20709810": {
+   "firstSeen": "2026-11-07T14:02:18Z",
+   "priceHistory": [
+    [
+     "2026-11-07T14:02:18Z",
+     2000
+    ]
+   ],
+   "lastSeen": "2026-11-07T14:02:18Z"
   }
  },
- "lastRun": "2026-11-06T15:05:10Z",
+ "lastRun": "2026-11-07T14:02:18Z",
  "onthemarketSlugs": {
   "Mile End": "mile-end-london"
  }

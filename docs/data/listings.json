@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T15:05:10Z",
+ "generatedAt": "2026-11-07T14:02:18Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -57,25 +57,97 @@
  "sources": {
   "Rightmove": {
    "ok": true,
-   "found": 90,
-   "at": "2026-11-06T15:02:20Z"
+   "found": 87,
+   "at": "2026-11-07T14:00:35Z"
   },
   "OnTheMarket": {
    "ok": true,
-   "found": 345,
-   "at": "2026-11-06T15:03:54Z"
+   "found": 347,
+   "at": "2026-11-07T14:02:09Z"
   }
  },
  "excluded": {
-  "too far from a station": 154,
-  "keyword": 2,
+  "too far from a station": 155,
+  "keyword": 4,
   "price": 135,
-  "excluded area": 15,
-  "available after January": 1,
+  "excluded area": 16,
   "location": 2
  },
- "count": 91,
+ "count": 90,
  "listings": [
+  {
+   "source": "onthemarket",
+   "url": "https://www.onthemarket.com/details/20709810/",
+   "title": "2 bedroom flat to rent",
+   "address": "Waldeck Road, London, N15",
+   "priceText": "£2,000",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.588576,
+   "lon": -0.098119,
+   "image": "https://media.onthemarket.com/properties/20709810/1657080442/image-0-480x320.jpg",
+   "images": [
+    "https://media.onthemarket.com/properties/20709810/1657080442/image-0-480x320.jpg"
+   ],
+   "agent": "OpenRent - UK",
+   "addedText": "Added yesterday",
+   "summary": "",
+   "availableText": null,
+   "features": [
+    "No Agent Fees",
+    "Students Can Enquire"
+   ],
+   "furnished": "Furnished",
+   "station": {
+    "name": "Turnpike Lane",
+    "lines": [
+     "Piccadilly"
+    ],
+    "mode": "tube",
+    "walkMins": 6,
+    "distanceM": 382
+   },
+   "tube": {
+    "name": "Turnpike Lane",
+    "lines": [
+     "Piccadilly"
+    ],
+    "walkMins": 6
+   },
+   "area": "Turnpike Lane",
+   "tier": 2,
+   "cycleMins": 30,
+   "availability": {
+    "kind": "unknown",
+    "date": null,
+    "flag": "unknown",
+    "text": null
+   },
+   "tags": [
+    "Bills incl.",
+    "Furnished",
+    "Garden",
+    "Pets OK"
+   ],
+   "id": "otm:20709810",
+   "price": 2000,
+   "links": [
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20709810/"
+    }
+   ],
+   "description": "Property Reference: 3101421.  New build   Summary & Exclusions:  - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,000.00 - 2 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 14 November 2026 - Maximum number of tenants is 3 - Students welcome to enquire - Pets considered / by arrangement - Smokers considered - Family Friendly -  Bills Included  - No Parking Available - No Garden Access - EPC Rating: B     If calling, please quote reference: 3101421      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
+   "firstSeen": "2026-11-07T14:02:18Z",
+   "priceHistory": [
+    [
+     "2026-11-07T14:02:18Z",
+     2000
+    ]
+   ]
+  },
   {
    "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/117670214",
@@ -99,7 +171,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/43e7679dc/117670214/43e7679dc1206598bc34476e2c66d4a7_max_476x317.jpeg"
    ],
    "agent": "Felicity J Lord",
-   "addedText": "Reduced today",
+   "addedText": "Reduced yesterday",
    "firstVisible": "2021-12-16T10:30:54Z",
    "summary": "A spacious two bedroom two bathroom furnished church conversion with parking. With an open plan lounge/kitchen with integrated appliances, two good sized bedrooms, the main with ensuite shower room and a second bathroom. Ideal for two friends to share",
    "availableText": "2026-11-30T00:00:00Z",
@@ -192,7 +264,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/97b811d84/94703400/97b811d84ef58e04763e3bc2c0f831a3_max_476x317.jpeg"
    ],
    "agent": "Hemmingfords",
-   "addedText": "Reduced yesterday",
+   "addedText": "Reduced on 05/11/2026",
    "firstVisible": "2026-10-24T23:06:23Z",
    "summary": "Set on the first floor of a striking period home, this newly refurbished two-bedroom apartment conversion has a lengthy list of highlights, including the additional study, immaculate decor, gorgeous features and ample storage. As for the location, it’s situated moments away from the bril...",
    "availableText": "2026-12-01T00:00:00Z",
@@ -270,7 +342,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e933c4529/95204523/e933c4529a054bd606f71f2650044988_max_476x317.jpeg"
    ],
    "agent": "Carr & Jones",
-   "addedText": "Added today",
+   "addedText": "Added yesterday",
    "firstVisible": "2026-11-06T14:18:42Z",
    "summary": "STYLISH & SPACIOUS TWO DOUBLE BEDROOM APARTMENT | THIRD FLOOR WITH LIFT | EXCELLENT TRANSPORT LINKS",
    "availableText": "2026-11-23T00:00:00Z",
@@ -432,7 +504,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cfa52bc97/95143722/cfa52bc97adc53174bd9582461340a4b_max_476x317.jpeg"
    ],
    "agent": "Lloyds Estate Agents",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 05/11/2026",
    "firstVisible": "2026-11-05T10:52:57Z",
    "summary": "Discover this beautifully maintained three-bedroom apartment, offering private parking, balcony, and beautiful communal gardens all just a short stroll from Wanstead High Street.",
    "availableText": "2026-12-01T00:00:00Z",
@@ -445,7 +517,8 @@
     "Storage Shed- Perfect for Cyclists!",
     "Minutes to Snaresbrook & Wanstead Central Line Tube Stations",
     "Gently Stroll into Wanstead's Ever Popular High Street",
-    "Only Suitable for 2 Professional Sharers, Couple or Small Family (Selective License Conditions)"
+    "Only Suitable for 2 Professional Sharers, Couple or Small Family (Selective License Conditions)",
+    "View Today!"
    ],
    "station": {
     "name": "Snaresbrook",
@@ -517,7 +590,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5a0bd01a/95155350/f5a0bd01a5a19771561776f896db722b_max_476x317.jpeg"
    ],
    "agent": "Portico",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 05/11/2026",
    "firstVisible": "2026-11-05T13:42:06Z",
    "summary": "Portico is delighted to offer this two-bedroom split-level apartment on Balls Pond Road, Islington, N1. This naturally bright apartment is spread across the first and second floors and features a spacious reception room, a modern fitted separate kitchen, a generously-sized double bedro...",
    "availableText": "2026-12-05T00:00:00Z",
@@ -609,7 +682,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89f56d7f4/93579795/89f56d7f4e82e501c0c0499196cefe2a_max_476x317.jpeg"
    ],
    "agent": "Portico",
-   "addedText": "Reduced yesterday",
+   "addedText": "Reduced on 05/11/2026",
    "firstVisible": "2026-09-25T14:11:38Z",
    "summary": "A beautifully presented two bedroom apartment located in Highbury. The property boasts two well proportioned bedrooms with ample storage, a large living room and separate kitchen. Both bedrooms benefit from large windows which allow natural light to flood in and built in stora...",
    "availableText": "2025-10-03T00:00:00Z",
@@ -755,7 +828,7 @@
    "url": "https://www.rightmove.co.uk/properties/95077773",
    "title": "2 bedroom flat",
    "address": "Lloyd Road, London, E17",
-   "priceText": "£2,000 pcm",
+   "priceText": "£1,900 pcm",
    "beds": 2,
    "baths": 1,
    "propertyType": "Flat",
@@ -777,7 +850,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aab611f74/95077773/aab611f7482a7d18ed3b0ebed66c45b8_max_476x317.jpeg"
    ],
    "agent": "Portico",
-   "addedText": "Added on 03/11/2026",
+   "addedText": "Reduced yesterday",
    "firstVisible": "2026-11-03T17:22:35Z",
    "summary": "A well-proportioned two-bedroom Ex Warner in Walthamstow, offering a separate reception room, kitchen, bathroom and access to a shared garden. Available unfurnished, the property provides a blank canvas for tenants to make their own, with local shops, transport links and green spaces within easy ...",
    "availableText": "2026-11-10T00:00:00Z",
@@ -816,14 +889,14 @@
     "text": "Available 10 Nov 2026"
    },
    "tags": [
-    "Furnished",
     "Garden",
+    "Pets OK",
     "Separate lounge",
     "Unfurnished"
    ],
-   "furnished": "Furnished",
+   "furnished": "Unfurnished",
    "id": "rm:95077773",
-   "price": 2000,
+   "price": 1900,
    "links": [
     {
      "source": "rightmove",
@@ -833,17 +906,22 @@
     {
      "source": "onthemarket",
      "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20684298/"
+     "url": "https://www.onthemarket.com/details/20673622/"
     }
    ],
-   "description": "Situated in the popular area of Walthamstow, this two-bedroom Ex Warner offers practical living space and access to a shared garden, making it an appealing option for those seeking a home in a well-connected East London neighbourhood.  The property comprises two bedrooms, a separate reception room providing space to relax or entertain, a dedicated kitchen and a bathroom. Residents also benefit from access to a shared garden, offering valuable outdoor space to enjoy during the warmer months.  The property is offered unfurnished, giving tenants the flexibility to furnish and personalise the space to suit their own style and requirements. Please note that a fridge and washing machine will not be provided.  Walthamstow offers a wide range of local amenities, including supermarkets, independent shops, cafés and restaurants. The area is also known for its popular high street and market, providing a variety of shopping and food options.  Transport links across the area provide convenient connections into Central London and beyond, with London Overground services, the Victoria Line from Walthamstow Central and local bus routes available within the wider neighbourhood.  For those who enjoy the outdoors, Walthamstow benefits from a selection of green spaces, including Lloyd Park, Walthamstow Marshes and Walthamstow Wetlands, offering opportunities for walking, cycling and enjoying nature.  Combining two bedrooms, a separate reception room and access to a shared garden, this unfurnished",
+   "description": "Property Reference: 3096154.  A purpose-built first-floor ex-Warner maisonette on Lloyd Road, Walthamstow E17, approximately five minutes' walk from Blackhorse Road station and approximately 10 minutes' walk from St James Street station, with a supermarket on the corner. Walthamstow Central is one stop from Blackhorse Road on the Victoria line.  Offering approximately 63 m² (679 sq ft), the property has two double bedrooms, a separate lounge, a kitchen and a bathroom with a bath and shower over. It has its own private entrance, with stairs up to the accommodation, and access to a shared rear garden via rear stairs.  The property has been redecorated with new carpets and benefits from double glazing, a new roof and gas central heating with a modern boiler. EPC rating C.  Offered unfurnished. A cooker is included; tenants will need to provide their own fridge-freezer and washer/dryer.  Residents can apply to Waltham Forest Council for on-street parking permits, subject to eligibility, charges and council terms. Cycle hangars are located along the road; spaces are subject to application, charges and availability.  A cat is welcome; no dogs. No smoking.  Rent: £1,900 per calendar month. Tenancy deposit: £2,192.30. Available from 9 November 2026. Maximum occupancy: two people.   Summary & Exclusions:  - Rent Amount: £1,900.00 per month (£438.46 per week) - Deposit / Bond: £2,192.30 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 09 November 2026",
    "firstSeen": "2026-11-04T15:29:00Z",
    "priceHistory": [
     [
      "2026-11-04T15:29:00Z",
      2000
+    ],
+    [
+     "2026-11-07T14:02:18Z",
+     1900
     ]
-   ]
+   ],
+   "reducedFrom": 2000
   },
   {
    "source": "rightmove",
@@ -1263,6 +1341,89 @@
    ]
   },
   {
+   "source": "onthemarket",
+   "url": "https://www.onthemarket.com/details/20684298/",
+   "title": "2 bedroom flat to rent",
+   "address": "Lloyd Road, London, E17",
+   "priceText": "£1,900",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.585099,
+   "lon": -0.039952,
+   "image": "https://media.onthemarket.com/properties/20684298/1656401406/image-0-480x320.jpg",
+   "images": [
+    "https://media.onthemarket.com/properties/20684298/1656401406/image-0-480x320.jpg",
+    "https://media.onthemarket.com/properties/20684298/1656401406/image-1-480x320.jpg",
+    "https://media.onthemarket.com/properties/20684298/1656401406/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/20684298/1656401406/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/20684298/1656401406/image-4-480x320.jpg"
+   ],
+   "agent": "Portico - Walthamstow",
+   "addedText": "Reduced yesterday",
+   "summary": "",
+   "availableText": null,
+   "features": [
+    "Two bedroom Ex warner flat",
+    "Blackhorse Village area"
+   ],
+   "furnished": "Furnished",
+   "station": {
+    "name": "Blackhorse Road",
+    "lines": [
+     "Victoria",
+     "Overground"
+    ],
+    "mode": "tube",
+    "walkMins": 3,
+    "distanceM": 215
+   },
+   "tube": {
+    "name": "Blackhorse Road",
+    "lines": [
+     "Victoria",
+     "Overground"
+    ],
+    "walkMins": 3
+   },
+   "area": "Walthamstow",
+   "tier": 2,
+   "cycleMins": 38,
+   "availability": {
+    "kind": "unknown",
+    "date": null,
+    "flag": "unknown",
+    "text": null
+   },
+   "tags": [
+    "Furnished",
+    "Garden",
+    "Separate lounge"
+   ],
+   "id": "rm:95077773",
+   "price": 1900,
+   "links": [
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20684298/"
+    }
+   ],
+   "description": "Situated in the popular area of Walthamstow, this two-bedroom Ex Warner offers practical living space and access to a shared garden, making it an appealing option for those seeking a home in a well-connected East London neighbourhood.  The property comprises two bedrooms, a separate reception room providing space to relax or entertain, a dedicated kitchen and a bathroom. Residents also benefit from access to a shared garden, offering valuable outdoor space to enjoy during the warmer months.  The property is offered unfurnished, giving tenants the flexibility to furnish and personalise the space to suit their own style and requirements. Please note that a fridge and washing machine will not be provided.  Walthamstow offers a wide range of local amenities, including supermarkets, independent shops, cafés and restaurants. The area is also known for its popular high street and market, providing a variety of shopping and food options.  Transport links across the area provide convenient connections into Central London and beyond, with London Overground services, the Victoria Line from Walthamstow Central and local bus routes available within the wider neighbourhood.  For those who enjoy the outdoors, Walthamstow benefits from a selection of green spaces, including Lloyd Park, Walthamstow Marshes and Walthamstow Wetlands, offering opportunities for walking, cycling and enjoying nature.  Combining two bedrooms, a separate reception room and access to a shared garden, this unfurnished",
+   "firstSeen": "2026-11-04T15:29:00Z",
+   "priceHistory": [
+    [
+     "2026-11-04T15:29:00Z",
+     2000
+    ],
+    [
+     "2026-11-07T14:02:18Z",
+     1900
+    ]
+   ],
+   "reducedFrom": 2000
+  },
+  {
    "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/93001146",
    "title": "2 bedroom flat",
@@ -1291,7 +1452,7 @@
    "addedText": "Reduced on 03/11/2026",
    "firstVisible": "2026-09-10T16:14:17Z",
    "summary": "This is a two bedroom, Raised Ground Floor apartment in Bow, London in a white stucco-fronted period property and it is fully furnished for you to drop your bags and move in. It is ideally suited... ** Property Reference: 3031529 **",
-   "availableText": "2026-11-05T00:00:00Z",
+   "availableText": "2026-11-07T00:00:00Z",
    "features": [
     "No Agent Fees",
     "Property Reference Number: 3031529"
@@ -1319,9 +1480,9 @@
    "cycleMins": 32,
    "availability": {
     "kind": "date",
-    "date": "2026-11-05",
+    "date": "2026-11-07",
     "flag": "early",
-    "text": "Available 5 Nov 2026"
+    "text": "Available 7 Nov 2026"
    },
    "tags": [
     "Furnished",
@@ -1923,85 +2084,6 @@
     }
    ],
    "description": "",
-   "firstSeen": "2026-11-02T17:06:10Z",
-   "priceHistory": [
-    [
-     "2026-11-02T17:06:10Z",
-     1900
-    ]
-   ]
-  },
-  {
-   "source": "onthemarket",
-   "url": "https://www.onthemarket.com/details/20673622/",
-   "title": "2 bedroom maisonette to rent",
-   "address": "Lloyd Road, London, E17",
-   "priceText": "£1,900",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Maisonette",
-   "lat": 51.585101,
-   "lon": -0.039961,
-   "image": "https://media.onthemarket.com/properties/20673622/1656170213/image-0-480x320.jpg",
-   "images": [
-    "https://media.onthemarket.com/properties/20673622/1656170213/image-0-480x320.jpg",
-    "https://media.onthemarket.com/properties/20673622/1656170213/image-1-480x320.jpg",
-    "https://media.onthemarket.com/properties/20673622/1656170213/image-2-480x320.jpg",
-    "https://media.onthemarket.com/properties/20673622/1656170213/image-3-480x320.jpg",
-    "https://media.onthemarket.com/properties/20673622/1656170213/image-4-480x320.jpg"
-   ],
-   "agent": "OpenRent - UK",
-   "addedText": "Added < 7 days",
-   "summary": "",
-   "availableText": "9 November 2026",
-   "features": [
-    "No Agent Fees",
-    "Property Reference Number: 3096154"
-   ],
-   "furnished": "Unfurnished",
-   "station": {
-    "name": "Blackhorse Road",
-    "lines": [
-     "Victoria",
-     "Overground"
-    ],
-    "mode": "tube",
-    "walkMins": 3,
-    "distanceM": 215
-   },
-   "tube": {
-    "name": "Blackhorse Road",
-    "lines": [
-     "Victoria",
-     "Overground"
-    ],
-    "walkMins": 3
-   },
-   "area": "Walthamstow",
-   "tier": 2,
-   "cycleMins": 38,
-   "availability": {
-    "kind": "date",
-    "date": "2026-11-09",
-    "flag": "early",
-    "text": "Available 9 Nov 2026"
-   },
-   "tags": [
-    "Garden",
-    "Pets OK",
-    "Separate lounge",
-    "Unfurnished"
-   ],
-   "id": "otm:20673622",
-   "price": 1900,
-   "links": [
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20673622/"
-    }
-   ],
-   "description": "Property Reference: 3096154.  A purpose-built first-floor ex-Warner maisonette on Lloyd Road, Walthamstow E17, approximately five minutes' walk from Blackhorse Road station and approximately 10 minutes' walk from St James Street station, with a supermarket on the corner. Walthamstow Central is one stop from Blackhorse Road on the Victoria line.  Offering approximately 63 m² (679 sq ft), the property has two double bedrooms, a separate lounge, a kitchen and a bathroom with a bath and shower over. It has its own private entrance, with stairs up to the accommodation, and access to a shared rear garden via rear stairs.  The property has been redecorated with new carpets and benefits from double glazing, a new roof and gas central heating with a modern boiler. EPC rating C.  Offered unfurnished. A cooker is included; tenants will need to provide their own fridge-freezer and washer/dryer.  Residents can apply to Waltham Forest Council for on-street parking permits, subject to eligibility, charges and council terms. Cycle hangars are located along the road; spaces are subject to application, charges and availability.  A cat is welcome; no dogs. No smoking.  Rent: £1,900 per calendar month. Tenancy deposit: £2,192.30. Available from 9 November 2026. Maximum occupancy: two people.   Summary & Exclusions:  - Rent Amount: £1,900.00 per month (£438.46 per week) - Deposit / Bond: £2,192.30 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 09 November 2026",
    "firstSeen": "2026-11-02T17:06:10Z",
    "priceHistory": [
     [
@@ -3144,194 +3226,6 @@
   },
   {
    "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/93691494",
-   "title": "2 bedroom flat",
-   "address": "Bream Close, London, N17",
-   "priceText": "£1,850 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.585968,
-   "lon": -0.055679,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/124687c27/93691494/124687c27d5df3f8d313792b1e704798_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/124687c27/93691494/124687c27d5df3f8d313792b1e704798_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26a86d41f/93691494/26a86d41f45a326d7f36a7a96cfdfbb5_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1511f073/93691494/c1511f07325f61b9ae6e341b7a814ea6_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3dd8e0c07/93691494/3dd8e0c07c678e5c637e3ad4ff9e93d5_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd32e109a/93691494/cd32e109ae85c07afdfb3b78ee80d568_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/148aeb2ae/93691494/148aeb2ae76bb8674a7aa28590fdf3d9_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60ee2ff49/93691494/60ee2ff49fac7c3aa44e18383bc71f9c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fac703f72/93691494/fac703f7263bda34fd06824bfc9cece5_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/903a1c644/93691494/903a1c64484b406d380d4f0ba4997ae6_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89f89fe69/93691494/89f89fe69eb63ed8b116f99473ef6474_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a9a506f3/93691494/3a9a506f37fad944b2990fa56a5a3517_max_476x317.jpeg"
-   ],
-   "agent": "OpenRent",
-   "addedText": "Reduced on 24/10/2026",
-   "firstVisible": "2026-09-29T11:27:20Z",
-   "summary": "We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location a few minutes walk to Tottenham Hale Station and right next to Walthamstow wetlands. Available to move in from... ** Property Reference: 3055033 **",
-   "availableText": "2026-10-24T00:00:00Z",
-   "features": [
-    "No Agent Fees",
-    "Students Can Enquire",
-    "Property Reference Number: 3055033"
-   ],
-   "station": {
-    "name": "Tottenham Hale",
-    "lines": [
-     "Victoria"
-    ],
-    "mode": "tube",
-    "walkMins": 6,
-    "distanceM": 357
-   },
-   "tube": {
-    "name": "Tottenham Hale",
-    "lines": [
-     "Victoria"
-    ],
-    "walkMins": 6
-   },
-   "area": "Tottenham Hale",
-   "tier": 2,
-   "cycleMins": 35,
-   "availability": {
-    "kind": "date",
-    "date": "2026-10-24",
-    "flag": "early",
-    "text": "Available 24 Oct 2026"
-   },
-   "tags": [
-    "Garden",
-    "Unfurnished"
-   ],
-   "furnished": "Unfurnished",
-   "id": "rm:93691494",
-   "price": 1850,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/93691494"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20427390/"
-    }
-   ],
-   "description": "Property Reference: 3055033.  We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location a few minutes walk to Tottenham Hale Station and right next to Walthamstow wetlands.  Available to move in from 1st October 2026, this property benefits from residents parking with permit cost included in rent. Property is offered unfurnished and neutrally decorated with a new boiler in 2026. Kitchen appliances including fridge/freezer, oven, washing machine and dishwasher included.   Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!    Summary   Rent £1,975 per month  Deposit / Bond is £1,975   Summary & Exclusions:  - Rent Amount: £1,850.00 per month (£426.92 per week) - Deposit / Bond: £1,850.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 06 November 2026 - Maximum number of tenants is 3 - Students welcome to enquire - No Pets, sorry - No Smokers - Family Friendly - Bills not included - Property has parking - No Garden Access - EPC Rating: C     If calling, please quote reference: 3055033      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please cont",
-   "firstSeen": "2026-11-01T22:28:38Z",
-   "priceHistory": [
-    [
-     "2026-11-01T22:28:38Z",
-     1850
-    ]
-   ]
-  },
-  {
-   "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/94553520",
-   "title": "2 bedroom flat",
-   "address": "Bream Close, Tottenham Hale",
-   "priceText": "£1,700 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.58491,
-   "lon": -0.05589,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b09695cb/94553520/8b09695cb6cb0198e78ca6d9a219d391_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b09695cb/94553520/8b09695cb6cb0198e78ca6d9a219d391_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a00544bc8/94553520/a00544bc87644acbb80f97f05e91d304_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6da9b7c86/94553520/6da9b7c8687fc1c09a32a369a24ecbad_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57d0ea5bb/94553520/57d0ea5bb108ac43524a34891e788057_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2d8745f5/94553520/f2d8745f5ea36aa39cf4174e8742eb95_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d91a879c/94553520/4d91a879c5308c8244bb5e9e3ba9b88c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb865d170/94553520/fb865d170f43030a9a67c48bf8241f3d_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca83082a8/94553520/ca83082a8d2fc49871df99c88feda540_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7b58e3c7/94553520/b7b58e3c7c5a2de42543e40cb7e79f7e_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d03eeeca6/94553520/d03eeeca61cf0a8efdffe200475ed2c1_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/541823221/94553520/541823221f9d33474992644589834614_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46398da8f/94553520/46398da8fe03ea12f8511f2111cf72ef_max_476x317.jpeg"
-   ],
-   "agent": "Alex Crown Lettings & Estate Agents",
-   "addedText": "Reduced on 03/11/2026",
-   "firstVisible": "2026-10-21T11:29:05Z",
-   "summary": "Alex Crown are delighted to present this charming two bedroom flat with a small lounge, situated within a desirable riverside development in the heart of Tottenham Hale, N17.",
-   "availableText": "2026-12-21T00:00:00Z",
-   "features": [
-    "Located on the second floor - (NO LIFT)",
-    "Two spacious bedrooms with a small lounge area",
-    "Situated within a desirable riverside development",
-    "Beautiful views overlooking the river",
-    "Fully fitted kitchen with integrated appliances",
-    "Stylish fully tiled bathroom",
-    "Bright and well-proportioned living space throughout",
-    "Set within a quiet and well-maintained residential block",
-    "Moments from Tottenham Hale Station (Victoria Line & National Rail)",
-    "Excellent transport links providing easy access across London"
-   ],
-   "station": {
-    "name": "Tottenham Hale",
-    "lines": [
-     "Victoria"
-    ],
-    "mode": "tube",
-    "walkMins": 7,
-    "distanceM": 439
-   },
-   "tube": {
-    "name": "Tottenham Hale",
-    "lines": [
-     "Victoria"
-    ],
-    "walkMins": 7
-   },
-   "area": "Tottenham Hale",
-   "tier": 2,
-   "cycleMins": 35,
-   "availability": {
-    "kind": "date",
-    "date": "2026-12-21",
-    "flag": "ok",
-    "text": "Available 21 Dec 2026"
-   },
-   "tags": [
-    "Furnished"
-   ],
-   "furnished": "Furnished",
-   "id": "rm:94553520",
-   "price": 1700,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/94553520"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/9510968/"
-    }
-   ],
-   "description": "Alex Crown are delighted to present this charming two bedroom flat with a small lounge, situated within a desirable riverside development in the heart of Tottenham Hale, N17.  This attractive property benefits from beautiful views of the river and offers bright, well-proportioned living accommodation throughout. It features two spacious bedrooms, a comfortable lounge area, a fully fitted kitchen with integrated appliances, and a stylish tiled bathroom.  Ideally located within a quiet residential block, the flat is just moments away from Tottenham Hale Station (Victoria Line and National Rail) providing excellent transport connections across London. Residents will also enjoy easy access to a great selection of local shops, cafés, and restaurants, making this an excellent choice for professionals or small families seeking convenient and peaceful living in one of Tottenham Hale's most sought-after areas. ",
-   "firstSeen": "2026-11-01T22:28:38Z",
-   "priceHistory": [
-    [
-     "2026-11-01T22:28:38Z",
-     1800
-    ],
-    [
-     "2026-11-03T15:09:06Z",
-     1700
-    ]
-   ],
-   "reducedFrom": 1800
-  },
-  {
-   "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/94693800",
    "title": "2 bedroom flat",
    "address": "Two Bedroom Upper Floor Flat To Let, Forest Road, Walthamstow, E17 - £1,700 PCM",
@@ -4413,7 +4307,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0dd0ac5d9/95146950/0dd0ac5d9fc86f75eae92a6ec2f52285_max_476x317.jpeg"
    ],
    "agent": "Strettons",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 05/11/2026",
    "firstVisible": "2026-11-05T11:32:58Z",
    "summary": "Nestled on Claude Road in the vibrant area of Leyton, London E10, this charming flat offers a delightful living experience. The property features two well-proportioned bedrooms, comprising one spacious double bedroom that provides ample comfort and privacy, alongside a cosy single bedroom, perfec...",
    "availableText": "2026-11-16T00:00:00Z",
@@ -5992,86 +5886,6 @@
   },
   {
    "source": "onthemarket",
-   "url": "https://www.onthemarket.com/details/20476213/",
-   "title": "2 bedroom flat to rent",
-   "address": "Gibson Gardens",
-   "priceText": "£1,900",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.5637045,
-   "lon": -0.0718616,
-   "image": "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
-   "images": [
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-1-480x320.jpg",
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-2-480x320.jpg",
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-3-480x320.jpg",
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-4-480x320.jpg"
-   ],
-   "agent": "Select.London - Manor Park",
-   "addedText": "Added yesterday",
-   "summary": "",
-   "availableText": "now",
-   "features": [
-    "452 sq ft floor area",
-    "Nearest station 0.1mi."
-   ],
-   "furnished": "Unfurnished",
-   "station": {
-    "name": "Stoke Newington",
-    "lines": [
-     "Overground"
-    ],
-    "mode": "overground",
-    "walkMins": 3,
-    "distanceM": 181
-   },
-   "tube": {
-    "name": "Manor House",
-    "lines": [
-     "Piccadilly"
-    ],
-    "walkMins": 30
-   },
-   "area": "Stoke Newington",
-   "tier": 2,
-   "cycleMins": 24,
-   "availability": {
-    "kind": "now",
-    "date": null,
-    "flag": "early",
-    "text": "Available now"
-   },
-   "tags": [
-    "Separate lounge",
-    "Unfurnished"
-   ],
-   "id": "otm:20476213",
-   "price": 1900,
-   "links": [
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20476213/"
-    }
-   ],
-   "description": "This two-bedroom flat is located at Gibson Gardens, London N16, third floor within a period brick-built residential development. The property provides one reception room, two bedrooms, one bathroom and a separate fitted kitchen. It is offered unfurnished and has gas central heating throughout, with radiators positioned in the principal rooms. The accommodation is arranged to provide separate living, sleeping, kitchen and bathroom areas.  The reception room is a separate room with wooden-effect flooring, a front-facing multi-pane window and fitted shelving set into a recess. The window provides natural light and has curtains installed. The room has space for seating and other standard living-room furniture, with power points positioned around the walls. The flooring continues towards the entrance area, while the neutral wall finish provides a plain base for occupiers’ own furnishings.  The property has two bedrooms. The first bedroom is carpeted and includes a multi-pane window overlooking the surrounding residential buildings. It has a radiator beneath the window, ceiling lighting and sufficient floor area for bedroom furniture. The second bedroom is also carpeted and has a similar multi-pane window, radiator heating and ceiling lighting. Both rooms have neutral painted walls and are presented without freestanding furniture. The windows are fitted with curtains, and the rooms receive daylight from their external elevations.  The kitchen is arranged in a galley-style layout, w",
-   "firstSeen": "2026-11-01T22:28:38Z",
-   "priceHistory": [
-    [
-     "2026-11-01T22:28:38Z",
-     1975
-    ],
-    [
-     "2026-11-06T15:05:10Z",
-     1900
-    ]
-   ],
-   "reducedFrom": 1975
-  },
-  {
-   "source": "onthemarket",
    "url": "https://www.onthemarket.com/details/17235316/",
    "title": "2 bedroom property to rent",
    "address": "Harringay Gardens, London N8",
@@ -6291,6 +6105,86 @@
      1900
     ]
    ]
+  },
+  {
+   "source": "onthemarket",
+   "url": "https://www.onthemarket.com/details/20476213/",
+   "title": "2 bedroom flat to rent",
+   "address": "Gibson Gardens",
+   "priceText": "£1,900",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.5637045,
+   "lon": -0.0718616,
+   "image": "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
+   "images": [
+    "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
+    "https://media.onthemarket.com/properties/20476213/1656997772/image-1-480x320.jpg",
+    "https://media.onthemarket.com/properties/20476213/1656997772/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/20476213/1656997772/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/20476213/1656997772/image-4-480x320.jpg"
+   ],
+   "agent": "Select.London - Manor Park",
+   "addedText": "Added < 7 days",
+   "summary": "",
+   "availableText": "now",
+   "features": [
+    "452 sq ft floor area",
+    "Nearest station 0.1mi."
+   ],
+   "furnished": "Unfurnished",
+   "station": {
+    "name": "Stoke Newington",
+    "lines": [
+     "Overground"
+    ],
+    "mode": "overground",
+    "walkMins": 3,
+    "distanceM": 181
+   },
+   "tube": {
+    "name": "Manor House",
+    "lines": [
+     "Piccadilly"
+    ],
+    "walkMins": 30
+   },
+   "area": "Stoke Newington",
+   "tier": 2,
+   "cycleMins": 24,
+   "availability": {
+    "kind": "now",
+    "date": null,
+    "flag": "early",
+    "text": "Available now"
+   },
+   "tags": [
+    "Separate lounge",
+    "Unfurnished"
+   ],
+   "id": "otm:20476213",
+   "price": 1900,
+   "links": [
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20476213/"
+    }
+   ],
+   "description": "This two-bedroom flat is located at Gibson Gardens, London N16, third floor within a period brick-built residential development. The property provides one reception room, two bedrooms, one bathroom and a separate fitted kitchen. It is offered unfurnished and has gas central heating throughout, with radiators positioned in the principal rooms. The accommodation is arranged to provide separate living, sleeping, kitchen and bathroom areas.  The reception room is a separate room with wooden-effect flooring, a front-facing multi-pane window and fitted shelving set into a recess. The window provides natural light and has curtains installed. The room has space for seating and other standard living-room furniture, with power points positioned around the walls. The flooring continues towards the entrance area, while the neutral wall finish provides a plain base for occupiers’ own furnishings.  The property has two bedrooms. The first bedroom is carpeted and includes a multi-pane window overlooking the surrounding residential buildings. It has a radiator beneath the window, ceiling lighting and sufficient floor area for bedroom furniture. The second bedroom is also carpeted and has a similar multi-pane window, radiator heating and ceiling lighting. Both rooms have neutral painted walls and are presented without freestanding furniture. The windows are fitted with curtains, and the rooms receive daylight from their external elevations.  The kitchen is arranged in a galley-style layout, w",
+   "firstSeen": "2026-11-01T22:28:38Z",
+   "priceHistory": [
+    [
+     "2026-11-01T22:28:38Z",
+     1975
+    ],
+    [
+     "2026-11-06T15:05:10Z",
+     1900
+    ]
+   ],
+   "reducedFrom": 1975
   },
   {
    "source": "onthemarket",
@@ -6589,100 +6483,6 @@
      1750
     ]
    ]
-  },
-  {
-   "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/92981256",
-   "title": "2 bedroom apartment",
-   "address": "Talwin Street, London",
-   "priceText": "£1,900 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Apartment",
-   "lat": 51.525555,
-   "lon": -0.012188,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c42c19fc/92981256/5c42c19fcd2c46645fabaf1fb851dd03_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c42c19fc/92981256/5c42c19fcd2c46645fabaf1fb851dd03_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a713c5c2a/92981256/a713c5c2a4870df77561aa6f7c015c99_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/532af9bce/92981256/532af9bcee530bb435f0e9ea5c72b900_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9be14e113/92981256/9be14e113c6f46e36b15e5b5ff5eb0e9_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63b8d4950/92981256/63b8d495023868708558855bacc4d922_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/31d3ca80e/92981256/31d3ca80ebaf5711d4597f133cb3fbaa_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1755102f/92981256/e1755102f341c78a91a628a464e35724_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08a796074/92981256/08a796074769e3dc451d2478eb2dbbb6_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44a06f02d/92981256/44a06f02d62c16aa029273bbf72dbd64_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ae18e3b1/92981256/0ae18e3b11811ac6e9e5977708f3be19_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56600fa4c/92981256/56600fa4c3b3e686e8618702373e4651_max_476x317.jpeg"
-   ],
-   "agent": "Felicity J Lord",
-   "addedText": "Reduced on 03/11/2026",
-   "firstVisible": "2026-09-10T11:35:32Z",
-   "summary": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3",
-   "availableText": "2026-11-08T00:00:00Z",
-   "features": [
-    "Bromley By Bow Station",
-    "Fully Furnished",
-    "Available November"
-   ],
-   "station": {
-    "name": "Bromley-by-Bow",
-    "lines": [
-     "District",
-     "H&C"
-    ],
-    "mode": "tube",
-    "walkMins": 1,
-    "distanceM": 86
-   },
-   "tube": {
-    "name": "Bromley-by-Bow",
-    "lines": [
-     "District",
-     "H&C"
-    ],
-    "walkMins": 1
-   },
-   "area": "Bow",
-   "tier": 1,
-   "cycleMins": 35,
-   "availability": {
-    "kind": "date",
-    "date": "2026-11-08",
-    "flag": "early",
-    "text": "Available 8 Nov 2026"
-   },
-   "tags": [
-    "Furnished"
-   ],
-   "furnished": "Furnished",
-   "id": "rm:92981256",
-   "price": 1900,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/92981256"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/18067665/"
-    }
-   ],
-   "description": "Beautiful 2-Bedroom Furnished Flat – Talwin Street, E3   Welcome to this stylish and well-presented two-bedroom furnished apartment located on Talwin Street, E3. Perfectly positioned within easy reach of Bow, Mile End and Stratford, this property offers modern living in a vibrant East London neighbourhood.  Property Features:  Spacious open-plan living area with comfortable furnishings and large windows allowing plenty of natural light  Contemporary fitted kitchen with integrated appliances, ample storage and workspace  Two well-proportioned bedrooms, both fully furnished and neutrally decorated  Modern bathroom suite with bath and shower  Furnished throughout to a high standard  Double glazing and gas central heating  Secure entry system  Location:  Situated in a quiet residential street just off Devons Road, the flat benefits from excellent transport links — Devons Road DLR and Bow Road Underground stations are both within easy walking distance, providing quick access to Canary Wharf, The City, and Westfield Stratford. Local shops, cafes, and parks are close by, offering a great balance of convenience and community.",
-   "firstSeen": "2026-11-01T21:19:13Z",
-   "priceHistory": [
-    [
-     "2026-11-01T21:19:13Z",
-     1960
-    ],
-    [
-     "2026-11-04T15:29:00Z",
-     1900
-    ]
-   ],
-   "reducedFrom": 1960
   },
   {
    "source": "rightmove",
@@ -7042,12 +6842,12 @@
    "propertyType": "Flat",
    "lat": 51.564824,
    "lon": 0.003421,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7bee7fa1/93123918/b7bee7fa13e86316e246c23c1f199171_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29729e2df/93123918/29729e2dfe8a91a63e1f060dce5c73f2_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e1172072/93123918/5e11720725d318b638de46031b6c2639_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76ba6110c/93123918/76ba6110c749ebd302a5dcdd39c78566_max_476x317.jpeg",
@@ -7647,7 +7447,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8de484d4/94418868/f8de484d484be59c45f8543835550014_max_476x317.jpeg"
    ],
    "agent": "OpenRent",
-   "addedText": "Reduced today",
+   "addedText": "Reduced yesterday",
    "firstVisible": "2026-10-16T20:07:00Z",
    "summary": "Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now. Conveniently situated on the vibrant High Street within walking distan... ** Property Reference: 3068763 **",
    "availableText": "2026-11-06T00:00:00Z",
@@ -7793,6 +7593,80 @@
     [
      "2026-11-01T21:19:13Z",
      1900
+    ]
+   ]
+  },
+  {
+   "source": "onthemarket",
+   "url": "https://www.onthemarket.com/details/20621890/",
+   "title": "2 bedroom flat to rent",
+   "address": "Langthorne Rd, London, E11",
+   "priceText": "£2,000",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.556107,
+   "lon": 0.000672,
+   "image": "https://media.onthemarket.com/properties/20621890/1654362613/image-0-480x320.jpg",
+   "images": [
+    "https://media.onthemarket.com/properties/20621890/1654362613/image-0-480x320.jpg",
+    "https://media.onthemarket.com/properties/20621890/1654362613/image-1-480x320.jpg",
+    "https://media.onthemarket.com/properties/20621890/1654362613/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/20621890/1654362613/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/20621890/1654362613/image-4-480x320.jpg"
+   ],
+   "agent": "Havenway Lettings - Chiswick",
+   "addedText": "Added > 14 days",
+   "summary": "",
+   "availableText": null,
+   "features": [
+    "2 Bedrooms",
+    "1 Bathrooms"
+   ],
+   "furnished": "Unfurnished",
+   "station": {
+    "name": "Leyton",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 7,
+    "distanceM": 416
+   },
+   "tube": {
+    "name": "Leyton",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 7
+   },
+   "area": "Leyton",
+   "tier": 2,
+   "cycleMins": 41,
+   "availability": {
+    "kind": "unknown",
+    "date": null,
+    "flag": "unknown",
+    "text": null
+   },
+   "tags": [
+    "Unfurnished"
+   ],
+   "id": "otm:20621890",
+   "price": 2000,
+   "links": [
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20621890/"
+    }
+   ],
+   "description": "*2-Bedroom Flat to Rent – Langthorne Road, E11 4HL* A delightful two-bedroom flat available to rent in a great location, just a 5-minute walk from Leyton Station and local shops. *Property Features:* - 2 bedrooms - Kitchen-diner - Large bathroom - 5-minute walk to Leyton Station - Close to local shops and amenities - Council tax included in the rent (up to £200) *Rent:* £2,000 PCM *Deposit:* £2,000 Contact us today to arrange a viewing!",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     2000
     ]
    ]
   }
