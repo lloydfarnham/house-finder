@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T18:49:15Z",
+ "generatedAt": "2026-11-08T14:21:13Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -58,22 +58,22 @@
   "Rightmove": {
    "ok": true,
    "found": 87,
-   "at": "2026-11-07T18:47:31Z"
+   "at": "2026-11-08T14:19:37Z"
   },
   "OnTheMarket": {
    "ok": true,
-   "found": 347,
-   "at": "2026-11-07T18:49:03Z"
+   "found": 346,
+   "at": "2026-11-08T14:21:13Z"
   }
  },
  "excluded": {
-  "too far from a station": 155,
+  "too far from a station": 156,
   "keyword": 4,
   "price": 135,
-  "excluded area": 16,
+  "excluded area": 14,
   "location": 2
  },
- "count": 90,
+ "count": 89,
  "listings": [
   {
    "source": "onthemarket",
@@ -91,7 +91,7 @@
     "https://media.onthemarket.com/properties/20709810/1657080442/image-0-480x320.jpg"
    ],
    "agent": "OpenRent - UK",
-   "addedText": "Added yesterday",
+   "addedText": "Added < 7 days",
    "summary": "",
    "availableText": null,
    "features": [
@@ -171,7 +171,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/43e7679dc/117670214/43e7679dc1206598bc34476e2c66d4a7_max_476x317.jpeg"
    ],
    "agent": "Felicity J Lord",
-   "addedText": "Reduced yesterday",
+   "addedText": "Reduced on 06/11/2026",
    "firstVisible": "2021-12-16T10:30:54Z",
    "summary": "A spacious two bedroom two bathroom furnished church conversion with parking. With an open plan lounge/kitchen with integrated appliances, two good sized bedrooms, the main with ensuite shower room and a second bathroom. Ideal for two friends to share",
    "availableText": "2026-11-30T00:00:00Z",
@@ -342,7 +342,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e933c4529/95204523/e933c4529a054bd606f71f2650044988_max_476x317.jpeg"
    ],
    "agent": "Carr & Jones",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 06/11/2026",
    "firstVisible": "2026-11-06T14:18:42Z",
    "summary": "STYLISH & SPACIOUS TWO DOUBLE BEDROOM APARTMENT | THIRD FLOOR WITH LIFT | EXCELLENT TRANSPORT LINKS",
    "availableText": "2026-11-23T00:00:00Z",
@@ -850,7 +850,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aab611f74/95077773/aab611f7482a7d18ed3b0ebed66c45b8_max_476x317.jpeg"
    ],
    "agent": "Portico",
-   "addedText": "Reduced yesterday",
+   "addedText": "Reduced on 06/11/2026",
    "firstVisible": "2026-11-03T17:22:35Z",
    "summary": "A well-proportioned two-bedroom Ex Warner in Walthamstow, offering a separate reception room, kitchen, bathroom and access to a shared garden. Available unfurnished, the property provides a blank canvas for tenants to make their own, with local shops, transport links and green spaces within easy ...",
    "availableText": "2026-11-10T00:00:00Z",
@@ -1360,7 +1360,7 @@
     "https://media.onthemarket.com/properties/20684298/1656401406/image-4-480x320.jpg"
    ],
    "agent": "Portico - Walthamstow",
-   "addedText": "Reduced yesterday",
+   "addedText": "Reduced < 7 days",
    "summary": "",
    "availableText": null,
    "features": [
@@ -5886,79 +5886,6 @@
   },
   {
    "source": "onthemarket",
-   "url": "https://www.onthemarket.com/details/17235316/",
-   "title": "2 bedroom property to rent",
-   "address": "Harringay Gardens, London N8",
-   "priceText": "£1,750",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Property",
-   "lat": 51.585838,
-   "lon": -0.099518,
-   "image": "https://media.onthemarket.com/properties/17235316/1585942974/image-0-480x320.jpg",
-   "images": [
-    "https://media.onthemarket.com/properties/17235316/1585942974/image-0-480x320.jpg",
-    "https://media.onthemarket.com/properties/17235316/1585942974/image-1-480x320.jpg",
-    "https://media.onthemarket.com/properties/17235316/1585942974/image-2-480x320.jpg",
-    "https://media.onthemarket.com/properties/17235316/1585942974/image-3-480x320.jpg"
-   ],
-   "agent": "Joe Raymond Estates - Mill Hill",
-   "addedText": "Added > 14 days",
-   "summary": "",
-   "availableText": "now",
-   "features": [
-    "Nearest station 0.3mi.",
-    "Furnished"
-   ],
-   "furnished": "Furnished",
-   "station": {
-    "name": "Turnpike Lane",
-    "lines": [
-     "Piccadilly"
-    ],
-    "mode": "tube",
-    "walkMins": 9,
-    "distanceM": 556
-   },
-   "tube": {
-    "name": "Turnpike Lane",
-    "lines": [
-     "Piccadilly"
-    ],
-    "walkMins": 9
-   },
-   "area": "Turnpike Lane",
-   "tier": 2,
-   "cycleMins": 28,
-   "availability": {
-    "kind": "now",
-    "date": null,
-    "flag": "early",
-    "text": "Available now"
-   },
-   "tags": [
-    "Furnished"
-   ],
-   "id": "otm:17235316",
-   "price": 1750,
-   "links": [
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/17235316/"
-    }
-   ],
-   "description": " Just received is this lovely two-bedroom flat set within this charming house in Harringay Gardens. It offers a wonderful choice for anyone looking to enjoy the benefits of a good residential area.    It is situated in this wonderful quiet location being just moments from the vibrant Green Lanes and Turnpike Lane tube station (Piccadilly line)",
-   "firstSeen": "2026-11-01T22:28:38Z",
-   "priceHistory": [
-    [
-     "2026-11-01T22:28:38Z",
-     1750
-    ]
-   ]
-  },
-  {
-   "source": "onthemarket",
    "url": "https://www.onthemarket.com/details/20388894/",
    "title": "2 bedroom flat to rent",
    "address": "Hampden Road, London",
@@ -6117,16 +6044,16 @@
    "propertyType": "Flat",
    "lat": 51.5637045,
    "lon": -0.0718616,
-   "image": "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
+   "image": "https://media.onthemarket.com/properties/20476213/1657240976/image-0-480x320.jpg",
    "images": [
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-0-480x320.jpg",
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-1-480x320.jpg",
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-2-480x320.jpg",
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-3-480x320.jpg",
-    "https://media.onthemarket.com/properties/20476213/1656997772/image-4-480x320.jpg"
+    "https://media.onthemarket.com/properties/20476213/1657240976/image-0-480x320.jpg",
+    "https://media.onthemarket.com/properties/20476213/1657240976/image-1-480x320.jpg",
+    "https://media.onthemarket.com/properties/20476213/1657240976/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/20476213/1657240976/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/20476213/1657240976/image-4-480x320.jpg"
    ],
    "agent": "Select.London - Manor Park",
-   "addedText": "Added < 7 days",
+   "addedText": "Reduced < 7 days",
    "summary": "",
    "availableText": "now",
    "features": [
@@ -6548,8 +6475,10 @@
     "text": null
    },
    "tags": [
+    "Furnished",
     "Separate lounge"
    ],
+   "furnished": "Furnished",
    "id": "rm:94330617",
    "price": 1800,
    "links": [
@@ -6557,9 +6486,14 @@
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/94330617"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20321820/"
     }
    ],
-   "description": "",
+   "description": "LONG LET. Well presented first floor 2 double bedroom flat offering a contemporary décor, great ample reception room, 1bathroom and modern separate kitchen.\r This attractive property is located within walking distance to Leyton tube station and numerus local amenities on High road.\r Please use the reference CHPK1709149 when contacting Foxtons.",
    "firstSeen": "2026-11-01T21:19:13Z",
    "priceHistory": [
     [
@@ -6842,13 +6776,13 @@
    "propertyType": "Flat",
    "lat": 51.564824,
    "lon": 0.003421,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7bee7fa1/93123918/b7bee7fa13e86316e246c23c1f199171_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29729e2df/93123918/29729e2dfe8a91a63e1f060dce5c73f2_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e1172072/93123918/5e11720725d318b638de46031b6c2639_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76ba6110c/93123918/76ba6110c749ebd302a5dcdd39c78566_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef9f3ccf8/93123918/ef9f3ccf8fe9565e6fcd2e7b10f1f8d3_max_476x317.jpeg",
@@ -7447,7 +7381,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8de484d4/94418868/f8de484d484be59c45f8543835550014_max_476x317.jpeg"
    ],
    "agent": "OpenRent",
-   "addedText": "Reduced yesterday",
+   "addedText": "Reduced on 06/11/2026",
    "firstVisible": "2026-10-16T20:07:00Z",
    "summary": "Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now. Conveniently situated on the vibrant High Street within walking distan... ** Property Reference: 3068763 **",
    "availableText": "2026-11-06T00:00:00Z",
