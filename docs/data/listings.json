@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T14:21:13Z",
+ "generatedAt": "2026-11-08T19:43:17Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -58,12 +58,12 @@
   "Rightmove": {
    "ok": true,
    "found": 87,
-   "at": "2026-11-08T14:19:37Z"
+   "at": "2026-11-08T19:41:33Z"
   },
   "OnTheMarket": {
    "ok": true,
    "found": 346,
-   "at": "2026-11-08T14:21:13Z"
+   "at": "2026-11-08T19:43:03Z"
   }
  },
  "excluded": {
@@ -1452,7 +1452,7 @@
    "addedText": "Reduced on 03/11/2026",
    "firstVisible": "2026-09-10T16:14:17Z",
    "summary": "This is a two bedroom, Raised Ground Floor apartment in Bow, London in a white stucco-fronted period property and it is fully furnished for you to drop your bags and move in. It is ideally suited... ** Property Reference: 3031529 **",
-   "availableText": "2026-11-07T00:00:00Z",
+   "availableText": "2026-11-08T00:00:00Z",
    "features": [
     "No Agent Fees",
     "Property Reference Number: 3031529"
@@ -1480,9 +1480,9 @@
    "cycleMins": 32,
    "availability": {
     "kind": "date",
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "flag": "early",
-    "text": "Available 7 Nov 2026"
+    "text": "Available 8 Nov 2026"
    },
    "tags": [
     "Furnished",
@@ -6422,11 +6422,11 @@
    "propertyType": "Flat",
    "lat": 51.55524,
    "lon": -0.00262,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29bd57d94/94330617/29bd57d94f67e863af501318a41e24fc_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b03fe2025/94330617/b03fe202542670e9df7bebf411ea04e8_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29bd57d94/94330617/29bd57d94f67e863af501318a41e24fc_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b03fe2025/94330617/b03fe202542670e9df7bebf411ea04e8_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6677fce54/94330617/6677fce54c92166d28812e754a838aca_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/602bf1968/94330617/602bf19686f3049279f6bba5a2dc5f95_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29bd57d94/94330617/29bd57d94f67e863af501318a41e24fc_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5eaf028d2/94330617/5eaf028d23ec7dc021ca3ad3f5b7842d_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aca4e1abb/94330617/aca4e1abb0256b3758a5f893a7d7c972_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b6b3efce0/94330617/b6b3efce0b2ae8f8482421739abf5f33_max_476x317.jpeg",
