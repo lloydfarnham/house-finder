@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T16:02:30Z",
+ "generatedAt": "2026-11-13T15:25:27Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -58,29 +58,257 @@
   "Rightmove": {
    "ok": true,
    "found": 86,
-   "at": "2026-11-12T16:00:37Z"
+   "at": "2026-11-13T15:23:44Z"
   },
   "OnTheMarket": {
    "ok": true,
-   "found": 362,
-   "at": "2026-11-12T16:02:15Z"
+   "found": 355,
+   "at": "2026-11-13T15:25:19Z"
   }
  },
  "excluded": {
-  "too far from a station": 171,
-  "keyword": 4,
-  "price": 137,
-  "excluded area": 19,
+  "too far from a station": 167,
+  "keyword": 3,
+  "price": 134,
+  "excluded area": 21,
   "location": 1
  },
- "count": 82,
+ "count": 83,
  "listings": [
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/95218377",
+   "title": "2 bedroom apartment",
+   "address": "Talwin Street, London",
+   "priceText": "£2,000 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Apartment",
+   "lat": 51.525601,
+   "lon": -0.012068,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db4c1a75a/95218377/db4c1a75a10e72cb1f1012d0c8613955_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db4c1a75a/95218377/db4c1a75a10e72cb1f1012d0c8613955_max_476x317.jpeg"
+   ],
+   "agent": "Kilmers",
+   "addedText": "Reduced yesterday",
+   "firstVisible": "2026-11-06T16:33:05Z",
+   "summary": "This two-bedroom, 1-bathroom apartment, situated on the Ground Floor, 1 bathroom & a small front garden. Located approximately 3 minutes’ walk to Bromley-by-Bow Station (District).",
+   "availableText": "2026-12-07T00:00:00Z",
+   "features": [],
+   "station": {
+    "name": "Bromley-by-Bow",
+    "lines": [
+     "District",
+     "H&C"
+    ],
+    "mode": "tube",
+    "walkMins": 1,
+    "distanceM": 90
+   },
+   "tube": {
+    "name": "Bromley-by-Bow",
+    "lines": [
+     "District",
+     "H&C"
+    ],
+    "walkMins": 1
+   },
+   "area": "Bow",
+   "tier": 1,
+   "cycleMins": 35,
+   "availability": {
+    "kind": "date",
+    "date": "2026-12-07",
+    "flag": "early",
+    "text": "Available 7 Dec 2026"
+   },
+   "tags": [
+    "Garden"
+   ],
+   "id": "rm:95218377",
+   "price": 2000,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/95218377"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-13T15:25:27Z",
+   "priceHistory": [
+    [
+     "2026-11-13T15:25:27Z",
+     2000
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/172455140",
+   "title": "2 bedroom terraced house",
+   "address": "Hermon Hill, Redbridge, London",
+   "priceText": "£2,000 pcm",
+   "beds": 2,
+   "baths": 2,
+   "propertyType": "Terraced",
+   "lat": 51.582216,
+   "lon": 0.024352,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65a3541da/172455140/65a3541da32e698e47a138e8fb5a7e6d_max_476x317.png",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65a3541da/172455140/65a3541da32e698e47a138e8fb5a7e6d_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18d1bd3a0/172455140/18d1bd3a0352db122405e04f93d6b785_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2a39c96d/172455140/f2a39c96d1b961426fab61584952efa8_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a769eb171/172455140/a769eb171ed99748111e654c76c3b573_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f73a5676/172455140/8f73a5676a3ec9251e5a4c25de24dc46_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/842355f4a/172455140/842355f4ae7716bb5e34191051913373_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/25e3c8517/172455140/25e3c851799d1a9c891de23528b41d7c_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d9e32b19/172455140/2d9e32b1976a3b25b361b76b2f0aa232_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/341e1b043/172455140/341e1b0437550d2d532e30172214135f_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d155ae046/172455140/d155ae04693fe7283947a170013bdf5e_max_476x317.png"
+   ],
+   "agent": "Eastway Property Services",
+   "addedText": "Added today",
+   "firstVisible": "2026-02-23T09:56:08Z",
+   "summary": "Eastway Property Services are pleased to offer this beautifully presented first-floor two-bedroom Victorian conversion, ideally located in the heart of Wanstead, within easy reach of local amenities, restaurants, independent shops and two Central Line stations.",
+   "availableText": "2026-12-01T00:00:00Z",
+   "features": [
+    "Generously Sized Bedrooms - Your Personal Retreat",
+    "Sleek Modern Kitchen with Integrated Appliances",
+    "Beautiful Communal Garden - Relax & Entertain",
+    "Safe & Secure - Intercom Entry",
+    "Convenient Off-Street Paid Parking",
+    "Excellent Transport Links - Easy Commuting",
+    "Close to Shops, Cafes & Local Amenities - Live the Lifestyle"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 4,
+    "distanceM": 247
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 4
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 52,
+   "availability": {
+    "kind": "date",
+    "date": "2026-12-01",
+    "flag": "early",
+    "text": "Available 1 Dec 2026"
+   },
+   "tags": [
+    "Garden"
+   ],
+   "id": "rm:172455140",
+   "price": 2000,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/172455140"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-13T15:25:27Z",
+   "priceHistory": [
+    [
+     "2026-11-13T15:25:27Z",
+     2000
+    ]
+   ]
+  },
+  {
+   "source": "onthemarket",
+   "url": "https://www.onthemarket.com/details/20751226/",
+   "title": "3 bedroom property to rent",
+   "address": "Claude Road, Leyton E10",
+   "priceText": "£1,950",
+   "beds": 3,
+   "baths": 2,
+   "propertyType": "Property",
+   "lat": 51.566761,
+   "lon": -0.004195,
+   "image": "https://media.onthemarket.com/properties/20751226/1658411198/image-0-480x320.png",
+   "images": [
+    "https://media.onthemarket.com/properties/20751226/1658411198/image-0-480x320.png",
+    "https://media.onthemarket.com/properties/20751226/1658411178/image-1-480x320.jpg",
+    "https://media.onthemarket.com/properties/20751226/1658411198/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/20751226/1658411178/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/20751226/1658411026/image-4-480x320.jpg"
+   ],
+   "agent": "Sincere Lettings - London",
+   "addedText": "Added today",
+   "summary": "",
+   "availableText": "now",
+   "features": [
+    "2 Bedrooms 2 Bathrooms",
+    "Washing Machine"
+   ],
+   "furnished": "Part furnished",
+   "station": {
+    "name": "Leyton Midland Road",
+    "lines": [
+     "Overground"
+    ],
+    "mode": "overground",
+    "walkMins": 7,
+    "distanceM": 419
+   },
+   "tube": {
+    "name": "Leytonstone",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 14
+   },
+   "area": "Leyton",
+   "tier": 2,
+   "cycleMins": 41,
+   "availability": {
+    "kind": "now",
+    "date": null,
+    "flag": "early",
+    "text": "Available now"
+   },
+   "tags": [
+    "Part furnished",
+    "Separate lounge"
+   ],
+   "id": "otm:20751226",
+   "price": 1950,
+   "links": [
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20751226/"
+    }
+   ],
+   "description": "Sincere Lettings is delighted to present this well-maintained and tastefully furnished maisonette, featuring modern furnishings throughout. The property offers two generously sized bedrooms, a separate reception room and bathroom facilities, providing comfortable and practical living accommodation.  Further benefits include stylish wood-effect laminate flooring, gas central heating and double-glazed windows.  Ideally situated within walking distance of Leyton Station, the property benefits from excellent transport links, making it ideal for commuters. A variety of local amenities are also close by, including bus routes, shops, restaurants, cafés, bars and leisure facilities.  *KEY FEATURES* 3 Bedrooms 2 Bathrooms Washing Machine provided Gas Central Heating Part-Furnished   *Tenant Fees*  Rent: As stated Holding Deposit: 1 week’s rent Tenancy Deposit: 5 weeks’ rent (capped at £50,000 annual rent) Changes to the tenancy requested by the tenant: £50 (or reasonable costs incurred) Early termination (if requested by the tenant): Landlord’s reasonable costs Default fees: Late rent interest (3% above Bank of England base rate after 14 days), replacement keys/security devices No other fees are payable.  ",
+   "firstSeen": "2026-11-13T15:25:27Z",
+   "priceHistory": [
+    [
+     "2026-11-13T15:25:27Z",
+     1950
+    ]
+   ]
+  },
   {
    "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/95405691",
    "title": "2 bedroom flat",
    "address": "Yarmouth Crescent, Tottenham, London, N17",
-   "priceText": "£1,850 pcm",
+   "priceText": "£1,800 pcm",
    "beds": 2,
    "baths": 1,
    "propertyType": "Flat",
@@ -100,7 +328,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40037cb82/95405691/40037cb82f7dd00437b4dd2cf2dda00f_max_476x317.jpeg"
    ],
    "agent": "Knights Residential",
-   "addedText": "Added today",
+   "addedText": "Reduced yesterday",
    "firstVisible": "2026-11-12T12:50:51Z",
    "summary": "NEW! Knights are delighted to offer to let this purpose built two bedroom flat located within close proximity to transport links of Tottenham Hale. The flat consists of two double bedrooms, separate lounge/diner, fitted kitchen, bathroom suite, first floor, double glazing, gas central heating and...",
    "availableText": "2026-11-12T00:00:00Z",
@@ -146,23 +374,34 @@
     "Separate lounge",
     "Unfurnished"
    ],
+   "furnished": "Unfurnished",
    "id": "rm:95405691",
-   "price": 1850,
+   "price": 1800,
    "links": [
     {
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/95405691"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20745183/"
     }
    ],
-   "description": "",
+   "description": "NEW! Knights are delighted to offer to let this purpose built two bedroom flat located within close proximity to transport links of Tottenham Hale. The flat consists of two double bedrooms, separate lounge/diner, fitted kitchen, bathroom suite, first floor, double glazing, gas central heating and has a private balcony. AVAILABLE NOW.\r EPC RATING: C\r COUNCIL TAX BAND: C",
    "firstSeen": "2026-11-12T16:02:30Z",
    "priceHistory": [
     [
      "2026-11-12T16:02:30Z",
      1850
+    ],
+    [
+     "2026-11-13T15:25:27Z",
+     1800
     ]
-   ]
+   ],
+   "reducedFrom": 1850
   },
   {
    "source": "rightmove",
@@ -189,7 +428,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ee5df411/95382972/3ee5df411a20aa8f0ebb9f26e566d177_max_476x317.jpeg"
    ],
    "agent": "Trading Places",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 11/11/2026",
    "firstVisible": "2026-11-11T18:53:16Z",
    "summary": "This two-bedroom apartment, located just a stone's throw from Leytonstone tube station, is the ideal home for commuters and city workers, and it also comes with a parking space giving you the best of both worlds. This property is offered on a furnished basis.",
    "availableText": "2026-12-12T00:00:00Z",
@@ -285,7 +524,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a2af9bb42/95411856/a2af9bb427652c899b168e1e677e75dc_max_476x317.jpeg"
    ],
    "agent": "Inner City Estates",
-   "addedText": "Added today",
+   "addedText": "Added yesterday",
    "firstVisible": "2026-11-12T14:35:41Z",
    "summary": "Available immediately for rent is this fantastic two bedroom, two bathroom apartment with terrace, located within a sought after development opposite Leytonstone tube station, E11. Call now.",
    "availableText": "now",
@@ -353,82 +592,6 @@
    ]
   },
   {
-   "source": "onthemarket",
-   "url": "https://www.onthemarket.com/details/20745183/",
-   "title": "2 bedroom flat to rent",
-   "address": "Yarmouth Crescent, Tottenham, London, N17",
-   "priceText": "£1,800",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.58298,
-   "lon": -0.05912,
-   "image": "https://media.onthemarket.com/properties/20745183/1658171907/image-0-480x320.jpg",
-   "images": [
-    "https://media.onthemarket.com/properties/20745183/1658171907/image-0-480x320.jpg",
-    "https://media.onthemarket.com/properties/20745183/1658194134/image-1-480x320.jpg",
-    "https://media.onthemarket.com/properties/20745183/1658194134/image-2-480x320.jpg",
-    "https://media.onthemarket.com/properties/20745183/1658194134/image-3-480x320.jpg",
-    "https://media.onthemarket.com/properties/20745183/1658194134/image-4-480x320.jpg"
-   ],
-   "agent": "Knights Residential - Tottenham",
-   "addedText": "Added today",
-   "summary": "",
-   "availableText": "now",
-   "features": [
-    "Two bedroom flat",
-    "First floor"
-   ],
-   "furnished": "Unfurnished",
-   "station": {
-    "name": "Tottenham Hale",
-    "lines": [
-     "Victoria"
-    ],
-    "mode": "tube",
-    "walkMins": 9,
-    "distanceM": 581
-   },
-   "tube": {
-    "name": "Tottenham Hale",
-    "lines": [
-     "Victoria"
-    ],
-    "walkMins": 9
-   },
-   "area": "Tottenham Hale",
-   "tier": 2,
-   "cycleMins": 33,
-   "availability": {
-    "kind": "now",
-    "date": null,
-    "flag": "early",
-    "text": "Available now"
-   },
-   "tags": [
-    "Balcony",
-    "Separate lounge",
-    "Unfurnished"
-   ],
-   "id": "otm:20745183",
-   "price": 1800,
-   "links": [
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20745183/"
-    }
-   ],
-   "description": "NEW! Knights are delighted to offer to let this purpose built two bedroom flat located within close proximity to transport links of Tottenham Hale. The flat consists of two double bedrooms, separate lounge/diner, fitted kitchen, bathroom suite, first floor, double glazing, gas central heating and has a private balcony. AVAILABLE NOW.\r EPC RATING: C\r COUNCIL TAX BAND: C",
-   "firstSeen": "2026-11-12T16:02:30Z",
-   "priceHistory": [
-    [
-     "2026-11-12T16:02:30Z",
-     1800
-    ]
-   ]
-  },
-  {
    "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/95017107",
    "title": "2 bedroom flat",
@@ -455,7 +618,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08c30b757/95017107/08c30b75726df96b4eed0f8b16835a6d_max_476x317.jpeg"
    ],
    "agent": "OpenRent",
-   "addedText": "Reduced yesterday",
+   "addedText": "Reduced on 11/11/2026",
    "firstVisible": "2026-11-02T15:18:41Z",
    "summary": "A newly refurbished two double bedroom ground floor Warner flat on a quiet, tree-lined road in Walthamstow, with a shared rear garden and parking. Everything has been renovated: a separate lounge... ** Property Reference: 3091283 **",
    "availableText": "2026-11-18T00:00:00Z",
@@ -543,7 +706,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dca053a79/95365662/dca053a7906617c46d55e80d913a9b9d_max_476x317.jpeg"
    ],
    "agent": "Highcastle Estates",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 11/11/2026",
    "firstVisible": "2026-11-11T14:01:33Z",
    "summary": "AVAILABLE IMMEDIATELY – Spacious 2-bedroom first-floor apartment in sought-after Leytonstone E11. Ideally located near Central Line transport links, vibrant cafés, shops and local amenities.",
    "availableText": "now",
@@ -631,7 +794,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9103f130f/95367096/9103f130f7937bdca9946faf900a0523_max_476x317.jpeg"
    ],
    "agent": "Inner City Estates",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 11/11/2026",
    "firstVisible": "2026-11-11T14:16:42Z",
    "summary": "Available immediately for rent is this fantastic two bedroom apartment, located within a sought after development opposite Leytonstone tube station, E11. Call now.",
    "availableText": "Immediately",
@@ -723,9 +886,9 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/081af2fa4/95354847/081af2fa4bb65faf24f0afc69f85329c_max_476x317.jpeg"
    ],
    "agent": "Inner City Estates",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 11/11/2026",
    "firstVisible": "2026-11-11T11:23:35Z",
-   "summary": "Wow! We have available to let , this fantastic spacious two bedroom flat located just moments from great shopping amenities and Victoria Park in Hackney E9. Modern decor and includes a large Balcony. Call now. ",
+   "summary": "Wow! We have available to let , from 10th January, this fantastic spacious two bedroom flat located just moments from great shopping amenities and Victoria Park in Hackney E9. Modern decor and includes a large Balcony. Call now. ",
    "availableText": null,
    "features": [
     "Two bedroom flat",
@@ -976,7 +1139,7 @@
     "https://media.onthemarket.com/properties/20738117/1657935545/image-4-480x320.jpg"
    ],
    "agent": "Palmer Estates - Edmonton",
-   "addedText": "Added yesterday",
+   "addedText": "Added < 7 days",
    "summary": "",
    "availableText": null,
    "features": [
@@ -1726,7 +1889,7 @@
     "https://media.onthemarket.com/properties/20709810/1657080442/image-0-480x320.jpg"
    ],
    "agent": "OpenRent - UK",
-   "addedText": "Added < 7 days",
+   "addedText": "Added < 14 days",
    "summary": "",
    "availableText": null,
    "features": [
@@ -2036,95 +2199,6 @@
     }
    ],
    "description": "",
-   "firstSeen": "2026-11-05T15:31:55Z",
-   "priceHistory": [
-    [
-     "2026-11-05T15:31:55Z",
-     2000
-    ]
-   ]
-  },
-  {
-   "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/95155350",
-   "title": "2 bedroom flat",
-   "address": "Balls Pond Road, N1",
-   "priceText": "£2,000 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.546398,
-   "lon": -0.0848,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32f85dc02/95155350/32f85dc02482db70b60593d6ad2231e6_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32f85dc02/95155350/32f85dc02482db70b60593d6ad2231e6_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ab69f692/95155350/7ab69f6926599fdc45ef56168f3c430c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f366bd73/95155350/3f366bd738fc3612791249ca43d07c2f_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/961c74453/95155350/961c7445357a21b97f9b719c0f00a3d3_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75eda2b68/95155350/75eda2b680df60e01ef8e4fcd6080ff3_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a8058ac9/95155350/9a8058ac9a349c1f58599b47e07d9c85_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8fa4d4625/95155350/8fa4d46259759e343cde2c311281464a_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eec6ac684/95155350/eec6ac684031987e78e2f2c721f001cc_max_476x317.png",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5a0bd01a/95155350/f5a0bd01a5a19771561776f896db722b_max_476x317.jpeg"
-   ],
-   "agent": "Portico",
-   "addedText": "Added on 05/11/2026",
-   "firstVisible": "2026-11-05T13:42:06Z",
-   "summary": "Portico is delighted to offer this two-bedroom split-level apartment on Balls Pond Road, Islington, N1. This naturally bright apartment is spread across the first and second floors and features a spacious reception room, a modern fitted separate kitchen, a generously-sized double bedro...",
-   "availableText": "2027-01-05T00:00:00Z",
-   "features": [
-    "Two Bedrooms",
-    "Split Level",
-    "High Ceilings",
-    "Close to Transport",
-    "no parking"
-   ],
-   "station": {
-    "name": "Canonbury",
-    "lines": [
-     "Overground"
-    ],
-    "mode": "overground",
-    "walkMins": 9,
-    "distanceM": 572
-   },
-   "tube": {
-    "name": "Highbury & Islington",
-    "lines": [
-     "Victoria",
-     "Overground"
-    ],
-    "walkMins": 22
-   },
-   "area": "Canonbury",
-   "tier": 2,
-   "cycleMins": 16,
-   "availability": {
-    "kind": "date",
-    "date": "2027-01-05",
-    "flag": "ok",
-    "text": "Available 5 Jan 2027"
-   },
-   "tags": [
-    "Furnished",
-    "Separate lounge"
-   ],
-   "furnished": "Furnished",
-   "id": "rm:95155350",
-   "price": 2000,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/95155350"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20697917/"
-    }
-   ],
-   "description": "Portico is delighted to offer this two-bedroom split-level apartment on Balls Pond Road, Islington, N1.  This naturally bright apartment is spread across the first and second floors and features a spacious reception room, a modern fitted separate kitchen, a generously-sized double bedroom, a compact second bedroom, a contemporary bathroom, and ample storage throughout.  The property is ideally located to enjoy the best of Islington, with Upper Street, Newington Green, and Highbury all within walking distance. These areas are known for their boutique shops, delicatessens, bars, and restaurants. Additionally, the home is well-connected, with Dalston Kingsland Station, Highbury & Islington Tube, Canonbury Overground Station, Essex Road Station, and multiple bus routes all easily accessible.  EPC Rating: D, Council Tax Band: D, Minimum Term : 12 Months.  Rent excludes the tenancy deposit and any other permitted payments. Please contact us for further information or visit our website.  Holding Deposit £462.00 Five Weeks Deposit £2308.00 *NO DEPOSIT OPTION AVAILABLE* Details of mobile phone data and voice coverage and Broadband type and speed for this property can be found on the Ofcom checker - The property is supplied via Electric.  The property is supplied by Gas and Electric and Thames water as the water supplier.",
    "firstSeen": "2026-11-05T15:31:55Z",
    "priceHistory": [
     [
@@ -2637,96 +2711,6 @@
   },
   {
    "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/94093836",
-   "title": "2 bedroom flat",
-   "address": "Amhurst Road, London, E8",
-   "priceText": "£2,000 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.548122,
-   "lon": -0.05675,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7925083fc/94093836/7925083fc8c71469beae92a5104dbb7b_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7925083fc/94093836/7925083fc8c71469beae92a5104dbb7b_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b37825f37/94093836/b37825f37baaed9aac4a50d92dcc4b60_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2a0ebc6b/94093836/e2a0ebc6b8230ff96c39f9946827104a_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/413fd7aad/94093836/413fd7aad8ba1a158ada198f1daceff0_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1de31528/94093836/b1de31528abe3295b384d004c7c2ee03_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00b698a8e/94093836/00b698a8ec60638f57dfb2183fd20531_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b8c8d8f32/94093836/b8c8d8f32283527b8d97a8c709f23e0b_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eff1a84cf/94093836/eff1a84cf41eced765e6dba56398e78f_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b0de2541/94093836/6b0de2541e92a5e6c466a2318af79a83_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/36b71d56d/94093836/36b71d56dd19f6c2af01034f636ed284_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79c6ec166/94093836/79c6ec16624eb2c6ec0a7e866de2b281_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c05404de1/94093836/c05404de139a8b8ae4a2f0f5531f4150_max_476x317.jpeg"
-   ],
-   "agent": "OpenRent",
-   "addedText": "Reduced on 03/11/2026",
-   "firstVisible": "2026-10-08T16:13:53Z",
-   "summary": "We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location. Available to move in from 01 December 2026. Property is offered furnished. Viewing highly recommended. Conta... ** Property Reference: 3064735 **",
-   "availableText": "2026-12-01T00:00:00Z",
-   "features": [
-    "No Agent Fees",
-    "Students Can Enquire",
-    "Property Reference Number: 3064735"
-   ],
-   "station": {
-    "name": "Hackney Central",
-    "lines": [
-     "Overground"
-    ],
-    "mode": "overground",
-    "walkMins": 2,
-    "distanceM": 122
-   },
-   "tube": {
-    "name": "Bethnal Green",
-    "lines": [
-     "Central"
-    ],
-    "walkMins": 38
-   },
-   "area": "Hackney",
-   "tier": 2,
-   "cycleMins": 24,
-   "availability": {
-    "kind": "date",
-    "date": "2026-12-01",
-    "flag": "early",
-    "text": "Available 1 Dec 2026"
-   },
-   "tags": [
-    "Furnished",
-    "Garden",
-    "Pets OK"
-   ],
-   "furnished": "Furnished",
-   "id": "rm:94093836",
-   "price": 2000,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/94093836"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20489109/"
-    }
-   ],
-   "description": "Property Reference: 3064735.  We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location.  Available to move in from 01 December 2026. Property is offered furnished.  Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!    Summary   Rent £2,000.00 per month (£461.54 per week) Deposit / Bond is £2,307.69  Maximum number of tenants is 4   Summary & Exclusions:  - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,307.69 - 2 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 01 December 2026 - Maximum number of tenants is 4 - Students welcome to enquire - Pets considered / by arrangement - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: D     If calling, please quote reference: 3064735      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenR",
-   "firstSeen": "2026-11-03T15:09:06Z",
-   "priceHistory": [
-    [
-     "2026-11-03T15:09:06Z",
-     2000
-    ]
-   ]
-  },
-  {
-   "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/95063490",
    "title": "2 bedroom flat",
    "address": "Morley Road, E10",
@@ -2807,6 +2791,82 @@
     }
    ],
    "description": "",
+   "firstSeen": "2026-11-03T15:09:06Z",
+   "priceHistory": [
+    [
+     "2026-11-03T15:09:06Z",
+     2000
+    ]
+   ]
+  },
+  {
+   "source": "onthemarket",
+   "url": "https://www.onthemarket.com/details/20489109/",
+   "title": "2 bedroom flat to rent",
+   "address": "Amhurst Road, London, E8",
+   "priceText": "£2,000",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.548123,
+   "lon": -0.056723,
+   "image": "https://media.onthemarket.com/properties/20489109/1655444464/image-0-480x320.jpg",
+   "images": [
+    "https://media.onthemarket.com/properties/20489109/1655444464/image-0-480x320.jpg",
+    "https://media.onthemarket.com/properties/20489109/1655444464/image-1-480x320.jpg",
+    "https://media.onthemarket.com/properties/20489109/1655444464/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/20489109/1655444464/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/20489109/1655444464/image-4-480x320.jpg"
+   ],
+   "agent": "OpenRent - UK",
+   "addedText": "Reduced < 14 days",
+   "summary": "",
+   "availableText": null,
+   "features": [
+    "No Agent Fees",
+    "Students Can Enquire"
+   ],
+   "furnished": "Furnished",
+   "station": {
+    "name": "Hackney Central",
+    "lines": [
+     "Overground"
+    ],
+    "mode": "overground",
+    "walkMins": 2,
+    "distanceM": 122
+   },
+   "tube": {
+    "name": "Bethnal Green",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 38
+   },
+   "area": "Hackney",
+   "tier": 2,
+   "cycleMins": 24,
+   "availability": {
+    "kind": "unknown",
+    "date": null,
+    "flag": "unknown",
+    "text": null
+   },
+   "tags": [
+    "Furnished",
+    "Garden",
+    "Pets OK"
+   ],
+   "id": "rm:94093836",
+   "price": 2000,
+   "links": [
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20489109/"
+    }
+   ],
+   "description": "Property Reference: 3064735.  We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location.  Available to move in from 01 December 2026. Property is offered furnished.  Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!    Summary   Rent £2,000.00 per month (£461.54 per week) Deposit / Bond is £2,307.69  Maximum number of tenants is 4   Summary & Exclusions:  - Rent Amount: £2,000.00 per month (£461.54 per week) - Deposit / Bond: £2,307.69 - 2 Bedrooms - 1 Bathrooms - Property comes furnished - Available to move in from 01 December 2026 - Maximum number of tenants is 4 - Students welcome to enquire - Pets considered / by arrangement - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: D     If calling, please quote reference: 3064735      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenR",
    "firstSeen": "2026-11-03T15:09:06Z",
    "priceHistory": [
     [
@@ -3178,7 +3238,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65ba6d404/94234971/65ba6d404823f240ab5674d71a35ca8e_max_476x317.jpeg"
    ],
    "agent": "Homelink Lettings & Estates",
-   "addedText": "Reduced today",
+   "addedText": "Reduced yesterday",
    "firstVisible": "2026-10-13T09:26:22Z",
    "summary": "Homelink are delighted to offer for rent this lovely and homely two double bedroom flat set on a road that has access to both Wood Green Shopping Mall at one end and Turnpike Lane with it's various independent shops and amenities at the other end. The property consists of two double bedr...",
    "availableText": "2026-11-14T00:00:00Z",
@@ -3792,7 +3852,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/441010403/94572270/441010403f3e1107c9631e682a8e3149_max_476x317.jpeg"
    ],
    "agent": "Letly",
-   "addedText": "Reduced today",
+   "addedText": "Reduced yesterday",
    "firstVisible": "2026-10-21T15:57:03Z",
    "summary": "A two-bedroom first-floor flat on Stonebridge Road in South Tottenham, offered furnished with 490 sq ft of space. It sits in a three-storey brick block with communal gardens, a couple of minutes' walk from both Seven Sisters and South Tottenham stations. The reception room is bright and neutral,...",
    "availableText": "2026-10-21T00:00:00Z",
@@ -4369,14 +4429,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-01T22:28:38Z",
-     1950
-    ],
-    [
-     "2026-11-04T15:29:00Z",
-     1895
-    ],
-    [
      "2026-11-10T15:39:00Z",
      1900
     ],
@@ -4390,6 +4442,14 @@
     ],
     [
      "2026-11-11T15:13:03Z",
+     1895
+    ],
+    [
+     "2026-11-12T16:02:30Z",
+     1850
+    ],
+    [
+     "2026-11-13T15:25:27Z",
      1895
     ]
    ],
@@ -4576,14 +4636,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-04T15:29:00Z",
-     1895
-    ],
-    [
-     "2026-11-10T15:39:00Z",
-     1900
-    ],
-    [
      "2026-11-10T15:39:00Z",
      1895
     ],
@@ -4597,6 +4649,14 @@
     ],
     [
      "2026-11-12T16:02:30Z",
+     1850
+    ],
+    [
+     "2026-11-13T15:25:27Z",
+     1895
+    ],
+    [
+     "2026-11-13T15:25:27Z",
      1850
     ]
    ],
@@ -5232,10 +5292,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-01T22:28:38Z",
-     1950
-    ],
-    [
      "2026-11-10T15:39:00Z",
      1900
     ],
@@ -5250,82 +5306,14 @@
     [
      "2026-11-12T16:02:30Z",
      1950
-    ]
-   ]
-  },
-  {
-   "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/94912419",
-   "title": "2 bedroom apartment",
-   "address": "Leigh Road, London, E10",
-   "priceText": "£1,850 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Apartment",
-   "lat": 51.569823,
-   "lon": -0.004886,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2105ad869/94912419/2105ad86906ea71940abdb3507ec570f_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2105ad869/94912419/2105ad86906ea71940abdb3507ec570f_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64d61e872/94912419/64d61e87230a0738189e84f78357a939_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5da486efe/94912419/5da486efedaefa1d081af7258e2e1adc_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/675dd0fa9/94912419/675dd0fa95d6fd1626ad3ec4636ff6bb_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3b61cc9f9/94912419/3b61cc9f9faf2967c4d632fb8fe1733a_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d378ab19c/94912419/d378ab19cfd043282cb965889bf8f441_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6d88e4a1/94912419/c6d88e4a17bd15a83bed8ef3220127cd_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9896e2e1/94912419/e9896e2e104e7faf47e117a6fc72d8ea_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ab5471cd/94912419/3ab5471cd76d0dd3a55ac472249f075f_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99b223387/94912419/99b223387f02290050de315cc834e5d7_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/966aa8d23/94912419/966aa8d233ab3b17aa5baf8aa04bc01c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/397837c23/94912419/397837c23d0b58181969dca262bd8d08_max_476x317.jpeg"
-   ],
-   "agent": "Madison Fox",
-   "addedText": "Added on 29/10/2026",
-   "firstVisible": "2026-10-29T16:55:18Z",
-   "summary": "Ideally located on a peaceful, tree-lined residential road in vibrant Leyton, this beautifully refurbished two-bedroom property offers the perfect blend of modern living and original charm. Just moments away from the popular Francis Road area, you'll find a fantastic mix of independent caf&e...",
-   "availableText": "2026-12-01T00:00:00Z",
-   "features": [],
-   "station": {
-    "name": "Leyton Midland Road",
-    "lines": [
-     "Overground"
     ],
-    "mode": "overground",
-    "walkMins": 4,
-    "distanceM": 216
-   },
-   "tube": {
-    "name": "Leytonstone",
-    "lines": [
-     "Central"
-    ],
-    "walkMins": 15
-   },
-   "area": "Leyton",
-   "tier": 2,
-   "cycleMins": 42,
-   "availability": {
-    "kind": "date",
-    "date": "2026-12-01",
-    "flag": "early",
-    "text": "Available 1 Dec 2026"
-   },
-   "tags": [],
-   "id": "rm:94912419",
-   "price": 1850,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/94912419"
-    }
-   ],
-   "description": "",
-   "firstSeen": "2026-11-01T22:28:38Z",
-   "priceHistory": [
     [
-     "2026-11-01T22:28:38Z",
-     1850
+     "2026-11-12T16:02:30Z",
+     1900
+    ],
+    [
+     "2026-11-13T15:25:27Z",
+     1950
     ]
    ]
   },
@@ -5657,11 +5645,7 @@
     "flag": "early",
     "text": "Available 14 Nov 2026"
    },
-   "tags": [
-    "Part furnished",
-    "Separate lounge"
-   ],
-   "furnished": "Part furnished",
+   "tags": [],
    "id": "rm:94441785",
    "price": 1950,
    "links": [
@@ -5669,14 +5653,9 @@
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/94441785"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20697581/"
     }
    ],
-   "description": "Sincere Lettings is delighted to present this well-maintained and tastefully furnished maisonette, featuring modern furnishings throughout. The property offers two generously sized bedrooms, a separate reception room and bathroom facilities, providing comfortable and practical living accommodation.  Further benefits include stylish wood-effect laminate flooring, gas central heating and double-glazed windows.  Ideally situated within walking distance of Leyton Station, the property benefits from excellent transport links, making it ideal for commuters. A variety of local amenities are also close by, including bus routes, shops, restaurants, cafés, bars and leisure facilities.  *KEY FEATURES* 2 Bedrooms 2 Bathrooms Washing Machine provided Gas Central Heating Part-Furnished   *Tenant Fees*  Rent: As stated Holding Deposit: 1 week’s rent Tenancy Deposit: 5 weeks’ rent (capped at £50,000 annual rent) Changes to the tenancy requested by the tenant: £50 (or reasonable costs incurred) Early termination (if requested by the tenant): Landlord’s reasonable costs Default fees: Late rent interest (3% above Bank of England base rate after 14 days), replacement keys/security devices No other fees are payable.  ",
+   "description": "",
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
@@ -5689,6 +5668,87 @@
     ]
    ],
    "reducedFrom": 2000
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94912419",
+   "title": "2 bedroom apartment",
+   "address": "Leigh Road, London, E10",
+   "priceText": "£1,800 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Apartment",
+   "lat": 51.569823,
+   "lon": -0.004886,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2105ad869/94912419/2105ad86906ea71940abdb3507ec570f_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2105ad869/94912419/2105ad86906ea71940abdb3507ec570f_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64d61e872/94912419/64d61e87230a0738189e84f78357a939_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5da486efe/94912419/5da486efedaefa1d081af7258e2e1adc_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/675dd0fa9/94912419/675dd0fa95d6fd1626ad3ec4636ff6bb_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3b61cc9f9/94912419/3b61cc9f9faf2967c4d632fb8fe1733a_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d378ab19c/94912419/d378ab19cfd043282cb965889bf8f441_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6d88e4a1/94912419/c6d88e4a17bd15a83bed8ef3220127cd_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9896e2e1/94912419/e9896e2e104e7faf47e117a6fc72d8ea_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ab5471cd/94912419/3ab5471cd76d0dd3a55ac472249f075f_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99b223387/94912419/99b223387f02290050de315cc834e5d7_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/966aa8d23/94912419/966aa8d233ab3b17aa5baf8aa04bc01c_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/397837c23/94912419/397837c23d0b58181969dca262bd8d08_max_476x317.jpeg"
+   ],
+   "agent": "Madison Fox",
+   "addedText": "Reduced today",
+   "firstVisible": "2026-10-29T16:55:18Z",
+   "summary": "Ideally located on a peaceful, tree-lined residential road in vibrant Leyton, this beautifully refurbished two-bedroom property offers the perfect blend of modern living and original charm. Just moments away from the popular Francis Road area, you'll find a fantastic mix of independent caf&e...",
+   "availableText": "2026-12-01T00:00:00Z",
+   "features": [],
+   "station": {
+    "name": "Leyton Midland Road",
+    "lines": [
+     "Overground"
+    ],
+    "mode": "overground",
+    "walkMins": 4,
+    "distanceM": 216
+   },
+   "tube": {
+    "name": "Leytonstone",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 15
+   },
+   "area": "Leyton",
+   "tier": 2,
+   "cycleMins": 42,
+   "availability": {
+    "kind": "date",
+    "date": "2026-12-01",
+    "flag": "early",
+    "text": "Available 1 Dec 2026"
+   },
+   "tags": [],
+   "id": "rm:94912419",
+   "price": 1800,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94912419"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-01T22:28:38Z",
+   "priceHistory": [
+    [
+     "2026-11-01T22:28:38Z",
+     1850
+    ],
+    [
+     "2026-11-13T15:25:27Z",
+     1800
+    ]
+   ],
+   "reducedFrom": 1850
   },
   {
    "source": "onthemarket",
@@ -6086,7 +6146,7 @@
     "https://media.onthemarket.com/properties/20476213/1657240976/image-4-480x320.jpg"
    ],
    "agent": "Select.London - Manor Park",
-   "addedText": "Reduced < 7 days",
+   "addedText": "Reduced < 14 days",
    "summary": "",
    "availableText": "now",
    "features": [
@@ -6365,14 +6425,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-01T22:28:38Z",
-     1950
-    ],
-    [
-     "2026-11-10T15:39:00Z",
-     1900
-    ],
-    [
      "2026-11-11T15:13:03Z",
      1950
     ],
@@ -6386,6 +6438,14 @@
     ],
     [
      "2026-11-12T16:02:30Z",
+     1900
+    ],
+    [
+     "2026-11-13T15:25:27Z",
+     1950
+    ],
+    [
+     "2026-11-13T15:25:27Z",
      1900
     ]
    ],
@@ -6496,12 +6556,12 @@
    "propertyType": "Flat",
    "lat": 51.564824,
    "lon": 0.003421,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7bee7fa1/93123918/b7bee7fa13e86316e246c23c1f199171_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29729e2df/93123918/29729e2dfe8a91a63e1f060dce5c73f2_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e1172072/93123918/5e11720725d318b638de46031b6c2639_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76ba6110c/93123918/76ba6110c749ebd302a5dcdd39c78566_max_476x317.jpeg",
@@ -6903,100 +6963,6 @@
   },
   {
    "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/94202934",
-   "title": "2 bedroom flat",
-   "address": "Nightingale Lane, Wanstead",
-   "priceText": "£1,750 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.58132,
-   "lon": 0.02912,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6e3dd2f2/94202934/c6e3dd2f24fa85dc5cc7c64085b3ba9d_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6e3dd2f2/94202934/c6e3dd2f24fa85dc5cc7c64085b3ba9d_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eeeaa3c1a/94202934/eeeaa3c1ad70bca69767cef03c9f44b0_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8dd75cac7/94202934/8dd75cac71d09015b1e2001e7c01eb33_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea892fbbe/94202934/ea892fbbe1357d51fdc4150b76f87c3c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78642438d/94202934/78642438d3f4a913ee4cf4a619aeacc7_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a630619d7/94202934/a630619d74f46772eab50977d57296ea_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a58bbaf3f/94202934/a58bbaf3f6301adace2475ae9a950695_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7cb70ce3/94202934/a7cb70ce3025644f6b3399d098d4ff4f_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e4abdb93f/94202934/e4abdb93f00061102e55d65279ba185c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb88024f0/94202934/fb88024f0463ed1041df1e1d11d6f4e4_max_476x317.jpeg"
-   ],
-   "agent": "Martin & Co",
-   "addedText": "Reduced on 02/11/2026",
-   "firstVisible": "2026-10-15T14:40:22Z",
-   "summary": "**AVAILABLE NOW * NEWLY DECORATED & CARPETED * NIGHTINGALE COURT * TOP FLOOR * UNFURNISHED * MODERN THROUGHOUT * KITCHEN WITH APPLIANCES * BALCONY OFF LIVING ROOM * 2 DOUBLE BEDROOMS * GCH * D/G * COMMUNAL GARDEN * PERMIT PARKING * 0.4 MILES TO SNARESBROOK STATION * 0.3 MILES TO WANSTEAD HIG...",
-   "availableText": "2026-11-09T00:00:00Z",
-   "features": [
-    "UNFURNISHED",
-    "TOP FLOOR",
-    "0.3 MILES TO WANSTEAD HIGH ST",
-    "2 DOUBLE BEDROOMS",
-    "MODERN KITCHEN",
-    "GAS CENTRAL HEATING & DOUBLE GLAZED",
-    "PRIVATE BALCONY",
-    "SHARED GARDENS",
-    "CLOSE TO WANSTEAD & SNARESBROOK STATIONS",
-    "EPC - D, COUNCIL TAX - C"
-   ],
-   "station": {
-    "name": "Snaresbrook",
-    "lines": [
-     "Central"
-    ],
-    "mode": "tube",
-    "walkMins": 8,
-    "distanceM": 523
-   },
-   "tube": {
-    "name": "Snaresbrook",
-    "lines": [
-     "Central"
-    ],
-    "walkMins": 8
-   },
-   "area": "Wanstead",
-   "tier": 2,
-   "cycleMins": 53,
-   "availability": {
-    "kind": "date",
-    "date": "2026-11-09",
-    "flag": "early",
-    "text": "Available 9 Nov 2026"
-   },
-   "tags": [
-    "Balcony",
-    "Garden",
-    "Unfurnished"
-   ],
-   "id": "rm:94202934",
-   "price": 1750,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/94202934"
-    }
-   ],
-   "description": "",
-   "firstSeen": "2026-11-01T21:19:13Z",
-   "priceHistory": [
-    [
-     "2026-11-01T21:19:13Z",
-     1800
-    ],
-    [
-     "2026-11-02T17:06:10Z",
-     1750
-    ]
-   ],
-   "reducedFrom": 1800
-  },
-  {
-   "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/94418868",
    "title": "2 bedroom flat",
    "address": "High Street Wanstead, London, E11",
@@ -7074,6 +7040,104 @@
     ]
    ],
    "reducedFrom": 1795
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94202934",
+   "title": "2 bedroom flat",
+   "address": "Nightingale Lane, Wanstead",
+   "priceText": "£1,700 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.58132,
+   "lon": 0.02912,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6e3dd2f2/94202934/c6e3dd2f24fa85dc5cc7c64085b3ba9d_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6e3dd2f2/94202934/c6e3dd2f24fa85dc5cc7c64085b3ba9d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea892fbbe/94202934/ea892fbbe1357d51fdc4150b76f87c3c_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8dd75cac7/94202934/8dd75cac71d09015b1e2001e7c01eb33_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78642438d/94202934/78642438d3f4a913ee4cf4a619aeacc7_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eeeaa3c1a/94202934/eeeaa3c1ad70bca69767cef03c9f44b0_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a630619d7/94202934/a630619d74f46772eab50977d57296ea_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a58bbaf3f/94202934/a58bbaf3f6301adace2475ae9a950695_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7cb70ce3/94202934/a7cb70ce3025644f6b3399d098d4ff4f_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e4abdb93f/94202934/e4abdb93f00061102e55d65279ba185c_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb88024f0/94202934/fb88024f0463ed1041df1e1d11d6f4e4_max_476x317.jpeg"
+   ],
+   "agent": "Martin & Co",
+   "addedText": "Reduced yesterday",
+   "firstVisible": "2026-10-15T14:40:22Z",
+   "summary": "**AVAILABLE NOW * NEWLY DECORATED & CARPETED * NIGHTINGALE COURT * TOP FLOOR * UNFURNISHED * MODERN THROUGHOUT * KITCHEN WITH APPLIANCES * BALCONY OFF LIVING ROOM * 2 DOUBLE BEDROOMS * GCH * D/G * COMMUNAL GARDEN * PERMIT PARKING * 0.4 MILES TO SNARESBROOK STATION * 0.3 MILES TO WANSTEAD HIG...",
+   "availableText": "2026-11-09T00:00:00Z",
+   "features": [
+    "UNFURNISHED",
+    "TOP FLOOR",
+    "0.3 MILES TO WANSTEAD HIGH ST",
+    "2 DOUBLE BEDROOMS",
+    "MODERN KITCHEN",
+    "GAS CENTRAL HEATING & DOUBLE GLAZED",
+    "PRIVATE BALCONY",
+    "SHARED GARDENS",
+    "CLOSE TO WANSTEAD & SNARESBROOK STATIONS",
+    "EPC - D, COUNCIL TAX - C"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 8,
+    "distanceM": 523
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 8
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 53,
+   "availability": {
+    "kind": "date",
+    "date": "2026-11-09",
+    "flag": "early",
+    "text": "Available 9 Nov 2026"
+   },
+   "tags": [
+    "Balcony",
+    "Garden",
+    "Unfurnished"
+   ],
+   "id": "rm:94202934",
+   "price": 1700,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94202934"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-01T21:19:13Z",
+   "priceHistory": [
+    [
+     "2026-11-01T21:19:13Z",
+     1800
+    ],
+    [
+     "2026-11-02T17:06:10Z",
+     1750
+    ],
+    [
+     "2026-11-13T15:25:27Z",
+     1700
+    ]
+   ],
+   "reducedFrom": 1800
   },
   {
    "source": "rightmove",
