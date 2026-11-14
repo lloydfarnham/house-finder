@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T14:11:46Z",
+ "generatedAt": "2026-11-14T19:13:16Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -57,25 +57,110 @@
  "sources": {
   "Rightmove": {
    "ok": true,
-   "found": 86,
-   "at": "2026-11-14T14:09:56Z"
+   "found": 87,
+   "at": "2026-11-14T19:10:41Z"
   },
   "OnTheMarket": {
    "ok": true,
-   "found": 352,
-   "at": "2026-11-14T14:11:35Z"
+   "found": 351,
+   "at": "2026-11-14T19:12:20Z"
   }
  },
  "excluded": {
-  "too far from a station": 166,
+  "too far from a station": 162,
   "keyword": 3,
-  "price": 132,
+  "price": 134,
   "excluded area": 21,
   "available after January": 1,
   "location": 1
  },
- "count": 83,
+ "count": 84,
  "listings": [
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/95481582",
+   "title": "2 bedroom flat",
+   "address": "Jersey Road, Leytonstone E11",
+   "priceText": "£1,750 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.56531,
+   "lon": -0.00204,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7b165cf5/95481582/e7b165cf5dba042a71725a78f3af502e_max_476x317.png",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7b165cf5/95481582/e7b165cf5dba042a71725a78f3af502e_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c07717caf/95481582/c07717cafa96686d394970e299946b65_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/191ff66f7/95481582/191ff66f78991177958c9676f091aa58_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/726fb57d9/95481582/726fb57d9e488725241f527e923f578a_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9694175a/95481582/e9694175a4f42bdc1d74587af8e35955_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ecdc11351/95481582/ecdc11351641548acc1ab2d26bad7dfe_max_476x317.png",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8ebcc55ac/95481582/8ebcc55aca6a503c2d5ca2674570ae6b_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5572505ae/95481582/5572505aed1d546996fea8d4c03db777_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e7b9b107/95481582/3e7b9b10726ef23d2ec311c448c80b8e_max_476x317.jpeg"
+   ],
+   "agent": "Bairstow Eves Lettings",
+   "addedText": "Added today",
+   "firstVisible": "2026-11-14T15:00:25Z",
+   "summary": "** Zero Deposit Guarantee Available **\nNewly decorated two double bedroom first floor conversion located in a prime area within walking distance to both Leytonstone and Leyton train stations. Available now on a part-furnished basis.",
+   "availableText": "2026-11-14T00:00:00Z",
+   "features": [
+    "AVAILABLE NOW",
+    "Two double bedroom flat",
+    "First floor",
+    "Newly decorated",
+    "Kitchen with appliances",
+    "Modern bathroom",
+    "Walking distance to both Leyton & Leytonstone stations",
+    "PART-FURNISHED",
+    "ZERO DEPOSIT AVAILABLE"
+   ],
+   "station": {
+    "name": "Leyton Midland Road",
+    "lines": [
+     "Overground"
+    ],
+    "mode": "overground",
+    "walkMins": 10,
+    "distanceM": 639
+   },
+   "tube": {
+    "name": "Leytonstone",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 13
+   },
+   "area": "Leyton",
+   "tier": 2,
+   "cycleMins": 42,
+   "availability": {
+    "kind": "date",
+    "date": "2026-11-14",
+    "flag": "early",
+    "text": "Available 14 Nov 2026"
+   },
+   "tags": [
+    "Furnished"
+   ],
+   "id": "rm:95481582",
+   "price": 1750,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/95481582"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-14T19:13:16Z",
+   "priceHistory": [
+    [
+     "2026-11-14T19:13:16Z",
+     1750
+    ]
+   ]
+  },
   {
    "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/95478897",
@@ -1825,6 +1910,7 @@
     "text": "Available now"
    },
    "tags": [
+    "Garden",
     "Unfurnished"
    ],
    "id": "otm:20728422",
@@ -1836,7 +1922,7 @@
      "url": "https://www.onthemarket.com/details/20728422/"
     }
    ],
-   "description": "Property Reference: 3089734.   2 Bed Flat, Hazelwood Road, E17   We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location.  Available to move in from 10 November 2026. Property is offered unfurnished.  Viewing highly recommended. Contact OpenRent today for more details or to arrange a viewing!    Summary   Rent £1,700.00 per month (£392.31 per week) Deposit / Bond is £1,961.53  Maximum number of tenants is 4  Students welcome to enquire No Pets, sorry No Smokers Family Friendly  Bills not included EPC Rating: D     If calling, please quote reference: 3089734      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any further clarification or information please contact us.  When applying for a tenancy using the Rent Now process, you will be required to pay one month's rent and any deposit before moving in.  This will be paid to OpenRent and released to the landlord once you have moved in. With OpenRent there are no administration fees to pay.    ",
+   "description": "Property Reference: 3089734.    SPACIOUS 2-BEDROOM FLAT - E17  AVAILABLE NOW    A bright, well-proportioned flat with large windows and gas central heating, close to local shops, amenities and transport links.    Generous front living room with two tall windows, plenty of natural light and a leafy street view   Double bedroom with a green outlook over the back   Single second bedroom, ideal as a guest room or home office   Fitted kitchen with gas hob, built-in oven, extractor, washing machine and fridge-freezer   Bathroom with a bath, shower over and glass screen   Gas central heating    Unfurnished   Available immediately   Max 4 tenants    Rent: £1,700 PCM (£392.31 PW)   Deposit: £1,961.53    Make this your next home! Contact OpenRent today to arrange a viewing.    Summary & Exclusions:  - Rent Amount: £1,700.00 per month (£392.31 per week) - Deposit / Bond: £1,961.53 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 14 November 2026 - Maximum number of tenants is 4 - Students welcome to enquire - No Pets, sorry - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: D     If calling, please quote reference: 3089734      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property partic",
    "firstSeen": "2026-11-10T15:39:00Z",
    "priceHistory": [
     [
@@ -4441,14 +4527,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-11T15:13:03Z",
-     1900
-    ],
-    [
-     "2026-11-11T15:13:03Z",
-     1895
-    ],
-    [
      "2026-11-12T16:02:30Z",
      1850
     ],
@@ -4462,6 +4540,14 @@
     ],
     [
      "2026-11-14T14:11:46Z",
+     1895
+    ],
+    [
+     "2026-11-14T14:11:46Z",
+     1850
+    ],
+    [
+     "2026-11-14T19:13:16Z",
      1895
     ]
    ],
@@ -4648,14 +4734,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-11T15:13:03Z",
-     1895
-    ],
-    [
-     "2026-11-12T16:02:30Z",
-     1850
-    ],
-    [
      "2026-11-13T15:25:27Z",
      1895
     ],
@@ -4669,6 +4747,14 @@
     ],
     [
      "2026-11-14T14:11:46Z",
+     1850
+    ],
+    [
+     "2026-11-14T19:13:16Z",
+     1895
+    ],
+    [
+     "2026-11-14T19:13:16Z",
      1850
     ]
    ],
@@ -4736,8 +4822,10 @@
     "text": "Available 12 Oct 2026"
    },
    "tags": [
+    "Part furnished",
     "Separate lounge"
    ],
+   "furnished": "Part furnished",
    "id": "rm:94168587",
    "price": 1750,
    "links": [
@@ -4745,9 +4833,14 @@
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/94168587"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20758723/"
     }
    ],
-   "description": "",
+   "description": " Zero Deposit Guarantee Available  Bairstow Eves are pleased to offer this good size two bedroom first floor conversion located within walking distance to both Leytonstone and Leyton station. The property has been newly decorated throughout and has a modern bathroom with shower over bath, kitchen with appliances, two double bedrooms and a good size lounge. Available now on a part-furnished basis. Council Tax Band:  Holding Deposit: £403.00  Available Now  Two double bedroom flat  First floor  Newly decorated  Kitchen with appliances  Modern bathroom  Walking distance to both Leyton & Leytonstone stations  Part-Furnished  Zero Deposit Available ",
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
@@ -5304,14 +5397,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-11T15:13:03Z",
-     1900
-    ],
-    [
-     "2026-11-12T16:02:30Z",
-     1950
-    ],
-    [
      "2026-11-12T16:02:30Z",
      1900
     ],
@@ -5325,6 +5410,14 @@
     ],
     [
      "2026-11-14T14:11:46Z",
+     1950
+    ],
+    [
+     "2026-11-14T14:11:46Z",
+     1900
+    ],
+    [
+     "2026-11-14T19:13:16Z",
      1950
     ]
    ]
@@ -6344,14 +6437,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-12T16:02:30Z",
-     1950
-    ],
-    [
-     "2026-11-12T16:02:30Z",
-     1900
-    ],
-    [
      "2026-11-13T15:25:27Z",
      1950
     ],
@@ -6365,6 +6450,14 @@
     ],
     [
      "2026-11-14T14:11:46Z",
+     1900
+    ],
+    [
+     "2026-11-14T19:13:16Z",
+     1950
+    ],
+    [
+     "2026-11-14T19:13:16Z",
      1900
     ]
    ],
@@ -6854,7 +6947,7 @@
      "url": "https://www.onthemarket.com/details/20514619/"
     }
    ],
-   "description": "Property Reference: 3068763.  Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now.  Conveniently situated on the vibrant High Street within walking distance  of Wanstead/Snaresbrook  Central Line Stations and surrounded by an excellent selection of shops, restaurants and bars, parks and open spaces.   The flat benefits from  two large double bedrooms, spacious lounge, separate modern kitchen with appliances, bathroom with bath and shower.  Further benefits  include entry phone system, double glazing, GCH.  Ideally suited to a professional couple.  Council Tax Band B EPC Rating C Resident Parking Permit available from Redbridge Council   Summary & Exclusions:  - Rent Amount: £1,750.00 per month (£403.85 per week) - Deposit / Bond: £1,750.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 10 November 2026 - Maximum number of tenants is 2 - No Students - No Pets, sorry - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: C     If calling, please quote reference: 3068763      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any furthe",
+   "description": "Property Reference: 3068763.  Recently refurbished, decorated and carpeted throughout, this larger than average two bedroom flat is available to rent now.  Conveniently situated on the vibrant High Street within walking distance  of Wanstead/Snaresbrook  Central Line Stations and surrounded by an excellent selection of shops, restaurants and bars, parks and open spaces.   The flat benefits from  two large double bedrooms, spacious lounge, separate modern kitchen with appliances, bathroom with bath and shower.  Further benefits  include entry phone system, double glazing, GCH.  Ideally suited to a professional couple.  Council Tax Band B EPC Rating C Resident Parking Permit available from Redbridge Council   Summary & Exclusions:  - Rent Amount: £1,750.00 per month (£403.85 per week) - Deposit / Bond: £1,750.00 - 2 Bedrooms - 1 Bathrooms - Property comes unfurnished - Available to move in from 14 November 2026 - Maximum number of tenants is 2 - No Students - No Pets, sorry - No Smokers - Family Friendly - Bills not included - No Parking Available - No Garden Access - EPC Rating: C     If calling, please quote reference: 3068763      Fees:  You will  not  be charged any admin fees.    * Contact today to book a viewing and have the landlord show you round! *  Request Details form responded to 24/7, with phone bookings available 9am-9pm, 7 days a week.      OpenRent endeavours to make all property particulars as accurate and reliable as possible, however if you require any furthe",
    "firstSeen": "2026-11-01T21:19:13Z",
    "priceHistory": [
     [
