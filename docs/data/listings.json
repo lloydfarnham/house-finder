@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T19:13:16Z",
+ "generatedAt": "2026-11-15T14:48:24Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -58,19 +58,19 @@
   "Rightmove": {
    "ok": true,
    "found": 87,
-   "at": "2026-11-14T19:10:41Z"
+   "at": "2026-11-15T14:46:43Z"
   },
   "OnTheMarket": {
    "ok": true,
-   "found": 351,
-   "at": "2026-11-14T19:12:20Z"
+   "found": 343,
+   "at": "2026-11-15T14:48:24Z"
   }
  },
  "excluded": {
-  "too far from a station": 162,
+  "too far from a station": 161,
   "keyword": 3,
-  "price": 134,
-  "excluded area": 21,
+  "price": 129,
+  "excluded area": 19,
   "available after January": 1,
   "location": 1
  },
@@ -100,7 +100,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e7b9b107/95481582/3e7b9b10726ef23d2ec311c448c80b8e_max_476x317.jpeg"
    ],
    "agent": "Bairstow Eves Lettings",
-   "addedText": "Added today",
+   "addedText": "Added yesterday",
    "firstVisible": "2026-11-14T15:00:25Z",
    "summary": "** Zero Deposit Guarantee Available **\nNewly decorated two double bedroom first floor conversion located in a prime area within walking distance to both Leytonstone and Leyton train stations. Available now on a part-furnished basis.",
    "availableText": "2026-11-14T00:00:00Z",
@@ -183,7 +183,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c94925be8/95478897/c94925be812aad69ca4d6cde7ae79380_max_476x317.jpeg"
    ],
    "agent": "Kings Group",
-   "addedText": "Added today",
+   "addedText": "Added yesterday",
    "firstVisible": "2026-11-14T12:30:28Z",
    "summary": "Spacious Two-Bedroom Ground Floor Flat with Private Garden – Beulah Road, E17 Situated on the popular Beulah Road in Walthamstow, this well-proportioned two-bedroom ground floor flat offers comfortable living accommodation throughout, complemented by the added benefit of a private rear g...",
    "availableText": null,
@@ -274,7 +274,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/503c033a7/18108510/503c033a760b214de7a9184ff50888b0_max_476x317.png"
    ],
    "agent": "Eastway Property Services",
-   "addedText": "Added today",
+   "addedText": "Added yesterday",
    "firstVisible": "2011-02-18T13:45:02Z",
    "summary": "STUNNING 2-BED VICTORIAN CONVERSION IN PRIME WANSTEAD! Newly decorated basement flat featuring private entrance, private patio, spacious reception, modern kitchen, en-suite and family bathroom. Close to Central Line stations, shops and cafés. Part or fully furnished. VIEW NOW!",
    "availableText": "2026-11-16T00:00:00Z",
@@ -358,7 +358,7 @@
     "https://media.onthemarket.com/properties/17500664/1655722689/image-4-480x320.jpg"
    ],
    "agent": "Winkworth - Harringay",
-   "addedText": "Added yesterday",
+   "addedText": "Added < 7 days",
    "summary": "",
    "availableText": null,
    "features": [
@@ -509,7 +509,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d155ae046/172455140/d155ae04693fe7283947a170013bdf5e_max_476x317.png"
    ],
    "agent": "Eastway Property Services",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 13/11/2026",
    "firstVisible": "2026-02-23T09:56:08Z",
    "summary": "Eastway Property Services are pleased to offer this beautifully presented first-floor two-bedroom Victorian conversion, ideally located in the heart of Wanstead, within easy reach of local amenities, restaurants, independent shops and two Central Line stations.",
    "availableText": "2026-12-01T00:00:00Z",
@@ -588,7 +588,7 @@
     "https://media.onthemarket.com/properties/20751226/1658411026/image-4-480x320.jpg"
    ],
    "agent": "Sincere Lettings - London",
-   "addedText": "Added yesterday",
+   "addedText": "Added < 7 days",
    "summary": "",
    "availableText": "now",
    "features": [
@@ -2823,11 +2823,11 @@
    "propertyType": "Flat",
    "lat": 51.53125,
    "lon": -0.06889,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37e9f54d1/94608318/37e9f54d1c8f4f3736d0b9772050d038_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e06dba39/94608318/7e06dba395428cb216e6f15ae05bb375_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37e9f54d1/94608318/37e9f54d1c8f4f3736d0b9772050d038_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e06dba39/94608318/7e06dba395428cb216e6f15ae05bb375_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f701a5a6/94608318/6f701a5a6e394c3f7f83549e7a7d5ed0_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/383c029c5/94608318/383c029c5d4c763189b5fb686316abb7_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37e9f54d1/94608318/37e9f54d1c8f4f3736d0b9772050d038_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0c4fcc53/94608318/c0c4fcc537214290f7d58fec064ac2c4_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3280d52e8/94608318/3280d52e815f43b769833a4426be050d_max_476x317.jpeg"
    ],
@@ -4527,14 +4527,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-12T16:02:30Z",
-     1850
-    ],
-    [
-     "2026-11-13T15:25:27Z",
-     1895
-    ],
-    [
      "2026-11-13T15:25:27Z",
      1850
     ],
@@ -4548,6 +4540,14 @@
     ],
     [
      "2026-11-14T19:13:16Z",
+     1895
+    ],
+    [
+     "2026-11-14T19:13:16Z",
+     1850
+    ],
+    [
+     "2026-11-15T14:48:24Z",
      1895
     ]
    ],
@@ -4734,14 +4734,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-13T15:25:27Z",
-     1895
-    ],
-    [
-     "2026-11-13T15:25:27Z",
-     1850
-    ],
-    [
      "2026-11-14T14:11:46Z",
      1895
     ],
@@ -4755,6 +4747,14 @@
     ],
     [
      "2026-11-14T19:13:16Z",
+     1850
+    ],
+    [
+     "2026-11-15T14:48:24Z",
+     1895
+    ],
+    [
+     "2026-11-15T14:48:24Z",
      1850
     ]
    ],
@@ -5397,14 +5397,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-12T16:02:30Z",
-     1900
-    ],
-    [
-     "2026-11-13T15:25:27Z",
-     1950
-    ],
-    [
      "2026-11-13T15:25:27Z",
      1900
     ],
@@ -5418,6 +5410,14 @@
     ],
     [
      "2026-11-14T19:13:16Z",
+     1950
+    ],
+    [
+     "2026-11-14T19:13:16Z",
+     1900
+    ],
+    [
+     "2026-11-15T14:48:24Z",
      1950
     ]
    ]
@@ -5708,7 +5708,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/397837c23/94912419/397837c23d0b58181969dca262bd8d08_max_476x317.jpeg"
    ],
    "agent": "Madison Fox",
-   "addedText": "Reduced yesterday",
+   "addedText": "Reduced on 13/11/2026",
    "firstVisible": "2026-10-29T16:55:18Z",
    "summary": "Ideally located on a peaceful, tree-lined residential road in vibrant Leyton, this beautifully refurbished two-bedroom property offers the perfect blend of modern living and original charm. Just moments away from the popular Francis Road area, you'll find a fantastic mix of independent caf&e...",
    "availableText": "2026-12-01T00:00:00Z",
@@ -6437,14 +6437,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-13T15:25:27Z",
-     1950
-    ],
-    [
-     "2026-11-13T15:25:27Z",
-     1900
-    ],
-    [
      "2026-11-14T14:11:46Z",
      1950
     ],
@@ -6458,6 +6450,14 @@
     ],
     [
      "2026-11-14T19:13:16Z",
+     1900
+    ],
+    [
+     "2026-11-15T14:48:24Z",
+     1950
+    ],
+    [
+     "2026-11-15T14:48:24Z",
      1900
     ]
    ],
@@ -6642,14 +6642,14 @@
    "propertyType": "Flat",
    "lat": 51.564824,
    "lon": 0.003421,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e1172072/93123918/5e11720725d318b638de46031b6c2639_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e1172072/93123918/5e11720725d318b638de46031b6c2639_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7bee7fa1/93123918/b7bee7fa13e86316e246c23c1f199171_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29729e2df/93123918/29729e2dfe8a91a63e1f060dce5c73f2_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e1172072/93123918/5e11720725d318b638de46031b6c2639_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76ba6110c/93123918/76ba6110c749ebd302a5dcdd39c78566_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef9f3ccf8/93123918/ef9f3ccf8fe9565e6fcd2e7b10f1f8d3_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7702a821/93123918/e7702a8215c37dfc6102c4104b818796_max_476x317.jpeg"
@@ -6724,11 +6724,11 @@
    "propertyType": "Flat",
    "lat": 51.56421,
    "lon": 0.0096,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ec0cad10/94477815/4ec0cad104a2857fce7f9875d8e150a6_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2147ebd43/94477815/2147ebd43c7a7a992b7ea75966505a4f_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ec0cad10/94477815/4ec0cad104a2857fce7f9875d8e150a6_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/074c66c0c/94477815/074c66c0c81ef648f780d19c6d84f8fd_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2147ebd43/94477815/2147ebd43c7a7a992b7ea75966505a4f_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e004446ac/94477815/e004446acf59f59e9579b659d4afd75b_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ec0cad10/94477815/4ec0cad104a2857fce7f9875d8e150a6_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/724b916bc/94477815/724b916bcf360c52a5f4e076f7207835_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee0e8fe54/94477815/ee0e8fe54a2d22e8dddbefff43672f4b_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/753876ca1/94477815/753876ca1a963ff4b2b6ac379a4cf0e2_max_476x317.jpeg",
