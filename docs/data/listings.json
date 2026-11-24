@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T19:18:56Z",
+ "generatedAt": "2026-11-24T18:56:57Z",
  "criteria": {
   "maxPricePcm": 2000,
   "minBeds": 2,
@@ -57,25 +57,381 @@
  "sources": {
   "Rightmove": {
    "ok": true,
-   "found": 85,
-   "at": "2026-11-23T19:16:04Z"
+   "found": 84,
+   "at": "2026-11-24T18:55:15Z"
   },
   "OnTheMarket": {
    "ok": true,
-   "found": 335,
-   "at": "2026-11-23T19:17:42Z"
+   "found": 342,
+   "at": "2026-11-24T18:56:46Z"
   }
  },
  "excluded": {
-  "too far from a station": 159,
+  "too far from a station": 167,
   "keyword": 2,
-  "price": 124,
-  "excluded area": 15,
+  "price": 125,
+  "excluded area": 13,
   "no living space": 1,
   "location": 1
  },
  "count": 86,
  "listings": [
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/94207266",
+   "title": "2 bedroom flat",
+   "address": "Cambridge Heath Road, Bethnal Green",
+   "priceText": "£1,950 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.530616,
+   "lon": -0.056247,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bbf948b7/94207266/1bbf948b7dfe5cd3df8b33f88cd60b8f_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bbf948b7/94207266/1bbf948b7dfe5cd3df8b33f88cd60b8f_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bcfaf09d4/94207266/bcfaf09d44d487d229b034dc7dee90e1_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad8bc73e9/94207266/ad8bc73e942f4ff1ef4f973e82fc55ba_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca98b3241/94207266/ca98b3241ea78ad05ab08de136a356c9_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40832325d/94207266/40832325dde460e0fb12a2b3b0240823_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4201be4e3/94207266/4201be4e304adcec97e42cf0d3bf50e3_max_476x317.jpeg"
+   ],
+   "agent": "Living Space Estate Agents",
+   "addedText": "Reduced today",
+   "firstVisible": "2026-10-12T15:27:04Z",
+   "summary": "We are pleased to offer this 2 bedroom first floor flat above a commercial unit and situated in a great central location and minutes from Bethnal Green tube station. The property is neutrally decorated throughout, fitted kitchen, good size reception room.",
+   "availableText": "2026-11-10T00:00:00Z",
+   "features": [
+    "Flat",
+    "2 Beds",
+    "1 Reception",
+    "1 Bathroom",
+    "Furnished or Unfurnished",
+    "Gas Central Heating"
+   ],
+   "station": {
+    "name": "Cambridge Heath",
+    "lines": [
+     "Overground"
+    ],
+    "mode": "overground",
+    "walkMins": 3,
+    "distanceM": 164
+   },
+   "tube": {
+    "name": "Bethnal Green",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 7
+   },
+   "area": "Bethnal Green",
+   "tier": 2,
+   "cycleMins": 22,
+   "availability": {
+    "kind": "date",
+    "date": "2026-11-10",
+    "flag": "early",
+    "text": "Available 10 Nov 2026"
+   },
+   "tags": [
+    "Separate lounge",
+    "Unfurnished"
+   ],
+   "id": "rm:94207266",
+   "price": 1950,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/94207266"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-24T18:56:57Z",
+   "priceHistory": [
+    [
+     "2026-11-24T18:56:57Z",
+     1950
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/95005338",
+   "title": "2 bedroom apartment",
+   "address": "Barry Blandford Way, E3",
+   "priceText": "£2,000 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Apartment",
+   "lat": 51.52069,
+   "lon": -0.01697,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b6a9abea3/95005338/b6a9abea30b7510f4be50a06898b94b1_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b6a9abea3/95005338/b6a9abea30b7510f4be50a06898b94b1_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5bf85af0/95005338/b5bf85af0676f0899016704f252118c5_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/930c22d4d/95005338/930c22d4d82c26bbad4fa81a949ec944_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a9ad66586/95005338/a9ad66586fcbbabbd1e7d56260651e53_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eadb8543a/95005338/eadb8543a59b33700170c0ea1aa3a90a_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95b4c09ef/95005338/95b4c09ef86a9a99df0915ba83c4dea5_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8a0f0cc8/95005338/c8a0f0cc8d0e3287cda1dc513bdf808c_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3a2900ea/95005338/b3a2900eadc8adae7af73256a1152045_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d46f460a/95005338/8d46f460a54731dd515ded977df93b53_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff15c7cd1/95005338/ff15c7cd11c30104825b0c248e35f8c1_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/556ad7a0b/95005338/556ad7a0b22e79ae340f395c25ea8778_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c1478491/95005338/7c1478491cc1c521a8e2597165ed285e_max_476x317.jpeg"
+   ],
+   "agent": "Hamptons",
+   "addedText": "Reduced today",
+   "firstVisible": "2026-11-02T12:34:53Z",
+   "summary": "Modern and well proportioned two bedroom apartment in Bromley-by-Bow, located within easy reach of Devons Road DLR station and Bromley-by-Bow underground station for both the District line and the Hammersmith & City line.",
+   "availableText": "2026-11-11T00:00:00Z",
+   "features": [
+    "Modern Apartment",
+    "Second Floor",
+    "Two Bedrooms",
+    "Open Plan",
+    "Balcony",
+    "Superb Location",
+    "Council Tax Band D"
+   ],
+   "station": {
+    "name": "Bromley-by-Bow",
+    "lines": [
+     "District",
+     "H&C"
+    ],
+    "mode": "tube",
+    "walkMins": 9,
+    "distanceM": 576
+   },
+   "tube": {
+    "name": "Bromley-by-Bow",
+    "lines": [
+     "District",
+     "H&C"
+    ],
+    "walkMins": 9
+   },
+   "area": "Bow",
+   "tier": 1,
+   "cycleMins": 34,
+   "availability": {
+    "kind": "date",
+    "date": "2026-11-11",
+    "flag": "early",
+    "text": "Available 11 Nov 2026"
+   },
+   "tags": [
+    "Balcony",
+    "Furnished",
+    "Separate lounge"
+   ],
+   "furnished": "Furnished",
+   "id": "rm:95005338",
+   "price": 2000,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/95005338"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20670127/"
+    }
+   ],
+   "description": "This modern and well proportioned two bedroom apartment is situated in Bromley-by-Bow.   The property is situated on the second floor, is bright and airy and boasts reception room with wooden flooring and balcony, open plan fully integrated kitchen, principal bedroom with built in wardrobe, a second double bedroom and a separate bathroom with shower over bath.   The development is located within easy reach of Devons Road DLR station (approx. 0.2 miles), offering access to Canary Wharf and the City. Bromley-by-Bow underground station is approx. 0.5 miles away and offers access to Liverpool Street, Moorgate, Euston Square and Baker Street via the Hammersmith & City line and Tower Hill, Cannon Street, Blackfriars, Westminster and Victoria via the District line. To check broadband and mobile phone coverage please visit Ofcom here ",
+   "firstSeen": "2026-11-24T18:56:57Z",
+   "priceHistory": [
+    [
+     "2026-11-24T18:56:57Z",
+     2000
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/95795775",
+   "title": "3 bedroom flat",
+   "address": "New Wanstead, E11",
+   "priceText": "£1,850 pcm",
+   "beds": 3,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.57575,
+   "lon": 0.018532,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53a3b4828/95795775/53a3b4828096e9f964d67563f7cff4a2_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53a3b4828/95795775/53a3b4828096e9f964d67563f7cff4a2_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bd0d893f/95795775/4bd0d893fa147930396d8ea05ae71e2f_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf719c70a/95795775/cf719c70ab8f1bf5f980b7be7e8a150f_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/25bb2b2ee/95795775/25bb2b2ee8549076e0540306d210120b_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd819ecbd/95795775/fd819ecbd17e815bb0a6505cf41df407_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d6217b9d/95795775/5d6217b9d4eaa5fc04e4b5f5f200616d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a5253ae4/95795775/4a5253ae4e58577ba15b5d1dec7829b5_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/febfdbc08/95795775/febfdbc088d93f8be069d68f787f7837_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/adb37132b/95795775/adb37132bb9e998457d1760e7a44c14e_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1148a3a3/95795775/c1148a3a3adc54e367b91295196d9533_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80bebd3e7/95795775/80bebd3e791041a5ddfef17c7375e26e_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cfa52bc97/95795775/cfa52bc97adc53174bd9582461340a4b_max_476x317.jpeg"
+   ],
+   "agent": "Lloyds Estate Agents",
+   "addedText": "Reduced today",
+   "firstVisible": "2026-11-24T12:00:18Z",
+   "summary": "Discover this beautifully maintained three-bedroom apartment, offering private parking, balcony, and beautiful communal gardens all just a short stroll from Wanstead High Street.",
+   "availableText": "2026-12-01T00:00:00Z",
+   "features": [
+    "3rd Floor Three Double Bedroom Apartment",
+    "Lounge-Diner with Private Balcony",
+    "Lamintae Flooring Throughout/Neutral Decor",
+    "Parking Space",
+    "Beautiful Communal Gardens",
+    "Storage Shed- Perfect for Cyclists!",
+    "Minutes to Snaresbrook & Wanstead Central Line Tube Stations",
+    "Gently Stroll into Wanstead's Ever Popular High Street",
+    "Only Suitable for 2 Professional Sharers, Couple or Small Family (Selective License Conditions)",
+    "View Today!"
+   ],
+   "station": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "mode": "tube",
+    "walkMins": 10,
+    "distanceM": 600
+   },
+   "tube": {
+    "name": "Snaresbrook",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 10
+   },
+   "area": "Wanstead",
+   "tier": 2,
+   "cycleMins": 49,
+   "availability": {
+    "kind": "date",
+    "date": "2026-12-01",
+    "flag": "early",
+    "text": "Available 1 Dec 2026"
+   },
+   "tags": [
+    "Balcony"
+   ],
+   "id": "rm:95795775",
+   "price": 1850,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/95795775"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-24T18:56:57Z",
+   "priceHistory": [
+    [
+     "2026-11-24T18:56:57Z",
+     1850
+    ]
+   ]
+  },
+  {
+   "source": "rightmove",
+   "url": "https://www.rightmove.co.uk/properties/95804736",
+   "title": "2 bedroom flat",
+   "address": "Claude Road, Leyton, E10",
+   "priceText": "£1,750 pcm",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Flat",
+   "lat": 51.565158,
+   "lon": -0.005893,
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cae74c0d2/95804736/cae74c0d2a3d0daeb2dba1007d4feb40_max_476x317.jpeg",
+   "images": [
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cae74c0d2/95804736/cae74c0d2a3d0daeb2dba1007d4feb40_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4844e41e6/95804736/4844e41e60093a827a510b9cb0212a82_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b78788f3b/95804736/b78788f3bf6bbd06340a4cd87e8cb7aa_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27e52088f/95804736/27e52088fc54e6deae428c20bc8ba246_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6fd4be3e/95804736/e6fd4be3e1664805e6099a257826da35_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56ac0f034/95804736/56ac0f0345e484b6d04d5964846d2abb_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b7bd9aa1/95804736/2b7bd9aa193aa3d031c5f1b41bdfd278_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08eab898d/95804736/08eab898dc1af9437ed93ec0b68e1dd7_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb57751da/95804736/fb57751daf8fc60b10428bb2a8c069ff_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28ce9a030/95804736/28ce9a03096b63a1094a1c13354df22d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1dbf7eabb/95804736/1dbf7eabb27f6de52fd9d5cdf2e281f3_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/759b2d8db/95804736/759b2d8dbdca8523f3d8ce1b23f4c3c1_max_476x317.jpeg"
+   ],
+   "agent": "David Daniels",
+   "addedText": "Added today",
+   "firstVisible": "2026-11-24T14:23:50Z",
+   "summary": "Situated in a popular residential turning in Leyton, this well-presented ground floor flat offers flexible accommodation and would suit either a one or two-bedroom arrangement, depending on a tenant's individual requirements. The property comprises two bedrooms, a separate lounge/dining room, fit...",
+   "availableText": "2026-11-30T00:00:00Z",
+   "features": [
+    "ONE / TWO BEDROOM FLAT",
+    "GROUND FLOOR",
+    "PRIVATE GARDEN",
+    "UNFURNISHED",
+    "WOOD FLOORING",
+    "WALTHAM FOREST COUNCIL TAX BAND A",
+    "5 WEEK DAMAGE DEPOSIT: £2013",
+    "SELECTIVE PROPERTY LICENCE",
+    "MUST BE VIEWED",
+    "AVAILABLE NOW"
+   ],
+   "station": {
+    "name": "Leyton Midland Road",
+    "lines": [
+     "Overground"
+    ],
+    "mode": "overground",
+    "walkMins": 9,
+    "distanceM": 526
+   },
+   "tube": {
+    "name": "Leyton",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 15
+   },
+   "area": "Leyton",
+   "tier": 2,
+   "cycleMins": 41,
+   "availability": {
+    "kind": "date",
+    "date": "2026-11-30",
+    "flag": "early",
+    "text": "Available 30 Nov 2026"
+   },
+   "tags": [
+    "Garden",
+    "Separate lounge",
+    "Unfurnished"
+   ],
+   "id": "rm:95804736",
+   "price": 1750,
+   "links": [
+    {
+     "source": "rightmove",
+     "label": "Rightmove",
+     "url": "https://www.rightmove.co.uk/properties/95804736"
+    }
+   ],
+   "description": "",
+   "firstSeen": "2026-11-24T18:56:57Z",
+   "priceHistory": [
+    [
+     "2026-11-24T18:56:57Z",
+     1750
+    ]
+   ]
+  },
   {
    "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/94863036",
@@ -103,7 +459,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/811e78d76/94863036/811e78d7638e6774261254fb4a35b8da_max_476x317.jpeg"
    ],
    "agent": "Brian Thomas Estate Agents",
-   "addedText": "Reduced today",
+   "addedText": "Reduced yesterday",
    "firstVisible": "2026-10-28T17:10:39Z",
    "summary": "A SPACIOUS CHARACTER TWO BEDROOM GROUND FLOOR CONVERSION FLAT WITH OWN REAR GARDEN LOCATED ON THE POPULAR HARRINGAY LADDER CLOSE TO TURNPIKE LANE UNDERGROUND STATION AND HORNSEY BRITISH RAIL STATION ",
    "availableText": "2026-11-28T00:00:00Z",
@@ -184,7 +540,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/084af2e81/95758047/084af2e81e29eb961771e2b646dd278b_max_476x317.jpeg"
    ],
    "agent": "Inner City Estates",
-   "addedText": "Added today",
+   "addedText": "Added yesterday",
    "firstVisible": "2026-11-23T14:44:30Z",
    "summary": "A fantastic two bedroom flat located just moments to Leytonstone Station, E11. Close to great shopping amenities. Call now.",
    "availableText": null,
@@ -276,7 +632,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88111d294/95453799/88111d294517b1e6623bfae97e82b110_max_476x317.jpeg"
    ],
    "agent": "OpenRent",
-   "addedText": "Reduced today",
+   "addedText": "Reduced yesterday",
    "firstVisible": "2026-11-13T14:46:30Z",
    "summary": "A fantastic 2 bedroom, ground floor, furnished flat, situated in the lovely, sought after neighbourhood of Wanstead with its high street of trendy shops, restuarants and several parks. A 7 minute... ** Property Reference: 2212121 **",
    "availableText": "2027-01-02T00:00:00Z",
@@ -359,7 +715,7 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29fd66a32/95734941/29fd66a32759028ee23da851af2e4ada_max_476x317.jpeg"
    ],
    "agent": "OpenRent",
-   "addedText": "Added yesterday",
+   "addedText": "Added on 22/11/2026",
    "firstVisible": "2026-11-22T22:06:55Z",
    "summary": "Letting 2 bedroom Flat in Dalston Spacious `Maisonette Flat Centrally located in much sought after Dalston area St Marks Conservation Area . Spacious Maisonette in a Victorian house conversion... ** Property Reference: 3121349 **",
    "availableText": "2026-11-22T00:00:00Z",
@@ -441,7 +797,7 @@
     "https://media.onthemarket.com/properties/20799310/1660044218/image-2-480x320.jpg"
    ],
    "agent": "OpenRent - UK",
-   "addedText": "Added yesterday",
+   "addedText": "Added < 7 days",
    "summary": "",
    "availableText": "now",
    "features": [
@@ -513,7 +869,7 @@
     "https://media.onthemarket.com/properties/20799413/1660061783/image-0-480x320.jpg"
    ],
    "agent": "OpenRent - UK",
-   "addedText": "Added yesterday",
+   "addedText": "Added < 7 days",
    "summary": "",
    "availableText": "now",
    "features": [
@@ -684,7 +1040,12 @@
    "firstVisible": "2019-12-03T15:41:05Z",
    "summary": "Within a central location offering easy access to transport and a myriad of shops is this 2 bedroom flat which has been completed to a very good standard. ",
    "availableText": "2026-12-07T00:00:00Z",
-   "features": [],
+   "features": [
+    "Flat",
+    "2 Beds",
+    "1 Reception",
+    "1 Bathroom"
+   ],
    "station": {
     "name": "Cambridge Heath",
     "lines": [
@@ -710,7 +1071,11 @@
     "flag": "early",
     "text": "Available 7 Dec 2026"
    },
-   "tags": [],
+   "tags": [
+    "Furnished",
+    "Separate lounge"
+   ],
+   "furnished": "Furnished",
    "id": "rm:87155525",
    "price": 1950,
    "links": [
@@ -718,9 +1083,14 @@
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/87155525"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20526386/"
     }
    ],
-   "description": "",
+   "description": "We are pleased to offer this 2 bedroom first floor flat above a commercial unit and situated in a great central location and minutes from Bethnal Green tube station. The property is neutrally decorated throughout, fitted kitchen, good size reception room.   Studio  -   ",
    "firstSeen": "2026-11-21T15:24:16Z",
    "priceHistory": [
     [
@@ -816,99 +1186,6 @@
    ]
   },
   {
-   "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/95721420",
-   "title": "2 bedroom flat",
-   "address": "Brewster Road, London, E10",
-   "priceText": "£1,700 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.567569,
-   "lon": -0.012406,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2775eabdd/95721420/2775eabddb095f310ae76841b8b05c0c_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2775eabdd/95721420/2775eabddb095f310ae76841b8b05c0c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/715e4abe8/95721420/715e4abe8719ec60ba199f277f786192_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0504e841a/95721420/0504e841a7593f13ec96f751c1be3a30_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/684299f64/95721420/684299f64782e78f3bcfe5affc2e145b_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1449a7a90/95721420/1449a7a90081cdb6821f8fe85b70849c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad746cb25/95721420/ad746cb250105c7f3247ae2b5d1435f5_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7355450aa/95721420/7355450aa1bb2cc0e6874209446c0ea8_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/509461997/95721420/509461997beb4d588a9a7a95f028c0f5_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eceac2ba2/95721420/eceac2ba2f9426c7c0f73c66623c0835_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a669704b/95721420/2a669704ba7e90fa9d93e7b4615a6381_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51fd1c688/95721420/51fd1c6888ef4c0f33330d2153c62f6f_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c0283568/95721420/6c02835682a3b74ea213ecff3371c3ad_max_476x317.jpeg"
-   ],
-   "agent": "Portico",
-   "addedText": "Added on 16/11/2026",
-   "firstVisible": "2026-11-21T09:51:21Z",
-   "summary": "STUNNING TWO BEDROOM FIRST FLOOR CONVERSION – AVAILABLE NOW – NO DEPOSIT OPTION AVAILABLE",
-   "availableText": "2026-11-21T00:00:00Z",
-   "features": [
-    "High Cellings",
-    "Close To Amenities",
-    "Superb Location",
-    "Views Over Leyton Cricket Ground",
-    "Transport Links",
-    "Spacious Rooms Throughout"
-   ],
-   "station": {
-    "name": "Leyton Midland Road",
-    "lines": [
-     "Overground"
-    ],
-    "mode": "overground",
-    "walkMins": 6,
-    "distanceM": 386
-   },
-   "tube": {
-    "name": "Leyton",
-    "lines": [
-     "Central"
-    ],
-    "walkMins": 21
-   },
-   "area": "Leyton",
-   "tier": 2,
-   "cycleMins": 39,
-   "availability": {
-    "kind": "date",
-    "date": "2026-11-21",
-    "flag": "early",
-    "text": "Available 21 Nov 2026"
-   },
-   "tags": [
-    "Balcony",
-    "Separate lounge",
-    "Unfurnished"
-   ],
-   "furnished": "Unfurnished",
-   "id": "rm:95721420",
-   "price": 1700,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/95721420"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20797641/"
-    }
-   ],
-   "description": "This spacious two bedroom upper floor apartment offers comfortable living in a sought-after location. The property benefits from two generously sized bedrooms, a bright and airy separate living area and a nice size kitchen which leads onto a private balcony, providing an ideal space to enjoy fresh air.   Brewster Road is located just off Leyton High Road, so shops and amenities are within easy reach. The nearest tube station is Leyton Midland Road railway station, being only 0.2 miles away. The E10/E11 area has become extremely popular due to the trendy restaurants and cafés that have recently opened there.  EPC Rating: C Council Tax Band: B Rent excludes the tenancy deposit and any other permitted payments. Please contact us for further information or visit our website.",
-   "firstSeen": "2026-11-21T15:24:16Z",
-   "priceHistory": [
-    [
-     "2026-11-21T15:24:16Z",
-     1700
-    ]
-   ]
-  },
-  {
    "source": "onthemarket",
    "url": "https://www.onthemarket.com/details/20797811/",
    "title": "2 bedroom flat to rent",
@@ -996,13 +1273,13 @@
    "propertyType": "Flat",
    "lat": 51.534794,
    "lon": -0.072402,
-   "image": "https://media.onthemarket.com/properties/20796033/1659819615/image-0-480x320.jpg",
+   "image": "https://media.onthemarket.com/properties/20796033/1660457170/image-0-480x320.jpg",
    "images": [
-    "https://media.onthemarket.com/properties/20796033/1659819615/image-0-480x320.jpg",
-    "https://media.onthemarket.com/properties/20796033/1659819615/image-1-480x320.jpg",
-    "https://media.onthemarket.com/properties/20796033/1659819615/image-2-480x320.jpg",
-    "https://media.onthemarket.com/properties/20796033/1659819615/image-3-480x320.jpg",
-    "https://media.onthemarket.com/properties/20796033/1659819615/image-4-480x320.jpg"
+    "https://media.onthemarket.com/properties/20796033/1660457170/image-0-480x320.jpg",
+    "https://media.onthemarket.com/properties/20796033/1660457170/image-1-480x320.jpg",
+    "https://media.onthemarket.com/properties/20796033/1660457170/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/20796033/1660457170/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/20796033/1660457170/image-4-480x320.jpg"
    ],
    "agent": "Dimension Estates - Hackney",
    "addedText": "Added < 7 days",
@@ -1309,7 +1586,7 @@
    "url": "https://www.rightmove.co.uk/properties/95425920",
    "title": "2 bedroom flat",
    "address": "Bow Road, London, E3",
-   "priceText": "£1,999 pcm",
+   "priceText": "£1,975 pcm",
    "beds": 2,
    "baths": 1,
    "propertyType": "Flat",
@@ -1332,7 +1609,7 @@
    "addedText": "Reduced on 18/11/2026",
    "firstVisible": "2026-11-12T18:15:19Z",
    "summary": "This is a two bedroom, Raised Ground Floor apartment in Bow, London in a white stucco-fronted period property and it is fully furnished for you to drop your bags and move in. It is ideally suited... ** Property Reference: 3109596 **",
-   "availableText": "2026-11-23T00:00:00Z",
+   "availableText": "2026-11-24T00:00:00Z",
    "features": [
     "No Agent Fees",
     "Property Reference Number: 3109596"
@@ -1360,9 +1637,9 @@
    "cycleMins": 32,
    "availability": {
     "kind": "date",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "flag": "early",
-    "text": "Available 23 Nov 2026"
+    "text": "Available 24 Nov 2026"
    },
    "tags": [
     "Furnished",
@@ -2687,90 +2964,6 @@
   },
   {
    "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/95721177",
-   "title": "2 bedroom flat",
-   "address": "Brewster Road, Leyton, E10",
-   "priceText": "£1,700 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.5671,
-   "lon": -0.013446,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27f60145c/95721177/27f60145c31df5eed61d1502c151c7cd_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27f60145c/95721177/27f60145c31df5eed61d1502c151c7cd_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6628a474a/95721177/6628a474ae7dbe454bf54478d0effcf1_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10a608999/95721177/10a6089997aedc576a84f3fcb3bb6e76_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4cda99085/95721177/4cda99085d59b9e5c4e0546737d70689_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a66a313e8/95721177/a66a313e8a6c6394c576e789788de962_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c661bf0c9/95721177/c661bf0c94270098e35d8e1dad211d67_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c690df9a/95721177/7c690df9aade739c39b577c5270952a2_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/106c0fe25/95721177/106c0fe25420a29022edd50d29f551c2_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a139fec6c/95721177/a139fec6c0100990996de87e33d51589_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e891b0ed7/95721177/e891b0ed72f2d965443dbc18ddc78572_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/baf27f2f8/95721177/baf27f2f89f9c2c4a81f20d46c2703b7_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/138beaca1/95721177/138beaca11018f5b793d1f8c86492bde_max_476x317.jpeg"
-   ],
-   "agent": "Portico",
-   "addedText": "Added on 21/11/2026",
-   "firstVisible": "2026-11-21T09:38:50Z",
-   "summary": "NEWLY DECORATED TWO DOUBLE BEDROOM FLAT IN SOUGHT AFTER LOCATION – AVAILABLE NOW – NO DEPOSIT OPTION AVAILABLE",
-   "availableText": "2026-09-28T00:00:00Z",
-   "features": [
-    "High Cellings",
-    "Close To Amenities"
-   ],
-   "station": {
-    "name": "Leyton Midland Road",
-    "lines": [
-     "Overground"
-    ],
-    "mode": "overground",
-    "walkMins": 8,
-    "distanceM": 475
-   },
-   "tube": {
-    "name": "Leyton",
-    "lines": [
-     "Central"
-    ],
-    "walkMins": 21
-   },
-   "area": "Leyton",
-   "tier": 2,
-   "cycleMins": 39,
-   "availability": {
-    "kind": "date",
-    "date": "2026-09-28",
-    "flag": "early",
-    "text": "Available 28 Sep 2026"
-   },
-   "tags": [],
-   "id": "rm:95534274",
-   "price": 1700,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/95721177"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20766613/"
-    }
-   ],
-   "description": "The property is situated on the first floor of this attractive conversion house with well proportioned rooms. It comprises your own entrance, open plan living kitchen area, two good size double bedrooms and a large bathroom. The property benefits from a wealth of character to include high ceilings and new carpets throughout.  Brewster Road is located just off Leyton High Road, so shops and amenities are within easy reach. The nearest tube station is Leyton Midland Road railway station, being only 0.2 miles away. The E10/E11 area has become extremely popular due to the trendy restaurants and cafés that have recently opened there.  EPC Rating: C Council Tax Band: B Rent excludes the tenancy deposit and any other permitted payments. Please contact us for further information or visit our website.",
-   "firstSeen": "2026-11-16T17:04:50Z",
-   "priceHistory": [
-    [
-     "2026-11-16T17:04:50Z",
-     1700
-    ]
-   ]
-  },
-  {
-   "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/95466237",
    "title": "2 bedroom apartment",
    "address": "Springfield Road, London, N15",
@@ -2939,6 +3132,81 @@
     ]
    ],
    "reducedFrom": 2000
+  },
+  {
+   "source": "onthemarket",
+   "url": "https://www.onthemarket.com/details/20751226/",
+   "title": "3 bedroom property to rent",
+   "address": "Claude Road, Leyton E10",
+   "priceText": "£1,950",
+   "beds": 3,
+   "baths": 2,
+   "propertyType": "Property",
+   "lat": 51.566761,
+   "lon": -0.004195,
+   "image": "https://media.onthemarket.com/properties/20751226/1658411198/image-0-480x320.png",
+   "images": [
+    "https://media.onthemarket.com/properties/20751226/1658411198/image-0-480x320.png",
+    "https://media.onthemarket.com/properties/20751226/1658411178/image-1-480x320.jpg",
+    "https://media.onthemarket.com/properties/20751226/1658411198/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/20751226/1658411178/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/20751226/1658411026/image-4-480x320.jpg"
+   ],
+   "agent": "Sincere Lettings - London",
+   "addedText": "Added < 14 days",
+   "summary": "",
+   "availableText": "now",
+   "features": [
+    "2 Bedrooms 2 Bathrooms",
+    "Washing Machine"
+   ],
+   "furnished": "Part furnished",
+   "station": {
+    "name": "Leyton Midland Road",
+    "lines": [
+     "Overground"
+    ],
+    "mode": "overground",
+    "walkMins": 7,
+    "distanceM": 419
+   },
+   "tube": {
+    "name": "Leytonstone",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 14
+   },
+   "area": "Leyton",
+   "tier": 2,
+   "cycleMins": 41,
+   "availability": {
+    "kind": "now",
+    "date": null,
+    "flag": "early",
+    "text": "Available now"
+   },
+   "tags": [
+    "Part furnished",
+    "Separate lounge"
+   ],
+   "id": "otm:20751226",
+   "price": 1950,
+   "links": [
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20751226/"
+    }
+   ],
+   "description": "Sincere Lettings is delighted to present this well-maintained and tastefully furnished maisonette, featuring modern furnishings throughout. The property offers two generously sized bedrooms, a separate reception room and bathroom facilities, providing comfortable and practical living accommodation.  Further benefits include stylish wood-effect laminate flooring, gas central heating and double-glazed windows.  Ideally situated within walking distance of Leyton Station, the property benefits from excellent transport links, making it ideal for commuters. A variety of local amenities are also close by, including bus routes, shops, restaurants, cafés, bars and leisure facilities.  *KEY FEATURES* 3 Bedrooms 2 Bathrooms Washing Machine provided Gas Central Heating Part-Furnished   *Tenant Fees*  Rent: As stated Holding Deposit: 1 week’s rent Tenancy Deposit: 5 weeks’ rent (capped at £50,000 annual rent) Changes to the tenancy requested by the tenant: £50 (or reasonable costs incurred) Early termination (if requested by the tenant): Landlord’s reasonable costs Default fees: Late rent interest (3% above Bank of England base rate after 14 days), replacement keys/security devices No other fees are payable.  ",
+   "firstSeen": "2026-11-13T15:25:27Z",
+   "priceHistory": [
+    [
+     "2026-11-13T15:25:27Z",
+     1950
+    ]
+   ]
   },
   {
    "source": "rightmove",
@@ -3126,7 +3394,7 @@
   },
   {
    "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/95367096",
+   "url": "https://www.rightmove.co.uk/properties/95796105",
    "title": "2 bedroom apartment",
    "address": "Nexus Court, Kirkdale Road, Leytonstone, E11",
    "priceText": "£1,900 pcm",
@@ -3135,24 +3403,24 @@
    "propertyType": "Apartment",
    "lat": 51.56943,
    "lon": 0.010304,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a320c4370/95367096/a320c4370f167367f2294965b7326a5c_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/917f38368/95796105/917f383683b2477851805a356d803d11_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a320c4370/95367096/a320c4370f167367f2294965b7326a5c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/93187e135/95367096/93187e1357b780e93dc7716f5c2a4592_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/097125126/95367096/0971251264bb11423415a54b6ce14ebf_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb9f0f194/95367096/eb9f0f194d0bd557f65d0cd4fe35ee1c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcbf790bc/95367096/dcbf790bcd9f3ef1e3e231339f595f97_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/370be800c/95367096/370be800c4c8fb021ce762550d801276_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6eca8853b/95367096/6eca8853b37628f86f7bbdfa0071901c_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dbae9f388/95367096/dbae9f38875b88df3190c7bef4fae562_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8aa121bd0/95367096/8aa121bd0f81cc82d772eac03d8b671a_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b1878751/95367096/0b18787513d6ccf3d6f8d6e023045805_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37bfa422e/95367096/37bfa422e0d2676331f76619be9facbf_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9103f130f/95367096/9103f130f7937bdca9946faf900a0523_max_476x317.jpeg"
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/917f38368/95796105/917f383683b2477851805a356d803d11_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/396de0e3b/95796105/396de0e3bd0300999f3302243d68268f_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a50428338/95796105/a50428338c43de27027ce9ee9fe51df4_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6550931f8/95796105/6550931f848bcaa2b4e6b8800a9263fa_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f427a64a7/95796105/f427a64a7ee02bbbb62472abcea4538d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/046dac931/95796105/046dac931df6d38949ffdd7f9fb7e727_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/907a76964/95796105/907a76964881bcfbbbf16476a5d0d1a8_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a44a07730/95796105/a44a0773010adbeccd0b63f8cf3f4e0e_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1168c8a45/95796105/1168c8a4589483329ad493e3b0e05109_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f310492/95796105/77f31049295b791d6c2bd1076cb4855d_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef000e5d4/95796105/ef000e5d4a49657f7770926bc6179da7_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e97325ca/95796105/2e97325caa5cb0482c4338bf498dff43_max_476x317.jpeg"
    ],
    "agent": "Inner City Estates",
-   "addedText": "Added on 11/11/2026",
-   "firstVisible": "2026-11-11T14:16:42Z",
+   "addedText": "Added today",
+   "firstVisible": "2026-11-24T12:04:05Z",
    "summary": "Available immediately for rent is this fantastic two bedroom apartment, located within a sought after development opposite Leytonstone tube station, E11. Call now.",
    "availableText": "Immediately",
    "features": [
@@ -3199,7 +3467,7 @@
     {
      "source": "rightmove",
      "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/95367096"
+     "url": "https://www.rightmove.co.uk/properties/95796105"
     },
     {
      "source": "onthemarket",
@@ -3699,7 +3967,7 @@
     "https://media.onthemarket.com/properties/20728422/1657754553/image-4-480x320.jpg"
    ],
    "agent": "OpenRent - UK",
-   "addedText": "Added < 14 days",
+   "addedText": "Added > 14 days",
    "summary": "",
    "availableText": "now",
    "features": [
@@ -3923,11 +4191,7 @@
     "flag": "early",
     "text": "Available 28 Nov 2026"
    },
-   "tags": [
-    "Separate lounge",
-    "Unfurnished"
-   ],
-   "furnished": "Unfurnished",
+   "tags": [],
    "id": "rm:94018401",
    "price": 1700,
    "links": [
@@ -3935,14 +4199,9 @@
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/94018401"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20492122/"
     }
    ],
-   "description": "  A well-presented and generously proportioned two-bedroom split-level maisonette, ideally situated above commercial premises on Lordship Lane, N22.  The property benefits from its own private rear entrance and offers well-balanced accommodation arranged over two floors, making it an excellent choice for a professional couple, sharers or a small family.   *Please note - white goods are not included, tenants will need to bring their own washing machine and fridge-freezer.   Internally, the property is presented in good decorative condition throughout and comprises a bright and spacious reception room, providing a comfortable and versatile living space, together with a separate fitted kitchen offering ample storage and workspace, as well as room for a breakfast dining area. There are two well-proportioned double bedrooms, both offering good levels of natural light, and a contemporary bathroom fitted with both a full-size bath and separate shower facilities.  Further benefits include double glazing throughout and gas central heating, providing a comfortable and practical home throughout the year. The property's private rear entrance also provides a useful degree of privacy and convenience.  The location is particularly well connected, with Wood Green's extensive range of amenities and transport links within easy reach. Wood Green Underground Station and local bus services provide convenient connections into Central London and beyond, while Lordship Lane and the surrounding High ",
+   "description": "",
    "firstSeen": "2026-11-09T17:31:33Z",
    "priceHistory": [
     [
@@ -4052,95 +4311,6 @@
   },
   {
    "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/95143722",
-   "title": "3 bedroom flat",
-   "address": "New Wanstead, E11",
-   "priceText": "£2,000 pcm",
-   "beds": 3,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.57575,
-   "lon": 0.018532,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53a3b4828/95143722/53a3b4828096e9f964d67563f7cff4a2_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53a3b4828/95143722/53a3b4828096e9f964d67563f7cff4a2_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bd0d893f/95143722/4bd0d893fa147930396d8ea05ae71e2f_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf719c70a/95143722/cf719c70ab8f1bf5f980b7be7e8a150f_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/25bb2b2ee/95143722/25bb2b2ee8549076e0540306d210120b_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd819ecbd/95143722/fd819ecbd17e815bb0a6505cf41df407_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d6217b9d/95143722/5d6217b9d4eaa5fc04e4b5f5f200616d_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a5253ae4/95143722/4a5253ae4e58577ba15b5d1dec7829b5_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/febfdbc08/95143722/febfdbc088d93f8be069d68f787f7837_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/adb37132b/95143722/adb37132bb9e998457d1760e7a44c14e_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1148a3a3/95143722/c1148a3a3adc54e367b91295196d9533_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80bebd3e7/95143722/80bebd3e791041a5ddfef17c7375e26e_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cfa52bc97/95143722/cfa52bc97adc53174bd9582461340a4b_max_476x317.jpeg"
-   ],
-   "agent": "Lloyds Estate Agents",
-   "addedText": "Added on 05/11/2026",
-   "firstVisible": "2026-11-05T10:52:57Z",
-   "summary": "Discover this beautifully maintained three-bedroom apartment, offering private parking, balcony, and beautiful communal gardens all just a short stroll from Wanstead High Street.",
-   "availableText": "2026-12-01T00:00:00Z",
-   "features": [
-    "Three Bedrooms",
-    "Lounge-Diner with Private Balcony",
-    "Lamintae Flooring Throughout/Neutral Decor",
-    "Parking Space",
-    "Beautiful Communal Gardens",
-    "Storage Shed- Perfect for Cyclists!",
-    "Minutes to Snaresbrook & Wanstead Central Line Tube Stations",
-    "Gently Stroll into Wanstead's Ever Popular High Street",
-    "Only Suitable for 2 Professional Sharers, Couple or Small Family (Selective License Conditions)",
-    "View Today!"
-   ],
-   "station": {
-    "name": "Snaresbrook",
-    "lines": [
-     "Central"
-    ],
-    "mode": "tube",
-    "walkMins": 10,
-    "distanceM": 600
-   },
-   "tube": {
-    "name": "Snaresbrook",
-    "lines": [
-     "Central"
-    ],
-    "walkMins": 10
-   },
-   "area": "Wanstead",
-   "tier": 2,
-   "cycleMins": 49,
-   "availability": {
-    "kind": "date",
-    "date": "2026-12-01",
-    "flag": "early",
-    "text": "Available 1 Dec 2026"
-   },
-   "tags": [
-    "Balcony"
-   ],
-   "id": "rm:95143722",
-   "price": 2000,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/95143722"
-    }
-   ],
-   "description": "",
-   "firstSeen": "2026-11-05T15:31:55Z",
-   "priceHistory": [
-    [
-     "2026-11-05T15:31:55Z",
-     2000
-    ]
-   ]
-  },
-  {
-   "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/94608318",
    "title": "2 bedroom flat",
    "address": "Hackney Road, Shoreditch, London, E2",
@@ -4150,11 +4320,11 @@
    "propertyType": "Flat",
    "lat": 51.53125,
    "lon": -0.06889,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37e9f54d1/94608318/37e9f54d1c8f4f3736d0b9772050d038_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e06dba39/94608318/7e06dba395428cb216e6f15ae05bb375_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37e9f54d1/94608318/37e9f54d1c8f4f3736d0b9772050d038_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e06dba39/94608318/7e06dba395428cb216e6f15ae05bb375_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/383c029c5/94608318/383c029c5d4c763189b5fb686316abb7_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37e9f54d1/94608318/37e9f54d1c8f4f3736d0b9772050d038_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0c4fcc53/94608318/c0c4fcc537214290f7d58fec064ac2c4_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3280d52e8/94608318/3280d52e815f43b769833a4426be050d_max_476x317.jpeg"
    ],
@@ -4322,7 +4492,7 @@
     "https://media.onthemarket.com/properties/20771119/1659110019/image-4-480x320.jpg"
    ],
    "agent": "Inner City Estates - Bow",
-   "addedText": "Added < 7 days",
+   "addedText": "Added < 14 days",
    "summary": "",
    "availableText": null,
    "features": [
@@ -4548,93 +4718,6 @@
     [
      "2026-11-01T22:28:38Z",
      1650
-    ]
-   ]
-  },
-  {
-   "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/92771529",
-   "title": "2 bedroom maisonette",
-   "address": "Hardy Passage, London, N22",
-   "priceText": "£1,950 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Maisonette",
-   "lat": 51.597912,
-   "lon": -0.109915,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fdbf9db8d/92771529/fdbf9db8d182f8e7d0913a3ea190d655_max_476x317.png",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fdbf9db8d/92771529/fdbf9db8d182f8e7d0913a3ea190d655_max_476x317.png",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c2bb40f8/92771529/4c2bb40f80a749fdeff5c4db158be407_max_476x317.png",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9edf251e2/92771529/9edf251e2846fb9e89c7ace0d75cf059_max_476x317.png",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ae836c0a/92771529/4ae836c0aa36f30143533d59be3d936b_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27b8fd304/92771529/27b8fd3046efa6a9c98b14aba44ef3e5_max_476x317.png",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0df5f6348/92771529/0df5f634813fba8f7e2f0bccf14c6cb9_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f11431948/92771529/f11431948ab4b1c87669bd0d87b7ead4_max_476x317.png",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b9c25b71/92771529/5b9c25b7190b034d7700902f9ba49ec7_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1162bf2e/92771529/b1162bf2e89743b723cf4d88e8a015b7_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4c99132a/92771529/b4c99132aae56fcd3f2917992e3be384_max_476x317.jpeg"
-   ],
-   "agent": "Mi Homes",
-   "addedText": "Reduced on 27/10/2026",
-   "firstVisible": "2026-09-04T17:52:09Z",
-   "summary": "Newly renovated split-level 2-bed maisonette near Wood Green Station. High-spec kitchen, luxury bathroom, fitted wardrobes. Fully furnished option. Available now. Council Tax Band B. EPC C.",
-   "availableText": "2026-10-27T00:00:00Z",
-   "features": [
-    "Luxurious bathroom with matte black fixtures",
-    "Close to all amenities and transport links",
-    "Stone works surfaces and splash-backs",
-    "New renovated to exacting standards",
-    "Contemporary, open plan living",
-    "Split level apartments",
-    "Semi integrated kitchen with washer/dryer and dishwasher",
-    "2 double bedrooms with bespoke fitted wardrobes",
-    "Can be provided fully furnished at an additional £160 per month",
-    "Available from 5th October"
-   ],
-   "station": {
-    "name": "Wood Green",
-    "lines": [
-     "Piccadilly"
-    ],
-    "mode": "tube",
-    "walkMins": 1,
-    "distanceM": 48
-   },
-   "tube": {
-    "name": "Wood Green",
-    "lines": [
-     "Piccadilly"
-    ],
-    "walkMins": 1
-   },
-   "area": "Wood Green",
-   "tier": 2,
-   "cycleMins": 33,
-   "availability": {
-    "kind": "date",
-    "date": "2026-10-27",
-    "flag": "early",
-    "text": "Available 27 Oct 2026"
-   },
-   "tags": [
-    "Furnished"
-   ],
-   "id": "rm:92771529",
-   "price": 1950,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/92771529"
-    }
-   ],
-   "description": "",
-   "firstSeen": "2026-11-01T22:28:38Z",
-   "priceHistory": [
-    [
-     "2026-11-01T22:28:38Z",
-     1950
     ]
    ]
   },
@@ -5130,7 +5213,7 @@
    "addedText": "Added on 27/10/2026",
    "firstVisible": "2026-10-27T13:37:09Z",
    "summary": "Available from December, this well positioned ground floor two bedroom flat is situated on the popular Coppermill Lane. The property comprises two bedrooms, living room, a separate kitchen and a three piece bathroom. Further benefits include a private rear garden, providing a great outdoor s...",
-   "availableText": "2026-12-05T00:00:00Z",
+   "availableText": "2026-12-12T00:00:00Z",
    "features": [
     "Ground floor flat",
     "Two bedrooms",
@@ -5165,14 +5248,15 @@
    "cycleMins": 36,
    "availability": {
     "kind": "date",
-    "date": "2026-12-05",
-    "flag": "early",
-    "text": "Available 5 Dec 2026"
+    "date": "2026-12-12",
+    "flag": "ok",
+    "text": "Available 12 Dec 2026"
    },
    "tags": [
     "Garden",
     "Unfurnished"
    ],
+   "furnished": "Unfurnished",
    "id": "rm:94781541",
    "price": 1800,
    "links": [
@@ -5180,9 +5264,14 @@
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/94781541"
+    },
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/20813963/"
     }
    ],
-   "description": "",
+   "description": " \rA well presented two bedroom, ground floor apartment just moments from St James Street station and the beginnings of the wonderful amenities of Walthamstow High Street (home of Europe's longest street market).  Walthamstow Wetlands, at 500 acres of wild natural blue and green space London's largest nature reserve, is just a third of a mile on foot. The perfect escape from city life.  LET'S TALK PROPERTY...  You'll be loving life with all the benefits of this smartly presented first floor period conversion. Your front reception is a beautifully bright, pristine space with engineered wood flooring underfoot and classic venetian blinds on that huge bay window, flooding the space with natural light. It's a wonderful hosting option that you'll be proud to welcome friends and family into time and time again.  Elsewhere both bedrooms are doubles and your kitchen's artfully arranged with a pair of timber worktops sat atop twin sets of fitted cabinets backed with on trend metro tile splashbacks and finished with chrome fittings.  Outside, St James Street station is just five minutes walk away and will whisk you directly to Liverpool Street in twenty. Here's also where you'll find the start of Walthamstow High Street, home to a huge range of shops, cafes and super markets.  \r IMPORTANT NOTE TO POTENTIAL PURCHASERS & TENANTS:   We endeavour to make our particulars accurate and reliable, however, they do not constitute or form part of an offer or any contract and none is to be relied u",
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
@@ -5441,14 +5530,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-20T16:10:40Z",
-     1800
-    ],
-    [
-     "2026-11-21T15:24:16Z",
-     1895
-    ],
-    [
      "2026-11-21T15:24:16Z",
      1800
     ],
@@ -5463,93 +5544,13 @@
     [
      "2026-11-23T19:18:56Z",
      1895
-    ]
-   ],
-   "reducedFrom": 1950
-  },
-  {
-   "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/92273457",
-   "title": "2 bedroom house",
-   "address": "Hatherley Road, Walthamstow, London",
-   "priceText": "£1,895 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "House",
-   "lat": 51.586049,
-   "lon": -0.025431,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/15674f392/92273457/15674f3928f1af73893b2e646a243c70_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/15674f392/92273457/15674f3928f1af73893b2e646a243c70_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/15a6f3d79/92273457/15a6f3d795ee6a1cfc5e68a5122c4f31_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2eb09b9c/92273457/c2eb09b9cea9f70c0fee0bdf1c9b0aeb_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e866108ca/92273457/e866108ca179bdbbbb5eb72fc1d5fc4b_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c8539abb/92273457/5c8539abbe7b65a206619fad7e478bf4_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/747fbd035/92273457/747fbd035fcdd27ddd25693d3207aefb_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2089bafc1/92273457/2089bafc1de1189a90c18e91f806e09b_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d0a957db/92273457/9d0a957db703da2ced36a9e7e243c0f8_max_476x317.jpeg"
-   ],
-   "agent": "Lifestyle Property",
-   "addedText": "Reduced on 04/11/2026",
-   "firstVisible": "2026-08-21T15:34:37Z",
-   "summary": "Lifestyle Property is delighted to bring to market for rent a 2 bedroom house on Hatherley Road, Walthamstow. Split over three floors, the property consists of a spacious open plan living room and kitchen, two double bedrooms on both first and second floors, family bathroom and an easy to maintai...",
-   "availableText": "2026-08-21T00:00:00Z",
-   "features": [
-    "2 Bedroom House",
-    "Sought After Location",
-    "2 Double Bedrooms",
-    "Open Plan Living Room and Kitchen",
-    "Private Garden",
-    "Early Viewing Recommended"
-   ],
-   "station": {
-    "name": "Walthamstow Central",
-    "lines": [
-     "Victoria",
-     "Overground"
-    ],
-    "mode": "tube",
-    "walkMins": 8,
-    "distanceM": 521
-   },
-   "tube": {
-    "name": "Walthamstow Central",
-    "lines": [
-     "Victoria",
-     "Overground"
-    ],
-    "walkMins": 8
-   },
-   "area": "Walthamstow",
-   "tier": 2,
-   "cycleMins": 41,
-   "availability": {
-    "kind": "date",
-    "date": "2026-08-21",
-    "flag": "early",
-    "text": "Available 21 Aug 2026"
-   },
-   "tags": [
-    "Garden"
-   ],
-   "id": "rm:92273457",
-   "price": 1895,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/92273457"
-    }
-   ],
-   "description": "",
-   "firstSeen": "2026-11-01T22:28:38Z",
-   "priceHistory": [
-    [
-     "2026-11-01T22:28:38Z",
-     1950
     ],
     [
-     "2026-11-04T15:29:00Z",
+     "2026-11-23T19:18:56Z",
+     1800
+    ],
+    [
+     "2026-11-24T18:56:57Z",
      1895
     ]
    ],
@@ -5732,14 +5733,6 @@
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
-     "2026-11-21T15:24:16Z",
-     1895
-    ],
-    [
-     "2026-11-21T15:24:16Z",
-     1800
-    ],
-    [
      "2026-11-22T15:20:42Z",
      1895
     ],
@@ -5753,6 +5746,14 @@
     ],
     [
      "2026-11-23T19:18:56Z",
+     1800
+    ],
+    [
+     "2026-11-24T18:56:57Z",
+     1895
+    ],
+    [
+     "2026-11-24T18:56:57Z",
      1800
     ]
    ],
@@ -5938,7 +5939,7 @@
    "url": "https://www.rightmove.co.uk/properties/92664819",
    "title": "2 bedroom apartment",
    "address": "Manse Road, London, N16",
-   "priceText": "£1,800 pcm",
+   "priceText": "£1,700 pcm",
    "beds": 2,
    "baths": 2,
    "propertyType": "Apartment",
@@ -5954,10 +5955,10 @@
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7128555ea/92664819/7128555eac31cee65d7adc34632ee80d_max_476x317.png"
    ],
    "agent": "bigmove estate agents",
-   "addedText": "Reduced on 02/11/2026",
+   "addedText": "Reduced today",
    "firstVisible": "2026-09-02T16:52:12Z",
    "summary": "FRESHLY DECORATED | TWO LARGE DOUBLE BEDROOMS | ADDITIONAL OFFICE / SECOND RECEPTION | LARGE OPEN-PLAN KITCHEN & LIVING SPACE | HIGH CEILINGS | EN-SUITE BEDROOM | COMMUNAL PATIO | SECURE FOB ENTRY | 0.1 MILES FROM RECTORY ROAD STATION",
-   "availableText": "2026-09-22T00:00:00Z",
+   "availableText": "2026-11-26T00:00:00Z",
    "features": [
     "Available now",
     "Spacious",
@@ -5989,15 +5990,15 @@
    "cycleMins": 23,
    "availability": {
     "kind": "date",
-    "date": "2026-09-22",
+    "date": "2026-11-26",
     "flag": "early",
-    "text": "Available 22 Sep 2026"
+    "text": "Available 26 Nov 2026"
    },
    "tags": [
     "Patio"
    ],
    "id": "rm:92664819",
-   "price": 1800,
+   "price": 1700,
    "links": [
     {
      "source": "rightmove",
@@ -6015,6 +6016,10 @@
     [
      "2026-11-02T17:06:10Z",
      1800
+    ],
+    [
+     "2026-11-24T18:56:57Z",
+     1700
     ]
    ],
    "reducedFrom": 1900
@@ -6214,84 +6219,6 @@
   },
   {
    "source": "rightmove",
-   "url": "https://www.rightmove.co.uk/properties/94301451",
-   "title": "2 bedroom flat",
-   "address": "Station Parade, High Road Leyton",
-   "priceText": "£1,650 pcm",
-   "beds": 2,
-   "baths": 1,
-   "propertyType": "Flat",
-   "lat": 51.5685,
-   "lon": -0.008746,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/be4c72811/94301451/be4c72811cc74d293fb2d6e31e62fc0b_max_476x317.jpeg",
-   "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/be4c72811/94301451/be4c72811cc74d293fb2d6e31e62fc0b_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a5c27fb1a/94301451/a5c27fb1abe9ee690bee225641ae060a_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c07494c79/94301451/c07494c796af1375b75a07beca29e4c7_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ad894b64/94301451/5ad894b64f310377575edf5f78ac9277_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/129634441/94301451/129634441c41b8f7687b906fa5e3d63d_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8692c9fa0/94301451/8692c9fa0a1fdf0e03a61b40aa82479a_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33d651e52/94301451/33d651e525671b55e9165e3542bed8a3_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a4ceb8e0/94301451/5a4ceb8e0d69c40c122e7f9ec18a3774_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe541d0fc/94301451/fe541d0fc29d8b9e67e5bc3ab5127b15_max_476x317.jpeg"
-   ],
-   "agent": "Hammonds",
-   "addedText": "Reduced on 04/11/2026",
-   "firstVisible": "2026-10-14T14:06:43Z",
-   "summary": "*VIDEO AVAILABLE ON REQUEST* Hammonds are delighted to present this charming 2/3 bed property on High Road Leyton. Featuring 2 spacious double bedrooms, fitted kitchen and modern bathroom this property is not to be missed by those living and working in East London",
-   "availableText": "2026-10-14T00:00:00Z",
-   "features": [],
-   "station": {
-    "name": "Leyton Midland Road",
-    "lines": [
-     "Overground"
-    ],
-    "mode": "overground",
-    "walkMins": 2,
-    "distanceM": 143
-   },
-   "tube": {
-    "name": "Leytonstone",
-    "lines": [
-     "Central"
-    ],
-    "walkMins": 19
-   },
-   "area": "Leyton",
-   "tier": 2,
-   "cycleMins": 41,
-   "availability": {
-    "kind": "date",
-    "date": "2026-10-14",
-    "flag": "early",
-    "text": "Available 14 Oct 2026"
-   },
-   "tags": [],
-   "id": "rm:94301451",
-   "price": 1650,
-   "links": [
-    {
-     "source": "rightmove",
-     "label": "Rightmove",
-     "url": "https://www.rightmove.co.uk/properties/94301451"
-    }
-   ],
-   "description": "",
-   "firstSeen": "2026-11-01T22:28:38Z",
-   "priceHistory": [
-    [
-     "2026-11-01T22:28:38Z",
-     1700
-    ],
-    [
-     "2026-11-04T15:29:00Z",
-     1650
-    ]
-   ],
-   "reducedFrom": 1700
-  },
-  {
-   "source": "rightmove",
    "url": "https://www.rightmove.co.uk/properties/93473631",
    "title": "3 bedroom flat",
    "address": "Station Parade, High Road Leyton, London",
@@ -6352,7 +6279,6 @@
    "tags": [
     "Unfurnished"
    ],
-   "furnished": "Unfurnished",
    "id": "rm:93473631",
    "price": 1900,
    "links": [
@@ -6360,14 +6286,9 @@
      "source": "rightmove",
      "label": "Rightmove",
      "url": "https://www.rightmove.co.uk/properties/93473631"
-    },
-    {
-     "source": "onthemarket",
-     "label": "OnTheMarket",
-     "url": "https://www.onthemarket.com/details/20394794/"
     }
    ],
-   "description": "*VIDEO AVAILABLE ON REQUEST*  Hammonds are delighted to present this modern and airy three-bed apartment. This third-floor property, with no lift, boasts three spacious bedrooms, is well-naturally lit throughout, and comes unfurnished.  Reside here and benefit from the close proximity to Leyton Underground, plentiful local amenities, chain and independent eateries and outlets in the immediate and broader vicinity, a stunning and spacious three bed property at a highly reasonable price and good links into the city.   -Three Bedrooms  -    -Light And Airy Space  -    -Fitted Kitchen  - -Unfurnished Property With White Goods   -Five Mins To Underground Station   -Good Inner-City Transport Links  -    -Well Naturally-Lit  -   ",
+   "description": "",
    "firstSeen": "2026-11-01T22:28:38Z",
    "priceHistory": [
     [
@@ -6611,6 +6532,90 @@
      2000
     ]
    ]
+  },
+  {
+   "source": "onthemarket",
+   "url": "https://www.onthemarket.com/details/15017764/",
+   "title": "2 bedroom apartment to rent",
+   "address": "Brooksbank Street, London,  E9",
+   "priceText": "£1,850",
+   "beds": 2,
+   "baths": 1,
+   "propertyType": "Apartment",
+   "lat": 51.5445519,
+   "lon": -0.046878,
+   "image": "https://media.onthemarket.com/properties/15017764/1637565442/image-0-480x320.png",
+   "images": [
+    "https://media.onthemarket.com/properties/15017764/1637565442/image-0-480x320.png",
+    "https://media.onthemarket.com/properties/15017764/1637565442/image-1-480x320.png",
+    "https://media.onthemarket.com/properties/15017764/1637565442/image-2-480x320.jpg",
+    "https://media.onthemarket.com/properties/15017764/1637565442/image-3-480x320.jpg",
+    "https://media.onthemarket.com/properties/15017764/1637565442/image-4-480x320.jpg"
+   ],
+   "agent": "Victor Michael - Stratford",
+   "addedText": "Reduced today",
+   "summary": "",
+   "availableText": null,
+   "features": [
+    "First Floor Flat",
+    "Three piece bathroom",
+    "Study"
+   ],
+   "furnished": "Unfurnished",
+   "station": {
+    "name": "Homerton",
+    "lines": [
+     "Overground"
+    ],
+    "mode": "overground",
+    "walkMins": 7,
+    "distanceM": 412
+   },
+   "tube": {
+    "name": "Bethnal Green",
+    "lines": [
+     "Central"
+    ],
+    "walkMins": 33
+   },
+   "area": "Homerton",
+   "tier": 2,
+   "cycleMins": 26,
+   "availability": {
+    "kind": "unknown",
+    "date": null,
+    "flag": "unknown",
+    "text": null
+   },
+   "tags": [
+    "Unfurnished"
+   ],
+   "id": "otm:15017764",
+   "price": 1850,
+   "links": [
+    {
+     "source": "onthemarket",
+     "label": "OnTheMarket",
+     "url": "https://www.onthemarket.com/details/15017764/"
+    }
+   ],
+   "description": " Explore the beauty of London living with this stunning two-bedroom apartment situated on Brooksbank Street, in the heart of the vibrant city.   As you enter, you'll be greeted by a spacious reception area bathed in natural light, perfect for relaxing after a long day. The neutral decor creates an inviting atmosphere, allowing you to personalize the space as per your preference. A bright and fully fitted kitchen awaits the passionate home chef, equipped with modern appliances and ample storage for all your culinary needs.  The apartment features two bedrooms, offering ample space for a growing family, flatmates, or those in need of a home office. The master bedroom invites you to unwind with its cozy ambiance, while the second bedroom provides versatility, whether for guests or a peaceful sanctuary.  The three-piece bathroom showcases elegance with its contemporary fixtures, offering a luxurious experience when preparing for your day or winding down at night. With gas central heating and double-glazed windows, you can rest easy knowing that you will be comfortable all year round, while also benefiting from reduced energy costs.  Located just 0.3 miles from Homerton Station, commuting to work or exploring the city becomes a breeze. You'll also find yourself near a wide array of local amenities, including shops, supermarkets, trendy cafes, and international restaurants. For nature enthusiasts, beautiful parks are within walking distance, providing a perfect escape from the hust",
+   "firstSeen": "2026-11-01T22:28:38Z",
+   "priceHistory": [
+    [
+     "2026-11-01T22:28:38Z",
+     2000
+    ],
+    [
+     "2026-11-10T15:39:00Z",
+     1900
+    ],
+    [
+     "2026-11-24T18:56:57Z",
+     1850
+    ]
+   ],
+   "reducedFrom": 2000
   },
   {
    "source": "onthemarket",
@@ -6926,11 +6931,11 @@
    "propertyType": "Flat",
    "lat": 51.564824,
    "lon": 0.003421,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29729e2df/93123918/29729e2dfe8a91a63e1f060dce5c73f2_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29729e2df/93123918/29729e2dfe8a91a63e1f060dce5c73f2_max_476x317.jpeg",
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7bee7fa1/93123918/b7bee7fa13e86316e246c23c1f199171_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0749397ee/93123918/0749397eee56cecea2b6787628482521_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7bee7fa1/93123918/b7bee7fa13e86316e246c23c1f199171_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29729e2df/93123918/29729e2dfe8a91a63e1f060dce5c73f2_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5956852c2/93123918/5956852c2de1004977ee10e2a4c88991_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db9f9f6ca/93123918/db9f9f6cae714ddf8e9135bb586efda8_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e1172072/93123918/5e11720725d318b638de46031b6c2639_max_476x317.jpeg",
@@ -7008,11 +7013,11 @@
    "propertyType": "Flat",
    "lat": 51.56421,
    "lon": 0.0096,
-   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ec0cad10/94477815/4ec0cad104a2857fce7f9875d8e150a6_max_476x317.jpeg",
+   "image": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/074c66c0c/94477815/074c66c0c81ef648f780d19c6d84f8fd_max_476x317.jpeg",
    "images": [
-    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ec0cad10/94477815/4ec0cad104a2857fce7f9875d8e150a6_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/074c66c0c/94477815/074c66c0c81ef648f780d19c6d84f8fd_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e004446ac/94477815/e004446acf59f59e9579b659d4afd75b_max_476x317.jpeg",
+    "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ec0cad10/94477815/4ec0cad104a2857fce7f9875d8e150a6_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/724b916bc/94477815/724b916bcf360c52a5f4e076f7207835_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee0e8fe54/94477815/ee0e8fe54a2d22e8dddbefff43672f4b_max_476x317.jpeg",
     "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/753876ca1/94477815/753876ca1a963ff4b2b6ac379a4cf0e2_max_476x317.jpeg",
